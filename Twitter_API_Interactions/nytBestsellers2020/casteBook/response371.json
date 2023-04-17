@@ -1,0 +1,4352 @@
+{
+    "data": [
+        {
+            "author_id": "169014513",
+            "context_annotations": [
+                {
+                    "domain": {
+                        "description": "A taxonomy of user interests. ",
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy"
+                    },
+                    "entity": {
+                        "description": "US National News",
+                        "id": "1003932601839579136",
+                        "name": "US national news"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A taxonomy of user interests. ",
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy"
+                    },
+                    "entity": {
+                        "description": "News",
+                        "id": "1046545033657081857",
+                        "name": "News"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A taxonomy of user interests. ",
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy"
+                    },
+                    "entity": {
+                        "id": "1286379401228124160",
+                        "name": "Americas"
+                    }
+                }
+            ],
+            "conversation_id": "1325571000457547776",
+            "created_at": "2020-11-08T22:48:49.000Z",
+            "edit_history_tweet_ids": [
+                "1325571000457547776"
+            ],
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 54,
+                        "normalized_text": "America",
+                        "probability": 0.9065,
+                        "start": 48,
+                        "type": "Place"
+                    },
+                    {
+                        "end": 117,
+                        "normalized_text": "Telegu Brahmins",
+                        "probability": 0.6291,
+                        "start": 103,
+                        "type": "Other"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 15,
+                        "id": "3798713420",
+                        "start": 3,
+                        "username": "lord_curzon"
+                    }
+                ]
+            },
+            "id": "1325571000457547776",
+            "lang": "en",
+            "public_metrics": {
+                "impression_count": 0,
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 11
+            },
+            "referenced_tweets": [
+                {
+                    "id": "1325315777206095873",
+                    "type": "retweeted"
+                }
+            ],
+            "reply_settings": "everyone",
+            "text": "RT @lord_curzon: If you can get a coding job in America in the first place.\n\nIndians (mostly Tamil and Telegu Brahmins) dominate these jobs\u2026"
+        },
+        {
+            "author_id": "1646532930",
+            "conversation_id": "1325570410935689219",
+            "created_at": "2020-11-08T22:46:28.000Z",
+            "edit_history_tweet_ids": [
+                "1325570410935689219"
+            ],
+            "entities": {
+                "mentions": [
+                    {
+                        "end": 14,
+                        "id": "239900572",
+                        "start": 3,
+                        "username": "enzo_caste"
+                    }
+                ]
+            },
+            "id": "1325570410935689219",
+            "lang": "es",
+            "public_metrics": {
+                "impression_count": 0,
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 1
+            },
+            "referenced_tweets": [
+                {
+                    "id": "1325564127985737737",
+                    "type": "retweeted"
+                }
+            ],
+            "reply_settings": "everyone",
+            "text": "RT @enzo_caste: Que ganas de un buen campamento en la isla ...!!!! \ud83c\udfd5\ud83c\udfa3"
+        },
+        {
+            "author_id": "836582252",
+            "context_annotations": [
+                {
+                    "domain": {
+                        "description": "Television shows from around the world",
+                        "id": "3",
+                        "name": "TV Shows"
+                    },
+                    "entity": {
+                        "description": "All the action from Major League Soccer.",
+                        "id": "10000279589",
+                        "name": "MLS Soccer"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "Television shows from around the world",
+                        "id": "3",
+                        "name": "TV Shows"
+                    },
+                    "entity": {
+                        "id": "10029304577",
+                        "name": "MLS Soccer"
+                    }
+                },
+                {
+                    "domain": {
+                        "id": "6",
+                        "name": "Sports Event"
+                    },
+                    "entity": {
+                        "id": "1309547424759734273",
+                        "name": "Chicago vs New York City"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A sports team organization, like Arsenal and the Boston Celtics",
+                        "id": "12",
+                        "name": "Sports Team"
+                    },
+                    "entity": {
+                        "id": "731226223733411840",
+                        "name": "New York City FC"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A sports team organization, like Arsenal and the Boston Celtics",
+                        "id": "12",
+                        "name": "Sports Team"
+                    },
+                    "entity": {
+                        "id": "731226247741612032",
+                        "name": "Chicago Fire FC"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "",
+                        "id": "26",
+                        "name": "Sports League"
+                    },
+                    "entity": {
+                        "id": "731226196789223425",
+                        "name": "USA - Soccer"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "",
+                        "id": "26",
+                        "name": "Sports League"
+                    },
+                    "entity": {
+                        "id": "731226244998537216",
+                        "name": "North America - Soccer"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "",
+                        "id": "26",
+                        "name": "Sports League"
+                    },
+                    "entity": {
+                        "id": "733756531309613057",
+                        "name": "MLS"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "Real world events. ",
+                        "id": "29",
+                        "name": "Events [Entity Service]"
+                    },
+                    "entity": {
+                        "id": "1309547424759734273",
+                        "name": "Chicago vs New York City"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "Sports Event specific to Soccer matches",
+                        "id": "43",
+                        "name": "Soccer Match"
+                    },
+                    "entity": {
+                        "id": "1309547424759734273",
+                        "name": "Chicago vs New York City"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A taxonomy of user interests. ",
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy"
+                    },
+                    "entity": {
+                        "id": "731226223733411840",
+                        "name": "New York City FC"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A taxonomy of user interests. ",
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy"
+                    },
+                    "entity": {
+                        "id": "731226247741612032",
+                        "name": "Chicago Fire FC"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A taxonomy of user interests. ",
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy"
+                    },
+                    "entity": {
+                        "id": "733756536430809088",
+                        "name": "Soccer"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A taxonomy of user interests. ",
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy"
+                    },
+                    "entity": {
+                        "description": "Sports",
+                        "id": "847900493514891265",
+                        "name": "Sports"
+                    }
+                },
+                {
+                    "domain": {
+                        "id": "6",
+                        "name": "Sports Event"
+                    },
+                    "entity": {
+                        "description": "MLS Live",
+                        "id": "968598484675801088",
+                        "name": "MLS Live"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "Real world events. ",
+                        "id": "29",
+                        "name": "Events [Entity Service]"
+                    },
+                    "entity": {
+                        "description": "MLS Live",
+                        "id": "968598484675801088",
+                        "name": "MLS Live"
+                    }
+                }
+            ],
+            "conversation_id": "1325570325594202112",
+            "created_at": "2020-11-08T22:46:08.000Z",
+            "edit_history_tweet_ids": [
+                "1325570325594202112"
+            ],
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 22,
+                        "normalized_text": "TUDN",
+                        "probability": 0.5547,
+                        "start": 19,
+                        "type": "Other"
+                    },
+                    {
+                        "end": 28,
+                        "normalized_text": "WFAN",
+                        "probability": 0.5585,
+                        "start": 25,
+                        "type": "Organization"
+                    }
+                ],
+                "hashtags": [
+                    {
+                        "end": 23,
+                        "start": 18,
+                        "tag": "TUDN"
+                    },
+                    {
+                        "end": 29,
+                        "start": 24,
+                        "tag": "WFAN"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 42,
+                        "id": "21677316",
+                        "start": 30,
+                        "username": "ChicagoFire"
+                    },
+                    {
+                        "end": 54,
+                        "id": "1415791555",
+                        "start": 48,
+                        "username": "NYCFC"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "cun245.blogspot.com/2020/11/tudn-w\u2026",
+                        "end": 95,
+                        "expanded_url": "https://cun245.blogspot.com/2020/11/tudn-wfan-chicagofire-3-4-nycfc-80-m.html?spref=tw",
+                        "start": 72,
+                        "url": "https://t.co/8Py8k8JQyJ"
+                    }
+                ]
+            },
+            "id": "1325570325594202112",
+            "lang": "en",
+            "public_metrics": {
+                "impression_count": 0,
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "reply_settings": "everyone",
+            "text": "SPORTS And More : #TUDN #WFAN @ChicagoFire  3-4 @NYCFC  Final  Caste... https://t.co/8Py8k8JQyJ"
+        },
+        {
+            "author_id": "3376627587",
+            "conversation_id": "1325570026838089728",
+            "created_at": "2020-11-08T22:44:56.000Z",
+            "edit_history_tweet_ids": [
+                "1325570026838089728"
+            ],
+            "id": "1325570026838089728",
+            "lang": "fr",
+            "public_metrics": {
+                "impression_count": 0,
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 41
+            },
+            "referenced_tweets": [
+                {
+                    "id": "1325555711292678145",
+                    "type": "retweeted"
+                }
+            ],
+            "reply_settings": "everyone",
+            "text": "RT @LamineNdiay11: Chez moi c'est le S\u00e9n\u00e9gal. \nAu S\u00e9n\u00e9gal, il y a une caste de politiciens sans principe. Ils ont pris en otage le pays ; s\u2026"
+        },
+        {
+            "author_id": "1063456062827913217",
+            "conversation_id": "1325569984517566465",
+            "created_at": "2020-11-08T22:44:46.000Z",
+            "edit_history_tweet_ids": [
+                "1325569984517566465"
+            ],
+            "entities": {
+                "hashtags": [
+                    {
+                        "end": 80,
+                        "start": 70,
+                        "tag": "lallieva3"
+                    }
+                ]
+            },
+            "id": "1325569984517566465",
+            "lang": "it",
+            "public_metrics": {
+                "impression_count": 0,
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 2
+            },
+            "referenced_tweets": [
+                {
+                    "id": "1325569098286239744",
+                    "type": "retweeted"
+                }
+            ],
+            "reply_settings": "everyone",
+            "text": "RT @caste_stella: C'\u00e8 chi in questo momento sta piangendo e chi mente #lallieva3"
+        },
+        {
+            "author_id": "330082856",
+            "conversation_id": "1325569867181854721",
+            "created_at": "2020-11-08T22:44:18.000Z",
+            "edit_history_tweet_ids": [
+                "1325569867181854721"
+            ],
+            "id": "1325569867181854721",
+            "lang": "en",
+            "public_metrics": {
+                "impression_count": 0,
+                "like_count": 1,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "reply_settings": "everyone",
+            "text": "As I ease into this sociocultural caste, I'm finding that Academic celebrities/Public facing Academy Personalities &amp; Brands seem to be more of an acting gig than I thought for some folks.\n\nThis transition might be tough for a high-integrity warrior caste individual. We'll see."
+        },
+        {
+            "author_id": "831680316280561664",
+            "conversation_id": "1325569837322670080",
+            "created_at": "2020-11-08T22:44:11.000Z",
+            "edit_history_tweet_ids": [
+                "1325569837322670080"
+            ],
+            "entities": {
+                "hashtags": [
+                    {
+                        "end": 40,
+                        "start": 34,
+                        "tag": "Messe"
+                    },
+                    {
+                        "end": 77,
+                        "start": 61,
+                        "tag": "VendeeGlobe2020"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 16,
+                        "id": "1949069192",
+                        "start": 3,
+                        "username": "PhdeVilliers"
+                    }
+                ]
+            },
+            "id": "1325569837322670080",
+            "lang": "fr",
+            "public_metrics": {
+                "impression_count": 0,
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 1250
+            },
+            "referenced_tweets": [
+                {
+                    "id": "1325369599945289728",
+                    "type": "retweeted"
+                }
+            ],
+            "reply_settings": "everyone",
+            "text": "RT @PhdeVilliers: Ce dimanche, la #Messe est interdite et le #VendeeGlobe2020, si cher \u00e0 mon coeur, est priv\u00e9 de public. La caste mondialis\u2026"
+        },
+        {
+            "author_id": "1024310870069915650",
+            "conversation_id": "1325569763209220096",
+            "created_at": "2020-11-08T22:43:54.000Z",
+            "edit_history_tweet_ids": [
+                "1325569763209220096"
+            ],
+            "entities": {
+                "hashtags": [
+                    {
+                        "end": 40,
+                        "start": 34,
+                        "tag": "Messe"
+                    },
+                    {
+                        "end": 77,
+                        "start": 61,
+                        "tag": "VendeeGlobe2020"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 16,
+                        "id": "1949069192",
+                        "start": 3,
+                        "username": "PhdeVilliers"
+                    }
+                ]
+            },
+            "id": "1325569763209220096",
+            "lang": "fr",
+            "public_metrics": {
+                "impression_count": 0,
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 1250
+            },
+            "referenced_tweets": [
+                {
+                    "id": "1325369599945289728",
+                    "type": "retweeted"
+                }
+            ],
+            "reply_settings": "everyone",
+            "text": "RT @PhdeVilliers: Ce dimanche, la #Messe est interdite et le #VendeeGlobe2020, si cher \u00e0 mon coeur, est priv\u00e9 de public. La caste mondialis\u2026"
+        },
+        {
+            "author_id": "24854898",
+            "conversation_id": "1325518089446969350",
+            "created_at": "2020-11-08T22:43:36.000Z",
+            "edit_history_tweet_ids": [
+                "1325569689142128640"
+            ],
+            "id": "1325569689142128640",
+            "in_reply_to_user_id": "24854898",
+            "lang": "en",
+            "public_metrics": {
+                "impression_count": 0,
+                "like_count": 104,
+                "quote_count": 1,
+                "reply_count": 0,
+                "retweet_count": 5
+            },
+            "referenced_tweets": [
+                {
+                    "id": "1325523782447017984",
+                    "type": "replied_to"
+                }
+            ],
+            "reply_settings": "everyone",
+            "text": "Should clarify: this is apolitical \u201cDesiness\u201d is rooted in the very upper crust. Can\u2019t divorce the role class (&amp; caste) plays here - unfortunately it\u2019s those who hold the power of capital in our communities who get to dictate the public facing narrative &amp; politics."
+        },
+        {
+            "author_id": "785753317",
+            "conversation_id": "1325568452145373185",
+            "created_at": "2020-11-08T22:42:36.000Z",
+            "edit_history_tweet_ids": [
+                "1325569439534886913"
+            ],
+            "id": "1325569439534886913",
+            "in_reply_to_user_id": "785753317",
+            "lang": "en",
+            "public_metrics": {
+                "impression_count": 0,
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "referenced_tweets": [
+                {
+                    "id": "1325568452145373185",
+                    "type": "replied_to"
+                }
+            ],
+            "reply_settings": "everyone",
+            "text": "I GUESS I SHOULD SPECIFY OUTFIT IDEAS FOR MY SONA CASTE***"
+        },
+        {
+            "author_id": "1231516373681045516",
+            "conversation_id": "1325569244608671746",
+            "created_at": "2020-11-08T22:41:50.000Z",
+            "edit_history_tweet_ids": [
+                "1325569244608671746"
+            ],
+            "entities": {
+                "mentions": [
+                    {
+                        "end": 15,
+                        "id": "1731129494",
+                        "start": 3,
+                        "username": "News18Bihar"
+                    }
+                ]
+            },
+            "id": "1325569244608671746",
+            "lang": "hi",
+            "public_metrics": {
+                "impression_count": 0,
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 5
+            },
+            "referenced_tweets": [
+                {
+                    "id": "1325253773770584064",
+                    "type": "retweeted"
+                }
+            ],
+            "reply_settings": "everyone",
+            "text": "RT @News18Bihar: \u092c\u093f\u0939\u093e\u0930 \u0935\u093f\u0927\u093e\u0928\u0938\u092d\u093e \u091a\u0941\u0928\u093e\u0935 \u0915\u0947 \u090f\u0917\u094d\u091c\u093f\u091f \u092a\u094b\u0932 \u092e\u0947\u0902 \u0905\u0927\u093f\u0915\u0924\u0930 \u0928\u094d\u092f\u0942\u091c \u091a\u0948\u0928\u0932\u094d\u0938 \u092e\u0939\u093e\u0917\u0920\u092c\u0902\u0927\u0928 \u0915\u0940 \u0938\u0930\u0915\u093e\u0930 \u092c\u0928\u0928\u0947 \u0915\u093e \u0926\u093e\u0935\u093e \u0915\u0930 \u0930\u0939\u0947 \u0939\u0948\u0902,\nhttps://t.co/yLMhLT\u2026"
+        },
+        {
+            "author_id": "354263877",
+            "conversation_id": "1325569229991661569",
+            "created_at": "2020-11-08T22:41:46.000Z",
+            "edit_history_tweet_ids": [
+                "1325569229991661569"
+            ],
+            "entities": {
+                "hashtags": [
+                    {
+                        "end": 80,
+                        "start": 70,
+                        "tag": "lallieva3"
+                    }
+                ]
+            },
+            "id": "1325569229991661569",
+            "lang": "it",
+            "public_metrics": {
+                "impression_count": 0,
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 2
+            },
+            "referenced_tweets": [
+                {
+                    "id": "1325569098286239744",
+                    "type": "retweeted"
+                }
+            ],
+            "reply_settings": "everyone",
+            "text": "RT @caste_stella: C'\u00e8 chi in questo momento sta piangendo e chi mente #lallieva3"
+        },
+        {
+            "author_id": "528743218",
+            "conversation_id": "1325569149741961216",
+            "created_at": "2020-11-08T22:41:27.000Z",
+            "edit_history_tweet_ids": [
+                "1325569149741961216"
+            ],
+            "entities": {
+                "hashtags": [
+                    {
+                        "end": 40,
+                        "start": 34,
+                        "tag": "Messe"
+                    },
+                    {
+                        "end": 77,
+                        "start": 61,
+                        "tag": "VendeeGlobe2020"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 16,
+                        "id": "1949069192",
+                        "start": 3,
+                        "username": "PhdeVilliers"
+                    }
+                ]
+            },
+            "id": "1325569149741961216",
+            "lang": "fr",
+            "public_metrics": {
+                "impression_count": 0,
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 1250
+            },
+            "referenced_tweets": [
+                {
+                    "id": "1325369599945289728",
+                    "type": "retweeted"
+                }
+            ],
+            "reply_settings": "everyone",
+            "text": "RT @PhdeVilliers: Ce dimanche, la #Messe est interdite et le #VendeeGlobe2020, si cher \u00e0 mon coeur, est priv\u00e9 de public. La caste mondialis\u2026"
+        },
+        {
+            "author_id": "1300019026043731968",
+            "context_annotations": [
+                {
+                    "domain": {
+                        "description": "A genre for books, like Fiction",
+                        "id": "85",
+                        "name": "Book Genre"
+                    },
+                    "entity": {
+                        "description": "Comics",
+                        "id": "847521144173350912",
+                        "name": "Comics"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A taxonomy of user interests. ",
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy"
+                    },
+                    "entity": {
+                        "description": "Comics",
+                        "id": "847521144173350912",
+                        "name": "Comics"
+                    }
+                }
+            ],
+            "conversation_id": "1325568977389674502",
+            "created_at": "2020-11-08T22:40:46.000Z",
+            "edit_history_tweet_ids": [
+                "1325568977389674502"
+            ],
+            "entities": {
+                "mentions": [
+                    {
+                        "end": 11,
+                        "id": "360019007",
+                        "start": 0,
+                        "username": "jmblanquer"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "twitter.com/AnitaRama12/st\u2026",
+                        "end": 220,
+                        "expanded_url": "https://twitter.com/AnitaRama12/status/1325195202680647680",
+                        "start": 197,
+                        "url": "https://t.co/yL5kxJ2X0W"
+                    }
+                ]
+            },
+            "id": "1325568977389674502",
+            "in_reply_to_user_id": "360019007",
+            "lang": "fr",
+            "public_metrics": {
+                "impression_count": 0,
+                "like_count": 1,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "referenced_tweets": [
+                {
+                    "id": "1325195202680647680",
+                    "type": "quoted"
+                }
+            ],
+            "reply_settings": "everyone",
+            "text": "@jmblanquer quand on fait une BD de lui il la censure tranquille pour lui et cette caste d d'extr\u00e9miste qui gouvernent la France tu peux chier sur les musulmans la libert\u00e9 d expression s arrete la https://t.co/yL5kxJ2X0W"
+        },
+        {
+            "author_id": "996374461",
+            "context_annotations": [
+                {
+                    "domain": {
+                        "description": "Real world events. ",
+                        "id": "29",
+                        "name": "Events [Entity Service]"
+                    },
+                    "entity": {
+                        "description": "2020 US Presidential Election",
+                        "id": "1029453725360775168",
+                        "name": "2020 US Presidential Election"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A taxonomy of user interests. ",
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy"
+                    },
+                    "entity": {
+                        "description": "2020 US Presidential Election",
+                        "id": "1029453725360775168",
+                        "name": "2020 US Presidential Election"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "Named people in the world like Nelson Mandela",
+                        "id": "10",
+                        "name": "Person"
+                    },
+                    "entity": {
+                        "description": "Former US President Barack Obama",
+                        "id": "10038764303",
+                        "name": "Barack Obama"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "Named people in the world like Nelson Mandela",
+                        "id": "10",
+                        "name": "Person"
+                    },
+                    "entity": {
+                        "description": "US President Joe Biden",
+                        "id": "10040395078",
+                        "name": "Joe Biden"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "Named people in the world like Nelson Mandela",
+                        "id": "10",
+                        "name": "Person"
+                    },
+                    "entity": {
+                        "description": "Former US President Bill Clinton",
+                        "id": "806569269513199616",
+                        "name": "Bill Clinton"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "Politicians in the world, like Joe Biden",
+                        "id": "35",
+                        "name": "Politician"
+                    },
+                    "entity": {
+                        "description": "Former US President Barack Obama",
+                        "id": "10038764303",
+                        "name": "Barack Obama"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "Politicians in the world, like Joe Biden",
+                        "id": "35",
+                        "name": "Politician"
+                    },
+                    "entity": {
+                        "description": "US President Joe Biden",
+                        "id": "10040395078",
+                        "name": "Joe Biden"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "Politicians in the world, like Joe Biden",
+                        "id": "35",
+                        "name": "Politician"
+                    },
+                    "entity": {
+                        "description": "Former US President Bill Clinton",
+                        "id": "806569269513199616",
+                        "name": "Bill Clinton"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A taxonomy of user interests. ",
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy"
+                    },
+                    "entity": {
+                        "description": "Former US President Barack Obama",
+                        "id": "10038764303",
+                        "name": "Barack Obama"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A taxonomy of user interests. ",
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy"
+                    },
+                    "entity": {
+                        "description": "US President Joe Biden",
+                        "id": "10040395078",
+                        "name": "Joe Biden"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A taxonomy of user interests. ",
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy"
+                    },
+                    "entity": {
+                        "description": "Former US President Bill Clinton",
+                        "id": "806569269513199616",
+                        "name": "Bill Clinton"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A taxonomy of user interests. ",
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy"
+                    },
+                    "entity": {
+                        "description": "Politics",
+                        "id": "847878884917886977",
+                        "name": "Politics"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A taxonomy of user interests. ",
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy"
+                    },
+                    "entity": {
+                        "description": "Politician",
+                        "id": "1070032753834438656",
+                        "name": "Political figures"
+                    }
+                }
+            ],
+            "conversation_id": "1325568778302861313",
+            "created_at": "2020-11-08T22:39:59.000Z",
+            "edit_history_tweet_ids": [
+                "1325568778302861313"
+            ],
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 49,
+                        "normalized_text": "LBJ",
+                        "probability": 0.6244,
+                        "start": 47,
+                        "type": "Person"
+                    },
+                    {
+                        "end": 183,
+                        "normalized_text": "jimmy carter",
+                        "probability": 0.8757,
+                        "start": 172,
+                        "type": "Person"
+                    },
+                    {
+                        "end": 201,
+                        "normalized_text": "bill clinton",
+                        "probability": 0.8987,
+                        "start": 190,
+                        "type": "Person"
+                    },
+                    {
+                        "end": 212,
+                        "normalized_text": "obama",
+                        "probability": 0.5786,
+                        "start": 208,
+                        "type": "Person"
+                    },
+                    {
+                        "end": 223,
+                        "normalized_text": "biden",
+                        "probability": 0.6979,
+                        "start": 219,
+                        "type": "Person"
+                    },
+                    {
+                        "end": 232,
+                        "normalized_text": "Caste",
+                        "probability": 0.6948,
+                        "start": 228,
+                        "type": "Person"
+                    },
+                    {
+                        "end": 251,
+                        "normalized_text": "Isabel Wilkerson",
+                        "probability": 0.9612,
+                        "start": 236,
+                        "type": "Person"
+                    }
+                ]
+            },
+            "id": "1325568778302861313",
+            "lang": "en",
+            "public_metrics": {
+                "impression_count": 0,
+                "like_count": 8,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 1
+            },
+            "reply_settings": "everyone",
+            "text": "Since the passage of the civil rights act by a LBJ (a Democrat), no Democrat running for president has //ever// won a majority of the white vote in this country. Zero. Not jimmy carter, not bill clinton, not obama, not biden. (\"Caste\", Isabel Wilkerson)"
+        },
+        {
+            "author_id": "3172253015",
+            "conversation_id": "1325568725832110082",
+            "created_at": "2020-11-08T22:39:46.000Z",
+            "edit_history_tweet_ids": [
+                "1325568725832110082"
+            ],
+            "entities": {
+                "mentions": [
+                    {
+                        "end": 19,
+                        "id": "2613437714",
+                        "start": 3,
+                        "username": "_AshtavakraGita"
+                    }
+                ]
+            },
+            "id": "1325568725832110082",
+            "lang": "en",
+            "public_metrics": {
+                "impression_count": 0,
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 4
+            },
+            "referenced_tweets": [
+                {
+                    "id": "1325547881890152448",
+                    "type": "retweeted"
+                }
+            ],
+            "reply_settings": "everyone",
+            "text": "RT @_AshtavakraGita: You have no caste.\nNo duties bind you.\n\nFormless and free,\nBeyond the reach of the senses,\nThe witness of all things.\u2026"
+        },
+        {
+            "author_id": "324325632",
+            "conversation_id": "1325568558861049862",
+            "created_at": "2020-11-08T22:39:06.000Z",
+            "edit_history_tweet_ids": [
+                "1325568558861049862"
+            ],
+            "entities": {
+                "mentions": [
+                    {
+                        "end": 14,
+                        "id": "990338917823107079",
+                        "start": 3,
+                        "username": "IyaKachidi"
+                    }
+                ]
+            },
+            "id": "1325568558861049862",
+            "lang": "en",
+            "public_metrics": {
+                "impression_count": 0,
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 3
+            },
+            "referenced_tweets": [
+                {
+                    "id": "1325487563155644417",
+                    "type": "retweeted"
+                }
+            ],
+            "reply_settings": "everyone",
+            "text": "RT @IyaKachidi: I think this particular set of people believe in caste system. Like they don't believe they can upgrade their social class\u2026"
+        },
+        {
+            "author_id": "894431867428057088",
+            "conversation_id": "1325568558609346562",
+            "created_at": "2020-11-08T22:39:06.000Z",
+            "edit_history_tweet_ids": [
+                "1325568558609346562"
+            ],
+            "entities": {
+                "mentions": [
+                    {
+                        "end": 16,
+                        "id": "715979593090359296",
+                        "start": 3,
+                        "username": "LokiJulianus"
+                    }
+                ]
+            },
+            "id": "1325568558609346562",
+            "lang": "en",
+            "public_metrics": {
+                "impression_count": 0,
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 95
+            },
+            "referenced_tweets": [
+                {
+                    "id": "1325510974749757457",
+                    "type": "retweeted"
+                }
+            ],
+            "reply_settings": "everyone",
+            "text": "RT @LokiJulianus: People who are like \"just give up\" have no idea how far you can take this stuff. This is what happens when your media cas\u2026"
+        },
+        {
+            "author_id": "1029787522350702597",
+            "conversation_id": "1325552117323534338",
+            "created_at": "2020-11-08T22:38:12.000Z",
+            "edit_history_tweet_ids": [
+                "1325568328845422592"
+            ],
+            "entities": {
+                "mentions": [
+                    {
+                        "end": 10,
+                        "id": "1217419546669264896",
+                        "start": 0,
+                        "username": "caste_luu"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "pic.twitter.com/4OjunydRy5",
+                        "end": 34,
+                        "expanded_url": "https://twitter.com/dannmgf/status/1325568328845422592/photo/1",
+                        "media_key": "16_1325568321501220871",
+                        "start": 11,
+                        "url": "https://t.co/4OjunydRy5"
+                    }
+                ]
+            },
+            "id": "1325568328845422592",
+            "in_reply_to_user_id": "1217419546669264896",
+            "lang": "qme",
+            "public_metrics": {
+                "impression_count": 0,
+                "like_count": 1,
+                "quote_count": 1,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "referenced_tweets": [
+                {
+                    "id": "1325552117323534338",
+                    "type": "replied_to"
+                }
+            ],
+            "reply_settings": "everyone",
+            "text": "@caste_luu https://t.co/4OjunydRy5"
+        },
+        {
+            "author_id": "284257957",
+            "conversation_id": "1325568100108963840",
+            "created_at": "2020-11-08T22:37:17.000Z",
+            "edit_history_tweet_ids": [
+                "1325568100108963840"
+            ],
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 117,
+                        "normalized_text": "Caste",
+                        "probability": 0.8564,
+                        "start": 113,
+                        "type": "Other"
+                    },
+                    {
+                        "end": 138,
+                        "normalized_text": "Isabelle Wilkerso",
+                        "probability": 0.9535,
+                        "start": 122,
+                        "type": "Person"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 17,
+                        "id": "1666424744",
+                        "start": 3,
+                        "username": "MariahLanders"
+                    }
+                ]
+            },
+            "id": "1325568100108963840",
+            "lang": "en",
+            "public_metrics": {
+                "impression_count": 0,
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 1
+            },
+            "referenced_tweets": [
+                {
+                    "id": "1325513001345056768",
+                    "type": "retweeted"
+                }
+            ],
+            "reply_settings": "everyone",
+            "text": "RT @MariahLanders: The emotional hangover this morning is intense. Hope you\u2019re going easy today. Am recommending Caste by Isabelle Wilkerso\u2026"
+        },
+        {
+            "author_id": "1291435752488755200",
+            "conversation_id": "1325567953182494720",
+            "created_at": "2020-11-08T22:36:42.000Z",
+            "edit_history_tweet_ids": [
+                "1325567953182494720"
+            ],
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 39,
+                        "normalized_text": "JusticeForAishwarya",
+                        "probability": 0.8455,
+                        "start": 21,
+                        "type": "Person"
+                    },
+                    {
+                        "end": 49,
+                        "normalized_text": "Aishwarya",
+                        "probability": 0.563,
+                        "start": 41,
+                        "type": "Person"
+                    }
+                ],
+                "hashtags": [
+                    {
+                        "end": 40,
+                        "start": 20,
+                        "tag": "JusticeForAishwarya"
+                    }
+                ]
+            },
+            "id": "1325567953182494720",
+            "lang": "en",
+            "public_metrics": {
+                "impression_count": 0,
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 17
+            },
+            "referenced_tweets": [
+                {
+                    "id": "1325499905264087040",
+                    "type": "retweeted"
+                }
+            ],
+            "reply_settings": "everyone",
+            "text": "RT @Maryam89505608: #JusticeForAishwarya\nAishwarya was a topper studying in lsr..she committed suicide she was under severe depression coz\u2026"
+        },
+        {
+            "author_id": "4789548912",
+            "conversation_id": "1325567869606834177",
+            "created_at": "2020-11-08T22:36:22.000Z",
+            "edit_history_tweet_ids": [
+                "1325567869606834177"
+            ],
+            "entities": {
+                "mentions": [
+                    {
+                        "end": 16,
+                        "id": "715979593090359296",
+                        "start": 3,
+                        "username": "LokiJulianus"
+                    }
+                ]
+            },
+            "id": "1325567869606834177",
+            "lang": "en",
+            "public_metrics": {
+                "impression_count": 0,
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 95
+            },
+            "referenced_tweets": [
+                {
+                    "id": "1325510974749757457",
+                    "type": "retweeted"
+                }
+            ],
+            "reply_settings": "everyone",
+            "text": "RT @LokiJulianus: People who are like \"just give up\" have no idea how far you can take this stuff. This is what happens when your media cas\u2026"
+        },
+        {
+            "author_id": "1300893872",
+            "conversation_id": "1325567721870938113",
+            "created_at": "2020-11-08T22:35:47.000Z",
+            "edit_history_tweet_ids": [
+                "1325567721870938113"
+            ],
+            "entities": {
+                "hashtags": [
+                    {
+                        "end": 40,
+                        "start": 34,
+                        "tag": "Messe"
+                    },
+                    {
+                        "end": 77,
+                        "start": 61,
+                        "tag": "VendeeGlobe2020"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 16,
+                        "id": "1949069192",
+                        "start": 3,
+                        "username": "PhdeVilliers"
+                    }
+                ]
+            },
+            "id": "1325567721870938113",
+            "lang": "fr",
+            "public_metrics": {
+                "impression_count": 0,
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 1250
+            },
+            "referenced_tweets": [
+                {
+                    "id": "1325369599945289728",
+                    "type": "retweeted"
+                }
+            ],
+            "reply_settings": "everyone",
+            "text": "RT @PhdeVilliers: Ce dimanche, la #Messe est interdite et le #VendeeGlobe2020, si cher \u00e0 mon coeur, est priv\u00e9 de public. La caste mondialis\u2026"
+        },
+        {
+            "author_id": "908395395004461058",
+            "conversation_id": "1325567540718919687",
+            "created_at": "2020-11-08T22:35:04.000Z",
+            "edit_history_tweet_ids": [
+                "1325567540718919687"
+            ],
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 56,
+                        "normalized_text": "Caste",
+                        "probability": 0.8473,
+                        "start": 52,
+                        "type": "Other"
+                    },
+                    {
+                        "end": 77,
+                        "normalized_text": "Isabel Wilkerson",
+                        "probability": 0.9773,
+                        "start": 62,
+                        "type": "Person"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 16,
+                        "id": "209693451",
+                        "start": 3,
+                        "username": "Steve_Sailer"
+                    }
+                ]
+            },
+            "id": "1325567540718919687",
+            "lang": "en",
+            "public_metrics": {
+                "impression_count": 0,
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 10
+            },
+            "referenced_tweets": [
+                {
+                    "id": "1311253890659241984",
+                    "type": "retweeted"
+                }
+            ],
+            "reply_settings": "everyone",
+            "text": "RT @Steve_Sailer: The critically-lauded bestseller \"Caste\" by Isabel Wilkerson asks: What if success correlated not with skin color but wit\u2026"
+        },
+        {
+            "author_id": "822500307716468737",
+            "conversation_id": "1325567197108989952",
+            "created_at": "2020-11-08T22:33:42.000Z",
+            "edit_history_tweet_ids": [
+                "1325567197108989952"
+            ],
+            "id": "1325567197108989952",
+            "lang": "fr",
+            "public_metrics": {
+                "impression_count": 0,
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 41
+            },
+            "referenced_tweets": [
+                {
+                    "id": "1325555711292678145",
+                    "type": "retweeted"
+                }
+            ],
+            "reply_settings": "everyone",
+            "text": "RT @LamineNdiay11: Chez moi c'est le S\u00e9n\u00e9gal. \nAu S\u00e9n\u00e9gal, il y a une caste de politiciens sans principe. Ils ont pris en otage le pays ; s\u2026"
+        },
+        {
+            "author_id": "100922151",
+            "context_annotations": [
+                {
+                    "domain": {
+                        "description": "Named people in the world like Nelson Mandela",
+                        "id": "10",
+                        "name": "Person"
+                    },
+                    "entity": {
+                        "description": "US Senator Kamala Harris (CA)",
+                        "id": "875006493984149509",
+                        "name": "Kamala Harris"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "Politicians in the world, like Joe Biden",
+                        "id": "35",
+                        "name": "Politician"
+                    },
+                    "entity": {
+                        "description": "US Senator Kamala Harris (CA)",
+                        "id": "875006493984149509",
+                        "name": "Kamala Harris"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A taxonomy of user interests. ",
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy"
+                    },
+                    "entity": {
+                        "description": "Politics",
+                        "id": "847878884917886977",
+                        "name": "Politics"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A taxonomy of user interests. ",
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy"
+                    },
+                    "entity": {
+                        "description": "US Senator Kamala Harris (CA)",
+                        "id": "875006493984149509",
+                        "name": "Kamala Harris"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A taxonomy of user interests. ",
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy"
+                    },
+                    "entity": {
+                        "description": "US National News",
+                        "id": "1003932601839579136",
+                        "name": "US national news"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A taxonomy of user interests. ",
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy"
+                    },
+                    "entity": {
+                        "description": "News",
+                        "id": "1046545033657081857",
+                        "name": "News"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A taxonomy of user interests. ",
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy"
+                    },
+                    "entity": {
+                        "description": "Politician",
+                        "id": "1070032753834438656",
+                        "name": "Political figures"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A taxonomy of user interests. ",
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy"
+                    },
+                    "entity": {
+                        "id": "1286379401228124160",
+                        "name": "Americas"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "Named people in the world like Nelson Mandela",
+                        "id": "10",
+                        "name": "Person"
+                    },
+                    "entity": {
+                        "description": "US President Joe Biden",
+                        "id": "10040395078",
+                        "name": "Joe Biden"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "Politicians in the world, like Joe Biden",
+                        "id": "35",
+                        "name": "Politician"
+                    },
+                    "entity": {
+                        "description": "US President Joe Biden",
+                        "id": "10040395078",
+                        "name": "Joe Biden"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "News Categories like Entertainment or Technology",
+                        "id": "69",
+                        "name": "News Vertical"
+                    },
+                    "entity": {
+                        "description": "Political News",
+                        "id": "840159122012102656",
+                        "name": "Political News"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A taxonomy of user interests. ",
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy"
+                    },
+                    "entity": {
+                        "description": "US President Joe Biden",
+                        "id": "10040395078",
+                        "name": "Joe Biden"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A taxonomy of user interests. ",
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy"
+                    },
+                    "entity": {
+                        "description": "Politics",
+                        "id": "847878884917886977",
+                        "name": "Politics"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A taxonomy of user interests. ",
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy"
+                    },
+                    "entity": {
+                        "description": "Political issues",
+                        "id": "900740740468191232",
+                        "name": "Political issues"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A taxonomy of user interests. ",
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy"
+                    },
+                    "entity": {
+                        "description": "Conversation about President Trump's Tax Reform plan",
+                        "id": "913452023000866816",
+                        "name": "United States Tax Reform"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A taxonomy of user interests. ",
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy"
+                    },
+                    "entity": {
+                        "description": "Politician",
+                        "id": "1070032753834438656",
+                        "name": "Political figures"
+                    }
+                }
+            ],
+            "conversation_id": "1325566977025339393",
+            "created_at": "2020-11-08T22:32:49.000Z",
+            "edit_history_tweet_ids": [
+                "1325566977025339393"
+            ],
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 77,
+                        "normalized_text": "America",
+                        "probability": 0.9596,
+                        "start": 71,
+                        "type": "Place"
+                    },
+                    {
+                        "end": 120,
+                        "normalized_text": "Silicon Valley",
+                        "probability": 0.9254,
+                        "start": 107,
+                        "type": "Place"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "washingtonpost.com/technology/202\u2026",
+                        "end": 155,
+                        "expanded_url": "https://www.washingtonpost.com/technology/2020/10/27/indian-caste-bias-silicon-valley/",
+                        "start": 132,
+                        "url": "https://t.co/TcKmXiy0fN"
+                    },
+                    {
+                        "display_url": "twitter.com/tariqnasheed/s\u2026",
+                        "end": 179,
+                        "expanded_url": "https://twitter.com/tariqnasheed/status/1325550796444889089",
+                        "start": 156,
+                        "url": "https://t.co/aOXyQdoGab"
+                    }
+                ]
+            },
+            "id": "1325566977025339393",
+            "lang": "en",
+            "public_metrics": {
+                "impression_count": 0,
+                "like_count": 0,
+                "quote_count": 1,
+                "reply_count": 2,
+                "retweet_count": 0
+            },
+            "referenced_tweets": [
+                {
+                    "id": "1325550796444889089",
+                    "type": "quoted"
+                }
+            ],
+            "reply_settings": "everyone",
+            "text": "Indians also bring their discriminatory caste system when they come to America -- as evidenced by a recent Silicon Valley lawsuit.\n\nhttps://t.co/TcKmXiy0fN https://t.co/aOXyQdoGab"
+        },
+        {
+            "author_id": "342357470",
+            "context_annotations": [
+                {
+                    "domain": {
+                        "description": "A genre for books, like Fiction",
+                        "id": "85",
+                        "name": "Book Genre"
+                    },
+                    "entity": {
+                        "description": "Comics",
+                        "id": "847521144173350912",
+                        "name": "Comics"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A taxonomy of user interests. ",
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy"
+                    },
+                    "entity": {
+                        "description": "Comics",
+                        "id": "847521144173350912",
+                        "name": "Comics"
+                    }
+                }
+            ],
+            "conversation_id": "1325566401671794690",
+            "created_at": "2020-11-08T22:30:32.000Z",
+            "edit_history_tweet_ids": [
+                "1325566401671794690"
+            ],
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 38,
+                        "normalized_text": "Shattered Glass",
+                        "probability": 0.9525,
+                        "start": 24,
+                        "type": "Other"
+                    },
+                    {
+                        "end": 119,
+                        "normalized_text": "IDW",
+                        "probability": 0.7704,
+                        "start": 117,
+                        "type": "Other"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "twitter.com/doomspoon888/s\u2026",
+                        "end": 291,
+                        "expanded_url": "https://twitter.com/doomspoon888/status/1325564411189235712",
+                        "start": 268,
+                        "url": "https://t.co/VqMvXWxUbF"
+                    }
+                ]
+            },
+            "id": "1325566401671794690",
+            "lang": "en",
+            "public_metrics": {
+                "impression_count": 0,
+                "like_count": 2,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "referenced_tweets": [
+                {
+                    "id": "1325564411189235712",
+                    "type": "quoted"
+                }
+            ],
+            "reply_settings": "everyone",
+            "text": "Yeah. How about doing a Shattered Glass series? Or maybe stop ignoring all the interesting concepts that were in the IDW comics that have yet to make it into any of the shows like the Functionists, the state sponsored lobotomies, the caste system...I could keep going https://t.co/VqMvXWxUbF"
+        },
+        {
+            "author_id": "19880449",
+            "context_annotations": [
+                {
+                    "domain": {
+                        "description": "Top level entities that describe a Brands industry",
+                        "id": "45",
+                        "name": "Brand Vertical"
+                    },
+                    "entity": {
+                        "id": "781974597310615553",
+                        "name": "Entertainment"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+                        "id": "30",
+                        "name": "Entities [Entity Service]"
+                    },
+                    "entity": {
+                        "id": "781974597105094656",
+                        "name": "TV/Movies Related - Entertainment"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "Brands and Companies",
+                        "id": "47",
+                        "name": "Brand"
+                    },
+                    "entity": {
+                        "description": "BBC",
+                        "id": "1065659570578612224",
+                        "name": "BBC"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A taxonomy of user interests. ",
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy"
+                    },
+                    "entity": {
+                        "description": "News",
+                        "id": "1046545033657081857",
+                        "name": "News"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A taxonomy of user interests. ",
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy"
+                    },
+                    "entity": {
+                        "description": "BBC",
+                        "id": "1065659570578612224",
+                        "name": "BBC"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A taxonomy of user interests. ",
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy"
+                    },
+                    "entity": {
+                        "id": "1196447117297905665",
+                        "name": "News outlets"
+                    }
+                }
+            ],
+            "conversation_id": "1325449339003658241",
+            "created_at": "2020-11-08T22:29:35.000Z",
+            "edit_history_tweet_ids": [
+                "1325566161686294529"
+            ],
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 31,
+                        "normalized_text": "India",
+                        "probability": 0.9541,
+                        "start": 27,
+                        "type": "Place"
+                    },
+                    {
+                        "end": 69,
+                        "normalized_text": "DARK",
+                        "probability": 0.5416,
+                        "start": 66,
+                        "type": "Other"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 16,
+                        "id": "786764",
+                        "start": 0,
+                        "username": "bbcworldservice"
+                    }
+                ]
+            },
+            "id": "1325566161686294529",
+            "in_reply_to_user_id": "786764",
+            "lang": "en",
+            "public_metrics": {
+                "impression_count": 0,
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "referenced_tweets": [
+                {
+                    "id": "1325449339003658241",
+                    "type": "replied_to"
+                }
+            ],
+            "reply_settings": "everyone",
+            "text": "@bbcworldservice Meanwhile India has a caste system that excludes DARK Indians from freedoms the Lighter Indians enjoy"
+        },
+        {
+            "author_id": "1212390873477988352",
+            "conversation_id": "1324283425881292801",
+            "created_at": "2020-11-08T22:28:56.000Z",
+            "edit_history_tweet_ids": [
+                "1325565997022146567"
+            ],
+            "entities": {
+                "mentions": [
+                    {
+                        "end": 15,
+                        "id": "1868150400",
+                        "start": 0,
+                        "username": "Lena_Caste_Cam"
+                    },
+                    {
+                        "end": 29,
+                        "id": "3018165370",
+                        "start": 16,
+                        "username": "rosadiezglez"
+                    }
+                ]
+            },
+            "id": "1325565997022146567",
+            "in_reply_to_user_id": "1868150400",
+            "lang": "es",
+            "public_metrics": {
+                "impression_count": 0,
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "referenced_tweets": [
+                {
+                    "id": "1324286094628802560",
+                    "type": "replied_to"
+                }
+            ],
+            "reply_settings": "everyone",
+            "text": "@Lena_Caste_Cam @rosadiezglez T\u00fa est\u00e1s tonto o no te enteras."
+        },
+        {
+            "author_id": "1198583009546514432",
+            "conversation_id": "1325565959990628353",
+            "created_at": "2020-11-08T22:28:47.000Z",
+            "edit_history_tweet_ids": [
+                "1325565959990628353"
+            ],
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 44,
+                        "normalized_text": "caste",
+                        "probability": 0.4854,
+                        "start": 40,
+                        "type": "Other"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 15,
+                        "id": "1153364601750347778",
+                        "start": 3,
+                        "username": "_alejandrii"
+                    }
+                ]
+            },
+            "id": "1325565959990628353",
+            "lang": "es",
+            "public_metrics": {
+                "impression_count": 0,
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 1
+            },
+            "referenced_tweets": [
+                {
+                    "id": "1325514139293331472",
+                    "type": "retweeted"
+                }
+            ],
+            "reply_settings": "everyone",
+            "text": "RT @_alejandrii: ma\u00f1ana tengo examen de caste y no me entran las putas caracter\u00edsticas ling\u00fc\u00edsticas"
+        },
+        {
+            "author_id": "88620084",
+            "conversation_id": "1325565740292861952",
+            "created_at": "2020-11-08T22:27:54.000Z",
+            "edit_history_tweet_ids": [
+                "1325565740292861952"
+            ],
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 28,
+                        "normalized_text": "Uttar Pradesh",
+                        "probability": 0.9765,
+                        "start": 16,
+                        "type": "Place"
+                    },
+                    {
+                        "end": 50,
+                        "normalized_text": "Dalit",
+                        "probability": 0.4097,
+                        "start": 46,
+                        "type": "Other"
+                    },
+                    {
+                        "end": 107,
+                        "normalized_text": "Ballia district",
+                        "probability": 0.7592,
+                        "start": 93,
+                        "type": "Place"
+                    }
+                ],
+                "hashtags": [
+                    {
+                        "end": 51,
+                        "start": 45,
+                        "tag": "Dalit"
+                    }
+                ]
+            },
+            "id": "1325565740292861952",
+            "lang": "en",
+            "public_metrics": {
+                "impression_count": 0,
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 138
+            },
+            "referenced_tweets": [
+                {
+                    "id": "1325468011814215680",
+                    "type": "retweeted"
+                }
+            ],
+            "reply_settings": "everyone",
+            "text": "RT @aarifshaah: Uttar Pradesh: A 15-year-old #Dalit girl was set ablaze in a village here in Ballia district by a youth for rejecting his s\u2026"
+        },
+        {
+            "author_id": "1265511269362171905",
+            "conversation_id": "1325565710836264960",
+            "created_at": "2020-11-08T22:27:47.000Z",
+            "edit_history_tweet_ids": [
+                "1325565710836264960"
+            ],
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 28,
+                        "normalized_text": "India",
+                        "probability": 0.972,
+                        "start": 24,
+                        "type": "Place"
+                    },
+                    {
+                        "end": 56,
+                        "normalized_text": "Sadhus",
+                        "probability": 0.6523,
+                        "start": 51,
+                        "type": "Person"
+                    },
+                    {
+                        "end": 126,
+                        "normalized_text": "Durga",
+                        "probability": 0.5896,
+                        "start": 122,
+                        "type": "Other"
+                    }
+                ]
+            },
+            "id": "1325565710836264960",
+            "lang": "en",
+            "public_metrics": {
+                "impression_count": 0,
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 35
+            },
+            "referenced_tweets": [
+                {
+                    "id": "1325497315424002049",
+                    "type": "retweeted"
+                }
+            ],
+            "reply_settings": "everyone",
+            "text": "RT @Ghani_Bewdi: And In India we are majority, but Sadhus were lynched to death in front of police, Police opened fire on Durga Devotees, H\u2026"
+        },
+        {
+            "author_id": "1049633468727087105",
+            "conversation_id": "1325565608264683522",
+            "created_at": "2020-11-08T22:27:23.000Z",
+            "edit_history_tweet_ids": [
+                "1325565608264683522"
+            ],
+            "entities": {
+                "hashtags": [
+                    {
+                        "end": 40,
+                        "start": 34,
+                        "tag": "Messe"
+                    },
+                    {
+                        "end": 77,
+                        "start": 61,
+                        "tag": "VendeeGlobe2020"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 16,
+                        "id": "1949069192",
+                        "start": 3,
+                        "username": "PhdeVilliers"
+                    }
+                ]
+            },
+            "id": "1325565608264683522",
+            "lang": "fr",
+            "public_metrics": {
+                "impression_count": 0,
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 1250
+            },
+            "referenced_tweets": [
+                {
+                    "id": "1325369599945289728",
+                    "type": "retweeted"
+                }
+            ],
+            "reply_settings": "everyone",
+            "text": "RT @PhdeVilliers: Ce dimanche, la #Messe est interdite et le #VendeeGlobe2020, si cher \u00e0 mon coeur, est priv\u00e9 de public. La caste mondialis\u2026"
+        },
+        {
+            "author_id": "300583736",
+            "conversation_id": "1325565479696654336",
+            "created_at": "2020-11-08T22:26:52.000Z",
+            "edit_history_tweet_ids": [
+                "1325565479696654336"
+            ],
+            "entities": {
+                "hashtags": [
+                    {
+                        "end": 40,
+                        "start": 34,
+                        "tag": "Messe"
+                    },
+                    {
+                        "end": 77,
+                        "start": 61,
+                        "tag": "VendeeGlobe2020"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 16,
+                        "id": "1949069192",
+                        "start": 3,
+                        "username": "PhdeVilliers"
+                    }
+                ]
+            },
+            "id": "1325565479696654336",
+            "lang": "fr",
+            "public_metrics": {
+                "impression_count": 0,
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 1250
+            },
+            "referenced_tweets": [
+                {
+                    "id": "1325369599945289728",
+                    "type": "retweeted"
+                }
+            ],
+            "reply_settings": "everyone",
+            "text": "RT @PhdeVilliers: Ce dimanche, la #Messe est interdite et le #VendeeGlobe2020, si cher \u00e0 mon coeur, est priv\u00e9 de public. La caste mondialis\u2026"
+        },
+        {
+            "author_id": "1264708613467234304",
+            "conversation_id": "1325565438651035649",
+            "created_at": "2020-11-08T22:26:43.000Z",
+            "edit_history_tweet_ids": [
+                "1325565438651035649"
+            ],
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 278,
+                        "normalized_text": "ShameonHaryanagovt",
+                        "probability": 0.6758,
+                        "start": 261,
+                        "type": "Person"
+                    }
+                ],
+                "hashtags": [
+                    {
+                        "end": 279,
+                        "start": 260,
+                        "tag": "ShameonHaryanagovt"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "pic.twitter.com/8Y2hMB39Q2",
+                        "end": 303,
+                        "expanded_url": "https://twitter.com/ashish_chahal_/status/1325565438651035649/photo/1",
+                        "media_key": "3_1325565430866477056",
+                        "start": 280,
+                        "url": "https://t.co/8Y2hMB39Q2"
+                    }
+                ]
+            },
+            "id": "1325565438651035649",
+            "lang": "en",
+            "public_metrics": {
+                "impression_count": 0,
+                "like_count": 1,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "reply_settings": "everyone",
+            "text": "This fascist government wants us to be uneducated and stay captured in their trap. They know very well that illiterates are the best supporter.\nTheir loved one went abroad to study whereas weaker sections fight on caste, reservation and economical condition.\n\n#ShameonHaryanagovt https://t.co/8Y2hMB39Q2"
+        },
+        {
+            "author_id": "1229013053070405635",
+            "conversation_id": "1325564931199037440",
+            "created_at": "2020-11-08T22:26:39.000Z",
+            "edit_history_tweet_ids": [
+                "1325565424738603009"
+            ],
+            "id": "1325565424738603009",
+            "in_reply_to_user_id": "1229013053070405635",
+            "lang": "hi",
+            "public_metrics": {
+                "impression_count": 0,
+                "like_count": 3,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "referenced_tweets": [
+                {
+                    "id": "1325564931199037440",
+                    "type": "replied_to"
+                }
+            ],
+            "reply_settings": "everyone",
+            "text": "Padhle bhai please tera ek unit nahi hua hai ek topic karke baithi hai kyunki vo caste hai aur tujhe gyaan ka keeda hai, syllabus karke soja chup chap simp karna band kar nalayak fail hone wali harkatein hai ye\n( A personal note to myself please ignore)"
+        },
+        {
+            "author_id": "1245836617366900736",
+            "conversation_id": "1325538187318595584",
+            "created_at": "2020-11-08T22:26:30.000Z",
+            "edit_history_tweet_ids": [
+                "1325565388004864000"
+            ],
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 118,
+                        "normalized_text": "Caste",
+                        "probability": 0.5417,
+                        "start": 114,
+                        "type": "Other"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 25,
+                        "id": "100136358",
+                        "start": 15,
+                        "username": "Karnythia"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "goodreads.com/book/show/5115\u2026",
+                        "end": 144,
+                        "expanded_url": "https://www.goodreads.com/book/show/51152447-caste",
+                        "start": 121,
+                        "url": "https://t.co/0QMFSmpGrj"
+                    }
+                ]
+            },
+            "id": "1325565388004864000",
+            "in_reply_to_user_id": "1022721871886737408",
+            "lang": "en",
+            "public_metrics": {
+                "impression_count": 0,
+                "like_count": 1,
+                "quote_count": 0,
+                "reply_count": 1,
+                "retweet_count": 0
+            },
+            "referenced_tweets": [
+                {
+                    "id": "1325538187318595584",
+                    "type": "replied_to"
+                }
+            ],
+            "reply_settings": "everyone",
+            "text": "@DorsmanCerdaK @Karnythia Ooh, I've been wanting to check it out. I'm adding this one to be 2020 list, as well as Caste. https://t.co/0QMFSmpGrj"
+        },
+        {
+            "author_id": "2257384777",
+            "conversation_id": "1325564710926872576",
+            "created_at": "2020-11-08T22:23:49.000Z",
+            "edit_history_tweet_ids": [
+                "1325564710926872576"
+            ],
+            "entities": {
+                "hashtags": [
+                    {
+                        "end": 40,
+                        "start": 34,
+                        "tag": "Messe"
+                    },
+                    {
+                        "end": 77,
+                        "start": 61,
+                        "tag": "VendeeGlobe2020"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 16,
+                        "id": "1949069192",
+                        "start": 3,
+                        "username": "PhdeVilliers"
+                    }
+                ]
+            },
+            "id": "1325564710926872576",
+            "lang": "fr",
+            "public_metrics": {
+                "impression_count": 0,
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 1250
+            },
+            "referenced_tweets": [
+                {
+                    "id": "1325369599945289728",
+                    "type": "retweeted"
+                }
+            ],
+            "reply_settings": "everyone",
+            "text": "RT @PhdeVilliers: Ce dimanche, la #Messe est interdite et le #VendeeGlobe2020, si cher \u00e0 mon coeur, est priv\u00e9 de public. La caste mondialis\u2026"
+        },
+        {
+            "author_id": "1189461676380315649",
+            "conversation_id": "1325564677980610560",
+            "created_at": "2020-11-08T22:23:41.000Z",
+            "edit_history_tweet_ids": [
+                "1325564677980610560"
+            ],
+            "entities": {
+                "hashtags": [
+                    {
+                        "end": 40,
+                        "start": 34,
+                        "tag": "Messe"
+                    },
+                    {
+                        "end": 77,
+                        "start": 61,
+                        "tag": "VendeeGlobe2020"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 16,
+                        "id": "1949069192",
+                        "start": 3,
+                        "username": "PhdeVilliers"
+                    }
+                ]
+            },
+            "id": "1325564677980610560",
+            "lang": "fr",
+            "public_metrics": {
+                "impression_count": 0,
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 1250
+            },
+            "referenced_tweets": [
+                {
+                    "id": "1325369599945289728",
+                    "type": "retweeted"
+                }
+            ],
+            "reply_settings": "everyone",
+            "text": "RT @PhdeVilliers: Ce dimanche, la #Messe est interdite et le #VendeeGlobe2020, si cher \u00e0 mon coeur, est priv\u00e9 de public. La caste mondialis\u2026"
+        },
+        {
+            "author_id": "1295374764383432704",
+            "conversation_id": "1325489739214934016",
+            "created_at": "2020-11-08T22:23:07.000Z",
+            "edit_history_tweet_ids": [
+                "1325564534099042304"
+            ],
+            "entities": {
+                "mentions": [
+                    {
+                        "end": 14,
+                        "id": "3618169456",
+                        "start": 0,
+                        "username": "kamlesh_lotan"
+                    }
+                ]
+            },
+            "id": "1325564534099042304",
+            "in_reply_to_user_id": "3618169456",
+            "lang": "en",
+            "public_metrics": {
+                "impression_count": 0,
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "referenced_tweets": [
+                {
+                    "id": "1325489739214934016",
+                    "type": "replied_to"
+                }
+            ],
+            "reply_settings": "everyone",
+            "text": "@kamlesh_Lotan @AMITA0744 Poor always suffer. But caste or religion not exactly means one is rich or poor. I know many high caste who r very poor and those not high caste r rich."
+        },
+        {
+            "author_id": "1257116529713246212",
+            "conversation_id": "1325539519198711808",
+            "created_at": "2020-11-08T22:22:09.000Z",
+            "edit_history_tweet_ids": [
+                "1325564291232100352"
+            ],
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 84,
+                        "normalized_text": "Goswami",
+                        "probability": 0.3678,
+                        "start": 78,
+                        "type": "Person"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 16,
+                        "id": "1175244455856807936",
+                        "start": 0,
+                        "username": "MarginalScribb1"
+                    }
+                ]
+            },
+            "id": "1325564291232100352",
+            "in_reply_to_user_id": "1175244455856807936",
+            "lang": "en",
+            "public_metrics": {
+                "impression_count": 0,
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 1,
+                "retweet_count": 0
+            },
+            "referenced_tweets": [
+                {
+                    "id": "1325563371547062272",
+                    "type": "replied_to"
+                }
+            ],
+            "reply_settings": "everyone",
+            "text": "@MarginalScribb1 Nope..I just want to point out you're doing the same shit as Goswami. There is nothing in my tweet that agrees with the bullshit speculation you've been doing about caste permutations."
+        },
+        {
+            "author_id": "3428472718",
+            "conversation_id": "1325564219727732736",
+            "created_at": "2020-11-08T22:21:52.000Z",
+            "edit_history_tweet_ids": [
+                "1325564219727732736"
+            ],
+            "entities": {
+                "hashtags": [
+                    {
+                        "end": 40,
+                        "start": 34,
+                        "tag": "Messe"
+                    },
+                    {
+                        "end": 77,
+                        "start": 61,
+                        "tag": "VendeeGlobe2020"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 16,
+                        "id": "1949069192",
+                        "start": 3,
+                        "username": "PhdeVilliers"
+                    }
+                ]
+            },
+            "id": "1325564219727732736",
+            "lang": "fr",
+            "public_metrics": {
+                "impression_count": 0,
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 1250
+            },
+            "referenced_tweets": [
+                {
+                    "id": "1325369599945289728",
+                    "type": "retweeted"
+                }
+            ],
+            "reply_settings": "everyone",
+            "text": "RT @PhdeVilliers: Ce dimanche, la #Messe est interdite et le #VendeeGlobe2020, si cher \u00e0 mon coeur, est priv\u00e9 de public. La caste mondialis\u2026"
+        },
+        {
+            "author_id": "754966838879068160",
+            "conversation_id": "1325564204821196800",
+            "created_at": "2020-11-08T22:21:48.000Z",
+            "edit_history_tweet_ids": [
+                "1325564204821196800"
+            ],
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 102,
+                        "normalized_text": "de Sangre",
+                        "probability": 0.4563,
+                        "start": 94,
+                        "type": "Other"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 13,
+                        "id": "1140714399692468224",
+                        "start": 3,
+                        "username": "besshylla"
+                    }
+                ]
+            },
+            "id": "1325564204821196800",
+            "lang": "es",
+            "public_metrics": {
+                "impression_count": 0,
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 4
+            },
+            "referenced_tweets": [
+                {
+                    "id": "1325548457592033282",
+                    "type": "retweeted"
+                }
+            ],
+            "reply_settings": "everyone",
+            "text": "RT @besshylla: Es profe d caste no t\u00e9 res millor a fer que mandarmos un puta treball de Bodas de Sangre."
+        },
+        {
+            "author_id": "4887790210",
+            "conversation_id": "1325563984142069762",
+            "created_at": "2020-11-08T22:20:56.000Z",
+            "edit_history_tweet_ids": [
+                "1325563984142069762"
+            ],
+            "id": "1325563984142069762",
+            "lang": "fr",
+            "public_metrics": {
+                "impression_count": 0,
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 41
+            },
+            "referenced_tweets": [
+                {
+                    "id": "1325555711292678145",
+                    "type": "retweeted"
+                }
+            ],
+            "reply_settings": "everyone",
+            "text": "RT @LamineNdiay11: Chez moi c'est le S\u00e9n\u00e9gal. \nAu S\u00e9n\u00e9gal, il y a une caste de politiciens sans principe. Ils ont pris en otage le pays ; s\u2026"
+        },
+        {
+            "author_id": "1162548547813871617",
+            "context_annotations": [
+                {
+                    "domain": {
+                        "description": "Named people in the world like Nelson Mandela",
+                        "id": "10",
+                        "name": "Person"
+                    },
+                    "entity": {
+                        "id": "1167392916769144837",
+                        "name": "KAROL SEVILLA"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "An actor or actress in the world, like Kate Winslet or Leonardo DiCaprio",
+                        "id": "56",
+                        "name": "Actor"
+                    },
+                    "entity": {
+                        "id": "1167392916769144837",
+                        "name": "KAROL SEVILLA"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A taxonomy of user interests. ",
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy"
+                    },
+                    "entity": {
+                        "description": "Celebrities",
+                        "id": "1095352268046495745",
+                        "name": "Celebrities"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A taxonomy of user interests. ",
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy"
+                    },
+                    "entity": {
+                        "id": "1167392916769144837",
+                        "name": "KAROL SEVILLA"
+                    }
+                }
+            ],
+            "conversation_id": "1325563673268674562",
+            "created_at": "2020-11-08T22:20:16.000Z",
+            "edit_history_tweet_ids": [
+                "1325563815409422336"
+            ],
+            "entities": {
+                "mentions": [
+                    {
+                        "end": 13,
+                        "id": "113476972",
+                        "start": 0,
+                        "username": "karolsevilla"
+                    }
+                ]
+            },
+            "id": "1325563815409422336",
+            "in_reply_to_user_id": "113476972",
+            "lang": "es",
+            "public_metrics": {
+                "impression_count": 0,
+                "like_count": 1,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "referenced_tweets": [
+                {
+                    "id": "1325563673268674562",
+                    "type": "replied_to"
+                }
+            ],
+            "reply_settings": "everyone",
+            "text": "@karolsevilla LA PUTA MARE CASTE CONMIGOO"
+        },
+        {
+            "author_id": "1388637870",
+            "conversation_id": "1325563677576192000",
+            "created_at": "2020-11-08T22:19:43.000Z",
+            "edit_history_tweet_ids": [
+                "1325563677576192000"
+            ],
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 46,
+                        "normalized_text": "Kamala",
+                        "probability": 0.924,
+                        "start": 41,
+                        "type": "Person"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 16,
+                        "id": "1050513709372776449",
+                        "start": 3,
+                        "username": "SevenDeviled"
+                    }
+                ]
+            },
+            "id": "1325563677576192000",
+            "lang": "en",
+            "public_metrics": {
+                "impression_count": 0,
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 6
+            },
+            "referenced_tweets": [
+                {
+                    "id": "1325547447460958210",
+                    "type": "retweeted"
+                }
+            ],
+            "reply_settings": "everyone",
+            "text": "RT @SevenDeviled: The more we talk about Kamala's inherited Brahminness the more we participate in a mediated regime of truth about how cas\u2026"
+        },
+        {
+            "author_id": "867229702653698049",
+            "conversation_id": "1325265059061358592",
+            "created_at": "2020-11-08T22:18:34.000Z",
+            "edit_history_tweet_ids": [
+                "1325563389129658368"
+            ],
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 156,
+                        "normalized_text": "India",
+                        "probability": 0.9779,
+                        "start": 152,
+                        "type": "Place"
+                    },
+                    {
+                        "end": 299,
+                        "normalized_text": "US",
+                        "probability": 0.9634,
+                        "start": 298,
+                        "type": "Place"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 14,
+                        "id": "1276928400834297856",
+                        "start": 0,
+                        "username": "marquisofgape"
+                    },
+                    {
+                        "end": 31,
+                        "id": "1283050037321359363",
+                        "start": 15,
+                        "username": "liberation_mind"
+                    },
+                    {
+                        "end": 48,
+                        "id": "826261914",
+                        "start": 32,
+                        "username": "ConceptualJames"
+                    }
+                ]
+            },
+            "id": "1325563389129658368",
+            "in_reply_to_user_id": "1276928400834297856",
+            "lang": "en",
+            "public_metrics": {
+                "impression_count": 0,
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 1,
+                "retweet_count": 0
+            },
+            "referenced_tweets": [
+                {
+                    "id": "1325560781262495744",
+                    "type": "replied_to"
+                }
+            ],
+            "reply_settings": "everyone",
+            "text": "@marquisofgape @liberation_mind @ConceptualJames Pretty sure I never said that specifically. But beyond that, if you asked my about the caste system in India I could give you a rough outline, but it\u2019s not what I\u2019ve studied or lived. But I do know the stats and history of how we got to them in the US"
+        },
+        {
+            "author_id": "108929607",
+            "context_annotations": [
+                {
+                    "domain": {
+                        "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+                        "id": "30",
+                        "name": "Entities [Entity Service]"
+                    },
+                    "entity": {
+                        "description": "Food",
+                        "id": "825047692124442624",
+                        "name": "Food"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+                        "id": "30",
+                        "name": "Entities [Entity Service]"
+                    },
+                    "entity": {
+                        "description": "Meals",
+                        "id": "1034860760093024257",
+                        "name": "Meals"
+                    }
+                }
+            ],
+            "conversation_id": "1325563278777573377",
+            "created_at": "2020-11-08T22:18:08.000Z",
+            "edit_history_tweet_ids": [
+                "1325563278777573377"
+            ],
+            "entities": {
+                "mentions": [
+                    {
+                        "end": 11,
+                        "id": "57548587",
+                        "start": 3,
+                        "username": "Navayan"
+                    }
+                ]
+            },
+            "id": "1325563278777573377",
+            "lang": "en",
+            "public_metrics": {
+                "impression_count": 0,
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 142
+            },
+            "referenced_tweets": [
+                {
+                    "id": "1325144279249940481",
+                    "type": "retweeted"
+                }
+            ],
+            "reply_settings": "everyone",
+            "text": "RT @Navayan: This is how caste manifests in villages.\nThe plates meant for mid day meals are either marked or have names of the children wr\u2026"
+        },
+        {
+            "author_id": "2380691378",
+            "conversation_id": "1325563233982275584",
+            "created_at": "2020-11-08T22:17:57.000Z",
+            "edit_history_tweet_ids": [
+                "1325563233982275584"
+            ],
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 17,
+                        "normalized_text": "Caste",
+                        "probability": 0.3835,
+                        "start": 13,
+                        "type": "Other"
+                    }
+                ],
+                "hashtags": [
+                    {
+                        "end": 18,
+                        "start": 12,
+                        "tag": "Caste"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 10,
+                        "id": "2558992320",
+                        "start": 3,
+                        "username": "WCC_IA"
+                    }
+                ]
+            },
+            "id": "1325563233982275584",
+            "lang": "en",
+            "public_metrics": {
+                "impression_count": 0,
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 1
+            },
+            "referenced_tweets": [
+                {
+                    "id": "1324803181126262788",
+                    "type": "retweeted"
+                }
+            ],
+            "reply_settings": "everyone",
+            "text": "RT @WCC_IA: #Caste: deep-rooted hegemonic discriminatory oppression of people based on work &amp; descent - the single\nlargest structured syste\u2026"
+        },
+        {
+            "author_id": "339267583",
+            "conversation_id": "1325563182832873472",
+            "created_at": "2020-11-08T22:17:45.000Z",
+            "edit_history_tweet_ids": [
+                "1325563182832873472"
+            ],
+            "entities": {
+                "hashtags": [
+                    {
+                        "end": 40,
+                        "start": 34,
+                        "tag": "Messe"
+                    },
+                    {
+                        "end": 77,
+                        "start": 61,
+                        "tag": "VendeeGlobe2020"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 16,
+                        "id": "1949069192",
+                        "start": 3,
+                        "username": "PhdeVilliers"
+                    }
+                ]
+            },
+            "id": "1325563182832873472",
+            "lang": "fr",
+            "public_metrics": {
+                "impression_count": 0,
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 1250
+            },
+            "referenced_tweets": [
+                {
+                    "id": "1325369599945289728",
+                    "type": "retweeted"
+                }
+            ],
+            "reply_settings": "everyone",
+            "text": "RT @PhdeVilliers: Ce dimanche, la #Messe est interdite et le #VendeeGlobe2020, si cher \u00e0 mon coeur, est priv\u00e9 de public. La caste mondialis\u2026"
+        },
+        {
+            "author_id": "801935852091936768",
+            "conversation_id": "1325563160292696065",
+            "created_at": "2020-11-08T22:17:39.000Z",
+            "edit_history_tweet_ids": [
+                "1325563160292696065"
+            ],
+            "entities": {
+                "hashtags": [
+                    {
+                        "end": 40,
+                        "start": 34,
+                        "tag": "Messe"
+                    },
+                    {
+                        "end": 77,
+                        "start": 61,
+                        "tag": "VendeeGlobe2020"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 16,
+                        "id": "1949069192",
+                        "start": 3,
+                        "username": "PhdeVilliers"
+                    }
+                ]
+            },
+            "id": "1325563160292696065",
+            "lang": "fr",
+            "public_metrics": {
+                "impression_count": 0,
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 1250
+            },
+            "referenced_tweets": [
+                {
+                    "id": "1325369599945289728",
+                    "type": "retweeted"
+                }
+            ],
+            "reply_settings": "everyone",
+            "text": "RT @PhdeVilliers: Ce dimanche, la #Messe est interdite et le #VendeeGlobe2020, si cher \u00e0 mon coeur, est priv\u00e9 de public. La caste mondialis\u2026"
+        },
+        {
+            "author_id": "778610701166317574",
+            "conversation_id": "1325563132312494080",
+            "created_at": "2020-11-08T22:17:33.000Z",
+            "edit_history_tweet_ids": [
+                "1325563132312494080"
+            ],
+            "id": "1325563132312494080",
+            "lang": "fr",
+            "public_metrics": {
+                "impression_count": 0,
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 41
+            },
+            "referenced_tweets": [
+                {
+                    "id": "1325555711292678145",
+                    "type": "retweeted"
+                }
+            ],
+            "reply_settings": "everyone",
+            "text": "RT @LamineNdiay11: Chez moi c'est le S\u00e9n\u00e9gal. \nAu S\u00e9n\u00e9gal, il y a une caste de politiciens sans principe. Ils ont pris en otage le pays ; s\u2026"
+        },
+        {
+            "author_id": "1290521041605996545",
+            "conversation_id": "1325563032362242048",
+            "created_at": "2020-11-08T22:17:09.000Z",
+            "edit_history_tweet_ids": [
+                "1325563032362242048"
+            ],
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 37,
+                        "normalized_text": "India",
+                        "probability": 0.9293,
+                        "start": 33,
+                        "type": "Place"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 19,
+                        "id": "1110184830166282240",
+                        "start": 3,
+                        "username": "FaithlessHijabi"
+                    }
+                ]
+            },
+            "id": "1325563032362242048",
+            "lang": "en",
+            "public_metrics": {
+                "impression_count": 0,
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 7
+            },
+            "referenced_tweets": [
+                {
+                    "id": "1325556280908517381",
+                    "type": "retweeted"
+                }
+            ],
+            "reply_settings": "everyone",
+            "text": "RT @FaithlessHijabi: Hinduism in India is the largest religion, that claims to respect women because they have Goddesses, is probably quite\u2026"
+        },
+        {
+            "author_id": "2924111651",
+            "conversation_id": "1325290765518594048",
+            "created_at": "2020-11-08T22:16:49.000Z",
+            "edit_history_tweet_ids": [
+                "1325562948534865927"
+            ],
+            "entities": {
+                "mentions": [
+                    {
+                        "end": 14,
+                        "id": "751997675403374592",
+                        "start": 0,
+                        "username": "demiaan_caste"
+                    }
+                ]
+            },
+            "id": "1325562948534865927",
+            "in_reply_to_user_id": "751997675403374592",
+            "lang": "es",
+            "public_metrics": {
+                "impression_count": 0,
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "referenced_tweets": [
+                {
+                    "id": "1325290765518594048",
+                    "type": "replied_to"
+                }
+            ],
+            "reply_settings": "everyone",
+            "text": "@demiaan_caste Hdp casi me desmayo"
+        },
+        {
+            "author_id": "237042349",
+            "conversation_id": "1325562794528428039",
+            "created_at": "2020-11-08T22:16:12.000Z",
+            "edit_history_tweet_ids": [
+                "1325562794528428039"
+            ],
+            "entities": {
+                "mentions": [
+                    {
+                        "end": 13,
+                        "id": "1261644644984721408",
+                        "start": 3,
+                        "username": "LecatAlex"
+                    },
+                    {
+                        "end": 27,
+                        "id": "38142665",
+                        "start": 15,
+                        "username": "le_Parisien"
+                    }
+                ]
+            },
+            "id": "1325562794528428039",
+            "lang": "fr",
+            "public_metrics": {
+                "impression_count": 0,
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 4
+            },
+            "referenced_tweets": [
+                {
+                    "id": "1325538697857683457",
+                    "type": "retweeted"
+                }
+            ],
+            "reply_settings": "everyone",
+            "text": "RT @LecatAlex: @le_Parisien Cocasse de voir les m\u00e9dias nous \"informer\" de ce que va faire un pr\u00e9sident qui n'a pour l'heure \u00e9t\u00e9 \"\u00e9lu\" que p\u2026"
+        },
+        {
+            "author_id": "72294304",
+            "context_annotations": [
+                {
+                    "domain": {
+                        "description": "Named people in the world like Nelson Mandela",
+                        "id": "10",
+                        "name": "Person"
+                    },
+                    "entity": {
+                        "description": "Tariq Nasheed",
+                        "id": "1146158909406642176",
+                        "name": "Tariq Nasheed"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A taxonomy of user interests. ",
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy"
+                    },
+                    "entity": {
+                        "description": "US National News",
+                        "id": "1003932601839579136",
+                        "name": "US national news"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A taxonomy of user interests. ",
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy"
+                    },
+                    "entity": {
+                        "description": "News",
+                        "id": "1046545033657081857",
+                        "name": "News"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A taxonomy of user interests. ",
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy"
+                    },
+                    "entity": {
+                        "description": "Tariq Nasheed",
+                        "id": "1146158909406642176",
+                        "name": "Tariq Nasheed"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A taxonomy of user interests. ",
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy"
+                    },
+                    "entity": {
+                        "id": "1166410125994708993",
+                        "name": "Directors, producers & writers"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A taxonomy of user interests. ",
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy"
+                    },
+                    "entity": {
+                        "id": "1286379401228124160",
+                        "name": "Americas"
+                    }
+                }
+            ],
+            "conversation_id": "1325533113967996928",
+            "created_at": "2020-11-08T22:15:25.000Z",
+            "edit_history_tweet_ids": [
+                "1325562596741705728"
+            ],
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 292,
+                        "normalized_text": "America",
+                        "probability": 0.8515,
+                        "start": 286,
+                        "type": "Place"
+                    },
+                    {
+                        "end": 309,
+                        "normalized_text": "silicon valley",
+                        "probability": 0.694,
+                        "start": 296,
+                        "type": "Place"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 15,
+                        "id": "103153155",
+                        "start": 0,
+                        "username": "T_gots2_haveit"
+                    },
+                    {
+                        "end": 29,
+                        "id": "16948493",
+                        "start": 16,
+                        "username": "tariqnasheed"
+                    }
+                ]
+            },
+            "id": "1325562596741705728",
+            "in_reply_to_user_id": "103153155",
+            "lang": "en",
+            "public_metrics": {
+                "impression_count": 0,
+                "like_count": 5,
+                "quote_count": 0,
+                "reply_count": 1,
+                "retweet_count": 0
+            },
+            "referenced_tweets": [
+                {
+                    "id": "1325533992859398144",
+                    "type": "replied_to"
+                }
+            ],
+            "reply_settings": "everyone",
+            "text": "@T_gots2_haveit @tariqnasheed it's not about ancestry alignment...it is how we are impacted here...why don't we understand this? do you know how this impacts the black community....? do you understand the caste system and how people actually practice that here with blacks in corporate America...silicon valley"
+        },
+        {
+            "author_id": "450815111",
+            "conversation_id": "1325562549916622848",
+            "created_at": "2020-11-08T22:15:14.000Z",
+            "edit_history_tweet_ids": [
+                "1325562549916622848"
+            ],
+            "entities": {
+                "hashtags": [
+                    {
+                        "end": 40,
+                        "start": 34,
+                        "tag": "Messe"
+                    },
+                    {
+                        "end": 77,
+                        "start": 61,
+                        "tag": "VendeeGlobe2020"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 16,
+                        "id": "1949069192",
+                        "start": 3,
+                        "username": "PhdeVilliers"
+                    }
+                ]
+            },
+            "id": "1325562549916622848",
+            "lang": "fr",
+            "public_metrics": {
+                "impression_count": 0,
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 1250
+            },
+            "referenced_tweets": [
+                {
+                    "id": "1325369599945289728",
+                    "type": "retweeted"
+                }
+            ],
+            "reply_settings": "everyone",
+            "text": "RT @PhdeVilliers: Ce dimanche, la #Messe est interdite et le #VendeeGlobe2020, si cher \u00e0 mon coeur, est priv\u00e9 de public. La caste mondialis\u2026"
+        },
+        {
+            "author_id": "1243578123502981122",
+            "conversation_id": "1325562376335331335",
+            "created_at": "2020-11-08T22:14:32.000Z",
+            "edit_history_tweet_ids": [
+                "1325562376335331335"
+            ],
+            "id": "1325562376335331335",
+            "lang": "fr",
+            "public_metrics": {
+                "impression_count": 0,
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 41
+            },
+            "referenced_tweets": [
+                {
+                    "id": "1325555711292678145",
+                    "type": "retweeted"
+                }
+            ],
+            "reply_settings": "everyone",
+            "text": "RT @LamineNdiay11: Chez moi c'est le S\u00e9n\u00e9gal. \nAu S\u00e9n\u00e9gal, il y a une caste de politiciens sans principe. Ils ont pris en otage le pays ; s\u2026"
+        },
+        {
+            "author_id": "1145478414603890689",
+            "conversation_id": "1325562373470556160",
+            "created_at": "2020-11-08T22:14:32.000Z",
+            "edit_history_tweet_ids": [
+                "1325562373470556160"
+            ],
+            "entities": {
+                "mentions": [
+                    {
+                        "end": 16,
+                        "id": "715979593090359296",
+                        "start": 3,
+                        "username": "LokiJulianus"
+                    }
+                ]
+            },
+            "id": "1325562373470556160",
+            "lang": "en",
+            "public_metrics": {
+                "impression_count": 0,
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 95
+            },
+            "referenced_tweets": [
+                {
+                    "id": "1325510974749757457",
+                    "type": "retweeted"
+                }
+            ],
+            "reply_settings": "everyone",
+            "text": "RT @LokiJulianus: People who are like \"just give up\" have no idea how far you can take this stuff. This is what happens when your media cas\u2026"
+        },
+        {
+            "author_id": "1931796564",
+            "conversation_id": "1325562319691108352",
+            "created_at": "2020-11-08T22:14:19.000Z",
+            "edit_history_tweet_ids": [
+                "1325562319691108352"
+            ],
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 46,
+                        "normalized_text": "Donald",
+                        "probability": 0.8293,
+                        "start": 41,
+                        "type": "Person"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 14,
+                        "id": "2968626209",
+                        "start": 3,
+                        "username": "Fly_Sistah"
+                    }
+                ]
+            },
+            "id": "1325562319691108352",
+            "lang": "en",
+            "public_metrics": {
+                "impression_count": 0,
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 206
+            },
+            "referenced_tweets": [
+                {
+                    "id": "1324895532117078016",
+                    "type": "retweeted"
+                }
+            ],
+            "reply_settings": "everyone",
+            "text": "RT @Fly_Sistah: Like I said 4 years ago, Donald did nothing to help his supporters but keep white people at the top of the racial caste sys\u2026"
+        },
+        {
+            "author_id": "38438156",
+            "conversation_id": "1325547001828831233",
+            "created_at": "2020-11-08T22:12:14.000Z",
+            "edit_history_tweet_ids": [
+                "1325561794748878850"
+            ],
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 86,
+                        "normalized_text": "Miami Cubans",
+                        "probability": 0.4383,
+                        "start": 75,
+                        "type": "Other"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 14,
+                        "id": "778357878931333120",
+                        "start": 0,
+                        "username": "chandragray08"
+                    },
+                    {
+                        "end": 27,
+                        "id": "110326494",
+                        "start": 15,
+                        "username": "BreeNewsome"
+                    }
+                ]
+            },
+            "id": "1325561794748878850",
+            "in_reply_to_user_id": "778357878931333120",
+            "lang": "en",
+            "public_metrics": {
+                "impression_count": 0,
+                "like_count": 5,
+                "quote_count": 0,
+                "reply_count": 1,
+                "retweet_count": 0
+            },
+            "referenced_tweets": [
+                {
+                    "id": "1325547794011201536",
+                    "type": "replied_to"
+                }
+            ],
+            "reply_settings": "everyone",
+            "text": "@chandragray08 @BreeNewsome Socialism is \u201ceconomic anxiety\u201d of this cycle. Miami Cubans have been assimilated into the dominant caste. They voted accordingly. This had nothing to do with the socialism label."
+        },
+        {
+            "author_id": "899185948013072384",
+            "context_annotations": [
+                {
+                    "domain": {
+                        "description": "Named people in the world like Nelson Mandela",
+                        "id": "10",
+                        "name": "Person"
+                    },
+                    "entity": {
+                        "id": "1230936063507460097",
+                        "name": "Agn\u00e8s Buzyn"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "Real world events. ",
+                        "id": "29",
+                        "name": "Events [Entity Service]"
+                    },
+                    "entity": {
+                        "id": "1229454368685953029",
+                        "name": "Municipales 2020 (France)"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "Politicians in the world, like Joe Biden",
+                        "id": "35",
+                        "name": "Politician"
+                    },
+                    "entity": {
+                        "id": "1230936063507460097",
+                        "name": "Agn\u00e8s Buzyn"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "",
+                        "id": "38",
+                        "name": "Political Race"
+                    },
+                    "entity": {
+                        "id": "1229454368685953029",
+                        "name": "Municipales 2020 (France)"
+                    }
+                }
+            ],
+            "conversation_id": "1325554329386971138",
+            "created_at": "2020-11-08T22:11:57.000Z",
+            "edit_history_tweet_ids": [
+                "1325561725580701698"
+            ],
+            "entities": {
+                "mentions": [
+                    {
+                        "end": 11,
+                        "id": "2774851390",
+                        "start": 0,
+                        "username": "birgit4453"
+                    },
+                    {
+                        "end": 24,
+                        "id": "1911591212",
+                        "start": 12,
+                        "username": "StanGuerini"
+                    }
+                ]
+            },
+            "id": "1325561725580701698",
+            "in_reply_to_user_id": "899185948013072384",
+            "lang": "fr",
+            "public_metrics": {
+                "impression_count": 0,
+                "like_count": 6,
+                "quote_count": 0,
+                "reply_count": 1,
+                "retweet_count": 0
+            },
+            "referenced_tweets": [
+                {
+                    "id": "1325561084833619968",
+                    "type": "replied_to"
+                }
+            ],
+            "reply_settings": "everyone",
+            "text": "@birgit4453 @StanGuerini D'ailleurs, que fait Agn\u00e8s Buzyn aujourd'hui apr\u00e8s ses \u00e9checs. Avez vous des nouvelles, ha oui je suis stupide, elle \u00e0 \u00e9t\u00e9 recas\u00e9e.\nC'est beau la caste"
+        },
+        {
+            "author_id": "1214681167858950156",
+            "conversation_id": "1325561694416986113",
+            "created_at": "2020-11-08T22:11:50.000Z",
+            "edit_history_tweet_ids": [
+                "1325561694416986113"
+            ],
+            "id": "1325561694416986113",
+            "lang": "fr",
+            "public_metrics": {
+                "impression_count": 0,
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 41
+            },
+            "referenced_tweets": [
+                {
+                    "id": "1325555711292678145",
+                    "type": "retweeted"
+                }
+            ],
+            "reply_settings": "everyone",
+            "text": "RT @LamineNdiay11: Chez moi c'est le S\u00e9n\u00e9gal. \nAu S\u00e9n\u00e9gal, il y a une caste de politiciens sans principe. Ils ont pris en otage le pays ; s\u2026"
+        },
+        {
+            "author_id": "1037584538225070080",
+            "conversation_id": "1325561607938781189",
+            "created_at": "2020-11-08T22:11:29.000Z",
+            "edit_history_tweet_ids": [
+                "1325561607938781189"
+            ],
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 102,
+                        "normalized_text": "de Sangre",
+                        "probability": 0.4563,
+                        "start": 94,
+                        "type": "Other"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 13,
+                        "id": "1140714399692468224",
+                        "start": 3,
+                        "username": "besshylla"
+                    }
+                ]
+            },
+            "id": "1325561607938781189",
+            "lang": "es",
+            "public_metrics": {
+                "impression_count": 0,
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 4
+            },
+            "referenced_tweets": [
+                {
+                    "id": "1325548457592033282",
+                    "type": "retweeted"
+                }
+            ],
+            "reply_settings": "everyone",
+            "text": "RT @besshylla: Es profe d caste no t\u00e9 res millor a fer que mandarmos un puta treball de Bodas de Sangre."
+        },
+        {
+            "author_id": "933232331581636613",
+            "conversation_id": "1325560838665760769",
+            "created_at": "2020-11-08T22:11:08.000Z",
+            "edit_history_tweet_ids": [
+                "1325561517740318725"
+            ],
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 223,
+                        "normalized_text": "Orwell",
+                        "probability": 0.8456,
+                        "start": 218,
+                        "type": "Person"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 10,
+                        "id": "40713876",
+                        "start": 0,
+                        "username": "jamesrbuk"
+                    }
+                ]
+            },
+            "id": "1325561517740318725",
+            "in_reply_to_user_id": "40713876",
+            "lang": "en",
+            "public_metrics": {
+                "impression_count": 0,
+                "like_count": 1,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "referenced_tweets": [
+                {
+                    "id": "1325560838665760769",
+                    "type": "replied_to"
+                }
+            ],
+            "reply_settings": "everyone",
+            "text": "@jamesrbuk Funny thing, some gov projects require the use of end-to-end encryption for their own security. Wonder how they will go around that. Oh, let me guess, one rule for the ruling caste and another for us plebs. Orwell knew a thing or two about farms."
+        },
+        {
+            "author_id": "2461067477",
+            "conversation_id": "1325561361686999051",
+            "created_at": "2020-11-08T22:10:31.000Z",
+            "edit_history_tweet_ids": [
+                "1325561361686999051"
+            ],
+            "id": "1325561361686999051",
+            "lang": "fr",
+            "public_metrics": {
+                "impression_count": 0,
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 41
+            },
+            "referenced_tweets": [
+                {
+                    "id": "1325555711292678145",
+                    "type": "retweeted"
+                }
+            ],
+            "reply_settings": "everyone",
+            "text": "RT @LamineNdiay11: Chez moi c'est le S\u00e9n\u00e9gal. \nAu S\u00e9n\u00e9gal, il y a une caste de politiciens sans principe. Ils ont pris en otage le pays ; s\u2026"
+        },
+        {
+            "author_id": "785449001352966144",
+            "conversation_id": "1325561247039827968",
+            "created_at": "2020-11-08T22:10:03.000Z",
+            "edit_history_tweet_ids": [
+                "1325561247039827968"
+            ],
+            "entities": {
+                "mentions": [
+                    {
+                        "end": 16,
+                        "id": "715979593090359296",
+                        "start": 3,
+                        "username": "LokiJulianus"
+                    }
+                ]
+            },
+            "id": "1325561247039827968",
+            "lang": "en",
+            "public_metrics": {
+                "impression_count": 0,
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 95
+            },
+            "referenced_tweets": [
+                {
+                    "id": "1325510974749757457",
+                    "type": "retweeted"
+                }
+            ],
+            "reply_settings": "everyone",
+            "text": "RT @LokiJulianus: People who are like \"just give up\" have no idea how far you can take this stuff. This is what happens when your media cas\u2026"
+        },
+        {
+            "author_id": "260106537",
+            "conversation_id": "1325561234272317440",
+            "created_at": "2020-11-08T22:10:00.000Z",
+            "edit_history_tweet_ids": [
+                "1325561234272317440"
+            ],
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 27,
+                        "normalized_text": "Caste",
+                        "probability": 0.6606,
+                        "start": 23,
+                        "type": "Other"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "pic.twitter.com/Q5RNEnbhzB",
+                        "end": 73,
+                        "expanded_url": "https://twitter.com/jahan_tyson/status/1325561234272317440/photo/1",
+                        "media_key": "3_1325561229016887296",
+                        "start": 50,
+                        "url": "https://t.co/Q5RNEnbhzB"
+                    }
+                ]
+            },
+            "geo": {
+                "place_id": "0073b76548e5984f"
+            },
+            "id": "1325561234272317440",
+            "lang": "en",
+            "public_metrics": {
+                "impression_count": 0,
+                "like_count": 1,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "reply_settings": "everyone",
+            "text": "My bookclub is reading Caste. Looking forward. \ud83d\udcd6\ud83d\udcda https://t.co/Q5RNEnbhzB"
+        },
+        {
+            "author_id": "832469874567811072",
+            "context_annotations": [
+                {
+                    "domain": {
+                        "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+                        "id": "30",
+                        "name": "Entities [Entity Service]"
+                    },
+                    "entity": {
+                        "id": "781974596752842752",
+                        "name": "Services"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "Brands and Companies",
+                        "id": "47",
+                        "name": "Brand"
+                    },
+                    "entity": {
+                        "id": "10045225402",
+                        "name": "Twitter"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A taxonomy of user interests. ",
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy"
+                    },
+                    "entity": {
+                        "id": "10045225402",
+                        "name": "Twitter"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A taxonomy of user interests. ",
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy"
+                    },
+                    "entity": {
+                        "id": "1196446161223028736",
+                        "name": "Social media"
+                    }
+                }
+            ],
+            "conversation_id": "1325561170883850241",
+            "created_at": "2020-11-08T22:09:45.000Z",
+            "edit_history_tweet_ids": [
+                "1325561170883850241"
+            ],
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 66,
+                        "normalized_text": "India",
+                        "probability": 0.9307,
+                        "start": 62,
+                        "type": "Place"
+                    },
+                    {
+                        "end": 127,
+                        "normalized_text": "India",
+                        "probability": 0.9532,
+                        "start": 123,
+                        "type": "Place"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 15,
+                        "id": "475728783",
+                        "start": 3,
+                        "username": "pushpampc13"
+                    },
+                    {
+                        "end": 30,
+                        "id": "783214",
+                        "start": 22,
+                        "username": "Twitter"
+                    }
+                ]
+            },
+            "id": "1325561170883850241",
+            "lang": "en",
+            "public_metrics": {
+                "impression_count": 0,
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 375
+            },
+            "referenced_tweets": [
+                {
+                    "id": "1325337966726635520",
+                    "type": "retweeted"
+                }
+            ],
+            "reply_settings": "everyone",
+            "text": "RT @pushpampc13: Dear @Twitter, do you as well take bribes in India to verify accounts? Don\u2019t create a new caste system in India, we are al\u2026"
+        },
+        {
+            "author_id": "235513437",
+            "conversation_id": "1325560594368524289",
+            "created_at": "2020-11-08T22:07:28.000Z",
+            "edit_history_tweet_ids": [
+                "1325560594368524289"
+            ],
+            "entities": {
+                "hashtags": [
+                    {
+                        "end": 40,
+                        "start": 34,
+                        "tag": "Messe"
+                    },
+                    {
+                        "end": 77,
+                        "start": 61,
+                        "tag": "VendeeGlobe2020"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 16,
+                        "id": "1949069192",
+                        "start": 3,
+                        "username": "PhdeVilliers"
+                    }
+                ]
+            },
+            "id": "1325560594368524289",
+            "lang": "fr",
+            "public_metrics": {
+                "impression_count": 0,
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 1250
+            },
+            "referenced_tweets": [
+                {
+                    "id": "1325369599945289728",
+                    "type": "retweeted"
+                }
+            ],
+            "reply_settings": "everyone",
+            "text": "RT @PhdeVilliers: Ce dimanche, la #Messe est interdite et le #VendeeGlobe2020, si cher \u00e0 mon coeur, est priv\u00e9 de public. La caste mondialis\u2026"
+        },
+        {
+            "author_id": "2792615047",
+            "conversation_id": "1325560408032202752",
+            "created_at": "2020-11-08T22:06:43.000Z",
+            "edit_history_tweet_ids": [
+                "1325560408032202752"
+            ],
+            "entities": {
+                "mentions": [
+                    {
+                        "end": 13,
+                        "id": "1261644644984721408",
+                        "start": 3,
+                        "username": "LecatAlex"
+                    },
+                    {
+                        "end": 27,
+                        "id": "38142665",
+                        "start": 15,
+                        "username": "le_Parisien"
+                    }
+                ]
+            },
+            "id": "1325560408032202752",
+            "lang": "fr",
+            "public_metrics": {
+                "impression_count": 0,
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 4
+            },
+            "referenced_tweets": [
+                {
+                    "id": "1325538697857683457",
+                    "type": "retweeted"
+                }
+            ],
+            "reply_settings": "everyone",
+            "text": "RT @LecatAlex: @le_Parisien Cocasse de voir les m\u00e9dias nous \"informer\" de ce que va faire un pr\u00e9sident qui n'a pour l'heure \u00e9t\u00e9 \"\u00e9lu\" que p\u2026"
+        },
+        {
+            "author_id": "836369912239128576",
+            "conversation_id": "1325560187588063233",
+            "created_at": "2020-11-08T22:05:51.000Z",
+            "edit_history_tweet_ids": [
+                "1325560187588063233"
+            ],
+            "entities": {
+                "hashtags": [
+                    {
+                        "end": 40,
+                        "start": 34,
+                        "tag": "Messe"
+                    },
+                    {
+                        "end": 77,
+                        "start": 61,
+                        "tag": "VendeeGlobe2020"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 16,
+                        "id": "1949069192",
+                        "start": 3,
+                        "username": "PhdeVilliers"
+                    }
+                ]
+            },
+            "id": "1325560187588063233",
+            "lang": "fr",
+            "public_metrics": {
+                "impression_count": 0,
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 1250
+            },
+            "referenced_tweets": [
+                {
+                    "id": "1325369599945289728",
+                    "type": "retweeted"
+                }
+            ],
+            "reply_settings": "everyone",
+            "text": "RT @PhdeVilliers: Ce dimanche, la #Messe est interdite et le #VendeeGlobe2020, si cher \u00e0 mon coeur, est priv\u00e9 de public. La caste mondialis\u2026"
+        },
+        {
+            "author_id": "981872095540994049",
+            "conversation_id": "1325559864026951681",
+            "created_at": "2020-11-08T22:04:33.000Z",
+            "edit_history_tweet_ids": [
+                "1325559864026951681"
+            ],
+            "id": "1325559864026951681",
+            "lang": "fr",
+            "public_metrics": {
+                "impression_count": 0,
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 41
+            },
+            "referenced_tweets": [
+                {
+                    "id": "1325555711292678145",
+                    "type": "retweeted"
+                }
+            ],
+            "reply_settings": "everyone",
+            "text": "RT @LamineNdiay11: Chez moi c'est le S\u00e9n\u00e9gal. \nAu S\u00e9n\u00e9gal, il y a une caste de politiciens sans principe. Ils ont pris en otage le pays ; s\u2026"
+        },
+        {
+            "author_id": "2373854544",
+            "context_annotations": [
+                {
+                    "domain": {
+                        "description": "Franchises which span multiple forms of media like 'Harry Potter'",
+                        "id": "130",
+                        "name": "Multimedia Franchise"
+                    },
+                    "entity": {
+                        "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series, if applicable.\t\t\t",
+                        "id": "1154838532638138368",
+                        "name": "Berserk"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A taxonomy of user interests. ",
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy"
+                    },
+                    "entity": {
+                        "description": "Conversation about US Foreign Policy",
+                        "id": "847876936378441729",
+                        "name": "United States Foreign Policy"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A taxonomy of user interests. ",
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy"
+                    },
+                    "entity": {
+                        "description": "Politics",
+                        "id": "847878884917886977",
+                        "name": "Politics"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A taxonomy of user interests. ",
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy"
+                    },
+                    "entity": {
+                        "description": "Political issues",
+                        "id": "900740740468191232",
+                        "name": "Political issues"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A taxonomy of user interests. ",
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy"
+                    },
+                    "entity": {
+                        "description": "Conversation about India's healthcare system",
+                        "id": "958812704151543808",
+                        "name": "Healthcare System in India"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A taxonomy of user interests. ",
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy"
+                    },
+                    "entity": {
+                        "id": "1074757527995277313",
+                        "name": "Entertainment franchises"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A taxonomy of user interests. ",
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy"
+                    },
+                    "entity": {
+                        "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series, if applicable.\t\t\t",
+                        "id": "1154838532638138368",
+                        "name": "Berserk"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "Named people in the world like Nelson Mandela",
+                        "id": "10",
+                        "name": "Person"
+                    },
+                    "entity": {
+                        "description": "US President Joe Biden",
+                        "id": "10040395078",
+                        "name": "Joe Biden"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "Politicians in the world, like Joe Biden",
+                        "id": "35",
+                        "name": "Politician"
+                    },
+                    "entity": {
+                        "description": "US President Joe Biden",
+                        "id": "10040395078",
+                        "name": "Joe Biden"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A section of a government, like The Supreme Court",
+                        "id": "88",
+                        "name": "Political Body"
+                    },
+                    "entity": {
+                        "description": "US Department of State",
+                        "id": "854844910888902656",
+                        "name": "US Department of State"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A taxonomy of user interests. ",
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy"
+                    },
+                    "entity": {
+                        "description": "US President Joe Biden",
+                        "id": "10040395078",
+                        "name": "Joe Biden"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A taxonomy of user interests. ",
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy"
+                    },
+                    "entity": {
+                        "description": "Politics",
+                        "id": "847878884917886977",
+                        "name": "Politics"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A taxonomy of user interests. ",
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy"
+                    },
+                    "entity": {
+                        "description": "US Department of State",
+                        "id": "854844910888902656",
+                        "name": "US Department of State"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A taxonomy of user interests. ",
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy"
+                    },
+                    "entity": {
+                        "description": "Political Body",
+                        "id": "1068583660914266113",
+                        "name": "Government institutions"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A taxonomy of user interests. ",
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy"
+                    },
+                    "entity": {
+                        "description": "Politician",
+                        "id": "1070032753834438656",
+                        "name": "Political figures"
+                    }
+                }
+            ],
+            "conversation_id": "1325556709784477707",
+            "created_at": "2020-11-08T22:03:16.000Z",
+            "edit_history_tweet_ids": [
+                "1325559538926276609"
+            ],
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 26,
+                        "normalized_text": "Biden",
+                        "probability": 0.9277,
+                        "start": 22,
+                        "type": "Person"
+                    },
+                    {
+                        "end": 104,
+                        "normalized_text": "China",
+                        "probability": 0.9784,
+                        "start": 100,
+                        "type": "Place"
+                    },
+                    {
+                        "end": 116,
+                        "normalized_text": "India",
+                        "probability": 0.9871,
+                        "start": 112,
+                        "type": "Place"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 13,
+                        "id": "914927933378236416",
+                        "start": 0,
+                        "username": "BurntOutCase"
+                    }
+                ]
+            },
+            "id": "1325559538926276609",
+            "in_reply_to_user_id": "914927933378236416",
+            "lang": "en",
+            "public_metrics": {
+                "impression_count": 0,
+                "like_count": 2,
+                "quote_count": 0,
+                "reply_count": 1,
+                "retweet_count": 0
+            },
+            "referenced_tweets": [
+                {
+                    "id": "1325558280056410117",
+                    "type": "replied_to"
+                }
+            ],
+            "reply_settings": "everyone",
+            "text": "@BurntOutCase I think Biden the man is Good. But for me what matters the most is his policy towards China &amp; India. Will NGOs go berserk on support from State department? Etc. It's a fact that Democrats unleashed media hounding of hindus in the name of caste to bully us before elections"
+        },
+        {
+            "author_id": "1070645425978425344",
+            "conversation_id": "1325559476498345984",
+            "created_at": "2020-11-08T22:03:01.000Z",
+            "edit_history_tweet_ids": [
+                "1325559476498345984"
+            ],
+            "id": "1325559476498345984",
+            "lang": "fr",
+            "public_metrics": {
+                "impression_count": 0,
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 41
+            },
+            "referenced_tweets": [
+                {
+                    "id": "1325555711292678145",
+                    "type": "retweeted"
+                }
+            ],
+            "reply_settings": "everyone",
+            "text": "RT @LamineNdiay11: Chez moi c'est le S\u00e9n\u00e9gal. \nAu S\u00e9n\u00e9gal, il y a une caste de politiciens sans principe. Ils ont pris en otage le pays ; s\u2026"
+        },
+        {
+            "author_id": "1238064359911325697",
+            "conversation_id": "1325559438527361025",
+            "created_at": "2020-11-08T22:02:52.000Z",
+            "edit_history_tweet_ids": [
+                "1325559438527361025"
+            ],
+            "id": "1325559438527361025",
+            "lang": "fr",
+            "public_metrics": {
+                "impression_count": 0,
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 41
+            },
+            "referenced_tweets": [
+                {
+                    "id": "1325555711292678145",
+                    "type": "retweeted"
+                }
+            ],
+            "reply_settings": "everyone",
+            "text": "RT @LamineNdiay11: Chez moi c'est le S\u00e9n\u00e9gal. \nAu S\u00e9n\u00e9gal, il y a une caste de politiciens sans principe. Ils ont pris en otage le pays ; s\u2026"
+        },
+        {
+            "author_id": "1113185020322156544",
+            "conversation_id": "1325559406193479686",
+            "created_at": "2020-11-08T22:02:44.000Z",
+            "edit_history_tweet_ids": [
+                "1325559406193479686"
+            ],
+            "id": "1325559406193479686",
+            "lang": "fr",
+            "public_metrics": {
+                "impression_count": 0,
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 41
+            },
+            "referenced_tweets": [
+                {
+                    "id": "1325555711292678145",
+                    "type": "retweeted"
+                }
+            ],
+            "reply_settings": "everyone",
+            "text": "RT @LamineNdiay11: Chez moi c'est le S\u00e9n\u00e9gal. \nAu S\u00e9n\u00e9gal, il y a une caste de politiciens sans principe. Ils ont pris en otage le pays ; s\u2026"
+        }
+    ],
+    "meta": {
+        "newest_id": "1325571000457547776",
+        "next_token": "b26v89c19zqg8o3fosbu8w1ebo45nfdk0hf7rppcfshh9",
+        "oldest_id": "1325559406193479686",
+        "result_count": 77
+    }
+}

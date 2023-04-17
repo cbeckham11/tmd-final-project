@@ -1,0 +1,174 @@
+{
+    "data": [
+        {
+            "author_id": "1327280035523342336",
+            "conversation_id": "1327289621080895488",
+            "created_at": "2020-11-13T16:38:00.000Z",
+            "edit_history_tweet_ids": [
+                "1327289621080895488"
+            ],
+            "entities": {
+                "mentions": [
+                    {
+                        "end": 14,
+                        "id": "1168592684325490689",
+                        "start": 3,
+                        "username": "GlobalGsts"
+                    }
+                ]
+            },
+            "id": "1327289621080895488",
+            "lang": "en",
+            "public_metrics": {
+                "impression_count": 0,
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 16
+            },
+            "referenced_tweets": [
+                {
+                    "id": "1327268822206861314",
+                    "type": "retweeted"
+                }
+            ],
+            "reply_settings": "everyone",
+            "text": "RT @GlobalGsts: \u201cI am also extremely alarmed at reports of cuts to essential water and electricity supplies, in addition to the communicati\u2026"
+        },
+        {
+            "author_id": "3253086627",
+            "context_annotations": [
+                {
+                    "domain": {
+                        "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+                        "id": "30",
+                        "name": "Entities [Entity Service]"
+                    },
+                    "entity": {
+                        "description": "Technology and computing",
+                        "id": "848920371311001600",
+                        "name": "Technology"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+                        "id": "30",
+                        "name": "Entities [Entity Service]"
+                    },
+                    "entity": {
+                        "description": "Energy Technology",
+                        "id": "898654185146560512",
+                        "name": "Energy Technology"
+                    }
+                }
+            ],
+            "conversation_id": "1327289582732398594",
+            "created_at": "2020-11-13T16:37:51.000Z",
+            "edit_history_tweet_ids": [
+                "1327289582732398594"
+            ],
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 53,
+                        "normalized_text": "Tekeze Hydropower",
+                        "probability": 0.6486,
+                        "start": 37,
+                        "type": "Other"
+                    },
+                    {
+                        "end": 117,
+                        "normalized_text": "Mekelle",
+                        "probability": 0.9654,
+                        "start": 111,
+                        "type": "Place"
+                    },
+                    {
+                        "end": 135,
+                        "normalized_text": "TigrayGenocide",
+                        "probability": 0.4706,
+                        "start": 122,
+                        "type": "Place"
+                    }
+                ],
+                "hashtags": [
+                    {
+                        "end": 136,
+                        "start": 121,
+                        "tag": "TigrayGenocide"
+                    },
+                    {
+                        "end": 154,
+                        "start": 138,
+                        "tag": "StopWarOnTigray"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "pic.twitter.com/ew037mOgY2",
+                        "end": 178,
+                        "expanded_url": "https://twitter.com/hayet_alem/status/1327289582732398594/photo/1",
+                        "media_key": "3_1327289550654287874",
+                        "start": 155,
+                        "url": "https://t.co/ew037mOgY2"
+                    }
+                ]
+            },
+            "id": "1327289582732398594",
+            "lang": "en",
+            "public_metrics": {
+                "impression_count": 0,
+                "like_count": 15,
+                "quote_count": 0,
+                "reply_count": 1,
+                "retweet_count": 1
+            },
+            "reply_settings": "everyone",
+            "text": "Following the cowardice airstrike of Tekeze Hydropower, Power is restored after two days blackout, at least in Mekelle. \n#TigrayGenocide \n#StopWarOnTigray https://t.co/ew037mOgY2"
+        },
+        {
+            "author_id": "2774896428",
+            "conversation_id": "1327289439287128066",
+            "created_at": "2020-11-13T16:37:16.000Z",
+            "edit_history_tweet_ids": [
+                "1327289439287128066"
+            ],
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 27,
+                        "normalized_text": "Blackout Balter",
+                        "probability": 0.9714,
+                        "start": 13,
+                        "type": "Other"
+                    },
+                    {
+                        "end": 37,
+                        "normalized_text": "Wild One",
+                        "probability": 0.9494,
+                        "start": 30,
+                        "type": "Other"
+                    }
+                ]
+            },
+            "id": "1327289439287128066",
+            "lang": "en",
+            "public_metrics": {
+                "impression_count": 0,
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "reply_settings": "everyone",
+            "text": "Now playing: Blackout Balter, Wild One"
+        }
+    ],
+    "meta": {
+        "newest_id": "1327289621080895488",
+        "next_token": "b26v89c19zqg8o3fosbv30w032cvf9xtmtdo16ptl7jb1",
+        "oldest_id": "1327289439287128066",
+        "result_count": 3
+    }
+}

@@ -1,0 +1,4346 @@
+{
+    "data": [
+        {
+            "author_id": "756037661882716160",
+            "context_annotations": [
+                {
+                    "domain": {
+                        "description": "Named people in the world like Nelson Mandela",
+                        "id": "10",
+                        "name": "Person"
+                    },
+                    "entity": {
+                        "description": "Greta Thunberg",
+                        "id": "1118130254759915520",
+                        "name": "Greta Thunberg"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+                        "id": "30",
+                        "name": "Entities [Entity Service]"
+                    },
+                    "entity": {
+                        "id": "781974596752842752",
+                        "name": "Services"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "Brands and Companies",
+                        "id": "47",
+                        "name": "Brand"
+                    },
+                    "entity": {
+                        "id": "10045225402",
+                        "name": "Twitter"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A taxonomy of user interests. ",
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy"
+                    },
+                    "entity": {
+                        "id": "10045225402",
+                        "name": "Twitter"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A taxonomy of user interests. ",
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy"
+                    },
+                    "entity": {
+                        "description": "Politics",
+                        "id": "847878884917886977",
+                        "name": "Politics"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A taxonomy of user interests. ",
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy"
+                    },
+                    "entity": {
+                        "description": "Politician",
+                        "id": "1070032753834438656",
+                        "name": "Political figures"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A taxonomy of user interests. ",
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy"
+                    },
+                    "entity": {
+                        "description": "Greta Thunberg",
+                        "id": "1118130254759915520",
+                        "name": "Greta Thunberg"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A taxonomy of user interests. ",
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy"
+                    },
+                    "entity": {
+                        "id": "1196446161223028736",
+                        "name": "Social media"
+                    }
+                }
+            ],
+            "conversation_id": "1325032836890583040",
+            "created_at": "2020-11-07T11:10:20.000Z",
+            "edit_history_tweet_ids": [
+                "1325032836890583040"
+            ],
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 27,
+                        "normalized_text": "GretaThunberg",
+                        "probability": 0.9244,
+                        "start": 15,
+                        "type": "Person"
+                    },
+                    {
+                        "end": 39,
+                        "normalized_text": "Twitter",
+                        "probability": 0.9391,
+                        "start": 33,
+                        "type": "Other"
+                    }
+                ],
+                "hashtags": [
+                    {
+                        "end": 28,
+                        "start": 14,
+                        "tag": "GretaThunberg"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 12,
+                        "id": "26020465",
+                        "start": 3,
+                        "username": "ETCanada"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "etcnda.com/P49J50Cd3zA",
+                        "end": 65,
+                        "expanded_url": "http://etcnda.com/P49J50Cd3zA",
+                        "start": 42,
+                        "status": 200,
+                        "unwound_url": "https://etcanada.com/news/710619/greta-thunberg-throws-shade-at-donald-trump-using-his-own-words/",
+                        "url": "https://t.co/KFnWM10oPc"
+                    }
+                ]
+            },
+            "id": "1325032836890583040",
+            "lang": "en",
+            "public_metrics": {
+                "impression_count": 0,
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 3
+            },
+            "referenced_tweets": [
+                {
+                    "id": "1324694316246323200",
+                    "type": "retweeted"
+                }
+            ],
+            "reply_settings": "everyone",
+            "text": "RT @ETCanada: #GretaThunberg won Twitter \nhttps://t.co/KFnWM10oPc"
+        },
+        {
+            "author_id": "203038567",
+            "conversation_id": "1325032792867139584",
+            "created_at": "2020-11-07T11:10:10.000Z",
+            "edit_history_tweet_ids": [
+                "1325032792867139584"
+            ],
+            "entities": {
+                "urls": [
+                    {
+                        "display_url": "twitter.com/Sipho_Says/sta\u2026",
+                        "end": 30,
+                        "expanded_url": "https://twitter.com/Sipho_Says/status/1325024565085532160",
+                        "start": 7,
+                        "url": "https://t.co/loaYNSO1vm"
+                    }
+                ]
+            },
+            "id": "1325032792867139584",
+            "lang": "en",
+            "public_metrics": {
+                "impression_count": 0,
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "referenced_tweets": [
+                {
+                    "id": "1325024565085532160",
+                    "type": "quoted"
+                }
+            ],
+            "reply_settings": "everyone",
+            "text": "Shade. https://t.co/loaYNSO1vm"
+        },
+        {
+            "author_id": "135115367",
+            "conversation_id": "1325032773162315776",
+            "created_at": "2020-11-07T11:10:05.000Z",
+            "edit_history_tweet_ids": [
+                "1325032773162315776"
+            ],
+            "entities": {
+                "hashtags": [
+                    {
+                        "end": 224,
+                        "start": 212,
+                        "tag": "beautyworks"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 14,
+                        "id": "2631622618",
+                        "start": 0,
+                        "username": "mollymaehague"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "bit.ly/double-hair-set",
+                        "end": 181,
+                        "expanded_url": "http://bit.ly/double-hair-set",
+                        "start": 158,
+                        "url": "https://t.co/dGial0H0QV"
+                    },
+                    {
+                        "display_url": "bit.ly/The-Waver-Kit",
+                        "end": 209,
+                        "expanded_url": "https://bit.ly/The-Waver-Kit",
+                        "start": 186,
+                        "url": "https://t.co/JVpXTC8OVi"
+                    },
+                    {
+                        "display_url": "pic.twitter.com/jNtRYHzXk6",
+                        "end": 248,
+                        "expanded_url": "https://twitter.com/beauty_works/status/1325032773162315776/photo/1",
+                        "media_key": "3_1325032771228725253",
+                        "start": 225,
+                        "url": "https://t.co/jNtRYHzXk6"
+                    },
+                    {
+                        "display_url": "pic.twitter.com/jNtRYHzXk6",
+                        "end": 248,
+                        "expanded_url": "https://twitter.com/beauty_works/status/1325032773162315776/photo/1",
+                        "media_key": "3_1325032771119689728",
+                        "start": 225,
+                        "url": "https://t.co/jNtRYHzXk6"
+                    }
+                ]
+            },
+            "id": "1325032773162315776",
+            "in_reply_to_user_id": "2631622618",
+            "lang": "en",
+            "public_metrics": {
+                "impression_count": 0,
+                "like_count": 6,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "reply_settings": "everyone",
+            "text": "@mollymaehague living our \ud835\udd5e\ud835\udd56\ud835\udd63\ud835\udd5e\ud835\udd52\ud835\udd5a\ud835\udd55 \ud835\udd57\ud835\udd52\ud835\udd5f\ud835\udd65\ud835\udd52\ud835\udd64\ud835\udd6a \ud83e\udddc\u200d\u2640\ufe0f wearing 22\u201d Double Hair Set in new shade \u2018\ud835\ude3e\ud835\ude56\ud835\ude61\ud835\ude56\ud835\ude57\ud835\ude56\ud835\ude68\ud835\ude56\ud835\ude68\u2019 styled with the \ud835\uddd5\ud835\uddf2\ud835\uddee\ud835\ude02\ud835\ude01\ud835\ude06 \ud835\uddea\ud835\uddfc\ud835\uddff\ud835\uddf8\ud835\ude00 \ud835\ude05 \ud835\udde0\ud835\uddfc\ud835\uddf9\ud835\uddf9\ud835\ude06-\ud835\udde0\ud835\uddee\ud835\uddf2 \ud835\uddea\ud835\uddee\ud835\ude03\ud835\uddf2\ud835\uddff \ud835\uddde\ud835\uddf6\ud835\ude01 \u2728 \n\n\ud83d\udecd\ufe0f https://t.co/dGial0H0QV\n\n\ud83d\udecd\ufe0f https://t.co/JVpXTC8OVi \n\n#beautyworks https://t.co/jNtRYHzXk6"
+        },
+        {
+            "author_id": "194529120",
+            "context_annotations": [
+                {
+                    "domain": {
+                        "description": "Top level entities that describe a Brands industry",
+                        "id": "45",
+                        "name": "Brand Vertical"
+                    },
+                    "entity": {
+                        "id": "781974597310615553",
+                        "name": "Entertainment"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+                        "id": "30",
+                        "name": "Entities [Entity Service]"
+                    },
+                    "entity": {
+                        "id": "781974597105094656",
+                        "name": "TV/Movies Related - Entertainment"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "Brands and Companies",
+                        "id": "47",
+                        "name": "Brand"
+                    },
+                    "entity": {
+                        "id": "10026367762",
+                        "name": "Netflix"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A taxonomy of user interests. ",
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy"
+                    },
+                    "entity": {
+                        "id": "10026367762",
+                        "name": "Netflix"
+                    }
+                }
+            ],
+            "conversation_id": "1325017989004079105",
+            "created_at": "2020-11-07T11:09:46.000Z",
+            "edit_history_tweet_ids": [
+                "1325032691620835328"
+            ],
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 214,
+                        "normalized_text": "Netflix",
+                        "probability": 0.9643,
+                        "start": 208,
+                        "type": "Organization"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 9,
+                        "id": "90316203",
+                        "start": 0,
+                        "username": "iSlimfit"
+                    }
+                ]
+            },
+            "id": "1325032691620835328",
+            "in_reply_to_user_id": "90316203",
+            "lang": "en",
+            "public_metrics": {
+                "impression_count": 0,
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "referenced_tweets": [
+                {
+                    "id": "1325017989004079105",
+                    "type": "replied_to"
+                }
+            ],
+            "reply_settings": "everyone",
+            "text": "@iSlimfit Nothing tangible will come out of the panel in the first place. It's all anothet glamorous shade of media trial. Thot we all would have known by now. Those who ordered the killings are watching our Netflix"
+        },
+        {
+            "author_id": "943439792599158784",
+            "context_annotations": [
+                {
+                    "domain": {
+                        "description": "A taxonomy of user interests. ",
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy"
+                    },
+                    "entity": {
+                        "description": "US National News",
+                        "id": "1003932601839579136",
+                        "name": "US national news"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A taxonomy of user interests. ",
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy"
+                    },
+                    "entity": {
+                        "description": "News",
+                        "id": "1046545033657081857",
+                        "name": "News"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A taxonomy of user interests. ",
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy"
+                    },
+                    "entity": {
+                        "id": "1286379401228124160",
+                        "name": "Americas"
+                    }
+                }
+            ],
+            "conversation_id": "1324777686967922688",
+            "created_at": "2020-11-07T11:09:34.000Z",
+            "edit_history_tweet_ids": [
+                "1325032642841075712"
+            ],
+            "entities": {
+                "mentions": [
+                    {
+                        "end": 16,
+                        "id": "1332918619",
+                        "start": 0,
+                        "username": "TheSeaIslandSon"
+                    },
+                    {
+                        "end": 31,
+                        "id": "1302871019166801920",
+                        "start": 17,
+                        "username": "Dude_Gotta_Go"
+                    },
+                    {
+                        "end": 57,
+                        "id": "50669520",
+                        "start": 42,
+                        "username": "DrJasonJohnson"
+                    }
+                ]
+            },
+            "id": "1325032642841075712",
+            "in_reply_to_user_id": "1332918619",
+            "lang": "en",
+            "public_metrics": {
+                "impression_count": 0,
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 1,
+                "retweet_count": 0
+            },
+            "referenced_tweets": [
+                {
+                    "id": "1325027081747623936",
+                    "type": "replied_to"
+                }
+            ],
+            "reply_settings": "everyone",
+            "text": "@TheSeaIslandSon @Dude_Gotta_Go @cjstar30 @DrJasonJohnson The govt, if they agreed, would pass this cost onto the rest of the country which includes Latinos, Asian American, Jews, east Indians and native Americans not connected to a tribe. How is that fair to those groups of non whites? Or is it \" we need ours now\"? No shade for real."
+        },
+        {
+            "author_id": "817033441761849345",
+            "conversation_id": "1325032502394679296",
+            "created_at": "2020-11-07T11:09:01.000Z",
+            "edit_history_tweet_ids": [
+                "1325032502394679296"
+            ],
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 119,
+                        "normalized_text": "xenon INORI Kung-fu Empire the shadow Programmed Sun SHADE \u5275\u4e16\u30ce\u30fc\u30c8 MINT \u9f8d\u3068\u5c11\u5973\u3068\u30c7\u30b3\u30d2\u30fc\u30ec\u30f3\u30b9 New Decade You\u2019ll say",
+                        "probability": 0.0153,
+                        "start": 16,
+                        "type": "Other"
+                    }
+                ]
+            },
+            "id": "1325032502394679296",
+            "lang": "ja",
+            "public_metrics": {
+                "impression_count": 0,
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "reply_settings": "everyone",
+            "text": "\u5730\u529b\u4e0a\u3052\u3088\u3046\uff01\u260611\u4e2d\uff5e\u4e0a\u4f4d\u7de8\nxenon\nINORI\nKung-fu Empire\nthe shadow\nProgrammed Sun\nSHADE\n\u5275\u4e16\u30ce\u30fc\u30c8\nMINT\n\u9f8d\u3068\u5c11\u5973\u3068\u30c7\u30b3\u30d2\u30fc\u30ec\u30f3\u30b9\nNew Decade\nYou\u2019ll say \u201cNow!\u201d\nB4U(MIX)\n\u306a\u3069"
+        },
+        {
+            "author_id": "2962541618",
+            "conversation_id": "1324954676564021248",
+            "created_at": "2020-11-07T11:08:47.000Z",
+            "edit_history_tweet_ids": [
+                "1325032445457158144"
+            ],
+            "entities": {
+                "mentions": [
+                    {
+                        "end": 16,
+                        "id": "80446391",
+                        "start": 0,
+                        "username": "A_Shade_Of_Jade"
+                    }
+                ]
+            },
+            "id": "1325032445457158144",
+            "in_reply_to_user_id": "80446391",
+            "lang": "en",
+            "public_metrics": {
+                "impression_count": 0,
+                "like_count": 1,
+                "quote_count": 0,
+                "reply_count": 1,
+                "retweet_count": 0
+            },
+            "referenced_tweets": [
+                {
+                    "id": "1324954676564021248",
+                    "type": "replied_to"
+                }
+            ],
+            "reply_settings": "everyone",
+            "text": "@A_Shade_Of_Jade Water?"
+        },
+        {
+            "author_id": "626915926",
+            "context_annotations": [
+                {
+                    "domain": {
+                        "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+                        "id": "30",
+                        "name": "Entities [Entity Service]"
+                    },
+                    "entity": {
+                        "id": "781974596752842752",
+                        "name": "Services"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "Brands and Companies",
+                        "id": "47",
+                        "name": "Brand"
+                    },
+                    "entity": {
+                        "id": "10045225402",
+                        "name": "Twitter"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A taxonomy of user interests. ",
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy"
+                    },
+                    "entity": {
+                        "id": "10045225402",
+                        "name": "Twitter"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A taxonomy of user interests. ",
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy"
+                    },
+                    "entity": {
+                        "id": "1196446161223028736",
+                        "name": "Social media"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "Named people in the world like Nelson Mandela",
+                        "id": "10",
+                        "name": "Person"
+                    },
+                    "entity": {
+                        "description": "Chrissy Teigen",
+                        "id": "809862557691363328",
+                        "name": "Chrissy Teigen"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "An entertainment personality in the world, like Anderson Cooper or Miranda Sings",
+                        "id": "58",
+                        "name": "Entertainment Personality"
+                    },
+                    "entity": {
+                        "description": "Chrissy Teigen",
+                        "id": "809862557691363328",
+                        "name": "Chrissy Teigen"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A taxonomy of user interests. ",
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy"
+                    },
+                    "entity": {
+                        "description": "Chrissy Teigen",
+                        "id": "809862557691363328",
+                        "name": "Chrissy Teigen"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A taxonomy of user interests. ",
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy"
+                    },
+                    "entity": {
+                        "description": "Celebrities",
+                        "id": "1095352268046495745",
+                        "name": "Celebrities"
+                    }
+                }
+            ],
+            "conversation_id": "1325032438221975554",
+            "created_at": "2020-11-07T11:08:45.000Z",
+            "edit_history_tweet_ids": [
+                "1325032438221975554"
+            ],
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 71,
+                        "normalized_text": "Twitter",
+                        "probability": 0.9539,
+                        "start": 65,
+                        "type": "Other"
+                    },
+                    {
+                        "end": 125,
+                        "normalized_text": "Chrissy",
+                        "probability": 0.6391,
+                        "start": 119,
+                        "type": "Other"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 58,
+                        "id": "39364684",
+                        "start": 44,
+                        "username": "chrissyteigen"
+                    }
+                ]
+            },
+            "id": "1325032438221975554",
+            "lang": "en",
+            "public_metrics": {
+                "impression_count": 0,
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "reply_settings": "everyone",
+            "text": "I miss the days of reading why people hated @chrissyteigen on my Twitter... I\u2019m so over this election...   no shade to Chrissy I like her. \ud83d\udc97"
+        },
+        {
+            "author_id": "1292522559104339969",
+            "context_annotations": [
+                {
+                    "domain": {
+                        "description": "Named people in the world like Nelson Mandela",
+                        "id": "10",
+                        "name": "Person"
+                    },
+                    "entity": {
+                        "id": "844438182523383808",
+                        "name": "BTS"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "Named people in the world like Nelson Mandela",
+                        "id": "10",
+                        "name": "Person"
+                    },
+                    "entity": {
+                        "description": "Jin (\uc9c4) - member of BTS",
+                        "id": "895369606746873856",
+                        "name": "Jin"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A musician in the world, like Adele or Bob Dylan",
+                        "id": "54",
+                        "name": "Musician"
+                    },
+                    "entity": {
+                        "id": "844438182523383808",
+                        "name": "BTS"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A musician in the world, like Adele or Bob Dylan",
+                        "id": "54",
+                        "name": "Musician"
+                    },
+                    "entity": {
+                        "description": "Jin (\uc9c4) - member of BTS",
+                        "id": "895369606746873856",
+                        "name": "Jin"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A category for a musical style, like Pop, Rock, or Rap",
+                        "id": "55",
+                        "name": "Music Genre"
+                    },
+                    "entity": {
+                        "description": "K-Pop",
+                        "id": "888105153038958593",
+                        "name": "K-pop"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A taxonomy of user interests. ",
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy"
+                    },
+                    "entity": {
+                        "id": "844438182523383808",
+                        "name": "BTS"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A taxonomy of user interests. ",
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy"
+                    },
+                    "entity": {
+                        "description": "Music and radio",
+                        "id": "847524658970636288",
+                        "name": "Music"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A taxonomy of user interests. ",
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy"
+                    },
+                    "entity": {
+                        "description": "K-Pop",
+                        "id": "888105153038958593",
+                        "name": "K-pop"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A taxonomy of user interests. ",
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy"
+                    },
+                    "entity": {
+                        "description": "Jin (\uc9c4) - member of BTS",
+                        "id": "895369606746873856",
+                        "name": "Jin"
+                    }
+                }
+            ],
+            "conversation_id": "1325032435080421377",
+            "created_at": "2020-11-07T11:08:45.000Z",
+            "edit_history_tweet_ids": [
+                "1325032435080421377"
+            ],
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 27,
+                        "normalized_text": "SEOKJIN",
+                        "probability": 0.8673,
+                        "start": 21,
+                        "type": "Person"
+                    }
+                ],
+                "hashtags": [
+                    {
+                        "end": 28,
+                        "start": 20,
+                        "tag": "SEOKJIN"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 37,
+                        "id": "335141638",
+                        "start": 29,
+                        "username": "BTS_twt"
+                    }
+                ]
+            },
+            "id": "1325032435080421377",
+            "lang": "en",
+            "public_metrics": {
+                "impression_count": 0,
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 60
+            },
+            "referenced_tweets": [
+                {
+                    "id": "1324715035940188160",
+                    "type": "retweeted"
+                }
+            ],
+            "reply_settings": "everyone",
+            "text": "RT @IpurpleJimin13: #SEOKJIN @BTS_twt chose light colours! Specifically light purple, pink and white~ kinda cool lavender shade and white.\u2026"
+        },
+        {
+            "author_id": "739099582454484992",
+            "conversation_id": "1325032423030185984",
+            "created_at": "2020-11-07T11:08:42.000Z",
+            "edit_history_tweet_ids": [
+                "1325032423030185984"
+            ],
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 124,
+                        "normalized_text": "Victor Hugo",
+                        "probability": 0.9438,
+                        "start": 114,
+                        "type": "Person"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 16,
+                        "id": "2734953286",
+                        "start": 3,
+                        "username": "ramblingsloa"
+                    }
+                ]
+            },
+            "id": "1325032423030185984",
+            "lang": "en",
+            "public_metrics": {
+                "impression_count": 0,
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 363
+            },
+            "referenced_tweets": [
+                {
+                    "id": "1324969865749405696",
+                    "type": "retweeted"
+                }
+            ],
+            "reply_settings": "everyone",
+            "text": "RT @ramblingsloa: The great acts of love are done by those who are habitually performing small acts of kindness.\n\nVictor Hugo\n\ud83c\udfacLove Shade f\u2026"
+        },
+        {
+            "author_id": "855105541",
+            "context_annotations": [
+                {
+                    "domain": {
+                        "description": "Top level interests and hobbies groupings, like Food or Travel",
+                        "id": "65",
+                        "name": "Interests and Hobbies Vertical"
+                    },
+                    "entity": {
+                        "description": "Family and Life Stages",
+                        "id": "864925500627484672",
+                        "name": "Family and life stages"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+                        "id": "66",
+                        "name": "Interests and Hobbies Category"
+                    },
+                    "entity": {
+                        "description": "Dads",
+                        "id": "847545883637891072",
+                        "name": "Fatherhood"
+                    }
+                }
+            ],
+            "conversation_id": "1325032395964346369",
+            "created_at": "2020-11-07T11:08:38.000Z",
+            "edit_history_tweet_ids": [
+                "1325032409243529216"
+            ],
+            "id": "1325032409243529216",
+            "in_reply_to_user_id": "855105541",
+            "lang": "en",
+            "public_metrics": {
+                "impression_count": 0,
+                "like_count": 1,
+                "quote_count": 0,
+                "reply_count": 1,
+                "retweet_count": 0
+            },
+            "referenced_tweets": [
+                {
+                    "id": "1325032407460958208",
+                    "type": "replied_to"
+                }
+            ],
+            "reply_settings": "everyone",
+            "text": "This light been shade will make an difference on putting out the truth it says it all when his eldest child says am more alright then his father will ever be, there more then happy to give statements to back this up to which I\u2019ve put them in touch with correct officers(6/?)"
+        },
+        {
+            "author_id": "855105541",
+            "conversation_id": "1325032395964346369",
+            "created_at": "2020-11-07T11:08:37.000Z",
+            "edit_history_tweet_ids": [
+                "1325032402905948160"
+            ],
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 228,
+                        "normalized_text": "John",
+                        "probability": 0.5837,
+                        "start": 225,
+                        "type": "Person"
+                    }
+                ]
+            },
+            "id": "1325032402905948160",
+            "in_reply_to_user_id": "855105541",
+            "lang": "en",
+            "public_metrics": {
+                "impression_count": 0,
+                "like_count": 1,
+                "quote_count": 0,
+                "reply_count": 1,
+                "retweet_count": 0
+            },
+            "referenced_tweets": [
+                {
+                    "id": "1325032400435503104",
+                    "type": "replied_to"
+                }
+            ],
+            "reply_settings": "everyone",
+            "text": "There\u2019s been an cover up somewhere along the line within the railways on helping him groom an underage lass now we have shade some light on it my team will offer to protect to victim if she chooses to speak out again against John because this will &amp; trutly put him where he"
+        },
+        {
+            "author_id": "272352851",
+            "conversation_id": "1325032397511954432",
+            "created_at": "2020-11-07T11:08:36.000Z",
+            "edit_history_tweet_ids": [
+                "1325032397511954432"
+            ],
+            "entities": {
+                "urls": [
+                    {
+                        "display_url": "twitter.com/ehlucunih/stat\u2026",
+                        "end": 113,
+                        "expanded_url": "https://twitter.com/ehlucunih/status/1324781155959205888",
+                        "start": 90,
+                        "url": "https://t.co/ECW4ONyBfu"
+                    }
+                ]
+            },
+            "id": "1325032397511954432",
+            "lang": "in",
+            "public_metrics": {
+                "impression_count": 0,
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 1
+            },
+            "referenced_tweets": [
+                {
+                    "id": "1325030740711546882",
+                    "type": "retweeted"
+                }
+            ],
+            "reply_settings": "everyone",
+            "text": "RT @base_lapak: LAPAK cakep banget sumpaahh, cus ke oren ada pilihan shade lengkapnya \ud83d\udc47\ud83c\udffb\ud83d\udc47\ud83c\udffbhttps://t.co/ECW4ONyBfu"
+        },
+        {
+            "author_id": "103275055",
+            "conversation_id": "1325032393334468609",
+            "created_at": "2020-11-07T11:08:35.000Z",
+            "edit_history_tweet_ids": [
+                "1325032393334468609"
+            ],
+            "entities": {
+                "urls": [
+                    {
+                        "display_url": "twitter.com/GretaThunberg/\u2026",
+                        "end": 90,
+                        "expanded_url": "https://twitter.com/GretaThunberg/status/1324439705522524162",
+                        "start": 67,
+                        "url": "https://t.co/3jER7DEDfj"
+                    }
+                ]
+            },
+            "id": "1325032393334468609",
+            "lang": "en",
+            "public_metrics": {
+                "impression_count": 0,
+                "like_count": 1,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "referenced_tweets": [
+                {
+                    "id": "1324439705522524162",
+                    "type": "quoted"
+                }
+            ],
+            "reply_settings": "everyone",
+            "text": "Shade, coming from the young &amp; green. Well played, well played https://t.co/3jER7DEDfj"
+        },
+        {
+            "author_id": "2207826229",
+            "conversation_id": "1325032316834557952",
+            "created_at": "2020-11-07T11:08:16.000Z",
+            "edit_history_tweet_ids": [
+                "1325032316834557952"
+            ],
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 165,
+                        "normalized_text": "Ethiopia",
+                        "probability": 0.8457,
+                        "start": 158,
+                        "type": "Place"
+                    }
+                ]
+            },
+            "id": "1325032316834557952",
+            "lang": "en",
+            "public_metrics": {
+                "impression_count": 0,
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "reply_settings": "everyone",
+            "text": "The best solution is only peace for political gain; otherwise those who try to use gun-power to gain what they want will end up being destroyed by gun-power. Ethiopia does not need war anymore. War destroyed us so far. Enough is enough. No blood shade hereafter."
+        },
+        {
+            "author_id": "1310610370952749056",
+            "context_annotations": [
+                {
+                    "domain": {
+                        "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+                        "id": "30",
+                        "name": "Entities [Entity Service]"
+                    },
+                    "entity": {
+                        "description": "Meals",
+                        "id": "1034860760093024257",
+                        "name": "Meals"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+                        "id": "30",
+                        "name": "Entities [Entity Service]"
+                    },
+                    "entity": {
+                        "description": "This entity tracks all conversations that mention dinner.",
+                        "id": "1006588737344507905",
+                        "name": "Dinner"
+                    }
+                }
+            ],
+            "conversation_id": "1325032221095337984",
+            "created_at": "2020-11-07T11:07:54.000Z",
+            "edit_history_tweet_ids": [
+                "1325032221095337984"
+            ],
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 75,
+                        "normalized_text": "Cola Shades",
+                        "probability": 0.5306,
+                        "start": 65,
+                        "type": "Other"
+                    }
+                ],
+                "hashtags": [
+                    {
+                        "end": 192,
+                        "start": 179,
+                        "tag": "vapeabudhabi"
+                    },
+                    {
+                        "end": 201,
+                        "start": 193,
+                        "tag": "vapeuae"
+                    },
+                    {
+                        "end": 215,
+                        "start": 202,
+                        "tag": "abudhabivape"
+                    },
+                    {
+                        "end": 231,
+                        "start": 216,
+                        "tag": "vapingabudhabi"
+                    },
+                    {
+                        "end": 242,
+                        "start": 232,
+                        "tag": "vapedubai"
+                    },
+                    {
+                        "end": 258,
+                        "start": 243,
+                        "tag": "vapersabudhabi"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "vape-abudhabi.com",
+                        "end": 178,
+                        "expanded_url": "https://vape-abudhabi.com/",
+                        "start": 155,
+                        "url": "https://t.co/T578mVq3IJ"
+                    },
+                    {
+                        "display_url": "pic.twitter.com/O853BVyMso",
+                        "end": 282,
+                        "expanded_url": "https://twitter.com/AbudhabiVape/status/1325032221095337984/photo/1",
+                        "media_key": "3_1325031729686478848",
+                        "start": 259,
+                        "url": "https://t.co/O853BVyMso"
+                    }
+                ]
+            },
+            "id": "1325032221095337984",
+            "lang": "en",
+            "public_metrics": {
+                "impression_count": 0,
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "reply_settings": "everyone",
+            "text": "Cola shade ice by Dinner lady, Inspired by the classic beverage, Cola Shades incorporates koolada for a refreshing lemon exhale!\nTake your cola puff soon!\nhttps://t.co/T578mVq3IJ\n#vapeabudhabi #vapeuae #abudhabivape #vapingabudhabi #vapedubai #vapersabudhabi https://t.co/O853BVyMso"
+        },
+        {
+            "author_id": "613374573",
+            "context_annotations": [
+                {
+                    "domain": {
+                        "description": "Franchises which span multiple forms of media like 'Harry Potter'",
+                        "id": "130",
+                        "name": "Multimedia Franchise"
+                    },
+                    "entity": {
+                        "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series, if applicable.\t\t\t",
+                        "id": "1161276700107264001",
+                        "name": "Sailor Moon"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A taxonomy of user interests. ",
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy"
+                    },
+                    "entity": {
+                        "id": "1074757527995277313",
+                        "name": "Entertainment franchises"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A taxonomy of user interests. ",
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy"
+                    },
+                    "entity": {
+                        "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series, if applicable.\t\t\t",
+                        "id": "1161276700107264001",
+                        "name": "Sailor Moon"
+                    }
+                }
+            ],
+            "conversation_id": "1325032148118671360",
+            "created_at": "2020-11-07T11:07:36.000Z",
+            "edit_history_tweet_ids": [
+                "1325032148118671360"
+            ],
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 62,
+                        "normalized_text": "sailor moon",
+                        "probability": 0.6019,
+                        "start": 52,
+                        "type": "Other"
+                    }
+                ]
+            },
+            "id": "1325032148118671360",
+            "lang": "en",
+            "public_metrics": {
+                "impression_count": 0,
+                "like_count": 1,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "reply_settings": "everyone",
+            "text": "I love the friendship between the sailor scouts and sailor moon the shade is hilarious \ud83d\ude02\ud83d\ude02"
+        },
+        {
+            "author_id": "1224184385957593088",
+            "context_annotations": [
+                {
+                    "domain": {
+                        "description": "Named people in the world like Nelson Mandela",
+                        "id": "10",
+                        "name": "Person"
+                    },
+                    "entity": {
+                        "description": "45th US President, Donald Trump",
+                        "id": "799022225751871488",
+                        "name": "Donald Trump"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "Real world events. ",
+                        "id": "29",
+                        "name": "Events [Entity Service]"
+                    },
+                    "entity": {
+                        "description": "2020 US Presidential Election",
+                        "id": "1029453725360775168",
+                        "name": "2020 US Presidential Election"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "Politicians in the world, like Joe Biden",
+                        "id": "35",
+                        "name": "Politician"
+                    },
+                    "entity": {
+                        "description": "45th US President, Donald Trump",
+                        "id": "799022225751871488",
+                        "name": "Donald Trump"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A taxonomy of user interests. ",
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy"
+                    },
+                    "entity": {
+                        "description": "45th US President, Donald Trump",
+                        "id": "799022225751871488",
+                        "name": "Donald Trump"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A taxonomy of user interests. ",
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy"
+                    },
+                    "entity": {
+                        "description": "Politics",
+                        "id": "847878884917886977",
+                        "name": "Politics"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A taxonomy of user interests. ",
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy"
+                    },
+                    "entity": {
+                        "description": "2020 US Presidential Election",
+                        "id": "1029453725360775168",
+                        "name": "2020 US Presidential Election"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A taxonomy of user interests. ",
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy"
+                    },
+                    "entity": {
+                        "description": "Politician",
+                        "id": "1070032753834438656",
+                        "name": "Political figures"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "Named people in the world like Nelson Mandela",
+                        "id": "10",
+                        "name": "Person"
+                    },
+                    "entity": {
+                        "description": "US President Joe Biden",
+                        "id": "10040395078",
+                        "name": "Joe Biden"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "Politicians in the world, like Joe Biden",
+                        "id": "35",
+                        "name": "Politician"
+                    },
+                    "entity": {
+                        "description": "US President Joe Biden",
+                        "id": "10040395078",
+                        "name": "Joe Biden"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A taxonomy of user interests. ",
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy"
+                    },
+                    "entity": {
+                        "description": "US President Joe Biden",
+                        "id": "10040395078",
+                        "name": "Joe Biden"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A taxonomy of user interests. ",
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy"
+                    },
+                    "entity": {
+                        "description": "Politics",
+                        "id": "847878884917886977",
+                        "name": "Politics"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A taxonomy of user interests. ",
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy"
+                    },
+                    "entity": {
+                        "description": "Politician",
+                        "id": "1070032753834438656",
+                        "name": "Political figures"
+                    }
+                }
+            ],
+            "conversation_id": "1325032136114491393",
+            "created_at": "2020-11-07T11:07:33.000Z",
+            "edit_history_tweet_ids": [
+                "1325032136114491393"
+            ],
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 19,
+                        "normalized_text": "Biden",
+                        "probability": 0.9444,
+                        "start": 15,
+                        "type": "Person"
+                    },
+                    {
+                        "end": 31,
+                        "normalized_text": "Trump",
+                        "probability": 0.958,
+                        "start": 27,
+                        "type": "Person"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 13,
+                        "id": "1248259470",
+                        "start": 3,
+                        "username": "theemmavo"
+                    }
+                ]
+            },
+            "id": "1325032136114491393",
+            "lang": "en",
+            "public_metrics": {
+                "impression_count": 0,
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 8
+            },
+            "referenced_tweets": [
+                {
+                    "id": "1324663413524492289",
+                    "type": "retweeted"
+                }
+            ],
+            "reply_settings": "everyone",
+            "text": "RT @theemmavo: Biden - 264\nTrump - 214\nThe Shade - 96\u00b0"
+        },
+        {
+            "author_id": "172270411",
+            "context_annotations": [
+                {
+                    "domain": {
+                        "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+                        "id": "30",
+                        "name": "Entities [Entity Service]"
+                    },
+                    "entity": {
+                        "description": "Food",
+                        "id": "825047692124442624",
+                        "name": "Food"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "Top level interests and hobbies groupings, like Food or Travel",
+                        "id": "65",
+                        "name": "Interests and Hobbies Vertical"
+                    },
+                    "entity": {
+                        "description": "Drinks",
+                        "id": "834828264786898945",
+                        "name": "Drinks"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+                        "id": "66",
+                        "name": "Interests and Hobbies Category"
+                    },
+                    "entity": {
+                        "description": "Generic Drinks",
+                        "id": "834828445238431744",
+                        "name": "Generic Drinks"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+                        "id": "67",
+                        "name": "Interests and Hobbies"
+                    },
+                    "entity": {
+                        "description": "Soda",
+                        "id": "850143755873140737",
+                        "name": "Soda"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A taxonomy of user interests. ",
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy"
+                    },
+                    "entity": {
+                        "description": "Drinks",
+                        "id": "834828264786898945",
+                        "name": "Drinks"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A taxonomy of user interests. ",
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy"
+                    },
+                    "entity": {
+                        "description": "Soda",
+                        "id": "850143755873140737",
+                        "name": "Soda"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "Top level interests and hobbies groupings, like Food or Travel",
+                        "id": "65",
+                        "name": "Interests and Hobbies Vertical"
+                    },
+                    "entity": {
+                        "description": "Beauty",
+                        "id": "850395585941086209",
+                        "name": "Beauty"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+                        "id": "66",
+                        "name": "Interests and Hobbies Category"
+                    },
+                    "entity": {
+                        "description": "Make-up and Cosmetics",
+                        "id": "855442035314089988",
+                        "name": "Makeup"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+                        "id": "67",
+                        "name": "Interests and Hobbies"
+                    },
+                    "entity": {
+                        "description": "Blush",
+                        "id": "855442525695336448",
+                        "name": "Blush"
+                    }
+                }
+            ],
+            "conversation_id": "1236349570767962114",
+            "created_at": "2020-11-07T11:07:33.000Z",
+            "edit_history_tweet_ids": [
+                "1325032134654922752"
+            ],
+            "entities": {
+                "urls": [
+                    {
+                        "display_url": "pic.twitter.com/pEQNHb5hSO",
+                        "end": 256,
+                        "expanded_url": "https://twitter.com/zoerazora/status/1325032134654922752/photo/1",
+                        "media_key": "3_1325032071631314944",
+                        "start": 233,
+                        "url": "https://t.co/pEQNHb5hSO"
+                    },
+                    {
+                        "display_url": "pic.twitter.com/pEQNHb5hSO",
+                        "end": 256,
+                        "expanded_url": "https://twitter.com/zoerazora/status/1325032134654922752/photo/1",
+                        "media_key": "3_1325032091268993025",
+                        "start": 233,
+                        "url": "https://t.co/pEQNHb5hSO"
+                    },
+                    {
+                        "display_url": "pic.twitter.com/pEQNHb5hSO",
+                        "end": 256,
+                        "expanded_url": "https://twitter.com/zoerazora/status/1325032134654922752/photo/1",
+                        "media_key": "3_1325032104229441539",
+                        "start": 233,
+                        "url": "https://t.co/pEQNHb5hSO"
+                    },
+                    {
+                        "display_url": "pic.twitter.com/pEQNHb5hSO",
+                        "end": 256,
+                        "expanded_url": "https://twitter.com/zoerazora/status/1325032134654922752/photo/1",
+                        "media_key": "3_1325032119203061760",
+                        "start": 233,
+                        "url": "https://t.co/pEQNHb5hSO"
+                    }
+                ]
+            },
+            "id": "1325032134654922752",
+            "in_reply_to_user_id": "172270411",
+            "lang": "in",
+            "public_metrics": {
+                "impression_count": 0,
+                "like_count": 4,
+                "quote_count": 0,
+                "reply_count": 2,
+                "retweet_count": 4
+            },
+            "referenced_tweets": [
+                {
+                    "id": "1325032056481488896",
+                    "type": "replied_to"
+                }
+            ],
+            "reply_settings": "everyone",
+            "text": "\ud83d\udc84 Focallure STAY Max Cheek &amp; Liptint : 07 Orange Soda\n\nUntuk eyes, sama dengan blush juga, harus cepat diratain\n\nKalau shade ini stainnya coral gitu, bikin bibir kelihatan sehat dan segar\nGampang dibersihkan hingga ke stainnya \ud83d\udc95 https://t.co/pEQNHb5hSO"
+        },
+        {
+            "author_id": "1323682969098293248",
+            "conversation_id": "1325032118410424320",
+            "created_at": "2020-11-07T11:07:29.000Z",
+            "edit_history_tweet_ids": [
+                "1325032118410424320"
+            ],
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 38,
+                        "normalized_text": "wiz",
+                        "probability": 0.5929,
+                        "start": 36,
+                        "type": "Person"
+                    },
+                    {
+                        "end": 48,
+                        "normalized_text": "burna",
+                        "probability": 0.6327,
+                        "start": 44,
+                        "type": "Person"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 12,
+                        "id": "971317646577762305",
+                        "start": 3,
+                        "username": "nfdoomed"
+                    }
+                ]
+            },
+            "id": "1325032118410424320",
+            "lang": "en",
+            "public_metrics": {
+                "impression_count": 0,
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 6
+            },
+            "referenced_tweets": [
+                {
+                    "id": "1325031047826956290",
+                    "type": "retweeted"
+                }
+            ],
+            "reply_settings": "everyone",
+            "text": "RT @nfdoomed: man was sneak dissing wiz and burna the whole time, went on to an interview throw shade and in the same interview acted like\u2026"
+        },
+        {
+            "author_id": "3243472826",
+            "context_annotations": [
+                {
+                    "domain": {
+                        "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+                        "id": "30",
+                        "name": "Entities [Entity Service]"
+                    },
+                    "entity": {
+                        "id": "781972125179518977",
+                        "name": "Auto Manufacturer - Auto"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "Brands and Companies",
+                        "id": "47",
+                        "name": "Brand"
+                    },
+                    "entity": {
+                        "id": "10026295039",
+                        "name": "Hyundai"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A taxonomy of user interests. ",
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy"
+                    },
+                    "entity": {
+                        "id": "10026295039",
+                        "name": "Hyundai"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A taxonomy of user interests. ",
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy"
+                    },
+                    "entity": {
+                        "id": "1196845866138533888",
+                        "name": "Automobile Brands"
+                    }
+                }
+            ],
+            "conversation_id": "1324901999062749184",
+            "created_at": "2020-11-07T11:07:16.000Z",
+            "edit_history_tweet_ids": [
+                "1325032064773619712"
+            ],
+            "entities": {
+                "mentions": [
+                    {
+                        "end": 12,
+                        "id": "58170833",
+                        "start": 0,
+                        "username": "sidpatankar"
+                    },
+                    {
+                        "end": 24,
+                        "id": "2278822326",
+                        "start": 13,
+                        "username": "carandbike"
+                    },
+                    {
+                        "end": 41,
+                        "id": "3300564746",
+                        "start": 25,
+                        "username": "carandbikehindi"
+                    },
+                    {
+                        "end": 53,
+                        "id": "113349811",
+                        "start": 42,
+                        "username": "ShamsNaqvi"
+                    },
+                    {
+                        "end": 69,
+                        "id": "58136963",
+                        "start": 54,
+                        "username": "DigitallyBones"
+                    },
+                    {
+                        "end": 81,
+                        "id": "290353924",
+                        "start": 70,
+                        "username": "ameya_naik"
+                    },
+                    {
+                        "end": 95,
+                        "id": "380847666",
+                        "start": 82,
+                        "username": "HyundaiIndia"
+                    }
+                ]
+            },
+            "id": "1325032064773619712",
+            "in_reply_to_user_id": "58170833",
+            "lang": "en",
+            "public_metrics": {
+                "impression_count": 0,
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 1,
+                "retweet_count": 0
+            },
+            "referenced_tweets": [
+                {
+                    "id": "1324948962923618304",
+                    "type": "replied_to"
+                }
+            ],
+            "reply_settings": "everyone",
+            "text": "@sidpatankar @carandbike @carandbikehindi @ShamsNaqvi @DigitallyBones @ameya_naik @HyundaiIndia Very nice shade"
+        },
+        {
+            "author_id": "3980492979",
+            "conversation_id": "1325027580051927040",
+            "created_at": "2020-11-07T11:07:14.000Z",
+            "edit_history_tweet_ids": [
+                "1325032056259219458"
+            ],
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 34,
+                        "normalized_text": "OZOXTotalFootball",
+                        "probability": 0.5924,
+                        "start": 18,
+                        "type": "Other"
+                    }
+                ],
+                "hashtags": [
+                    {
+                        "end": 35,
+                        "start": 17,
+                        "tag": "OZOXTotalFootball"
+                    }
+                ]
+            },
+            "id": "1325032056259219458",
+            "in_reply_to_user_id": "1216668889184178176",
+            "lang": "en",
+            "public_metrics": {
+                "impression_count": 0,
+                "like_count": 2,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "referenced_tweets": [
+                {
+                    "id": "1325027580051927040",
+                    "type": "replied_to"
+                }
+            ],
+            "reply_settings": "everyone",
+            "text": "@xoxo_shade Amen #OZOXTotalFootball"
+        },
+        {
+            "author_id": "2294081671",
+            "conversation_id": "1325032032678928386",
+            "created_at": "2020-11-07T11:07:09.000Z",
+            "edit_history_tweet_ids": [
+                "1325032032678928386"
+            ],
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 38,
+                        "normalized_text": "wiz",
+                        "probability": 0.5929,
+                        "start": 36,
+                        "type": "Person"
+                    },
+                    {
+                        "end": 48,
+                        "normalized_text": "burna",
+                        "probability": 0.6327,
+                        "start": 44,
+                        "type": "Person"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 12,
+                        "id": "971317646577762305",
+                        "start": 3,
+                        "username": "nfdoomed"
+                    }
+                ]
+            },
+            "id": "1325032032678928386",
+            "lang": "en",
+            "public_metrics": {
+                "impression_count": 0,
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 6
+            },
+            "referenced_tweets": [
+                {
+                    "id": "1325031047826956290",
+                    "type": "retweeted"
+                }
+            ],
+            "reply_settings": "everyone",
+            "text": "RT @nfdoomed: man was sneak dissing wiz and burna the whole time, went on to an interview throw shade and in the same interview acted like\u2026"
+        },
+        {
+            "author_id": "1257346780917792768",
+            "conversation_id": "1325032031013675010",
+            "created_at": "2020-11-07T11:07:08.000Z",
+            "edit_history_tweet_ids": [
+                "1325032031013675010"
+            ],
+            "entities": {
+                "mentions": [
+                    {
+                        "end": 17,
+                        "id": "2757578565",
+                        "start": 3,
+                        "username": "haikuchartier"
+                    }
+                ]
+            },
+            "id": "1325032031013675010",
+            "lang": "en",
+            "public_metrics": {
+                "impression_count": 0,
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 92
+            },
+            "referenced_tweets": [
+                {
+                    "id": "1324839048402403330",
+                    "type": "retweeted"
+                }
+            ],
+            "reply_settings": "everyone",
+            "text": "RT @haikuchartier: get up 7 am, but i haven't slept in days, acid on my vocals, that's the price i gotta pay, karma tryna rob me, all about\u2026"
+        },
+        {
+            "author_id": "1914895584",
+            "conversation_id": "1325031987233452033",
+            "created_at": "2020-11-07T11:06:58.000Z",
+            "edit_history_tweet_ids": [
+                "1325031987233452033"
+            ],
+            "id": "1325031987233452033",
+            "lang": "ja",
+            "public_metrics": {
+                "impression_count": 0,
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "reply_settings": "everyone",
+            "text": "\u511a\u304f\u54b2\u3044\u3066 \u9ec4\u660f\u6563\u3063\u3066 \u61b6\u3044\u52df\u3063\u3066 sweep away \u624b\u7e70\u308a\u5bc4\u305b\u3066 \u63b4\u307f\u304b\u3051\u3066 \u89e6\u308c\u3066\u306f\u63fa\u308c\u3066\u308b one-sided love Life/SIAM SHADE"
+        },
+        {
+            "author_id": "2852695124",
+            "conversation_id": "1325031970003279873",
+            "created_at": "2020-11-07T11:06:54.000Z",
+            "edit_history_tweet_ids": [
+                "1325031970003279873"
+            ],
+            "entities": {
+                "mentions": [
+                    {
+                        "end": 16,
+                        "id": "1273611965584117761",
+                        "start": 3,
+                        "username": "bbrightestvc"
+                    }
+                ]
+            },
+            "id": "1325031970003279873",
+            "lang": "en",
+            "public_metrics": {
+                "impression_count": 0,
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 2
+            },
+            "referenced_tweets": [
+                {
+                    "id": "1325031534080925696",
+                    "type": "retweeted"
+                }
+            ],
+            "reply_settings": "everyone",
+            "text": "RT @bbrightestvc: Imagine being not happy enough with all the achievements of you laid against what B and his fans has that you still need\u2026"
+        },
+        {
+            "author_id": "1209086187920490496",
+            "conversation_id": "1325031888700940291",
+            "created_at": "2020-11-07T11:06:34.000Z",
+            "edit_history_tweet_ids": [
+                "1325031888700940291"
+            ],
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 27,
+                        "normalized_text": "korang",
+                        "probability": 0.7366,
+                        "start": 22,
+                        "type": "Other"
+                    },
+                    {
+                        "end": 56,
+                        "normalized_text": "NudeFix",
+                        "probability": 0.7439,
+                        "start": 50,
+                        "type": "Other"
+                    },
+                    {
+                        "end": 86,
+                        "normalized_text": "Nude 11",
+                        "probability": 0.6108,
+                        "start": 80,
+                        "type": "Other"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 17,
+                        "id": "92769649",
+                        "start": 3,
+                        "username": "aqaliliazizan"
+                    }
+                ]
+            },
+            "id": "1325031888700940291",
+            "lang": "en",
+            "public_metrics": {
+                "impression_count": 0,
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 6
+            },
+            "referenced_tweets": [
+                {
+                    "id": "1324945875026673670",
+                    "type": "retweeted"
+                }
+            ],
+            "reply_settings": "everyone",
+            "text": "RT @aqaliliazizan: Hi korang! I nak giveaway this NudeFix Cream Concealer shade Nude 11 for free. All you need to do is pay for the shippin\u2026"
+        },
+        {
+            "author_id": "298163342",
+            "conversation_id": "1325002829862490112",
+            "created_at": "2020-11-07T11:06:30.000Z",
+            "edit_history_tweet_ids": [
+                "1325031868929077248"
+            ],
+            "entities": {
+                "mentions": [
+                    {
+                        "end": 10,
+                        "id": "1086736032",
+                        "start": 0,
+                        "username": "honey_c17"
+                    }
+                ]
+            },
+            "id": "1325031868929077248",
+            "in_reply_to_user_id": "1086736032",
+            "lang": "en",
+            "public_metrics": {
+                "impression_count": 0,
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 1,
+                "retweet_count": 0
+            },
+            "referenced_tweets": [
+                {
+                    "id": "1325028880470712320",
+                    "type": "replied_to"
+                }
+            ],
+            "reply_settings": "everyone",
+            "text": "@honey_c17 @faithfulgirlie In the shade please \ud83e\udd74"
+        },
+        {
+            "author_id": "3087082037",
+            "conversation_id": "1325031825887125506",
+            "created_at": "2020-11-07T11:06:19.000Z",
+            "edit_history_tweet_ids": [
+                "1325031825887125506"
+            ],
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 31,
+                        "normalized_text": "Chad Shade",
+                        "probability": 0.819,
+                        "start": 22,
+                        "type": "Person"
+                    }
+                ],
+                "hashtags": [
+                    {
+                        "end": 142,
+                        "start": 125,
+                        "tag": "CushingAthletics"
+                    },
+                    {
+                        "end": 159,
+                        "start": 143,
+                        "tag": "CushingBaseball"
+                    },
+                    {
+                        "end": 173,
+                        "start": 160,
+                        "tag": "penguinpride"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "pic.twitter.com/zjwcY04HfR",
+                        "end": 198,
+                        "expanded_url": "https://twitter.com/CushingBaseball/status/1325031825887125506/photo/1",
+                        "media_key": "3_1325030053147799554",
+                        "start": 175,
+                        "url": "https://t.co/zjwcY04HfR"
+                    },
+                    {
+                        "display_url": "pic.twitter.com/zjwcY04HfR",
+                        "end": 198,
+                        "expanded_url": "https://twitter.com/CushingBaseball/status/1325031825887125506/photo/1",
+                        "media_key": "3_1325030053147766789",
+                        "start": 175,
+                        "url": "https://t.co/zjwcY04HfR"
+                    }
+                ]
+            },
+            "id": "1325031825887125506",
+            "lang": "en",
+            "public_metrics": {
+                "impression_count": 0,
+                "like_count": 12,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "reply_settings": "everyone",
+            "text": "Great opportunity for Chad Shade \u201816. Nice to see him back in purple. Pittsfield\u27a1\ufe0fCushing\u27a1\ufe0fSpringfield College\u27a1\ufe0fKansas State #CushingAthletics #CushingBaseball #penguinpride\ud83d\udc27 https://t.co/zjwcY04HfR"
+        },
+        {
+            "author_id": "17916546",
+            "conversation_id": "1325031776599879680",
+            "created_at": "2020-11-07T11:06:08.000Z",
+            "edit_history_tweet_ids": [
+                "1325031776599879680"
+            ],
+            "entities": {
+                "urls": [
+                    {
+                        "display_url": "pic.twitter.com/IAxlifsIvk",
+                        "end": 96,
+                        "expanded_url": "https://twitter.com/mbuguanjihia/status/1325031776599879680/photo/1",
+                        "media_key": "3_1325031759587794945",
+                        "start": 73,
+                        "url": "https://t.co/IAxlifsIvk"
+                    }
+                ]
+            },
+            "id": "1325031776599879680",
+            "lang": "in",
+            "public_metrics": {
+                "impression_count": 0,
+                "like_count": 9,
+                "quote_count": 1,
+                "reply_count": 0,
+                "retweet_count": 1
+            },
+            "reply_settings": "everyone",
+            "text": "Hata mti wenye mwiba hukupa kivuli ... Even a thorn tree gives you shade https://t.co/IAxlifsIvk"
+        },
+        {
+            "author_id": "1263003495524823040",
+            "context_annotations": [
+                {
+                    "domain": {
+                        "description": "Named people in the world like Nelson Mandela",
+                        "id": "10",
+                        "name": "Person"
+                    },
+                    "entity": {
+                        "description": "BLACKPINK (\ube14\ub799\ud551\ud06c) - Jisoo (\uc9c0\uc218),\nJennie (\uc81c\ub2c8),\nRose (\ub85c\uc81c),\nLisa (\ub9ac\uc0ac)",
+                        "id": "894606843783270401",
+                        "name": "BLACKPINK"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A musician in the world, like Adele or Bob Dylan",
+                        "id": "54",
+                        "name": "Musician"
+                    },
+                    "entity": {
+                        "description": "BLACKPINK (\ube14\ub799\ud551\ud06c) - Jisoo (\uc9c0\uc218),\nJennie (\uc81c\ub2c8),\nRose (\ub85c\uc81c),\nLisa (\ub9ac\uc0ac)",
+                        "id": "894606843783270401",
+                        "name": "BLACKPINK"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A category for a musical style, like Pop, Rock, or Rap",
+                        "id": "55",
+                        "name": "Music Genre"
+                    },
+                    "entity": {
+                        "description": "K-Pop",
+                        "id": "888105153038958593",
+                        "name": "K-pop"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A taxonomy of user interests. ",
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy"
+                    },
+                    "entity": {
+                        "description": "Music and radio",
+                        "id": "847524658970636288",
+                        "name": "Music"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A taxonomy of user interests. ",
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy"
+                    },
+                    "entity": {
+                        "description": "K-Pop",
+                        "id": "888105153038958593",
+                        "name": "K-pop"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A taxonomy of user interests. ",
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy"
+                    },
+                    "entity": {
+                        "description": "BLACKPINK (\ube14\ub799\ud551\ud06c) - Jisoo (\uc9c0\uc218),\nJennie (\uc81c\ub2c8),\nRose (\ub85c\uc81c),\nLisa (\ub9ac\uc0ac)",
+                        "id": "894606843783270401",
+                        "name": "BLACKPINK"
+                    }
+                }
+            ],
+            "conversation_id": "1325031761219256322",
+            "created_at": "2020-11-07T11:06:04.000Z",
+            "edit_history_tweet_ids": [
+                "1325031761219256322"
+            ],
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 88,
+                        "normalized_text": "blackpink",
+                        "probability": 0.9679,
+                        "start": 80,
+                        "type": "Organization"
+                    },
+                    {
+                        "end": 134,
+                        "normalized_text": "blackpink",
+                        "probability": 0.8773,
+                        "start": 126,
+                        "type": "Organization"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 15,
+                        "id": "530936453",
+                        "start": 3,
+                        "username": "swallalisaa"
+                    }
+                ]
+            },
+            "id": "1325031761219256322",
+            "lang": "en",
+            "public_metrics": {
+                "impression_count": 0,
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 873
+            },
+            "referenced_tweets": [
+                {
+                    "id": "1324498913882042369",
+                    "type": "retweeted"
+                }
+            ],
+            "reply_settings": "everyone",
+            "text": "RT @swallalisaa: since 2018, every girl group that debut are really compared to blackpink. used by kpoppies to shade and drag blackpink. ke\u2026"
+        },
+        {
+            "author_id": "995192155793711104",
+            "conversation_id": "1325001111053463552",
+            "created_at": "2020-11-07T11:05:55.000Z",
+            "edit_history_tweet_ids": [
+                "1325031723596455936"
+            ],
+            "entities": {
+                "mentions": [
+                    {
+                        "end": 9,
+                        "id": "1052643483259994112",
+                        "start": 0,
+                        "username": "smolbora"
+                    }
+                ]
+            },
+            "id": "1325031723596455936",
+            "in_reply_to_user_id": "995192155793711104",
+            "lang": "en",
+            "public_metrics": {
+                "impression_count": 0,
+                "like_count": 1,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "referenced_tweets": [
+                {
+                    "id": "1325031562069635074",
+                    "type": "replied_to"
+                }
+            ],
+            "reply_settings": "everyone",
+            "text": "@smolbora Ok i think I went a bit delulu and the hair is not even the same shade but    ,,,,, id still sell my kidney to see it"
+        },
+        {
+            "author_id": "1296435885060141056",
+            "conversation_id": "1325018893325279234",
+            "created_at": "2020-11-07T11:05:42.000Z",
+            "edit_history_tweet_ids": [
+                "1325031670806847488"
+            ],
+            "id": "1325031670806847488",
+            "in_reply_to_user_id": "1025687186337718272",
+            "lang": "ja",
+            "public_metrics": {
+                "impression_count": 0,
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 1,
+                "retweet_count": 0
+            },
+            "referenced_tweets": [
+                {
+                    "id": "1325031023420166145",
+                    "type": "replied_to"
+                }
+            ],
+            "reply_settings": "everyone",
+            "text": "@Abelia_Shade \u3082\u3089\u3063\u305f\u3060\u308d"
+        },
+        {
+            "author_id": "260698194",
+            "conversation_id": "1325031624073940992",
+            "created_at": "2020-11-07T11:05:31.000Z",
+            "edit_history_tweet_ids": [
+                "1325031624073940992"
+            ],
+            "entities": {
+                "mentions": [
+                    {
+                        "end": 15,
+                        "id": "25805906",
+                        "start": 0,
+                        "username": "OliverMathenge"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "twitter.com/ItsMutai/statu\u2026",
+                        "end": 72,
+                        "expanded_url": "https://twitter.com/ItsMutai/status/1324954952331104257",
+                        "start": 49,
+                        "url": "https://t.co/dkQz8Pumso"
+                    }
+                ]
+            },
+            "id": "1325031624073940992",
+            "in_reply_to_user_id": "25805906",
+            "lang": "en",
+            "public_metrics": {
+                "impression_count": 0,
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "referenced_tweets": [
+                {
+                    "id": "1324954952331104257",
+                    "type": "quoted"
+                }
+            ],
+            "reply_settings": "everyone",
+            "text": "@OliverMathenge kindly shade some light on this. https://t.co/dkQz8Pumso"
+        },
+        {
+            "author_id": "3056474492",
+            "conversation_id": "1325031557980164097",
+            "created_at": "2020-11-07T11:05:15.000Z",
+            "edit_history_tweet_ids": [
+                "1325031557980164097"
+            ],
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 35,
+                        "normalized_text": "Traci",
+                        "probability": 0.8882,
+                        "start": 31,
+                        "type": "Other"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 15,
+                        "id": "237345880",
+                        "start": 0,
+                        "username": "towandabraxton"
+                    }
+                ]
+            },
+            "id": "1325031557980164097",
+            "in_reply_to_user_id": "237345880",
+            "lang": "en",
+            "public_metrics": {
+                "impression_count": 0,
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "reply_settings": "everyone",
+            "text": "@towandabraxton sister or not, Traci shouldn\u2019t throw shade at anyone\u2019s relationship because some may not be willing to put up with the shit that she does and vice versa...different strokes for different folks and he is always definitely n her ear and n control"
+        },
+        {
+            "author_id": "172249774",
+            "conversation_id": "1325031551780835328",
+            "created_at": "2020-11-07T11:05:14.000Z",
+            "edit_history_tweet_ids": [
+                "1325031551780835328"
+            ],
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 124,
+                        "normalized_text": "Victor Hugo",
+                        "probability": 0.9438,
+                        "start": 114,
+                        "type": "Person"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 16,
+                        "id": "2734953286",
+                        "start": 3,
+                        "username": "ramblingsloa"
+                    }
+                ]
+            },
+            "id": "1325031551780835328",
+            "lang": "en",
+            "public_metrics": {
+                "impression_count": 0,
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 363
+            },
+            "referenced_tweets": [
+                {
+                    "id": "1324969865749405696",
+                    "type": "retweeted"
+                }
+            ],
+            "reply_settings": "everyone",
+            "text": "RT @ramblingsloa: The great acts of love are done by those who are habitually performing small acts of kindness.\n\nVictor Hugo\n\ud83c\udfacLove Shade f\u2026"
+        },
+        {
+            "author_id": "1273611965584117761",
+            "conversation_id": "1325031534080925696",
+            "created_at": "2020-11-07T11:05:10.000Z",
+            "edit_history_tweet_ids": [
+                "1325031534080925696"
+            ],
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 82,
+                        "normalized_text": "B",
+                        "probability": 0.4372,
+                        "start": 82,
+                        "type": "Other"
+                    }
+                ]
+            },
+            "id": "1325031534080925696",
+            "lang": "en",
+            "public_metrics": {
+                "impression_count": 0,
+                "like_count": 3,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 2
+            },
+            "reply_settings": "everyone",
+            "text": "Imagine being not happy enough with all the achievements of you laid against what B and his fans has that you still need to shade him and watch every updates about him. Why bother sticking your nose to other's business? You need to seek help. Your hatred is eating you up."
+        },
+        {
+            "author_id": "246229107",
+            "conversation_id": "1325031527135260673",
+            "created_at": "2020-11-07T11:05:08.000Z",
+            "edit_history_tweet_ids": [
+                "1325031527135260673"
+            ],
+            "entities": {
+                "mentions": [
+                    {
+                        "end": 14,
+                        "id": "20638595",
+                        "start": 3,
+                        "username": "BritniB714"
+                    },
+                    {
+                        "end": 28,
+                        "id": "28639189",
+                        "start": 16,
+                        "username": "BriscoeCain"
+                    }
+                ]
+            },
+            "id": "1325031527135260673",
+            "lang": "en",
+            "public_metrics": {
+                "impression_count": 0,
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 119
+            },
+            "referenced_tweets": [
+                {
+                    "id": "1324758086121410563",
+                    "type": "retweeted"
+                }
+            ],
+            "reply_settings": "everyone",
+            "text": "RT @BritniB714: @BriscoeCain You were so cool when you made the varsity cheer squad and everyone loved how out and proud you were I just wa\u2026"
+        },
+        {
+            "author_id": "88424087",
+            "context_annotations": [
+                {
+                    "domain": {
+                        "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+                        "id": "30",
+                        "name": "Entities [Entity Service]"
+                    },
+                    "entity": {
+                        "description": "Technology and computing",
+                        "id": "848920371311001600",
+                        "name": "Technology"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+                        "id": "30",
+                        "name": "Entities [Entity Service]"
+                    },
+                    "entity": {
+                        "description": "Information Security",
+                        "id": "1047123725525479425",
+                        "name": "Information security"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A taxonomy of user interests. ",
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy"
+                    },
+                    "entity": {
+                        "description": "Information Security",
+                        "id": "1047123725525479425",
+                        "name": "Information security"
+                    }
+                }
+            ],
+            "conversation_id": "1325031496898535424",
+            "created_at": "2020-11-07T11:05:01.000Z",
+            "edit_history_tweet_ids": [
+                "1325031496898535424"
+            ],
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 15,
+                        "normalized_text": "phishing",
+                        "probability": 0.5018,
+                        "start": 8,
+                        "type": "Other"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 7,
+                        "id": "259707738",
+                        "start": 0,
+                        "username": "Bankia"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "melbourne-shade-sails.com.au/ES05951252151/\u2026",
+                        "end": 40,
+                        "expanded_url": "https://www.melbourne-shade-sails.com.au/ES05951252151/par/acceso-clientes.php",
+                        "start": 17,
+                        "url": "https://t.co/UXVDh0SeDL"
+                    }
+                ]
+            },
+            "id": "1325031496898535424",
+            "in_reply_to_user_id": "259707738",
+            "lang": "en",
+            "public_metrics": {
+                "impression_count": 0,
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "reply_settings": "everyone",
+            "text": "@Bankia phishing https://t.co/UXVDh0SeDL"
+        },
+        {
+            "author_id": "1249239204820738048",
+            "conversation_id": "1325031431588913153",
+            "created_at": "2020-11-07T11:04:45.000Z",
+            "edit_history_tweet_ids": [
+                "1325031431588913153"
+            ],
+            "entities": {
+                "mentions": [
+                    {
+                        "end": 11,
+                        "id": "702848334122201088",
+                        "start": 3,
+                        "username": "bbunbub"
+                    }
+                ]
+            },
+            "id": "1325031431588913153",
+            "lang": "en",
+            "public_metrics": {
+                "impression_count": 0,
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 11
+            },
+            "referenced_tweets": [
+                {
+                    "id": "1325027320139116544",
+                    "type": "retweeted"
+                }
+            ],
+            "reply_settings": "everyone",
+            "text": "RT @bbunbub: not at that account acting like an actual ~bw~ fan when they subtly shade b every chance they get. lol. you\u2019re mad at solo fan\u2026"
+        },
+        {
+            "author_id": "513368221",
+            "conversation_id": "1325031424127328257",
+            "created_at": "2020-11-07T11:04:44.000Z",
+            "edit_history_tweet_ids": [
+                "1325031424127328257"
+            ],
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 59,
+                        "normalized_text": "ANC",
+                        "probability": 0.5997,
+                        "start": 57,
+                        "type": "Organization"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 17,
+                        "id": "633044633",
+                        "start": 3,
+                        "username": "MarindaBender"
+                    },
+                    {
+                        "end": 34,
+                        "id": "89672048",
+                        "start": 19,
+                        "username": "ferialhaffajee"
+                    },
+                    {
+                        "end": 43,
+                        "id": "2396130529",
+                        "start": 35,
+                        "username": "Dijosti"
+                    }
+                ]
+            },
+            "id": "1325031424127328257",
+            "lang": "en",
+            "public_metrics": {
+                "impression_count": 0,
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 24
+            },
+            "referenced_tweets": [
+                {
+                    "id": "1324638810186174464",
+                    "type": "retweeted"
+                }
+            ],
+            "reply_settings": "everyone",
+            "text": "RT @MarindaBender: @ferialhaffajee @Dijosti Story of all ANC municipalities. Had to apply for zoning cert from local land &amp; housing offices\u2026"
+        },
+        {
+            "author_id": "1083998388633260032",
+            "conversation_id": "1325031421174448129",
+            "created_at": "2020-11-07T11:04:43.000Z",
+            "edit_history_tweet_ids": [
+                "1325031421174448129"
+            ],
+            "id": "1325031421174448129",
+            "lang": "in",
+            "public_metrics": {
+                "impression_count": 0,
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 1,
+                "retweet_count": 0
+            },
+            "reply_settings": "everyone",
+            "text": "Nyesek banget beli lipcream salah shade karena ga bisa pake tester"
+        },
+        {
+            "author_id": "1195763290040946689",
+            "conversation_id": "1324994660843053056",
+            "created_at": "2020-11-07T11:04:36.000Z",
+            "edit_history_tweet_ids": [
+                "1325031392258961408"
+            ],
+            "entities": {
+                "mentions": [
+                    {
+                        "end": 12,
+                        "id": "69624029",
+                        "start": 0,
+                        "username": "olotosamson"
+                    },
+                    {
+                        "end": 25,
+                        "id": "908709461438672896",
+                        "start": 13,
+                        "username": "Shade_alder"
+                    }
+                ]
+            },
+            "id": "1325031392258961408",
+            "in_reply_to_user_id": "69624029",
+            "lang": "en",
+            "public_metrics": {
+                "impression_count": 0,
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "referenced_tweets": [
+                {
+                    "id": "1325003495754375168",
+                    "type": "replied_to"
+                }
+            ],
+            "reply_settings": "everyone",
+            "text": "@olotosamson @shade_alder Samson\ud83d\ude02\ud83d\ude02\ud83d\ude02"
+        },
+        {
+            "author_id": "1538325540",
+            "conversation_id": "1325031363662258176",
+            "created_at": "2020-11-07T11:04:29.000Z",
+            "edit_history_tweet_ids": [
+                "1325031363662258176"
+            ],
+            "id": "1325031363662258176",
+            "lang": "en",
+            "public_metrics": {
+                "impression_count": 0,
+                "like_count": 2,
+                "quote_count": 0,
+                "reply_count": 1,
+                "retweet_count": 0
+            },
+            "reply_settings": "everyone",
+            "text": "I wish my summer shade was my shade all year around \ud83d\ude2d my tans be so pretty"
+        },
+        {
+            "author_id": "1289927824036569088",
+            "conversation_id": "1325031309383757824",
+            "created_at": "2020-11-07T11:04:16.000Z",
+            "edit_history_tweet_ids": [
+                "1325031309383757824"
+            ],
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 69,
+                        "normalized_text": "Ozoemena",
+                        "probability": 0.4695,
+                        "start": 62,
+                        "type": "Person"
+                    },
+                    {
+                        "end": 122,
+                        "normalized_text": "Nigeria",
+                        "probability": 0.98,
+                        "start": 116,
+                        "type": "Place"
+                    },
+                    {
+                        "end": 133,
+                        "normalized_text": "Africa",
+                        "probability": 0.9621,
+                        "start": 128,
+                        "type": "Place"
+                    }
+                ]
+            },
+            "id": "1325031309383757824",
+            "lang": "en",
+            "public_metrics": {
+                "impression_count": 0,
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 49
+            },
+            "referenced_tweets": [
+                {
+                    "id": "1325027580051927040",
+                    "type": "retweeted"
+                }
+            ],
+            "reply_settings": "everyone",
+            "text": "RT @xoxo_shade: Almighty Father in Heaven,\n          Your son Ozoemena wants to open a Sport Agency. The biggest in Nigeria and Africa at l\u2026"
+        },
+        {
+            "author_id": "54452470",
+            "conversation_id": "1325031286277169152",
+            "created_at": "2020-11-07T11:04:11.000Z",
+            "edit_history_tweet_ids": [
+                "1325031286277169152"
+            ],
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 124,
+                        "normalized_text": "Victor Hugo",
+                        "probability": 0.9438,
+                        "start": 114,
+                        "type": "Person"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 16,
+                        "id": "2734953286",
+                        "start": 3,
+                        "username": "ramblingsloa"
+                    }
+                ]
+            },
+            "id": "1325031286277169152",
+            "lang": "en",
+            "public_metrics": {
+                "impression_count": 0,
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 363
+            },
+            "referenced_tweets": [
+                {
+                    "id": "1324969865749405696",
+                    "type": "retweeted"
+                }
+            ],
+            "reply_settings": "everyone",
+            "text": "RT @ramblingsloa: The great acts of love are done by those who are habitually performing small acts of kindness.\n\nVictor Hugo\n\ud83c\udfacLove Shade f\u2026"
+        },
+        {
+            "author_id": "2912990464",
+            "conversation_id": "1325031202793943042",
+            "created_at": "2020-11-07T11:03:51.000Z",
+            "edit_history_tweet_ids": [
+                "1325031202793943042"
+            ],
+            "entities": {
+                "hashtags": [
+                    {
+                        "end": 94,
+                        "start": 86,
+                        "tag": "amazing"
+                    },
+                    {
+                        "end": 105,
+                        "start": 95,
+                        "tag": "creatures"
+                    },
+                    {
+                        "end": 112,
+                        "start": 106,
+                        "tag": "shade"
+                    },
+                    {
+                        "end": 121,
+                        "start": 113,
+                        "tag": "fishing"
+                    },
+                    {
+                        "end": 135,
+                        "start": 122,
+                        "tag": "worldbirds32"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 16,
+                        "id": "564138146",
+                        "start": 3,
+                        "username": "AnneScottlin"
+                    }
+                ]
+            },
+            "id": "1325031202793943042",
+            "lang": "en",
+            "public_metrics": {
+                "impression_count": 0,
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 234
+            },
+            "referenced_tweets": [
+                {
+                    "id": "1324822861421445121",
+                    "type": "retweeted"
+                }
+            ],
+            "reply_settings": "everyone",
+            "text": "RT @AnneScottlin: Amazing nature. Remarkable creature ... creating shade for fishing.\n#amazing #creatures #shade #fishing\n#worldbirds32 #mo\u2026"
+        },
+        {
+            "author_id": "257576407",
+            "context_annotations": [
+                {
+                    "domain": {
+                        "description": "Top level entities that describe a Brands industry",
+                        "id": "45",
+                        "name": "Brand Vertical"
+                    },
+                    "entity": {
+                        "id": "781974596706635776",
+                        "name": "Retail industry"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+                        "id": "30",
+                        "name": "Entities [Entity Service]"
+                    },
+                    "entity": {
+                        "id": "783335558466506752",
+                        "name": "Online - Retail"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "Brands and Companies",
+                        "id": "47",
+                        "name": "Brand"
+                    },
+                    "entity": {
+                        "id": "10032682179",
+                        "name": "eBay"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A taxonomy of user interests. ",
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy"
+                    },
+                    "entity": {
+                        "id": "10032682179",
+                        "name": "eBay"
+                    }
+                }
+            ],
+            "conversation_id": "1325031186234793985",
+            "created_at": "2020-11-07T11:03:47.000Z",
+            "edit_history_tweet_ids": [
+                "1325031186234793985"
+            ],
+            "entities": {
+                "mentions": [
+                    {
+                        "end": 127,
+                        "id": "33563975",
+                        "start": 119,
+                        "username": "eBay_UK"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "ebay.us/fJiHoP",
+                        "end": 114,
+                        "expanded_url": "https://ebay.us/fJiHoP",
+                        "start": 91,
+                        "url": "https://t.co/fObqA9pmuD"
+                    }
+                ]
+            },
+            "id": "1325031186234793985",
+            "lang": "en",
+            "public_metrics": {
+                "impression_count": 0,
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "reply_settings": "everyone",
+            "text": "Check out what I found. Vintage Light Shade Glass Green White Orange Clear 1950s Art Glass https://t.co/fObqA9pmuD via @eBay_UK"
+        },
+        {
+            "author_id": "790984772",
+            "conversation_id": "1325031180983525378",
+            "created_at": "2020-11-07T11:03:46.000Z",
+            "edit_history_tweet_ids": [
+                "1325031180983525378"
+            ],
+            "entities": {
+                "mentions": [
+                    {
+                        "end": 13,
+                        "id": "83070379",
+                        "start": 3,
+                        "username": "chriskost"
+                    },
+                    {
+                        "end": 28,
+                        "id": "484595690",
+                        "start": 15,
+                        "username": "shecyclesnbi"
+                    },
+                    {
+                        "end": 40,
+                        "id": "584840125",
+                        "start": 29,
+                        "username": "KeNHAKenya"
+                    },
+                    {
+                        "end": 51,
+                        "id": "437356621",
+                        "start": 41,
+                        "username": "NemaKenya"
+                    },
+                    {
+                        "end": 62,
+                        "id": "1073837954",
+                        "start": 52,
+                        "username": "WWF_Kenya"
+                    },
+                    {
+                        "end": 78,
+                        "id": "278827204",
+                        "start": 63,
+                        "username": "WangariMaathai"
+                    },
+                    {
+                        "end": 95,
+                        "id": "281389691",
+                        "start": 79,
+                        "username": "GreenBeltMovmnt"
+                    },
+                    {
+                        "end": 107,
+                        "id": "2187350806",
+                        "start": 96,
+                        "username": "lizwathuti"
+                    },
+                    {
+                        "end": 118,
+                        "id": "1240196675454603264",
+                        "start": 108,
+                        "username": "Ke_NaMATA"
+                    },
+                    {
+                        "end": 132,
+                        "id": "872081568629743616",
+                        "start": 119,
+                        "username": "MitiAlliance"
+                    }
+                ]
+            },
+            "id": "1325031180983525378",
+            "lang": "en",
+            "public_metrics": {
+                "impression_count": 0,
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 2
+            },
+            "referenced_tweets": [
+                {
+                    "id": "1325025204129689600",
+                    "type": "retweeted"
+                }
+            ],
+            "reply_settings": "everyone",
+            "text": "RT @chriskost: @shecyclesnbi @KeNHAKenya @NemaKenya @WWF_Kenya @WangariMaathai @GreenBeltMovmnt @lizwathuti @Ke_NaMATA @MitiAlliance The tr\u2026"
+        },
+        {
+            "author_id": "3564747743",
+            "conversation_id": "1325031158619512832",
+            "created_at": "2020-11-07T11:03:40.000Z",
+            "edit_history_tweet_ids": [
+                "1325031158619512832"
+            ],
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 99,
+                        "normalized_text": "Erica",
+                        "probability": 0.6038,
+                        "start": 95,
+                        "type": "Other"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 18,
+                        "id": "769214965",
+                        "start": 3,
+                        "username": "yabaleftonline"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "yabaleftonline.ng/break-internet\u2026",
+                        "end": 140,
+                        "expanded_url": "https://www.yabaleftonline.ng/break-internet-top-two-number-2-mercy-eke-hails-erica-throwing-shade-erica-responds/",
+                        "start": 117,
+                        "status": 200,
+                        "unwound_url": "https://www.yabaleftonline.ng/break-internet-top-two-number-2-mercy-eke-hails-erica-throwing-shade-erica-responds/",
+                        "url": "https://t.co/XQ9pe0Ubdi"
+                    }
+                ]
+            },
+            "id": "1325031158619512832",
+            "lang": "en",
+            "public_metrics": {
+                "impression_count": 0,
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 11
+            },
+            "referenced_tweets": [
+                {
+                    "id": "1324820680278499330",
+                    "type": "retweeted"
+                }
+            ],
+            "reply_settings": "everyone",
+            "text": "RT @yabaleftonline: \u201cYou break the internet, top two and you ain\u2019t number 2\u201d \u2013 Mercy Eke hails Erica; she responds \u00bb https://t.co/XQ9pe0Ubdi"
+        },
+        {
+            "author_id": "36918048",
+            "context_annotations": [
+                {
+                    "domain": {
+                        "description": "Named people in the world like Nelson Mandela",
+                        "id": "10",
+                        "name": "Person"
+                    },
+                    "entity": {
+                        "description": "Mamata Banerjee",
+                        "id": "1111322689212317696",
+                        "name": "Mamata Banerjee"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "Politicians in the world, like Joe Biden",
+                        "id": "35",
+                        "name": "Politician"
+                    },
+                    "entity": {
+                        "description": "Mamata Banerjee",
+                        "id": "1111322689212317696",
+                        "name": "Mamata Banerjee"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A taxonomy of user interests. ",
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy"
+                    },
+                    "entity": {
+                        "description": "Politics",
+                        "id": "847878884917886977",
+                        "name": "Politics"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A taxonomy of user interests. ",
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy"
+                    },
+                    "entity": {
+                        "description": "Politician",
+                        "id": "1070032753834438656",
+                        "name": "Political figures"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A taxonomy of user interests. ",
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy"
+                    },
+                    "entity": {
+                        "description": "Mamata Banerjee",
+                        "id": "1111322689212317696",
+                        "name": "Mamata Banerjee"
+                    }
+                }
+            ],
+            "conversation_id": "1325031129812852736",
+            "created_at": "2020-11-07T11:03:33.000Z",
+            "edit_history_tweet_ids": [
+                "1325031129812852736"
+            ],
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 31,
+                        "normalized_text": "Mamata Banerjee",
+                        "probability": 0.9767,
+                        "start": 17,
+                        "type": "Person"
+                    },
+                    {
+                        "end": 94,
+                        "normalized_text": "Bengal",
+                        "probability": 0.408,
+                        "start": 89,
+                        "type": "Place"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 15,
+                        "id": "4365222380",
+                        "start": 3,
+                        "username": "sangamtalks"
+                    }
+                ]
+            },
+            "id": "1325031129812852736",
+            "lang": "en",
+            "public_metrics": {
+                "impression_count": 0,
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 19
+            },
+            "referenced_tweets": [
+                {
+                    "id": "1325000086506663936",
+                    "type": "retweeted"
+                }
+            ],
+            "reply_settings": "everyone",
+            "text": "RT @sangamtalks: Mamata Banerjee\u2019s two terms as a chief minister have made the people of Bengal realise that she was another Communist in a\u2026"
+        },
+        {
+            "author_id": "971317646577762305",
+            "conversation_id": "1325031043276165120",
+            "created_at": "2020-11-07T11:03:14.000Z",
+            "edit_history_tweet_ids": [
+                "1325031047826956290"
+            ],
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 24,
+                        "normalized_text": "wiz",
+                        "probability": 0.5884,
+                        "start": 22,
+                        "type": "Person"
+                    },
+                    {
+                        "end": 34,
+                        "normalized_text": "burna",
+                        "probability": 0.6086,
+                        "start": 30,
+                        "type": "Person"
+                    },
+                    {
+                        "end": 149,
+                        "normalized_text": "wiz",
+                        "probability": 0.4909,
+                        "start": 147,
+                        "type": "Person"
+                    }
+                ]
+            },
+            "id": "1325031047826956290",
+            "in_reply_to_user_id": "971317646577762305",
+            "lang": "en",
+            "public_metrics": {
+                "impression_count": 0,
+                "like_count": 8,
+                "quote_count": 1,
+                "reply_count": 3,
+                "retweet_count": 6
+            },
+            "referenced_tweets": [
+                {
+                    "id": "1325031043276165120",
+                    "type": "replied_to"
+                }
+            ],
+            "reply_settings": "everyone",
+            "text": "man was sneak dissing wiz and burna the whole time, went on to an interview throw shade and in the same interview acted like he's cool with them.\n\nwiz dropped and he congratulated him, didn't get a reply and threw that \"bad vibes\" nonsense."
+        },
+        {
+            "author_id": "1195843934",
+            "conversation_id": "1325031038880342018",
+            "created_at": "2020-11-07T11:03:12.000Z",
+            "edit_history_tweet_ids": [
+                "1325031038880342018"
+            ],
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 87,
+                        "normalized_text": "Third world \u306e 96 degrees in the shade",
+                        "probability": 0.2076,
+                        "start": 51,
+                        "type": "Other"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 16,
+                        "id": "1011542112205041664",
+                        "start": 3,
+                        "username": "bar_yebisuya"
+                    }
+                ]
+            },
+            "id": "1325031038880342018",
+            "lang": "ja",
+            "public_metrics": {
+                "impression_count": 0,
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 2
+            },
+            "referenced_tweets": [
+                {
+                    "id": "1325012540900872194",
+                    "type": "retweeted"
+                }
+            ],
+            "reply_settings": "everyone",
+            "text": "RT @bar_yebisuya: \u672c\u65e5\u308220:00\u301cBAR\u30a8\u30d3\u30b9\u30e4OPEN\u3057\u3066\u304a\u308a\u307e\u3059\uff01\uff01\uff01\u4eca\u591c\u306f Third world \u306e 96 degrees in the shade\u3092\u30a2\u30ca\u30ed\u30b0\u3067\u30aa\u30fc\u30d7\u30f3\u304b\u3089\u6d41\u3057\u306a\u304c\u3089\u55b6\u696d\u3057\u3066\u304a\u308a\u307e\u3059\uff01\uff01\uff01\u4eca\u591c\u3082\u7686\u3005\u69d8\u306e\u3054\u6765\u5e97\u3092\u5fc3\u304b\u3089\u304a\u5f85\u3061\u3057\u3066\u304a\u308a\u307e\u3059\u2026"
+        },
+        {
+            "author_id": "1166717509849903104",
+            "context_annotations": [
+                {
+                    "domain": {
+                        "description": "A category for a musical style, like Pop, Rock, or Rap",
+                        "id": "55",
+                        "name": "Music Genre"
+                    },
+                    "entity": {
+                        "description": "Electronic",
+                        "id": "849684313704611840",
+                        "name": "Electronic music"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A category for a musical style, like Pop, Rock, or Rap",
+                        "id": "55",
+                        "name": "Music Genre"
+                    },
+                    "entity": {
+                        "id": "1219712196600418304",
+                        "name": "House"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A category for a musical style, like Pop, Rock, or Rap",
+                        "id": "55",
+                        "name": "Music Genre"
+                    },
+                    "entity": {
+                        "id": "1254826839555469314",
+                        "name": "Trance"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A category for a musical style, like Pop, Rock, or Rap",
+                        "id": "55",
+                        "name": "Music Genre"
+                    },
+                    "entity": {
+                        "id": "1254827518281920512",
+                        "name": "Techno"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A taxonomy of user interests. ",
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy"
+                    },
+                    "entity": {
+                        "id": "839544274442051584",
+                        "name": "Entertainment"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A taxonomy of user interests. ",
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy"
+                    },
+                    "entity": {
+                        "description": "Music and radio",
+                        "id": "847524658970636288",
+                        "name": "Music"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A taxonomy of user interests. ",
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy"
+                    },
+                    "entity": {
+                        "description": "Electronic",
+                        "id": "849684313704611840",
+                        "name": "Electronic music"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A taxonomy of user interests. ",
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy"
+                    },
+                    "entity": {
+                        "description": "Podcasts",
+                        "id": "1074758954444513282",
+                        "name": "Podcasts & radio"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A taxonomy of user interests. ",
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy"
+                    },
+                    "entity": {
+                        "id": "1254826839555469314",
+                        "name": "Trance"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A taxonomy of user interests. ",
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy"
+                    },
+                    "entity": {
+                        "id": "1254827518281920512",
+                        "name": "Techno"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A taxonomy of user interests. ",
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy"
+                    },
+                    "entity": {
+                        "id": "1285999703704743938",
+                        "name": "Dance & electronic"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A category for a musical style, like Pop, Rock, or Rap",
+                        "id": "55",
+                        "name": "Music Genre"
+                    },
+                    "entity": {
+                        "description": "Pop",
+                        "id": "810938279801470977",
+                        "name": "Pop"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "Top level interests and hobbies groupings, like Food or Travel",
+                        "id": "65",
+                        "name": "Interests and Hobbies Vertical"
+                    },
+                    "entity": {
+                        "description": "-",
+                        "id": "847868745150119936",
+                        "name": "Entertainment industry"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+                        "id": "66",
+                        "name": "Interests and Hobbies Category"
+                    },
+                    "entity": {
+                        "description": "DJs",
+                        "id": "847526099986685952",
+                        "name": "DJs"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A taxonomy of user interests. ",
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy"
+                    },
+                    "entity": {
+                        "description": "Pop",
+                        "id": "810938279801470977",
+                        "name": "Pop"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A taxonomy of user interests. ",
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy"
+                    },
+                    "entity": {
+                        "description": "Music and radio",
+                        "id": "847524658970636288",
+                        "name": "Music"
+                    }
+                }
+            ],
+            "conversation_id": "1325031037060198400",
+            "created_at": "2020-11-07T11:03:11.000Z",
+            "edit_history_tweet_ids": [
+                "1325031037060198400"
+            ],
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 26,
+                        "normalized_text": "Ruckus Radio",
+                        "probability": 0.4749,
+                        "start": 15,
+                        "type": "Other"
+                    },
+                    {
+                        "end": 32,
+                        "normalized_text": "Booka",
+                        "probability": 0.2734,
+                        "start": 28,
+                        "type": "Other"
+                    },
+                    {
+                        "end": 46,
+                        "normalized_text": "Dapayk",
+                        "probability": 0.4379,
+                        "start": 41,
+                        "type": "Person"
+                    },
+                    {
+                        "end": 60,
+                        "normalized_text": "Padberg",
+                        "probability": 0.3924,
+                        "start": 54,
+                        "type": "Person"
+                    },
+                    {
+                        "end": 80,
+                        "normalized_text": "Watching Over You",
+                        "probability": 0.7094,
+                        "start": 64,
+                        "type": "Other"
+                    },
+                    {
+                        "end": 93,
+                        "normalized_text": "Booka Shade",
+                        "probability": 0.502,
+                        "start": 83,
+                        "type": "Other"
+                    }
+                ],
+                "hashtags": [
+                    {
+                        "end": 132,
+                        "start": 126,
+                        "tag": "house"
+                    },
+                    {
+                        "end": 139,
+                        "start": 133,
+                        "tag": "disco"
+                    },
+                    {
+                        "end": 146,
+                        "start": 140,
+                        "tag": "funky"
+                    },
+                    {
+                        "end": 150,
+                        "start": 147,
+                        "tag": "dj"
+                    },
+                    {
+                        "end": 159,
+                        "start": 151,
+                        "tag": "djmixes"
+                    },
+                    {
+                        "end": 169,
+                        "start": 160,
+                        "tag": "popmusic"
+                    },
+                    {
+                        "end": 182,
+                        "start": 170,
+                        "tag": "technomusic"
+                    },
+                    {
+                        "end": 190,
+                        "start": 183,
+                        "tag": "techno"
+                    },
+                    {
+                        "end": 202,
+                        "start": 191,
+                        "tag": "housemusic"
+                    },
+                    {
+                        "end": 209,
+                        "start": 203,
+                        "tag": "radio"
+                    },
+                    {
+                        "end": 220,
+                        "start": 210,
+                        "tag": "techhouse"
+                    },
+                    {
+                        "end": 234,
+                        "start": 221,
+                        "tag": "musicmatters"
+                    },
+                    {
+                        "end": 241,
+                        "start": 235,
+                        "tag": "music"
+                    },
+                    {
+                        "end": 253,
+                        "start": 242,
+                        "tag": "houseparty"
+                    },
+                    {
+                        "end": 265,
+                        "start": 254,
+                        "tag": "househeads"
+                    },
+                    {
+                        "end": 271,
+                        "start": 266,
+                        "tag": "rave"
+                    }
+                ],
+                "urls": [
+                    {
+                        "description": "***Ruckus Chat Room***",
+                        "display_url": "ruckusradiousa.com",
+                        "end": 125,
+                        "expanded_url": "http://www.ruckusradiousa.com",
+                        "images": [
+                            {
+                                "height": 448,
+                                "url": "https://pbs.twimg.com/news_img/1646074647132229632/V0fzh9mP?format=png&name=orig",
+                                "width": 467
+                            },
+                            {
+                                "height": 150,
+                                "url": "https://pbs.twimg.com/news_img/1646074647132229632/V0fzh9mP?format=png&name=150x150",
+                                "width": 150
+                            }
+                        ],
+                        "start": 102,
+                        "status": 200,
+                        "title": "RUCKUSRADIOUSA.COM",
+                        "unwound_url": "http://www.ruckusradiousa.com",
+                        "url": "https://t.co/Vwi0S9PZm6"
+                    }
+                ]
+            },
+            "id": "1325031037060198400",
+            "lang": "en",
+            "public_metrics": {
+                "impression_count": 0,
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "reply_settings": "everyone",
+            "text": "Now Playing on Ruckus Radio Booka Shade, Dapayk &amp; Padberg - Watching Over You (Booka Shade Remix) https://t.co/Vwi0S9PZm6 #house #disco #funky #dj #djmixes #popmusic #technomusic #techno #housemusic #radio #techhouse #musicmatters #music #houseparty #househeads #rave"
+        },
+        {
+            "author_id": "858614645313216512",
+            "conversation_id": "1325031018651267074",
+            "created_at": "2020-11-07T11:03:07.000Z",
+            "edit_history_tweet_ids": [
+                "1325031018651267074"
+            ],
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 102,
+                        "normalized_text": "SurbhiChandna",
+                        "probability": 0.9426,
+                        "start": 90,
+                        "type": "Person"
+                    },
+                    {
+                        "end": 114,
+                        "normalized_text": "BaniSharma",
+                        "probability": 0.7682,
+                        "start": 105,
+                        "type": "Person"
+                    }
+                ],
+                "hashtags": [
+                    {
+                        "end": 103,
+                        "start": 89,
+                        "tag": "SurbhiChandna"
+                    },
+                    {
+                        "end": 115,
+                        "start": 104,
+                        "tag": "BaniSharma"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 75,
+                        "id": "33242346",
+                        "start": 61,
+                        "username": "SurbhiChandna"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "pic.twitter.com/37bFnRLMcU",
+                        "end": 139,
+                        "expanded_url": "https://twitter.com/jyotsana333/status/1325031018651267074/photo/1",
+                        "media_key": "3_1325030990570352640",
+                        "start": 116,
+                        "url": "https://t.co/37bFnRLMcU"
+                    },
+                    {
+                        "display_url": "pic.twitter.com/37bFnRLMcU",
+                        "end": 139,
+                        "expanded_url": "https://twitter.com/jyotsana333/status/1325031018651267074/photo/1",
+                        "media_key": "3_1325031004491280384",
+                        "start": 116,
+                        "url": "https://t.co/37bFnRLMcU"
+                    },
+                    {
+                        "display_url": "twitter.com/jyotsana333/st\u2026",
+                        "end": 163,
+                        "expanded_url": "https://twitter.com/jyotsana333/status/1325014375372005376",
+                        "start": 140,
+                        "url": "https://t.co/yqDw3hyUiQ"
+                    }
+                ]
+            },
+            "id": "1325031018651267074",
+            "lang": "en",
+            "public_metrics": {
+                "impression_count": 0,
+                "like_count": 7,
+                "quote_count": 1,
+                "reply_count": 0,
+                "retweet_count": 1
+            },
+            "referenced_tweets": [
+                {
+                    "id": "1325014375372005376",
+                    "type": "quoted"
+                }
+            ],
+            "reply_settings": "everyone",
+            "text": "Grey Shade Perfect Expression\ud83d\ude3b\ud83d\udd25Such Cool Clicks+Maroon Saree @SurbhiChandna Why So Hawt\ud83d\udd25\n#SurbhiChandna #BaniSharma https://t.co/37bFnRLMcU https://t.co/yqDw3hyUiQ"
+        },
+        {
+            "author_id": "946715694",
+            "conversation_id": "1325031012754219008",
+            "created_at": "2020-11-07T11:03:05.000Z",
+            "edit_history_tweet_ids": [
+                "1325031012754219008"
+            ],
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 51,
+                        "normalized_text": "Abu Hurairah",
+                        "probability": 0.7908,
+                        "start": 40,
+                        "type": "Person"
+                    }
+                ]
+            },
+            "id": "1325031012754219008",
+            "lang": "en",
+            "public_metrics": {
+                "impression_count": 0,
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 32
+            },
+            "referenced_tweets": [
+                {
+                    "id": "1324948931944525824",
+                    "type": "retweeted"
+                }
+            ],
+            "reply_settings": "everyone",
+            "text": "RT @Adaugetsoo: Good Morning Tweeps\u2615\u2615\u2615\n Abu Hurairah (RA) reported: Messenger of Allah (PBUH) said, \"On the Day of \rResurrection, Allah wil\u2026"
+        },
+        {
+            "author_id": "1211611571400536065",
+            "conversation_id": "1325031006823329794",
+            "created_at": "2020-11-07T11:03:04.000Z",
+            "edit_history_tweet_ids": [
+                "1325031006823329794"
+            ],
+            "entities": {
+                "hashtags": [
+                    {
+                        "end": 36,
+                        "start": 27,
+                        "tag": "\u9670\u3067\u306f\u5acc\u308f\u308c\u3066\u308b"
+                    },
+                    {
+                        "end": 50,
+                        "start": 37,
+                        "tag": "shindanmaker"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "shindanmaker.com/1030751",
+                        "end": 74,
+                        "expanded_url": "https://shindanmaker.com/1030751",
+                        "start": 51,
+                        "url": "https://t.co/GVgu0KWgsH"
+                    }
+                ]
+            },
+            "id": "1325031006823329794",
+            "lang": "ja",
+            "public_metrics": {
+                "impression_count": 0,
+                "like_count": 1,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "reply_settings": "everyone",
+            "text": "SMV\u3092\u9670\u3067\u5acc\u3063\u3066\u3044\u308b\u4eba\u306f\u30100\u4eba\u3011\u3044\u308b\u3088\u3046\u3067\u3059\u2026\u2026\u3002\n#\u9670\u3067\u306f\u5acc\u308f\u308c\u3066\u308b #shindanmaker\nhttps://t.co/GVgu0KWgsH\nshade"
+        },
+        {
+            "author_id": "3804375258",
+            "context_annotations": [
+                {
+                    "domain": {
+                        "description": "Named people in the world like Nelson Mandela",
+                        "id": "10",
+                        "name": "Person"
+                    },
+                    "entity": {
+                        "description": "J-Hope (\uc81c\uc774\ud649) - member of BTS",
+                        "id": "895369682240196608",
+                        "name": "j-hope"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A musician in the world, like Adele or Bob Dylan",
+                        "id": "54",
+                        "name": "Musician"
+                    },
+                    "entity": {
+                        "description": "J-Hope (\uc81c\uc774\ud649) - member of BTS",
+                        "id": "895369682240196608",
+                        "name": "j-hope"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A category for a musical style, like Pop, Rock, or Rap",
+                        "id": "55",
+                        "name": "Music Genre"
+                    },
+                    "entity": {
+                        "description": "K-Pop",
+                        "id": "888105153038958593",
+                        "name": "K-pop"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A taxonomy of user interests. ",
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy"
+                    },
+                    "entity": {
+                        "description": "Music and radio",
+                        "id": "847524658970636288",
+                        "name": "Music"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A taxonomy of user interests. ",
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy"
+                    },
+                    "entity": {
+                        "description": "K-Pop",
+                        "id": "888105153038958593",
+                        "name": "K-pop"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A taxonomy of user interests. ",
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy"
+                    },
+                    "entity": {
+                        "description": "J-Hope (\uc81c\uc774\ud649) - member of BTS",
+                        "id": "895369682240196608",
+                        "name": "j-hope"
+                    }
+                }
+            ],
+            "conversation_id": "1325030998749245441",
+            "created_at": "2020-11-07T11:03:02.000Z",
+            "edit_history_tweet_ids": [
+                "1325030998749245441"
+            ],
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 15,
+                        "normalized_text": "hobi",
+                        "probability": 0.5943,
+                        "start": 12,
+                        "type": "Person"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "pic.twitter.com/nSPpLkqUrt",
+                        "end": 78,
+                        "expanded_url": "https://twitter.com/DI0RSUGA/status/1325030998749245441/photo/1",
+                        "media_key": "3_1325030996593451009",
+                        "start": 55,
+                        "url": "https://t.co/nSPpLkqUrt"
+                    }
+                ]
+            },
+            "id": "1325030998749245441",
+            "lang": "en",
+            "public_metrics": {
+                "impression_count": 0,
+                "like_count": 4,
+                "quote_count": 2,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "reply_settings": "everyone",
+            "text": "i feel like hobi room will be these shade of red later https://t.co/nSPpLkqUrt"
+        },
+        {
+            "author_id": "2912767155",
+            "context_annotations": [
+                {
+                    "domain": {
+                        "description": "Top level interests and hobbies groupings, like Food or Travel",
+                        "id": "65",
+                        "name": "Interests and Hobbies Vertical"
+                    },
+                    "entity": {
+                        "description": "Beauty",
+                        "id": "850395585941086209",
+                        "name": "Beauty"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+                        "id": "66",
+                        "name": "Interests and Hobbies Category"
+                    },
+                    "entity": {
+                        "description": "Make-up and Cosmetics",
+                        "id": "855442035314089988",
+                        "name": "Makeup"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+                        "id": "67",
+                        "name": "Interests and Hobbies"
+                    },
+                    "entity": {
+                        "description": "Lip Gloss",
+                        "id": "855449896840708097",
+                        "name": "Lip Gloss"
+                    }
+                }
+            ],
+            "conversation_id": "1325030950489759744",
+            "created_at": "2020-11-07T11:02:51.000Z",
+            "edit_history_tweet_ids": [
+                "1325030950489759744"
+            ],
+            "entities": {
+                "mentions": [
+                    {
+                        "end": 18,
+                        "id": "2851136370",
+                        "start": 3,
+                        "username": "julissaanewell"
+                    },
+                    {
+                        "end": 41,
+                        "id": "1286861311213801472",
+                        "start": 28,
+                        "username": "hazelmbeauty"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "pic.twitter.com/arqlhyfwPt",
+                        "end": 97,
+                        "expanded_url": "https://twitter.com/julissaanewell/status/1324952426596757504/photo/1",
+                        "media_key": "3_1324952422364700672",
+                        "start": 74,
+                        "url": "https://t.co/arqlhyfwPt"
+                    }
+                ]
+            },
+            "id": "1325030950489759744",
+            "lang": "en",
+            "public_metrics": {
+                "impression_count": 0,
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 27
+            },
+            "referenced_tweets": [
+                {
+                    "id": "1324952426596757504",
+                    "type": "retweeted"
+                }
+            ],
+            "reply_settings": "everyone",
+            "text": "RT @julissaanewell: wearing @hazelmbeauty lip gloss in the shade teddy \ud83d\udc3b\ud83d\udc9c https://t.co/arqlhyfwPt"
+        },
+        {
+            "author_id": "2182428072",
+            "conversation_id": "1324980379309268992",
+            "created_at": "2020-11-07T11:02:28.000Z",
+            "edit_history_tweet_ids": [
+                "1325030855639773185"
+            ],
+            "id": "1325030855639773185",
+            "in_reply_to_user_id": "1007032770701520898",
+            "lang": "es",
+            "public_metrics": {
+                "impression_count": 0,
+                "like_count": 1,
+                "quote_count": 0,
+                "reply_count": 1,
+                "retweet_count": 0
+            },
+            "referenced_tweets": [
+                {
+                    "id": "1324980379309268992",
+                    "type": "replied_to"
+                }
+            ],
+            "reply_settings": "everyone",
+            "text": "@Sgozalom Me meo con el shade a la serie jajajajajjajaja"
+        },
+        {
+            "author_id": "1230779743647289345",
+            "conversation_id": "1325030822991237120",
+            "created_at": "2020-11-07T11:02:20.000Z",
+            "edit_history_tweet_ids": [
+                "1325030822991237120"
+            ],
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 69,
+                        "normalized_text": "Ozoemena",
+                        "probability": 0.4695,
+                        "start": 62,
+                        "type": "Person"
+                    },
+                    {
+                        "end": 122,
+                        "normalized_text": "Nigeria",
+                        "probability": 0.98,
+                        "start": 116,
+                        "type": "Place"
+                    },
+                    {
+                        "end": 133,
+                        "normalized_text": "Africa",
+                        "probability": 0.9621,
+                        "start": 128,
+                        "type": "Place"
+                    }
+                ]
+            },
+            "id": "1325030822991237120",
+            "lang": "en",
+            "public_metrics": {
+                "impression_count": 0,
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 49
+            },
+            "referenced_tweets": [
+                {
+                    "id": "1325027580051927040",
+                    "type": "retweeted"
+                }
+            ],
+            "reply_settings": "everyone",
+            "text": "RT @xoxo_shade: Almighty Father in Heaven,\n          Your son Ozoemena wants to open a Sport Agency. The biggest in Nigeria and Africa at l\u2026"
+        },
+        {
+            "author_id": "95586717",
+            "conversation_id": "1325030802237747201",
+            "created_at": "2020-11-07T11:02:15.000Z",
+            "edit_history_tweet_ids": [
+                "1325030802237747201"
+            ],
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 58,
+                        "normalized_text": "Alicesoft Sound",
+                        "probability": 0.4908,
+                        "start": 44,
+                        "type": "Other"
+                    }
+                ],
+                "hashtags": [
+                    {
+                        "end": 11,
+                        "start": 0,
+                        "tag": "NowPlaying"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "pic.twitter.com/LMGkqVm2vY",
+                        "end": 104,
+                        "expanded_url": "https://twitter.com/Crossshine/status/1325030802237747201/photo/1",
+                        "media_key": "3_1325030800413261824",
+                        "start": 81,
+                        "url": "https://t.co/LMGkqVm2vY"
+                    }
+                ]
+            },
+            "id": "1325030802237747201",
+            "lang": "ja",
+            "public_metrics": {
+                "impression_count": 0,
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "reply_settings": "everyone",
+            "text": "#NowPlaying after school crawlers - Shade - Alicesoft Sound Album Vol.19 \u30a2\u30ea\u30b92010 https://t.co/LMGkqVm2vY"
+        },
+        {
+            "author_id": "1180354700920541184",
+            "conversation_id": "1325028022106271745",
+            "created_at": "2020-11-07T11:02:02.000Z",
+            "edit_history_tweet_ids": [
+                "1325030746881323013"
+            ],
+            "id": "1325030746881323013",
+            "in_reply_to_user_id": "1146326436438933504",
+            "lang": "en",
+            "public_metrics": {
+                "impression_count": 0,
+                "like_count": 1,
+                "quote_count": 0,
+                "reply_count": 1,
+                "retweet_count": 0
+            },
+            "referenced_tweets": [
+                {
+                    "id": "1325030274275577858",
+                    "type": "replied_to"
+                }
+            ],
+            "reply_settings": "everyone",
+            "text": "@GreyCells98 hmm...does it look like that??\nit will be a treat to see him in that shade"
+        },
+        {
+            "author_id": "1254277919154884613",
+            "conversation_id": "1325030740711546882",
+            "created_at": "2020-11-07T11:02:01.000Z",
+            "edit_history_tweet_ids": [
+                "1325030740711546882"
+            ],
+            "entities": {
+                "urls": [
+                    {
+                        "display_url": "twitter.com/ehlucunih/stat\u2026",
+                        "end": 97,
+                        "expanded_url": "https://twitter.com/ehlucunih/status/1324781155959205888",
+                        "start": 74,
+                        "url": "https://t.co/ECW4ONyBfu"
+                    }
+                ]
+            },
+            "id": "1325030740711546882",
+            "lang": "in",
+            "public_metrics": {
+                "impression_count": 0,
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 1
+            },
+            "referenced_tweets": [
+                {
+                    "id": "1324781155959205888",
+                    "type": "quoted"
+                }
+            ],
+            "reply_settings": "everyone",
+            "text": "LAPAK cakep banget sumpaahh, cus ke oren ada pilihan shade lengkapnya \ud83d\udc47\ud83c\udffb\ud83d\udc47\ud83c\udffbhttps://t.co/ECW4ONyBfu"
+        },
+        {
+            "author_id": "782167602",
+            "context_annotations": [
+                {
+                    "domain": {
+                        "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+                        "id": "30",
+                        "name": "Entities [Entity Service]"
+                    },
+                    "entity": {
+                        "description": "Science",
+                        "id": "854692455005921281",
+                        "name": "Science"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A taxonomy of user interests. ",
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy"
+                    },
+                    "entity": {
+                        "description": "Science",
+                        "id": "854692455005921281",
+                        "name": "Science"
+                    }
+                }
+            ],
+            "conversation_id": "1325018428873302016",
+            "created_at": "2020-11-07T11:01:54.000Z",
+            "edit_history_tweet_ids": [
+                "1325030714086215680"
+            ],
+            "entities": {
+                "mentions": [
+                    {
+                        "end": 15,
+                        "id": "1369333942764113929",
+                        "start": 0,
+                        "username": "MichaelYeadon3"
+                    }
+                ]
+            },
+            "id": "1325030714086215680",
+            "in_reply_to_user_id": "1052630676736901120",
+            "lang": "en",
+            "public_metrics": {
+                "impression_count": 0,
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "referenced_tweets": [
+                {
+                    "id": "1325018428873302016",
+                    "type": "replied_to"
+                }
+            ],
+            "reply_settings": "everyone",
+            "text": "@MichaelYeadon3 Is it not so much the question of whether the fact is true but a question of how to develop research methods that prove it so unequivocally? The fact exists but scientists scrambling to prove and some scientists throwing shade to the methods?"
+        }
+    ],
+    "meta": {
+        "newest_id": "1325032836890583040",
+        "next_token": "b26v89c19zqg8o3fosbu8ld5milkbmopvsatpaj70s48t",
+        "oldest_id": "1325030714086215680",
+        "result_count": 65
+    }
+}

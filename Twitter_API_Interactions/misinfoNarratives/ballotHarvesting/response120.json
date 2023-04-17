@@ -1,0 +1,5010 @@
+{
+    "data": [
+        {
+            "author_id": "1323088748",
+            "context_annotations": [
+                {
+                    "domain": {
+                        "description": "Real world events. ",
+                        "id": "29",
+                        "name": "Events [Entity Service]"
+                    },
+                    "entity": {
+                        "description": "2020 US Presidential Election",
+                        "id": "1029453725360775168",
+                        "name": "2020 US Presidential Election"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A taxonomy of user interests. ",
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy"
+                    },
+                    "entity": {
+                        "description": "2020 US Presidential Election",
+                        "id": "1029453725360775168",
+                        "name": "2020 US Presidential Election"
+                    }
+                }
+            ],
+            "conversation_id": "1326402411485925382",
+            "created_at": "2020-11-11T05:52:32.000Z",
+            "edit_history_tweet_ids": [
+                "1326402411485925382"
+            ],
+            "entities": {
+                "mentions": [
+                    {
+                        "end": 10,
+                        "id": "330043767",
+                        "start": 3,
+                        "username": "LizRNC"
+                    }
+                ]
+            },
+            "id": "1326402411485925382",
+            "lang": "en",
+            "public_metrics": {
+                "impression_count": 0,
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 923
+            },
+            "referenced_tweets": [
+                {
+                    "id": "1326283873806917633",
+                    "type": "retweeted"
+                }
+            ],
+            "reply_settings": "everyone",
+            "text": "RT @LizRNC: \"We're now finding potentially that 25,000 nursing home residents in different nursing homes requested mail-in ballots at the e\u2026"
+        },
+        {
+            "author_id": "288625933",
+            "conversation_id": "1326402364807450625",
+            "created_at": "2020-11-11T05:52:21.000Z",
+            "edit_history_tweet_ids": [
+                "1326402364807450625"
+            ],
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 36,
+                        "normalized_text": "\u30db\u30fc\u30ea\u30fc\u8b70\u54e1",
+                        "probability": 0.3946,
+                        "start": 31,
+                        "type": "Person"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 16,
+                        "id": "1238297090339422209",
+                        "start": 3,
+                        "username": "Ryu237244338"
+                    },
+                    {
+                        "end": 30,
+                        "id": "1166577240601239552",
+                        "start": 18,
+                        "username": "mei98862477"
+                    }
+                ]
+            },
+            "id": "1326402364807450625",
+            "lang": "ja",
+            "public_metrics": {
+                "impression_count": 0,
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 12
+            },
+            "referenced_tweets": [
+                {
+                    "id": "1326400123182649344",
+                    "type": "retweeted"
+                }
+            ],
+            "reply_settings": "everyone",
+            "text": "RT @Ryu237244338: @mei98862477 \u30db\u30fc\u30ea\u30fc\u8b70\u54e1\u4ee5\u5916\u304b\u3089\u3082Ballot Harvesting\u898f\u5236\u6cd5\u6848\n\u6700\u8fd1\u306e\u9078\u6319\u3067\u898b\u3089\u308c\u308b\u7b2c\u4e09\u8005\u304c\u6295\u7968\u7528\u7d19\u3092\u4e0d\u6b63\u53ce\u96c6\u3057\u8aa4\u3063\u3066\u53d6\u6271\u3046\u4e8b\u3092\u963b\u6b62\u3059\u308b\u898f\u5236\u304c\u591a\u304f\u306e\u5dde\u3067\u7121\u3044\u306e\u3067\u4f5c\u6210\u3059\u308b\n\n\u4f55\u304b\u6b86\u3069\u4e8b\u5f8c\u306b\u6cd5\u6848\u51fa\u3066\u304d\u3066\u308b\u306e\u306f\n\u304a\u3068\u308a\u635c\u2026"
+        },
+        {
+            "author_id": "1306004049334943744",
+            "context_annotations": [
+                {
+                    "domain": {
+                        "description": "Named people in the world like Nelson Mandela",
+                        "id": "10",
+                        "name": "Person"
+                    },
+                    "entity": {
+                        "description": "Laura Ingraham",
+                        "id": "1053753085489606656",
+                        "name": "Laura Ingraham"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A journalist like 'Anderson Cooper'",
+                        "id": "94",
+                        "name": "Journalist"
+                    },
+                    "entity": {
+                        "description": "Laura Ingraham",
+                        "id": "1053753085489606656",
+                        "name": "Laura Ingraham"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A taxonomy of user interests. ",
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy"
+                    },
+                    "entity": {
+                        "description": "News",
+                        "id": "1046545033657081857",
+                        "name": "News"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A taxonomy of user interests. ",
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy"
+                    },
+                    "entity": {
+                        "description": "Laura Ingraham",
+                        "id": "1053753085489606656",
+                        "name": "Laura Ingraham"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A taxonomy of user interests. ",
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy"
+                    },
+                    "entity": {
+                        "description": "Journalism",
+                        "id": "1074755369530880001",
+                        "name": "Journalists"
+                    }
+                }
+            ],
+            "conversation_id": "1326402295542800386",
+            "created_at": "2020-11-11T05:52:05.000Z",
+            "edit_history_tweet_ids": [
+                "1326402295542800386"
+            ],
+            "entities": {
+                "mentions": [
+                    {
+                        "end": 17,
+                        "id": "50769180",
+                        "start": 3,
+                        "username": "IngrahamAngle"
+                    },
+                    {
+                        "end": 56,
+                        "id": "62932362",
+                        "start": 42,
+                        "username": "DrJohnEastman"
+                    }
+                ]
+            },
+            "id": "1326402295542800386",
+            "lang": "en",
+            "public_metrics": {
+                "impression_count": 0,
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 244
+            },
+            "referenced_tweets": [
+                {
+                    "id": "1326343892208267264",
+                    "type": "retweeted"
+                }
+            ],
+            "reply_settings": "everyone",
+            "text": "RT @IngrahamAngle: Constitutional scholar @DrJohnEastman reveals the dangers ballot harvesting poses to election integrity. Listen to the f\u2026"
+        },
+        {
+            "author_id": "1331506914",
+            "context_annotations": [
+                {
+                    "domain": {
+                        "description": "Real world events. ",
+                        "id": "29",
+                        "name": "Events [Entity Service]"
+                    },
+                    "entity": {
+                        "description": "2020 US Presidential Election",
+                        "id": "1029453725360775168",
+                        "name": "2020 US Presidential Election"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A taxonomy of user interests. ",
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy"
+                    },
+                    "entity": {
+                        "description": "2020 US Presidential Election",
+                        "id": "1029453725360775168",
+                        "name": "2020 US Presidential Election"
+                    }
+                }
+            ],
+            "conversation_id": "1326402254811893760",
+            "created_at": "2020-11-11T05:51:55.000Z",
+            "edit_history_tweet_ids": [
+                "1326402254811893760"
+            ],
+            "entities": {
+                "mentions": [
+                    {
+                        "end": 10,
+                        "id": "330043767",
+                        "start": 3,
+                        "username": "LizRNC"
+                    }
+                ]
+            },
+            "id": "1326402254811893760",
+            "lang": "en",
+            "public_metrics": {
+                "impression_count": 0,
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 923
+            },
+            "referenced_tweets": [
+                {
+                    "id": "1326283873806917633",
+                    "type": "retweeted"
+                }
+            ],
+            "reply_settings": "everyone",
+            "text": "RT @LizRNC: \"We're now finding potentially that 25,000 nursing home residents in different nursing homes requested mail-in ballots at the e\u2026"
+        },
+        {
+            "author_id": "18956073",
+            "context_annotations": [
+                {
+                    "domain": {
+                        "description": "Named people in the world like Nelson Mandela",
+                        "id": "10",
+                        "name": "Person"
+                    },
+                    "entity": {
+                        "description": "Senator Lindsey Graham (SC)",
+                        "id": "10038636953",
+                        "name": "Lindsey Graham"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "Politicians in the world, like Joe Biden",
+                        "id": "35",
+                        "name": "Politician"
+                    },
+                    "entity": {
+                        "description": "Senator Lindsey Graham (SC)",
+                        "id": "10038636953",
+                        "name": "Lindsey Graham"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A taxonomy of user interests. ",
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy"
+                    },
+                    "entity": {
+                        "description": "Senator Lindsey Graham (SC)",
+                        "id": "10038636953",
+                        "name": "Lindsey Graham"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A taxonomy of user interests. ",
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy"
+                    },
+                    "entity": {
+                        "description": "Politics",
+                        "id": "847878884917886977",
+                        "name": "Politics"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A taxonomy of user interests. ",
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy"
+                    },
+                    "entity": {
+                        "description": "Politician",
+                        "id": "1070032753834438656",
+                        "name": "Political figures"
+                    }
+                }
+            ],
+            "conversation_id": "1326402224625504256",
+            "created_at": "2020-11-11T05:51:48.000Z",
+            "edit_history_tweet_ids": [
+                "1326402224625504256"
+            ],
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 13,
+                        "normalized_text": "Lindsey Graham",
+                        "probability": 0.9641,
+                        "start": 0,
+                        "type": "Person"
+                    },
+                    {
+                        "end": 57,
+                        "normalized_text": "Pennsylvania",
+                        "probability": 0.98,
+                        "start": 46,
+                        "type": "Place"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "washex.am/36jUQXQ",
+                        "end": 122,
+                        "expanded_url": "https://washex.am/36jUQXQ",
+                        "start": 99,
+                        "url": "https://t.co/11clgGuJKZ"
+                    }
+                ]
+            },
+            "id": "1326402224625504256",
+            "lang": "en",
+            "public_metrics": {
+                "impression_count": 0,
+                "like_count": 173,
+                "quote_count": 7,
+                "reply_count": 10,
+                "retweet_count": 54
+            },
+            "reply_settings": "everyone",
+            "text": "Lindsey Graham: Possible ballot harvesting in Pennsylvania involving 25,000 nursing home residents https://t.co/11clgGuJKZ"
+        },
+        {
+            "author_id": "19929377",
+            "conversation_id": "1325218786748887042",
+            "created_at": "2020-11-11T05:51:38.000Z",
+            "edit_history_tweet_ids": [
+                "1326402184150446082"
+            ],
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 45,
+                        "normalized_text": "Veritas",
+                        "probability": 0.4431,
+                        "start": 39,
+                        "type": "Other"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 38,
+                        "id": "28628850",
+                        "start": 26,
+                        "username": "greggutfeld"
+                    }
+                ]
+            },
+            "id": "1326402184150446082",
+            "in_reply_to_user_id": "383925163",
+            "lang": "en",
+            "public_metrics": {
+                "impression_count": 0,
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 1,
+                "retweet_count": 0
+            },
+            "referenced_tweets": [
+                {
+                    "id": "1326353619239710722",
+                    "type": "replied_to"
+                }
+            ],
+            "reply_settings": "everyone",
+            "text": "@DylanBelew @PudinskiMary @greggutfeld Veritas. Ok.  You know that veritas' history of truth is quite bad. Even their much ballyhooed ballot harvesting story fell apart. But go ahead, believe a scammer. And the money this guy is going to make off of gofundme. You people are indeed suckers. Adios.\nLmfao"
+        },
+        {
+            "author_id": "3685015310",
+            "context_annotations": [
+                {
+                    "domain": {
+                        "description": "A section of a government, like The Supreme Court",
+                        "id": "88",
+                        "name": "Political Body"
+                    },
+                    "entity": {
+                        "description": "United States Congress",
+                        "id": "961705302700654593",
+                        "name": "United States Congress"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A taxonomy of user interests. ",
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy"
+                    },
+                    "entity": {
+                        "description": "Politics",
+                        "id": "847878884917886977",
+                        "name": "Politics"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A taxonomy of user interests. ",
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy"
+                    },
+                    "entity": {
+                        "description": "United States Congress",
+                        "id": "961705302700654593",
+                        "name": "United States Congress"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A taxonomy of user interests. ",
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy"
+                    },
+                    "entity": {
+                        "description": "Political Body",
+                        "id": "1068583660914266113",
+                        "name": "Government institutions"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A section of a government, like The Supreme Court",
+                        "id": "88",
+                        "name": "Political Body"
+                    },
+                    "entity": {
+                        "description": "United States Senate",
+                        "id": "877326946253684737",
+                        "name": "United States Senate"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A section of a government, like The Supreme Court",
+                        "id": "88",
+                        "name": "Political Body"
+                    },
+                    "entity": {
+                        "description": "United States Congress",
+                        "id": "961705302700654593",
+                        "name": "United States Congress"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A taxonomy of user interests. ",
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy"
+                    },
+                    "entity": {
+                        "description": "Politics",
+                        "id": "847878884917886977",
+                        "name": "Politics"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A taxonomy of user interests. ",
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy"
+                    },
+                    "entity": {
+                        "description": "United States Senate",
+                        "id": "877326946253684737",
+                        "name": "United States Senate"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A taxonomy of user interests. ",
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy"
+                    },
+                    "entity": {
+                        "description": "Political Body",
+                        "id": "1068583660914266113",
+                        "name": "Government institutions"
+                    }
+                }
+            ],
+            "conversation_id": "1326402095881318403",
+            "created_at": "2020-11-11T05:51:17.000Z",
+            "edit_history_tweet_ids": [
+                "1326402095881318403"
+            ],
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 39,
+                        "normalized_text": "Hawley",
+                        "probability": 0.8119,
+                        "start": 34,
+                        "type": "Person"
+                    },
+                    {
+                        "end": 118,
+                        "normalized_text": "US",
+                        "probability": 0.5729,
+                        "start": 117,
+                        "type": "Place"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 18,
+                        "id": "1080960924687704064",
+                        "start": 3,
+                        "username": "SenHawleyPress"
+                    }
+                ]
+            },
+            "id": "1326402095881318403",
+            "lang": "en",
+            "public_metrics": {
+                "impression_count": 0,
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 175
+            },
+            "referenced_tweets": [
+                {
+                    "id": "1326179371346956288",
+                    "type": "retweeted"
+                }
+            ],
+            "reply_settings": "everyone",
+            "text": "RT @SenHawleyPress: NEW \u2014 Senator Hawley has introduced new legislation that would ban ballot harvesting and protect US election integrity\u2026"
+        },
+        {
+            "author_id": "874831776",
+            "context_annotations": [
+                {
+                    "domain": {
+                        "description": "Real world events. ",
+                        "id": "29",
+                        "name": "Events [Entity Service]"
+                    },
+                    "entity": {
+                        "description": "2020 US Presidential Election",
+                        "id": "1029453725360775168",
+                        "name": "2020 US Presidential Election"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A taxonomy of user interests. ",
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy"
+                    },
+                    "entity": {
+                        "description": "2020 US Presidential Election",
+                        "id": "1029453725360775168",
+                        "name": "2020 US Presidential Election"
+                    }
+                }
+            ],
+            "conversation_id": "1326402036749963264",
+            "created_at": "2020-11-11T05:51:03.000Z",
+            "edit_history_tweet_ids": [
+                "1326402036749963264"
+            ],
+            "entities": {
+                "mentions": [
+                    {
+                        "end": 10,
+                        "id": "330043767",
+                        "start": 3,
+                        "username": "LizRNC"
+                    }
+                ]
+            },
+            "id": "1326402036749963264",
+            "lang": "en",
+            "public_metrics": {
+                "impression_count": 0,
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 923
+            },
+            "referenced_tweets": [
+                {
+                    "id": "1326283873806917633",
+                    "type": "retweeted"
+                }
+            ],
+            "reply_settings": "everyone",
+            "text": "RT @LizRNC: \"We're now finding potentially that 25,000 nursing home residents in different nursing homes requested mail-in ballots at the e\u2026"
+        },
+        {
+            "author_id": "928891151620358144",
+            "context_annotations": [
+                {
+                    "domain": {
+                        "description": "Real world events. ",
+                        "id": "29",
+                        "name": "Events [Entity Service]"
+                    },
+                    "entity": {
+                        "description": "2020 US Presidential Election",
+                        "id": "1029453725360775168",
+                        "name": "2020 US Presidential Election"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A taxonomy of user interests. ",
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy"
+                    },
+                    "entity": {
+                        "description": "2020 US Presidential Election",
+                        "id": "1029453725360775168",
+                        "name": "2020 US Presidential Election"
+                    }
+                }
+            ],
+            "conversation_id": "1326402023865061377",
+            "created_at": "2020-11-11T05:51:00.000Z",
+            "edit_history_tweet_ids": [
+                "1326402023865061377"
+            ],
+            "entities": {
+                "mentions": [
+                    {
+                        "end": 10,
+                        "id": "330043767",
+                        "start": 3,
+                        "username": "LizRNC"
+                    }
+                ]
+            },
+            "id": "1326402023865061377",
+            "lang": "en",
+            "public_metrics": {
+                "impression_count": 0,
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 923
+            },
+            "referenced_tweets": [
+                {
+                    "id": "1326283873806917633",
+                    "type": "retweeted"
+                }
+            ],
+            "reply_settings": "everyone",
+            "text": "RT @LizRNC: \"We're now finding potentially that 25,000 nursing home residents in different nursing homes requested mail-in ballots at the e\u2026"
+        },
+        {
+            "author_id": "526964933",
+            "context_annotations": [
+                {
+                    "domain": {
+                        "description": "Real world events. ",
+                        "id": "29",
+                        "name": "Events [Entity Service]"
+                    },
+                    "entity": {
+                        "description": "2020 US Presidential Election",
+                        "id": "1029453725360775168",
+                        "name": "2020 US Presidential Election"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A taxonomy of user interests. ",
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy"
+                    },
+                    "entity": {
+                        "description": "2020 US Presidential Election",
+                        "id": "1029453725360775168",
+                        "name": "2020 US Presidential Election"
+                    }
+                }
+            ],
+            "conversation_id": "1326401982870016003",
+            "created_at": "2020-11-11T05:50:50.000Z",
+            "edit_history_tweet_ids": [
+                "1326401982870016003"
+            ],
+            "entities": {
+                "mentions": [
+                    {
+                        "end": 10,
+                        "id": "330043767",
+                        "start": 3,
+                        "username": "LizRNC"
+                    }
+                ]
+            },
+            "id": "1326401982870016003",
+            "lang": "en",
+            "public_metrics": {
+                "impression_count": 0,
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 923
+            },
+            "referenced_tweets": [
+                {
+                    "id": "1326283873806917633",
+                    "type": "retweeted"
+                }
+            ],
+            "reply_settings": "everyone",
+            "text": "RT @LizRNC: \"We're now finding potentially that 25,000 nursing home residents in different nursing homes requested mail-in ballots at the e\u2026"
+        },
+        {
+            "author_id": "1060958415810371584",
+            "conversation_id": "1326401980181442561",
+            "created_at": "2020-11-11T05:50:50.000Z",
+            "edit_history_tweet_ids": [
+                "1326401980181442561"
+            ],
+            "entities": {
+                "mentions": [
+                    {
+                        "end": 13,
+                        "id": "210424042",
+                        "start": 3,
+                        "username": "RAZ0RFIST"
+                    }
+                ]
+            },
+            "id": "1326401980181442561",
+            "lang": "en",
+            "public_metrics": {
+                "impression_count": 0,
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 617
+            },
+            "referenced_tweets": [
+                {
+                    "id": "1326390365184782336",
+                    "type": "retweeted"
+                }
+            ],
+            "reply_settings": "everyone",
+            "text": "RT @RAZ0RFIST: Stop calling it 'Voter Fraud'.\nThis term implies someone walking into a booth with two ballots or something. This is systemi\u2026"
+        },
+        {
+            "author_id": "1082142798378344449",
+            "context_annotations": [
+                {
+                    "domain": {
+                        "description": "Real world events. ",
+                        "id": "29",
+                        "name": "Events [Entity Service]"
+                    },
+                    "entity": {
+                        "description": "2020 US Presidential Election",
+                        "id": "1029453725360775168",
+                        "name": "2020 US Presidential Election"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A taxonomy of user interests. ",
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy"
+                    },
+                    "entity": {
+                        "description": "2020 US Presidential Election",
+                        "id": "1029453725360775168",
+                        "name": "2020 US Presidential Election"
+                    }
+                }
+            ],
+            "conversation_id": "1326401906307174401",
+            "created_at": "2020-11-11T05:50:32.000Z",
+            "edit_history_tweet_ids": [
+                "1326401906307174401"
+            ],
+            "entities": {
+                "mentions": [
+                    {
+                        "end": 10,
+                        "id": "330043767",
+                        "start": 3,
+                        "username": "LizRNC"
+                    }
+                ]
+            },
+            "id": "1326401906307174401",
+            "lang": "en",
+            "public_metrics": {
+                "impression_count": 0,
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 923
+            },
+            "referenced_tweets": [
+                {
+                    "id": "1326283873806917633",
+                    "type": "retweeted"
+                }
+            ],
+            "reply_settings": "everyone",
+            "text": "RT @LizRNC: \"We're now finding potentially that 25,000 nursing home residents in different nursing homes requested mail-in ballots at the e\u2026"
+        },
+        {
+            "author_id": "433446060",
+            "context_annotations": [
+                {
+                    "domain": {
+                        "description": "Real world events. ",
+                        "id": "29",
+                        "name": "Events [Entity Service]"
+                    },
+                    "entity": {
+                        "description": "2020 US Presidential Election",
+                        "id": "1029453725360775168",
+                        "name": "2020 US Presidential Election"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A taxonomy of user interests. ",
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy"
+                    },
+                    "entity": {
+                        "description": "2020 US Presidential Election",
+                        "id": "1029453725360775168",
+                        "name": "2020 US Presidential Election"
+                    }
+                }
+            ],
+            "conversation_id": "1326401845946953728",
+            "created_at": "2020-11-11T05:50:18.000Z",
+            "edit_history_tweet_ids": [
+                "1326401845946953728"
+            ],
+            "entities": {
+                "mentions": [
+                    {
+                        "end": 10,
+                        "id": "330043767",
+                        "start": 3,
+                        "username": "LizRNC"
+                    }
+                ]
+            },
+            "id": "1326401845946953728",
+            "lang": "en",
+            "public_metrics": {
+                "impression_count": 0,
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 923
+            },
+            "referenced_tweets": [
+                {
+                    "id": "1326283873806917633",
+                    "type": "retweeted"
+                }
+            ],
+            "reply_settings": "everyone",
+            "text": "RT @LizRNC: \"We're now finding potentially that 25,000 nursing home residents in different nursing homes requested mail-in ballots at the e\u2026"
+        },
+        {
+            "author_id": "279045810",
+            "context_annotations": [
+                {
+                    "domain": {
+                        "description": "Real world events. ",
+                        "id": "29",
+                        "name": "Events [Entity Service]"
+                    },
+                    "entity": {
+                        "description": "2020 US Presidential Election",
+                        "id": "1029453725360775168",
+                        "name": "2020 US Presidential Election"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A taxonomy of user interests. ",
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy"
+                    },
+                    "entity": {
+                        "description": "2020 US Presidential Election",
+                        "id": "1029453725360775168",
+                        "name": "2020 US Presidential Election"
+                    }
+                }
+            ],
+            "conversation_id": "1326401828456640512",
+            "created_at": "2020-11-11T05:50:13.000Z",
+            "edit_history_tweet_ids": [
+                "1326401828456640512"
+            ],
+            "entities": {
+                "mentions": [
+                    {
+                        "end": 10,
+                        "id": "330043767",
+                        "start": 3,
+                        "username": "LizRNC"
+                    }
+                ]
+            },
+            "id": "1326401828456640512",
+            "lang": "en",
+            "public_metrics": {
+                "impression_count": 0,
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 923
+            },
+            "referenced_tweets": [
+                {
+                    "id": "1326283873806917633",
+                    "type": "retweeted"
+                }
+            ],
+            "reply_settings": "everyone",
+            "text": "RT @LizRNC: \"We're now finding potentially that 25,000 nursing home residents in different nursing homes requested mail-in ballots at the e\u2026"
+        },
+        {
+            "author_id": "918138101997871104",
+            "context_annotations": [
+                {
+                    "domain": {
+                        "description": "Real world events. ",
+                        "id": "29",
+                        "name": "Events [Entity Service]"
+                    },
+                    "entity": {
+                        "description": "2020 US Presidential Election",
+                        "id": "1029453725360775168",
+                        "name": "2020 US Presidential Election"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A taxonomy of user interests. ",
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy"
+                    },
+                    "entity": {
+                        "description": "2020 US Presidential Election",
+                        "id": "1029453725360775168",
+                        "name": "2020 US Presidential Election"
+                    }
+                }
+            ],
+            "conversation_id": "1326401785259581441",
+            "created_at": "2020-11-11T05:50:03.000Z",
+            "edit_history_tweet_ids": [
+                "1326401785259581441"
+            ],
+            "entities": {
+                "mentions": [
+                    {
+                        "end": 10,
+                        "id": "330043767",
+                        "start": 3,
+                        "username": "LizRNC"
+                    }
+                ]
+            },
+            "id": "1326401785259581441",
+            "lang": "en",
+            "public_metrics": {
+                "impression_count": 0,
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 923
+            },
+            "referenced_tweets": [
+                {
+                    "id": "1326283873806917633",
+                    "type": "retweeted"
+                }
+            ],
+            "reply_settings": "everyone",
+            "text": "RT @LizRNC: \"We're now finding potentially that 25,000 nursing home residents in different nursing homes requested mail-in ballots at the e\u2026"
+        },
+        {
+            "author_id": "444953078",
+            "context_annotations": [
+                {
+                    "domain": {
+                        "description": "Real world events. ",
+                        "id": "29",
+                        "name": "Events [Entity Service]"
+                    },
+                    "entity": {
+                        "description": "2020 US Presidential Election",
+                        "id": "1029453725360775168",
+                        "name": "2020 US Presidential Election"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A taxonomy of user interests. ",
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy"
+                    },
+                    "entity": {
+                        "description": "2020 US Presidential Election",
+                        "id": "1029453725360775168",
+                        "name": "2020 US Presidential Election"
+                    }
+                }
+            ],
+            "conversation_id": "1326401710261227520",
+            "created_at": "2020-11-11T05:49:45.000Z",
+            "edit_history_tweet_ids": [
+                "1326401710261227520"
+            ],
+            "entities": {
+                "mentions": [
+                    {
+                        "end": 10,
+                        "id": "330043767",
+                        "start": 3,
+                        "username": "LizRNC"
+                    }
+                ]
+            },
+            "id": "1326401710261227520",
+            "lang": "en",
+            "public_metrics": {
+                "impression_count": 0,
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 923
+            },
+            "referenced_tweets": [
+                {
+                    "id": "1326283873806917633",
+                    "type": "retweeted"
+                }
+            ],
+            "reply_settings": "everyone",
+            "text": "RT @LizRNC: \"We're now finding potentially that 25,000 nursing home residents in different nursing homes requested mail-in ballots at the e\u2026"
+        },
+        {
+            "author_id": "2785073887",
+            "conversation_id": "1326401676979396613",
+            "created_at": "2020-11-11T05:49:37.000Z",
+            "edit_history_tweet_ids": [
+                "1326401676979396613"
+            ],
+            "entities": {
+                "mentions": [
+                    {
+                        "end": 13,
+                        "id": "210424042",
+                        "start": 3,
+                        "username": "RAZ0RFIST"
+                    }
+                ]
+            },
+            "id": "1326401676979396613",
+            "lang": "en",
+            "public_metrics": {
+                "impression_count": 0,
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 617
+            },
+            "referenced_tweets": [
+                {
+                    "id": "1326390365184782336",
+                    "type": "retweeted"
+                }
+            ],
+            "reply_settings": "everyone",
+            "text": "RT @RAZ0RFIST: Stop calling it 'Voter Fraud'.\nThis term implies someone walking into a booth with two ballots or something. This is systemi\u2026"
+        },
+        {
+            "author_id": "28292198",
+            "conversation_id": "1326401496439803904",
+            "created_at": "2020-11-11T05:48:54.000Z",
+            "edit_history_tweet_ids": [
+                "1326401496439803904"
+            ],
+            "entities": {
+                "mentions": [
+                    {
+                        "end": 13,
+                        "id": "210424042",
+                        "start": 3,
+                        "username": "RAZ0RFIST"
+                    }
+                ]
+            },
+            "id": "1326401496439803904",
+            "lang": "en",
+            "public_metrics": {
+                "impression_count": 0,
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 617
+            },
+            "referenced_tweets": [
+                {
+                    "id": "1326390365184782336",
+                    "type": "retweeted"
+                }
+            ],
+            "reply_settings": "everyone",
+            "text": "RT @RAZ0RFIST: Stop calling it 'Voter Fraud'.\nThis term implies someone walking into a booth with two ballots or something. This is systemi\u2026"
+        },
+        {
+            "author_id": "22663306",
+            "context_annotations": [
+                {
+                    "domain": {
+                        "description": "Real world events. ",
+                        "id": "29",
+                        "name": "Events [Entity Service]"
+                    },
+                    "entity": {
+                        "description": "2020 US Presidential Election",
+                        "id": "1029453725360775168",
+                        "name": "2020 US Presidential Election"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A taxonomy of user interests. ",
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy"
+                    },
+                    "entity": {
+                        "description": "2020 US Presidential Election",
+                        "id": "1029453725360775168",
+                        "name": "2020 US Presidential Election"
+                    }
+                }
+            ],
+            "conversation_id": "1326401495231832066",
+            "created_at": "2020-11-11T05:48:54.000Z",
+            "edit_history_tweet_ids": [
+                "1326401495231832066"
+            ],
+            "entities": {
+                "mentions": [
+                    {
+                        "end": 10,
+                        "id": "330043767",
+                        "start": 3,
+                        "username": "LizRNC"
+                    }
+                ]
+            },
+            "id": "1326401495231832066",
+            "lang": "en",
+            "public_metrics": {
+                "impression_count": 0,
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 923
+            },
+            "referenced_tweets": [
+                {
+                    "id": "1326283873806917633",
+                    "type": "retweeted"
+                }
+            ],
+            "reply_settings": "everyone",
+            "text": "RT @LizRNC: \"We're now finding potentially that 25,000 nursing home residents in different nursing homes requested mail-in ballots at the e\u2026"
+        },
+        {
+            "author_id": "2804481405",
+            "conversation_id": "1326401385546571777",
+            "created_at": "2020-11-11T05:48:28.000Z",
+            "edit_history_tweet_ids": [
+                "1326401385546571777"
+            ],
+            "entities": {
+                "mentions": [
+                    {
+                        "end": 13,
+                        "id": "210424042",
+                        "start": 3,
+                        "username": "RAZ0RFIST"
+                    }
+                ]
+            },
+            "id": "1326401385546571777",
+            "lang": "en",
+            "public_metrics": {
+                "impression_count": 0,
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 617
+            },
+            "referenced_tweets": [
+                {
+                    "id": "1326390365184782336",
+                    "type": "retweeted"
+                }
+            ],
+            "reply_settings": "everyone",
+            "text": "RT @RAZ0RFIST: Stop calling it 'Voter Fraud'.\nThis term implies someone walking into a booth with two ballots or something. This is systemi\u2026"
+        },
+        {
+            "author_id": "602687997",
+            "conversation_id": "1326401316348944384",
+            "created_at": "2020-11-11T05:48:11.000Z",
+            "edit_history_tweet_ids": [
+                "1326401316348944384"
+            ],
+            "entities": {
+                "mentions": [
+                    {
+                        "end": 13,
+                        "id": "210424042",
+                        "start": 3,
+                        "username": "RAZ0RFIST"
+                    }
+                ]
+            },
+            "id": "1326401316348944384",
+            "lang": "en",
+            "public_metrics": {
+                "impression_count": 0,
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 617
+            },
+            "referenced_tweets": [
+                {
+                    "id": "1326390365184782336",
+                    "type": "retweeted"
+                }
+            ],
+            "reply_settings": "everyone",
+            "text": "RT @RAZ0RFIST: Stop calling it 'Voter Fraud'.\nThis term implies someone walking into a booth with two ballots or something. This is systemi\u2026"
+        },
+        {
+            "author_id": "1248346897116352512",
+            "conversation_id": "1326401241002414088",
+            "created_at": "2020-11-11T05:47:53.000Z",
+            "edit_history_tweet_ids": [
+                "1326401241002414088"
+            ],
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 36,
+                        "normalized_text": "\u30db\u30fc\u30ea\u30fc\u8b70\u54e1",
+                        "probability": 0.3946,
+                        "start": 31,
+                        "type": "Person"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 16,
+                        "id": "1238297090339422209",
+                        "start": 3,
+                        "username": "Ryu237244338"
+                    },
+                    {
+                        "end": 30,
+                        "id": "1166577240601239552",
+                        "start": 18,
+                        "username": "mei98862477"
+                    }
+                ]
+            },
+            "id": "1326401241002414088",
+            "lang": "ja",
+            "public_metrics": {
+                "impression_count": 0,
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 12
+            },
+            "referenced_tweets": [
+                {
+                    "id": "1326400123182649344",
+                    "type": "retweeted"
+                }
+            ],
+            "reply_settings": "everyone",
+            "text": "RT @Ryu237244338: @mei98862477 \u30db\u30fc\u30ea\u30fc\u8b70\u54e1\u4ee5\u5916\u304b\u3089\u3082Ballot Harvesting\u898f\u5236\u6cd5\u6848\n\u6700\u8fd1\u306e\u9078\u6319\u3067\u898b\u3089\u308c\u308b\u7b2c\u4e09\u8005\u304c\u6295\u7968\u7528\u7d19\u3092\u4e0d\u6b63\u53ce\u96c6\u3057\u8aa4\u3063\u3066\u53d6\u6271\u3046\u4e8b\u3092\u963b\u6b62\u3059\u308b\u898f\u5236\u304c\u591a\u304f\u306e\u5dde\u3067\u7121\u3044\u306e\u3067\u4f5c\u6210\u3059\u308b\n\n\u4f55\u304b\u6b86\u3069\u4e8b\u5f8c\u306b\u6cd5\u6848\u51fa\u3066\u304d\u3066\u308b\u306e\u306f\n\u304a\u3068\u308a\u635c\u2026"
+        },
+        {
+            "author_id": "17156767",
+            "conversation_id": "1326401101697060864",
+            "created_at": "2020-11-11T05:47:20.000Z",
+            "edit_history_tweet_ids": [
+                "1326401101697060864"
+            ],
+            "entities": {
+                "mentions": [
+                    {
+                        "end": 13,
+                        "id": "210424042",
+                        "start": 3,
+                        "username": "RAZ0RFIST"
+                    }
+                ]
+            },
+            "id": "1326401101697060864",
+            "lang": "en",
+            "public_metrics": {
+                "impression_count": 0,
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 617
+            },
+            "referenced_tweets": [
+                {
+                    "id": "1326390365184782336",
+                    "type": "retweeted"
+                }
+            ],
+            "reply_settings": "everyone",
+            "text": "RT @RAZ0RFIST: Stop calling it 'Voter Fraud'.\nThis term implies someone walking into a booth with two ballots or something. This is systemi\u2026"
+        },
+        {
+            "author_id": "1951019052",
+            "conversation_id": "1326401031228575745",
+            "created_at": "2020-11-11T05:47:03.000Z",
+            "edit_history_tweet_ids": [
+                "1326401031228575745"
+            ],
+            "entities": {
+                "mentions": [
+                    {
+                        "end": 13,
+                        "id": "210424042",
+                        "start": 3,
+                        "username": "RAZ0RFIST"
+                    }
+                ]
+            },
+            "id": "1326401031228575745",
+            "lang": "en",
+            "public_metrics": {
+                "impression_count": 0,
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 617
+            },
+            "referenced_tweets": [
+                {
+                    "id": "1326390365184782336",
+                    "type": "retweeted"
+                }
+            ],
+            "reply_settings": "everyone",
+            "text": "RT @RAZ0RFIST: Stop calling it 'Voter Fraud'.\nThis term implies someone walking into a booth with two ballots or something. This is systemi\u2026"
+        },
+        {
+            "author_id": "1237671265101426688",
+            "conversation_id": "1326400903063203840",
+            "created_at": "2020-11-11T05:46:33.000Z",
+            "edit_history_tweet_ids": [
+                "1326400903063203840"
+            ],
+            "entities": {
+                "mentions": [
+                    {
+                        "end": 13,
+                        "id": "210424042",
+                        "start": 3,
+                        "username": "RAZ0RFIST"
+                    }
+                ]
+            },
+            "id": "1326400903063203840",
+            "lang": "en",
+            "public_metrics": {
+                "impression_count": 0,
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 617
+            },
+            "referenced_tweets": [
+                {
+                    "id": "1326390365184782336",
+                    "type": "retweeted"
+                }
+            ],
+            "reply_settings": "everyone",
+            "text": "RT @RAZ0RFIST: Stop calling it 'Voter Fraud'.\nThis term implies someone walking into a booth with two ballots or something. This is systemi\u2026"
+        },
+        {
+            "author_id": "1326384285281103873",
+            "conversation_id": "1326400849216761858",
+            "created_at": "2020-11-11T05:46:20.000Z",
+            "edit_history_tweet_ids": [
+                "1326400849216761858"
+            ],
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 49,
+                        "normalized_text": "California",
+                        "probability": 0.7126,
+                        "start": 40,
+                        "type": "Place"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 14,
+                        "id": "748330599249645568",
+                        "start": 3,
+                        "username": "Kat7600999"
+                    },
+                    {
+                        "end": 28,
+                        "id": "695434934190669827",
+                        "start": 16,
+                        "username": "Andi_G_Arts"
+                    },
+                    {
+                        "end": 39,
+                        "id": "805428673",
+                        "start": 29,
+                        "username": "BeauCards"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "pic.twitter.com/IvnxA7f7v9",
+                        "end": 125,
+                        "expanded_url": "https://twitter.com/Kat7600999/status/1326395956812804097/photo/1",
+                        "media_key": "3_1326395743482077186",
+                        "start": 102,
+                        "url": "https://t.co/IvnxA7f7v9"
+                    }
+                ]
+            },
+            "id": "1326400849216761858",
+            "lang": "en",
+            "public_metrics": {
+                "impression_count": 0,
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 3
+            },
+            "referenced_tweets": [
+                {
+                    "id": "1326395956812804097",
+                    "type": "retweeted"
+                }
+            ],
+            "reply_settings": "everyone",
+            "text": "RT @Kat7600999: @Andi_G_Arts @BeauCards California ballot harvesting law 2016. What happened in 2018? https://t.co/IvnxA7f7v9"
+        },
+        {
+            "author_id": "314752435",
+            "context_annotations": [
+                {
+                    "domain": {
+                        "description": "Real world events. ",
+                        "id": "29",
+                        "name": "Events [Entity Service]"
+                    },
+                    "entity": {
+                        "description": "2020 US Presidential Election",
+                        "id": "1029453725360775168",
+                        "name": "2020 US Presidential Election"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A taxonomy of user interests. ",
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy"
+                    },
+                    "entity": {
+                        "description": "2020 US Presidential Election",
+                        "id": "1029453725360775168",
+                        "name": "2020 US Presidential Election"
+                    }
+                }
+            ],
+            "conversation_id": "1326400844783382528",
+            "created_at": "2020-11-11T05:46:19.000Z",
+            "edit_history_tweet_ids": [
+                "1326400844783382528"
+            ],
+            "entities": {
+                "mentions": [
+                    {
+                        "end": 15,
+                        "id": "366176456",
+                        "start": 1,
+                        "username": "HvonSpakovsky"
+                    },
+                    {
+                        "end": 135,
+                        "id": "2154043621",
+                        "start": 125,
+                        "username": "LRacheldG"
+                    },
+                    {
+                        "end": 148,
+                        "id": "2361224263",
+                        "start": 136,
+                        "username": "DailySignal"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "dailysign.al/38wybKz",
+                        "end": 120,
+                        "expanded_url": "https://dailysign.al/38wybKz",
+                        "start": 97,
+                        "url": "https://t.co/XpdstiFwRx"
+                    }
+                ]
+            },
+            "id": "1326400844783382528",
+            "lang": "en",
+            "public_metrics": {
+                "impression_count": 0,
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "reply_settings": "everyone",
+            "text": ".@HvonSpakovsky says it's very likely that ballot harvesting played a role in the 2020 election. https://t.co/XpdstiFwRx via @LRacheldG @DailySignal"
+        },
+        {
+            "author_id": "1270089578511204353",
+            "context_annotations": [
+                {
+                    "domain": {
+                        "description": "Real world events. ",
+                        "id": "29",
+                        "name": "Events [Entity Service]"
+                    },
+                    "entity": {
+                        "description": "2020 US Presidential Election",
+                        "id": "1029453725360775168",
+                        "name": "2020 US Presidential Election"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A taxonomy of user interests. ",
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy"
+                    },
+                    "entity": {
+                        "description": "2020 US Presidential Election",
+                        "id": "1029453725360775168",
+                        "name": "2020 US Presidential Election"
+                    }
+                }
+            ],
+            "conversation_id": "1326400748205305860",
+            "created_at": "2020-11-11T05:45:56.000Z",
+            "edit_history_tweet_ids": [
+                "1326400748205305860"
+            ],
+            "entities": {
+                "mentions": [
+                    {
+                        "end": 10,
+                        "id": "330043767",
+                        "start": 3,
+                        "username": "LizRNC"
+                    }
+                ]
+            },
+            "id": "1326400748205305860",
+            "lang": "en",
+            "public_metrics": {
+                "impression_count": 0,
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 923
+            },
+            "referenced_tweets": [
+                {
+                    "id": "1326283873806917633",
+                    "type": "retweeted"
+                }
+            ],
+            "reply_settings": "everyone",
+            "text": "RT @LizRNC: \"We're now finding potentially that 25,000 nursing home residents in different nursing homes requested mail-in ballots at the e\u2026"
+        },
+        {
+            "author_id": "21537391",
+            "context_annotations": [
+                {
+                    "domain": {
+                        "description": "Real world events. ",
+                        "id": "29",
+                        "name": "Events [Entity Service]"
+                    },
+                    "entity": {
+                        "description": "2020 US Presidential Election",
+                        "id": "1029453725360775168",
+                        "name": "2020 US Presidential Election"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A taxonomy of user interests. ",
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy"
+                    },
+                    "entity": {
+                        "description": "2020 US Presidential Election",
+                        "id": "1029453725360775168",
+                        "name": "2020 US Presidential Election"
+                    }
+                }
+            ],
+            "conversation_id": "1326400727481257986",
+            "created_at": "2020-11-11T05:45:51.000Z",
+            "edit_history_tweet_ids": [
+                "1326400727481257986"
+            ],
+            "entities": {
+                "mentions": [
+                    {
+                        "end": 10,
+                        "id": "330043767",
+                        "start": 3,
+                        "username": "LizRNC"
+                    }
+                ]
+            },
+            "id": "1326400727481257986",
+            "lang": "en",
+            "public_metrics": {
+                "impression_count": 0,
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 923
+            },
+            "referenced_tweets": [
+                {
+                    "id": "1326283873806917633",
+                    "type": "retweeted"
+                }
+            ],
+            "reply_settings": "everyone",
+            "text": "RT @LizRNC: \"We're now finding potentially that 25,000 nursing home residents in different nursing homes requested mail-in ballots at the e\u2026"
+        },
+        {
+            "author_id": "410096653",
+            "conversation_id": "1326400718362841090",
+            "created_at": "2020-11-11T05:45:49.000Z",
+            "edit_history_tweet_ids": [
+                "1326400718362841090"
+            ],
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 42,
+                        "normalized_text": "Detroit",
+                        "probability": 0.9644,
+                        "start": 36,
+                        "type": "Place"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 16,
+                        "id": "15428943",
+                        "start": 3,
+                        "username": "TruckerRandy"
+                    }
+                ]
+            },
+            "id": "1326400718362841090",
+            "lang": "en",
+            "public_metrics": {
+                "impression_count": 0,
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 1
+            },
+            "referenced_tweets": [
+                {
+                    "id": "1326286515442495490",
+                    "type": "retweeted"
+                }
+            ],
+            "reply_settings": "everyone",
+            "text": "RT @TruckerRandy: Whistle-blower in Detroit exposes the voter fraud committed!!!\n@LeeChatfield\n@SenMikeShirkey\nhttps://t.co/g4i91ZwJnE"
+        },
+        {
+            "author_id": "511541146",
+            "conversation_id": "1326400598699364354",
+            "created_at": "2020-11-11T05:45:20.000Z",
+            "edit_history_tweet_ids": [
+                "1326400598699364354"
+            ],
+            "entities": {
+                "mentions": [
+                    {
+                        "end": 13,
+                        "id": "210424042",
+                        "start": 3,
+                        "username": "RAZ0RFIST"
+                    }
+                ]
+            },
+            "id": "1326400598699364354",
+            "lang": "en",
+            "public_metrics": {
+                "impression_count": 0,
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 617
+            },
+            "referenced_tweets": [
+                {
+                    "id": "1326390365184782336",
+                    "type": "retweeted"
+                }
+            ],
+            "reply_settings": "everyone",
+            "text": "RT @RAZ0RFIST: Stop calling it 'Voter Fraud'.\nThis term implies someone walking into a booth with two ballots or something. This is systemi\u2026"
+        },
+        {
+            "author_id": "1132425720716644353",
+            "context_annotations": [
+                {
+                    "domain": {
+                        "description": "Named people in the world like Nelson Mandela",
+                        "id": "10",
+                        "name": "Person"
+                    },
+                    "entity": {
+                        "description": "Senator Lindsey Graham (SC)",
+                        "id": "10038636953",
+                        "name": "Lindsey Graham"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "Politicians in the world, like Joe Biden",
+                        "id": "35",
+                        "name": "Politician"
+                    },
+                    "entity": {
+                        "description": "Senator Lindsey Graham (SC)",
+                        "id": "10038636953",
+                        "name": "Lindsey Graham"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A taxonomy of user interests. ",
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy"
+                    },
+                    "entity": {
+                        "description": "Senator Lindsey Graham (SC)",
+                        "id": "10038636953",
+                        "name": "Lindsey Graham"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A taxonomy of user interests. ",
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy"
+                    },
+                    "entity": {
+                        "description": "Politics",
+                        "id": "847878884917886977",
+                        "name": "Politics"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A taxonomy of user interests. ",
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy"
+                    },
+                    "entity": {
+                        "description": "Politician",
+                        "id": "1070032753834438656",
+                        "name": "Political figures"
+                    }
+                }
+            ],
+            "conversation_id": "1326400563714600961",
+            "created_at": "2020-11-11T05:45:12.000Z",
+            "edit_history_tweet_ids": [
+                "1326400563714600961"
+            ],
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 119,
+                        "normalized_text": "Pennsylvania",
+                        "probability": 0.9727,
+                        "start": 108,
+                        "type": "Place"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 14,
+                        "id": "26078152",
+                        "start": 3,
+                        "username": "MaryVought"
+                    },
+                    {
+                        "end": 36,
+                        "id": "432895323",
+                        "start": 20,
+                        "username": "LindseyGrahamSC"
+                    }
+                ]
+            },
+            "id": "1326400563714600961",
+            "lang": "en",
+            "public_metrics": {
+                "impression_count": 0,
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 1369
+            },
+            "referenced_tweets": [
+                {
+                    "id": "1326185178298015745",
+                    "type": "retweeted"
+                }
+            ],
+            "reply_settings": "everyone",
+            "text": "RT @MaryVought: \ud83d\udea8\ud83d\udea8\ud83d\udea8 @LindseyGrahamSC announced he has info regarding a possible ballot harvesting scheme in Pennsylvania involving 25,000 n\u2026"
+        },
+        {
+            "author_id": "1019741982850277378",
+            "conversation_id": "1326400534149025794",
+            "created_at": "2020-11-11T05:45:05.000Z",
+            "edit_history_tweet_ids": [
+                "1326400534149025794"
+            ],
+            "entities": {
+                "mentions": [
+                    {
+                        "end": 13,
+                        "id": "210424042",
+                        "start": 3,
+                        "username": "RAZ0RFIST"
+                    }
+                ]
+            },
+            "id": "1326400534149025794",
+            "lang": "en",
+            "public_metrics": {
+                "impression_count": 0,
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 617
+            },
+            "referenced_tweets": [
+                {
+                    "id": "1326390365184782336",
+                    "type": "retweeted"
+                }
+            ],
+            "reply_settings": "everyone",
+            "text": "RT @RAZ0RFIST: Stop calling it 'Voter Fraud'.\nThis term implies someone walking into a booth with two ballots or something. This is systemi\u2026"
+        },
+        {
+            "author_id": "141486815",
+            "context_annotations": [
+                {
+                    "domain": {
+                        "description": "Named people in the world like Nelson Mandela",
+                        "id": "10",
+                        "name": "Person"
+                    },
+                    "entity": {
+                        "description": "Senator Lindsey Graham (SC)",
+                        "id": "10038636953",
+                        "name": "Lindsey Graham"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "Politicians in the world, like Joe Biden",
+                        "id": "35",
+                        "name": "Politician"
+                    },
+                    "entity": {
+                        "description": "Senator Lindsey Graham (SC)",
+                        "id": "10038636953",
+                        "name": "Lindsey Graham"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A taxonomy of user interests. ",
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy"
+                    },
+                    "entity": {
+                        "description": "Senator Lindsey Graham (SC)",
+                        "id": "10038636953",
+                        "name": "Lindsey Graham"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A taxonomy of user interests. ",
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy"
+                    },
+                    "entity": {
+                        "description": "Politics",
+                        "id": "847878884917886977",
+                        "name": "Politics"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A taxonomy of user interests. ",
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy"
+                    },
+                    "entity": {
+                        "description": "Politician",
+                        "id": "1070032753834438656",
+                        "name": "Political figures"
+                    }
+                }
+            ],
+            "conversation_id": "1326400510019170305",
+            "created_at": "2020-11-11T05:44:59.000Z",
+            "edit_history_tweet_ids": [
+                "1326400510019170305"
+            ],
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 29,
+                        "normalized_text": "Lindsey Graham",
+                        "probability": 0.955,
+                        "start": 16,
+                        "type": "Person"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 14,
+                        "id": "86177206",
+                        "start": 3,
+                        "username": "TPPatriots"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "patriotproject.com/lindsey-graham\u2026",
+                        "end": 140,
+                        "expanded_url": "https://www.patriotproject.com/lindsey-graham-hints-possible-pa-ballot-harvesting-scheme-involving-25000-nursing-home-residents/?utm_source=twitter&utm_medium=teapartypatriots&utm_content=2020-11-10",
+                        "start": 117,
+                        "status": 200,
+                        "unwound_url": "https://www.patriotproject.com/lindsey-graham-hints-possible-pa-ballot-harvesting-scheme-involving-25000-nursing-home-residents/?utm_source=twitter&utm_medium=teapartypatriots&utm_content=2020-11-10",
+                        "url": "https://t.co/XAv7OVSHTU"
+                    }
+                ]
+            },
+            "id": "1326400510019170305",
+            "lang": "en",
+            "public_metrics": {
+                "impression_count": 0,
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 60
+            },
+            "referenced_tweets": [
+                {
+                    "id": "1326366803409268736",
+                    "type": "retweeted"
+                }
+            ],
+            "reply_settings": "everyone",
+            "text": "RT @TPPatriots: Lindsey Graham Hints at Possible PA Ballot Harvesting Scheme Involving 25,000 Nursing Home Residents https://t.co/XAv7OVSHTU"
+        },
+        {
+            "author_id": "3224625762",
+            "conversation_id": "1326400466046095367",
+            "created_at": "2020-11-11T05:44:49.000Z",
+            "edit_history_tweet_ids": [
+                "1326400466046095367"
+            ],
+            "entities": {
+                "mentions": [
+                    {
+                        "end": 13,
+                        "id": "210424042",
+                        "start": 3,
+                        "username": "RAZ0RFIST"
+                    }
+                ]
+            },
+            "id": "1326400466046095367",
+            "lang": "en",
+            "public_metrics": {
+                "impression_count": 0,
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 617
+            },
+            "referenced_tweets": [
+                {
+                    "id": "1326390365184782336",
+                    "type": "retweeted"
+                }
+            ],
+            "reply_settings": "everyone",
+            "text": "RT @RAZ0RFIST: Stop calling it 'Voter Fraud'.\nThis term implies someone walking into a booth with two ballots or something. This is systemi\u2026"
+        },
+        {
+            "author_id": "1043663457772609541",
+            "context_annotations": [
+                {
+                    "domain": {
+                        "description": "Named people in the world like Nelson Mandela",
+                        "id": "10",
+                        "name": "Person"
+                    },
+                    "entity": {
+                        "description": "45th US President, Donald Trump",
+                        "id": "799022225751871488",
+                        "name": "Donald Trump"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "Named people in the world like Nelson Mandela",
+                        "id": "10",
+                        "name": "Person"
+                    },
+                    "entity": {
+                        "description": "British journalist",
+                        "id": "1070711260117839872",
+                        "name": "Mehdi Hasan"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "Real world events. ",
+                        "id": "29",
+                        "name": "Events [Entity Service]"
+                    },
+                    "entity": {
+                        "description": "2020 US Presidential Election",
+                        "id": "1029453725360775168",
+                        "name": "2020 US Presidential Election"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "Politicians in the world, like Joe Biden",
+                        "id": "35",
+                        "name": "Politician"
+                    },
+                    "entity": {
+                        "description": "45th US President, Donald Trump",
+                        "id": "799022225751871488",
+                        "name": "Donald Trump"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A journalist like 'Anderson Cooper'",
+                        "id": "94",
+                        "name": "Journalist"
+                    },
+                    "entity": {
+                        "description": "British journalist",
+                        "id": "1070711260117839872",
+                        "name": "Mehdi Hasan"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A taxonomy of user interests. ",
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy"
+                    },
+                    "entity": {
+                        "description": "45th US President, Donald Trump",
+                        "id": "799022225751871488",
+                        "name": "Donald Trump"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A taxonomy of user interests. ",
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy"
+                    },
+                    "entity": {
+                        "description": "Politics",
+                        "id": "847878884917886977",
+                        "name": "Politics"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A taxonomy of user interests. ",
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy"
+                    },
+                    "entity": {
+                        "description": "2020 US Presidential Election",
+                        "id": "1029453725360775168",
+                        "name": "2020 US Presidential Election"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A taxonomy of user interests. ",
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy"
+                    },
+                    "entity": {
+                        "description": "News",
+                        "id": "1046545033657081857",
+                        "name": "News"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A taxonomy of user interests. ",
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy"
+                    },
+                    "entity": {
+                        "description": "Politician",
+                        "id": "1070032753834438656",
+                        "name": "Political figures"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A taxonomy of user interests. ",
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy"
+                    },
+                    "entity": {
+                        "description": "British journalist",
+                        "id": "1070711260117839872",
+                        "name": "Mehdi Hasan"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A taxonomy of user interests. ",
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy"
+                    },
+                    "entity": {
+                        "description": "Journalism",
+                        "id": "1074755369530880001",
+                        "name": "Journalists"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "Named people in the world like Nelson Mandela",
+                        "id": "10",
+                        "name": "Person"
+                    },
+                    "entity": {
+                        "description": "US President Joe Biden",
+                        "id": "10040395078",
+                        "name": "Joe Biden"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "Politicians in the world, like Joe Biden",
+                        "id": "35",
+                        "name": "Politician"
+                    },
+                    "entity": {
+                        "description": "US President Joe Biden",
+                        "id": "10040395078",
+                        "name": "Joe Biden"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A taxonomy of user interests. ",
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy"
+                    },
+                    "entity": {
+                        "description": "US President Joe Biden",
+                        "id": "10040395078",
+                        "name": "Joe Biden"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A taxonomy of user interests. ",
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy"
+                    },
+                    "entity": {
+                        "description": "Politics",
+                        "id": "847878884917886977",
+                        "name": "Politics"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A taxonomy of user interests. ",
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy"
+                    },
+                    "entity": {
+                        "description": "Politician",
+                        "id": "1070032753834438656",
+                        "name": "Political figures"
+                    }
+                }
+            ],
+            "conversation_id": "1326329653649264642",
+            "created_at": "2020-11-11T05:44:29.000Z",
+            "edit_history_tweet_ids": [
+                "1326400384663949312"
+            ],
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 149,
+                        "normalized_text": "Trump",
+                        "probability": 0.9502,
+                        "start": 145,
+                        "type": "Person"
+                    },
+                    {
+                        "end": 168,
+                        "normalized_text": "Biden",
+                        "probability": 0.9342,
+                        "start": 164,
+                        "type": "Person"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 8,
+                        "id": "34773501",
+                        "start": 0,
+                        "username": "Det_Nen"
+                    },
+                    {
+                        "end": 21,
+                        "id": "130557513",
+                        "start": 9,
+                        "username": "mehdirhasan"
+                    }
+                ]
+            },
+            "id": "1326400384663949312",
+            "in_reply_to_user_id": "34773501",
+            "lang": "en",
+            "public_metrics": {
+                "impression_count": 0,
+                "like_count": 1,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "referenced_tweets": [
+                {
+                    "id": "1326334130402054149",
+                    "type": "replied_to"
+                }
+            ],
+            "reply_settings": "everyone",
+            "text": "@Det_Nen @mehdirhasan \ud83d\ude02\ud83d\ude02\ud83d\ude02\ud83d\ude02\nYou don't seriously think they did that all in one night do you? &amp; they didn't need 6M.\nComputers took votes from Trump gave them to Biden.\nBallot harvesting\nDead voting\nPpl showing up to vote only to find someone else had mailed in a ballot under their name"
+        },
+        {
+            "author_id": "806272009499881472",
+            "conversation_id": "1326400323381026817",
+            "created_at": "2020-11-11T05:44:15.000Z",
+            "edit_history_tweet_ids": [
+                "1326400323381026817"
+            ],
+            "entities": {
+                "mentions": [
+                    {
+                        "end": 12,
+                        "id": "2352629311",
+                        "start": 3,
+                        "username": "HawleyMO"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "washex.am/2Ub3hPp",
+                        "end": 65,
+                        "expanded_url": "https://washex.am/2Ub3hPp",
+                        "start": 42,
+                        "unwound_url": "https://washex.am/2Ub3hPp",
+                        "url": "https://t.co/ChGlrGEdK8"
+                    }
+                ]
+            },
+            "id": "1326400323381026817",
+            "lang": "en",
+            "public_metrics": {
+                "impression_count": 0,
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 583
+            },
+            "referenced_tweets": [
+                {
+                    "id": "1326235327485403140",
+                    "type": "retweeted"
+                }
+            ],
+            "reply_settings": "everyone",
+            "text": "RT @HawleyMO: Time for election INTEGRITY https://t.co/ChGlrGEdK8"
+        },
+        {
+            "author_id": "996357601578377222",
+            "context_annotations": [
+                {
+                    "domain": {
+                        "description": "Named people in the world like Nelson Mandela",
+                        "id": "10",
+                        "name": "Person"
+                    },
+                    "entity": {
+                        "description": "Laura Ingraham",
+                        "id": "1053753085489606656",
+                        "name": "Laura Ingraham"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A journalist like 'Anderson Cooper'",
+                        "id": "94",
+                        "name": "Journalist"
+                    },
+                    "entity": {
+                        "description": "Laura Ingraham",
+                        "id": "1053753085489606656",
+                        "name": "Laura Ingraham"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A taxonomy of user interests. ",
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy"
+                    },
+                    "entity": {
+                        "description": "News",
+                        "id": "1046545033657081857",
+                        "name": "News"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A taxonomy of user interests. ",
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy"
+                    },
+                    "entity": {
+                        "description": "Laura Ingraham",
+                        "id": "1053753085489606656",
+                        "name": "Laura Ingraham"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A taxonomy of user interests. ",
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy"
+                    },
+                    "entity": {
+                        "description": "Journalism",
+                        "id": "1074755369530880001",
+                        "name": "Journalists"
+                    }
+                }
+            ],
+            "conversation_id": "1326400137502093312",
+            "created_at": "2020-11-11T05:43:30.000Z",
+            "edit_history_tweet_ids": [
+                "1326400137502093312"
+            ],
+            "entities": {
+                "mentions": [
+                    {
+                        "end": 17,
+                        "id": "50769180",
+                        "start": 3,
+                        "username": "IngrahamAngle"
+                    },
+                    {
+                        "end": 56,
+                        "id": "62932362",
+                        "start": 42,
+                        "username": "DrJohnEastman"
+                    }
+                ]
+            },
+            "id": "1326400137502093312",
+            "lang": "en",
+            "public_metrics": {
+                "impression_count": 0,
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 244
+            },
+            "referenced_tweets": [
+                {
+                    "id": "1326343892208267264",
+                    "type": "retweeted"
+                }
+            ],
+            "reply_settings": "everyone",
+            "text": "RT @IngrahamAngle: Constitutional scholar @DrJohnEastman reveals the dangers ballot harvesting poses to election integrity. Listen to the f\u2026"
+        },
+        {
+            "author_id": "1238297090339422209",
+            "conversation_id": "1326314383996170240",
+            "created_at": "2020-11-11T05:43:27.000Z",
+            "edit_history_tweet_ids": [
+                "1326400123182649344"
+            ],
+            "entities": {
+                "mentions": [
+                    {
+                        "end": 12,
+                        "id": "1166577240601239552",
+                        "start": 0,
+                        "username": "mei98862477"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "gabbard.house.gov/news/press-rel\u2026",
+                        "end": 176,
+                        "expanded_url": "https://gabbard.house.gov/news/press-releases/reps-tulsi-gabbard-and-rodney-davis-introduce-bill-ban-vote-harvesting-protect",
+                        "start": 153,
+                        "url": "https://t.co/eQRmBM3H5z"
+                    }
+                ]
+            },
+            "id": "1326400123182649344",
+            "in_reply_to_user_id": "1166577240601239552",
+            "lang": "ja",
+            "public_metrics": {
+                "impression_count": 0,
+                "like_count": 35,
+                "quote_count": 0,
+                "reply_count": 1,
+                "retweet_count": 12
+            },
+            "referenced_tweets": [
+                {
+                    "id": "1326314383996170240",
+                    "type": "replied_to"
+                }
+            ],
+            "reply_settings": "everyone",
+            "text": "@mei98862477 \u30db\u30fc\u30ea\u30fc\u8b70\u54e1\u4ee5\u5916\u304b\u3089\u3082Ballot Harvesting\u898f\u5236\u6cd5\u6848\n\u6700\u8fd1\u306e\u9078\u6319\u3067\u898b\u3089\u308c\u308b\u7b2c\u4e09\u8005\u304c\u6295\u7968\u7528\u7d19\u3092\u4e0d\u6b63\u53ce\u96c6\u3057\u8aa4\u3063\u3066\u53d6\u6271\u3046\u4e8b\u3092\u963b\u6b62\u3059\u308b\u898f\u5236\u304c\u591a\u304f\u306e\u5dde\u3067\u7121\u3044\u306e\u3067\u4f5c\u6210\u3059\u308b\n\n\u4f55\u304b\u6b86\u3069\u4e8b\u5f8c\u306b\u6cd5\u6848\u51fa\u3066\u304d\u3066\u308b\u306e\u306f\n\u304a\u3068\u308a\u635c\u67fb\u306e\u8a71\u3092\u4fe1\u3058\u305f\u304f\u306a\u308a\u307e\u3059\u306d\ud83d\udc4d\n\u51fa\u3055\u305b\u308b\u2192\u53d6\u308a\u7de0\u307e\u308b\u2192\u898f\u5236\u3059\u308b\n\nhttps://t.co/eQRmBM3H5z"
+        },
+        {
+            "author_id": "1169028879715115008",
+            "conversation_id": "1326400105696681984",
+            "created_at": "2020-11-11T05:43:23.000Z",
+            "edit_history_tweet_ids": [
+                "1326400105696681984"
+            ],
+            "entities": {
+                "mentions": [
+                    {
+                        "end": 13,
+                        "id": "210424042",
+                        "start": 3,
+                        "username": "RAZ0RFIST"
+                    }
+                ]
+            },
+            "id": "1326400105696681984",
+            "lang": "en",
+            "public_metrics": {
+                "impression_count": 0,
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 617
+            },
+            "referenced_tweets": [
+                {
+                    "id": "1326390365184782336",
+                    "type": "retweeted"
+                }
+            ],
+            "reply_settings": "everyone",
+            "text": "RT @RAZ0RFIST: Stop calling it 'Voter Fraud'.\nThis term implies someone walking into a booth with two ballots or something. This is systemi\u2026"
+        },
+        {
+            "author_id": "1679672113",
+            "conversation_id": "1326399986066743296",
+            "created_at": "2020-11-11T05:42:54.000Z",
+            "edit_history_tweet_ids": [
+                "1326399986066743296"
+            ],
+            "entities": {
+                "mentions": [
+                    {
+                        "end": 13,
+                        "id": "210424042",
+                        "start": 3,
+                        "username": "RAZ0RFIST"
+                    }
+                ]
+            },
+            "id": "1326399986066743296",
+            "lang": "en",
+            "public_metrics": {
+                "impression_count": 0,
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 617
+            },
+            "referenced_tweets": [
+                {
+                    "id": "1326390365184782336",
+                    "type": "retweeted"
+                }
+            ],
+            "reply_settings": "everyone",
+            "text": "RT @RAZ0RFIST: Stop calling it 'Voter Fraud'.\nThis term implies someone walking into a booth with two ballots or something. This is systemi\u2026"
+        },
+        {
+            "author_id": "436394497",
+            "context_annotations": [
+                {
+                    "domain": {
+                        "description": "Real world events. ",
+                        "id": "29",
+                        "name": "Events [Entity Service]"
+                    },
+                    "entity": {
+                        "description": "2020 US Presidential Election",
+                        "id": "1029453725360775168",
+                        "name": "2020 US Presidential Election"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A taxonomy of user interests. ",
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy"
+                    },
+                    "entity": {
+                        "description": "US National News",
+                        "id": "1003932601839579136",
+                        "name": "US national news"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A taxonomy of user interests. ",
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy"
+                    },
+                    "entity": {
+                        "description": "2020 US Presidential Election",
+                        "id": "1029453725360775168",
+                        "name": "2020 US Presidential Election"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A taxonomy of user interests. ",
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy"
+                    },
+                    "entity": {
+                        "description": "News",
+                        "id": "1046545033657081857",
+                        "name": "News"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A taxonomy of user interests. ",
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy"
+                    },
+                    "entity": {
+                        "id": "1286379401228124160",
+                        "name": "Americas"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "Named people in the world like Nelson Mandela",
+                        "id": "10",
+                        "name": "Person"
+                    },
+                    "entity": {
+                        "description": "Former US President Barack Obama",
+                        "id": "10038764303",
+                        "name": "Barack Obama"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "Named people in the world like Nelson Mandela",
+                        "id": "10",
+                        "name": "Person"
+                    },
+                    "entity": {
+                        "description": "US President Joe Biden",
+                        "id": "10040395078",
+                        "name": "Joe Biden"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "Politicians in the world, like Joe Biden",
+                        "id": "35",
+                        "name": "Politician"
+                    },
+                    "entity": {
+                        "description": "Former US President Barack Obama",
+                        "id": "10038764303",
+                        "name": "Barack Obama"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "Politicians in the world, like Joe Biden",
+                        "id": "35",
+                        "name": "Politician"
+                    },
+                    "entity": {
+                        "description": "US President Joe Biden",
+                        "id": "10040395078",
+                        "name": "Joe Biden"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A taxonomy of user interests. ",
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy"
+                    },
+                    "entity": {
+                        "description": "Former US President Barack Obama",
+                        "id": "10038764303",
+                        "name": "Barack Obama"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A taxonomy of user interests. ",
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy"
+                    },
+                    "entity": {
+                        "description": "US President Joe Biden",
+                        "id": "10040395078",
+                        "name": "Joe Biden"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A taxonomy of user interests. ",
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy"
+                    },
+                    "entity": {
+                        "description": "Politics",
+                        "id": "847878884917886977",
+                        "name": "Politics"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A taxonomy of user interests. ",
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy"
+                    },
+                    "entity": {
+                        "description": "Politician",
+                        "id": "1070032753834438656",
+                        "name": "Political figures"
+                    }
+                }
+            ],
+            "conversation_id": "1326399948523511809",
+            "created_at": "2020-11-11T05:42:45.000Z",
+            "edit_history_tweet_ids": [
+                "1326399948523511809"
+            ],
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 47,
+                        "normalized_text": "Obama",
+                        "probability": 0.98,
+                        "start": 43,
+                        "type": "Person"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 22,
+                        "id": "939091",
+                        "start": 13,
+                        "username": "JoeBiden"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "twitter.com/KamalaHarris/s\u2026",
+                        "end": 170,
+                        "expanded_url": "https://twitter.com/KamalaHarris/status/1326348926652477446",
+                        "start": 147,
+                        "url": "https://t.co/1CnWY1M2dF"
+                    }
+                ]
+            },
+            "id": "1326399948523511809",
+            "lang": "en",
+            "public_metrics": {
+                "impression_count": 0,
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "referenced_tweets": [
+                {
+                    "id": "1326348926652477446",
+                    "type": "quoted"
+                }
+            ],
+            "reply_settings": "everyone",
+            "text": "So ur saying @JoeBiden got more votes than Obama\u2019s first term???? \ud83e\udd23\ud83e\udd23\ud83d\ude02\ud83d\ude02\ud83e\udd2a You\u2019re an f\u2019n idiot and everyone knows it was corrupt ballot harvesting!!\ud83d\udd95 https://t.co/1CnWY1M2dF"
+        },
+        {
+            "author_id": "1288905434678665221",
+            "context_annotations": [
+                {
+                    "domain": {
+                        "description": "Real world events. ",
+                        "id": "29",
+                        "name": "Events [Entity Service]"
+                    },
+                    "entity": {
+                        "description": "2020 US Presidential Election",
+                        "id": "1029453725360775168",
+                        "name": "2020 US Presidential Election"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A taxonomy of user interests. ",
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy"
+                    },
+                    "entity": {
+                        "description": "2020 US Presidential Election",
+                        "id": "1029453725360775168",
+                        "name": "2020 US Presidential Election"
+                    }
+                }
+            ],
+            "conversation_id": "1324109319869210625",
+            "created_at": "2020-11-11T05:42:22.000Z",
+            "edit_history_tweet_ids": [
+                "1326399850393579520"
+            ],
+            "entities": {
+                "mentions": [
+                    {
+                        "end": 12,
+                        "id": "44536683",
+                        "start": 0,
+                        "username": "BryanLlenas"
+                    },
+                    {
+                        "end": 28,
+                        "id": "1191571274952298496",
+                        "start": 13,
+                        "username": "oliviajones726"
+                    }
+                ]
+            },
+            "id": "1326399850393579520",
+            "in_reply_to_user_id": "44536683",
+            "lang": "en",
+            "public_metrics": {
+                "impression_count": 0,
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 1,
+                "retweet_count": 0
+            },
+            "referenced_tweets": [
+                {
+                    "id": "1326327931841503232",
+                    "type": "replied_to"
+                }
+            ],
+            "reply_settings": "everyone",
+            "text": "@BryanLlenas @oliviajones726 You have absentee \nYou have in person \nYou have ballot harvesting \nAnd you have criminals counting\nThat can be paid off with an ounce of reefer and a 6 pack of old English\n\nIt\u2019s not the vote that makes the money its the,counter"
+        },
+        {
+            "author_id": "1316768301914165249",
+            "conversation_id": "1326399703009923074",
+            "created_at": "2020-11-11T05:41:47.000Z",
+            "edit_history_tweet_ids": [
+                "1326399703009923074"
+            ],
+            "entities": {
+                "mentions": [
+                    {
+                        "end": 13,
+                        "id": "210424042",
+                        "start": 3,
+                        "username": "RAZ0RFIST"
+                    }
+                ]
+            },
+            "id": "1326399703009923074",
+            "lang": "en",
+            "public_metrics": {
+                "impression_count": 0,
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 617
+            },
+            "referenced_tweets": [
+                {
+                    "id": "1326390365184782336",
+                    "type": "retweeted"
+                }
+            ],
+            "reply_settings": "everyone",
+            "text": "RT @RAZ0RFIST: Stop calling it 'Voter Fraud'.\nThis term implies someone walking into a booth with two ballots or something. This is systemi\u2026"
+        },
+        {
+            "author_id": "1279321484113129473",
+            "conversation_id": "1326399685867806721",
+            "created_at": "2020-11-11T05:41:43.000Z",
+            "edit_history_tweet_ids": [
+                "1326399685867806721"
+            ],
+            "entities": {
+                "mentions": [
+                    {
+                        "end": 13,
+                        "id": "210424042",
+                        "start": 3,
+                        "username": "RAZ0RFIST"
+                    }
+                ]
+            },
+            "id": "1326399685867806721",
+            "lang": "en",
+            "public_metrics": {
+                "impression_count": 0,
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 617
+            },
+            "referenced_tweets": [
+                {
+                    "id": "1326390365184782336",
+                    "type": "retweeted"
+                }
+            ],
+            "reply_settings": "everyone",
+            "text": "RT @RAZ0RFIST: Stop calling it 'Voter Fraud'.\nThis term implies someone walking into a booth with two ballots or something. This is systemi\u2026"
+        },
+        {
+            "author_id": "527668990",
+            "conversation_id": "1326399674052468739",
+            "created_at": "2020-11-11T05:41:40.000Z",
+            "edit_history_tweet_ids": [
+                "1326399674052468739"
+            ],
+            "entities": {
+                "mentions": [
+                    {
+                        "end": 12,
+                        "id": "2352629311",
+                        "start": 3,
+                        "username": "HawleyMO"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "washex.am/2Ub3hPp",
+                        "end": 65,
+                        "expanded_url": "https://washex.am/2Ub3hPp",
+                        "start": 42,
+                        "unwound_url": "https://washex.am/2Ub3hPp",
+                        "url": "https://t.co/ChGlrGEdK8"
+                    }
+                ]
+            },
+            "id": "1326399674052468739",
+            "lang": "en",
+            "public_metrics": {
+                "impression_count": 0,
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 583
+            },
+            "referenced_tweets": [
+                {
+                    "id": "1326235327485403140",
+                    "type": "retweeted"
+                }
+            ],
+            "reply_settings": "everyone",
+            "text": "RT @HawleyMO: Time for election INTEGRITY https://t.co/ChGlrGEdK8"
+        },
+        {
+            "author_id": "2502496794",
+            "conversation_id": "1326399541004873728",
+            "created_at": "2020-11-11T05:41:08.000Z",
+            "edit_history_tweet_ids": [
+                "1326399541004873728"
+            ],
+            "entities": {
+                "mentions": [
+                    {
+                        "end": 13,
+                        "id": "210424042",
+                        "start": 3,
+                        "username": "RAZ0RFIST"
+                    }
+                ]
+            },
+            "id": "1326399541004873728",
+            "lang": "en",
+            "public_metrics": {
+                "impression_count": 0,
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 617
+            },
+            "referenced_tweets": [
+                {
+                    "id": "1326390365184782336",
+                    "type": "retweeted"
+                }
+            ],
+            "reply_settings": "everyone",
+            "text": "RT @RAZ0RFIST: Stop calling it 'Voter Fraud'.\nThis term implies someone walking into a booth with two ballots or something. This is systemi\u2026"
+        },
+        {
+            "author_id": "2949398243",
+            "context_annotations": [
+                {
+                    "domain": {
+                        "description": "Real world events. ",
+                        "id": "29",
+                        "name": "Events [Entity Service]"
+                    },
+                    "entity": {
+                        "description": "2020 US Presidential Election",
+                        "id": "1029453725360775168",
+                        "name": "2020 US Presidential Election"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A taxonomy of user interests. ",
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy"
+                    },
+                    "entity": {
+                        "description": "2020 US Presidential Election",
+                        "id": "1029453725360775168",
+                        "name": "2020 US Presidential Election"
+                    }
+                }
+            ],
+            "conversation_id": "1326399454853918721",
+            "created_at": "2020-11-11T05:40:48.000Z",
+            "edit_history_tweet_ids": [
+                "1326399454853918721"
+            ],
+            "entities": {
+                "mentions": [
+                    {
+                        "end": 10,
+                        "id": "330043767",
+                        "start": 3,
+                        "username": "LizRNC"
+                    }
+                ]
+            },
+            "id": "1326399454853918721",
+            "lang": "en",
+            "public_metrics": {
+                "impression_count": 0,
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 923
+            },
+            "referenced_tweets": [
+                {
+                    "id": "1326283873806917633",
+                    "type": "retweeted"
+                }
+            ],
+            "reply_settings": "everyone",
+            "text": "RT @LizRNC: \"We're now finding potentially that 25,000 nursing home residents in different nursing homes requested mail-in ballots at the e\u2026"
+        },
+        {
+            "author_id": "752200475248848896",
+            "context_annotations": [
+                {
+                    "domain": {
+                        "description": "Real world events. ",
+                        "id": "29",
+                        "name": "Events [Entity Service]"
+                    },
+                    "entity": {
+                        "description": "2020 US Presidential Election",
+                        "id": "1029453725360775168",
+                        "name": "2020 US Presidential Election"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A taxonomy of user interests. ",
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy"
+                    },
+                    "entity": {
+                        "description": "2020 US Presidential Election",
+                        "id": "1029453725360775168",
+                        "name": "2020 US Presidential Election"
+                    }
+                }
+            ],
+            "conversation_id": "1326399357734838273",
+            "created_at": "2020-11-11T05:40:24.000Z",
+            "edit_history_tweet_ids": [
+                "1326399357734838273"
+            ],
+            "entities": {
+                "mentions": [
+                    {
+                        "end": 10,
+                        "id": "330043767",
+                        "start": 3,
+                        "username": "LizRNC"
+                    }
+                ]
+            },
+            "id": "1326399357734838273",
+            "lang": "en",
+            "public_metrics": {
+                "impression_count": 0,
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 923
+            },
+            "referenced_tweets": [
+                {
+                    "id": "1326283873806917633",
+                    "type": "retweeted"
+                }
+            ],
+            "reply_settings": "everyone",
+            "text": "RT @LizRNC: \"We're now finding potentially that 25,000 nursing home residents in different nursing homes requested mail-in ballots at the e\u2026"
+        },
+        {
+            "author_id": "1319030876173488130",
+            "conversation_id": "1326399331889516553",
+            "created_at": "2020-11-11T05:40:18.000Z",
+            "edit_history_tweet_ids": [
+                "1326399331889516553"
+            ],
+            "entities": {
+                "mentions": [
+                    {
+                        "end": 13,
+                        "id": "210424042",
+                        "start": 3,
+                        "username": "RAZ0RFIST"
+                    }
+                ]
+            },
+            "id": "1326399331889516553",
+            "lang": "en",
+            "public_metrics": {
+                "impression_count": 0,
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 617
+            },
+            "referenced_tweets": [
+                {
+                    "id": "1326390365184782336",
+                    "type": "retweeted"
+                }
+            ],
+            "reply_settings": "everyone",
+            "text": "RT @RAZ0RFIST: Stop calling it 'Voter Fraud'.\nThis term implies someone walking into a booth with two ballots or something. This is systemi\u2026"
+        },
+        {
+            "author_id": "400167091",
+            "conversation_id": "1326399244404666372",
+            "created_at": "2020-11-11T05:39:57.000Z",
+            "edit_history_tweet_ids": [
+                "1326399244404666372"
+            ],
+            "entities": {
+                "mentions": [
+                    {
+                        "end": 13,
+                        "id": "210424042",
+                        "start": 3,
+                        "username": "RAZ0RFIST"
+                    }
+                ]
+            },
+            "id": "1326399244404666372",
+            "lang": "en",
+            "public_metrics": {
+                "impression_count": 0,
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 617
+            },
+            "referenced_tweets": [
+                {
+                    "id": "1326390365184782336",
+                    "type": "retweeted"
+                }
+            ],
+            "reply_settings": "everyone",
+            "text": "RT @RAZ0RFIST: Stop calling it 'Voter Fraud'.\nThis term implies someone walking into a booth with two ballots or something. This is systemi\u2026"
+        },
+        {
+            "author_id": "12033832",
+            "conversation_id": "1326399226142715905",
+            "created_at": "2020-11-11T05:39:53.000Z",
+            "edit_history_tweet_ids": [
+                "1326399226142715905"
+            ],
+            "entities": {
+                "mentions": [
+                    {
+                        "end": 13,
+                        "id": "210424042",
+                        "start": 3,
+                        "username": "RAZ0RFIST"
+                    }
+                ]
+            },
+            "id": "1326399226142715905",
+            "lang": "en",
+            "public_metrics": {
+                "impression_count": 0,
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 617
+            },
+            "referenced_tweets": [
+                {
+                    "id": "1326390365184782336",
+                    "type": "retweeted"
+                }
+            ],
+            "reply_settings": "everyone",
+            "text": "RT @RAZ0RFIST: Stop calling it 'Voter Fraud'.\nThis term implies someone walking into a booth with two ballots or something. This is systemi\u2026"
+        },
+        {
+            "author_id": "436799486",
+            "conversation_id": "1326399135747084288",
+            "created_at": "2020-11-11T05:39:31.000Z",
+            "edit_history_tweet_ids": [
+                "1326399135747084288"
+            ],
+            "entities": {
+                "mentions": [
+                    {
+                        "end": 12,
+                        "id": "2352629311",
+                        "start": 3,
+                        "username": "HawleyMO"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "washex.am/2Ub3hPp",
+                        "end": 65,
+                        "expanded_url": "https://washex.am/2Ub3hPp",
+                        "start": 42,
+                        "unwound_url": "https://washex.am/2Ub3hPp",
+                        "url": "https://t.co/ChGlrGEdK8"
+                    }
+                ]
+            },
+            "id": "1326399135747084288",
+            "lang": "en",
+            "public_metrics": {
+                "impression_count": 0,
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 583
+            },
+            "referenced_tweets": [
+                {
+                    "id": "1326235327485403140",
+                    "type": "retweeted"
+                }
+            ],
+            "reply_settings": "everyone",
+            "text": "RT @HawleyMO: Time for election INTEGRITY https://t.co/ChGlrGEdK8"
+        },
+        {
+            "author_id": "1136811768594935808",
+            "conversation_id": "1326398878388776960",
+            "created_at": "2020-11-11T05:38:30.000Z",
+            "edit_history_tweet_ids": [
+                "1326398878388776960"
+            ],
+            "entities": {
+                "mentions": [
+                    {
+                        "end": 13,
+                        "id": "210424042",
+                        "start": 3,
+                        "username": "RAZ0RFIST"
+                    }
+                ]
+            },
+            "id": "1326398878388776960",
+            "lang": "en",
+            "public_metrics": {
+                "impression_count": 0,
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 617
+            },
+            "referenced_tweets": [
+                {
+                    "id": "1326390365184782336",
+                    "type": "retweeted"
+                }
+            ],
+            "reply_settings": "everyone",
+            "text": "RT @RAZ0RFIST: Stop calling it 'Voter Fraud'.\nThis term implies someone walking into a booth with two ballots or something. This is systemi\u2026"
+        },
+        {
+            "author_id": "49239249",
+            "conversation_id": "1326398838970658827",
+            "created_at": "2020-11-11T05:38:21.000Z",
+            "edit_history_tweet_ids": [
+                "1326398838970658827"
+            ],
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 56,
+                        "normalized_text": "Project Veritas",
+                        "probability": 0.7923,
+                        "start": 42,
+                        "type": "Other"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 16,
+                        "id": "1439829792",
+                        "start": 3,
+                        "username": "JoshuaPotash"
+                    },
+                    {
+                        "end": 100,
+                        "id": "16989178",
+                        "start": 85,
+                        "username": "JamesOKeefeIII"
+                    }
+                ]
+            },
+            "id": "1326398838970658827",
+            "lang": "en",
+            "public_metrics": {
+                "impression_count": 0,
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 145
+            },
+            "referenced_tweets": [
+                {
+                    "id": "1326314339247263747",
+                    "type": "retweeted"
+                }
+            ],
+            "reply_settings": "everyone",
+            "text": "RT @JoshuaPotash: In case you don\u2019t know, Project Veritas is a complete scam, run by @JamesOKeefeIII. Everything they touch is dirty.\n\nhttp\u2026"
+        },
+        {
+            "author_id": "124753672",
+            "context_annotations": [
+                {
+                    "domain": {
+                        "description": "Top level interests and hobbies groupings, like Food or Travel",
+                        "id": "65",
+                        "name": "Interests and Hobbies Vertical"
+                    },
+                    "entity": {
+                        "description": "Family and Life Stages",
+                        "id": "864925500627484672",
+                        "name": "Family and life stages"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+                        "id": "66",
+                        "name": "Interests and Hobbies Category"
+                    },
+                    "entity": {
+                        "description": "Caregiving",
+                        "id": "1092545020932976640",
+                        "name": "Caregiving"
+                    }
+                }
+            ],
+            "conversation_id": "1326398624000045059",
+            "created_at": "2020-11-11T05:37:29.000Z",
+            "edit_history_tweet_ids": [
+                "1326398624000045059"
+            ],
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 25,
+                        "normalized_text": "\u30da\u30f3\u30b7\u30eb\u30d9\u30cb\u30a2\u5dde",
+                        "probability": 0.4278,
+                        "start": 18,
+                        "type": "Place"
+                    },
+                    {
+                        "end": 70,
+                        "normalized_text": "\u30ea\u30f3\u30bc\u30a4\u30fb\u30b0\u30e9\u30cf\u30e0\u4e0a\u9662\u8b70\u54e1",
+                        "probability": 0.3254,
+                        "start": 58,
+                        "type": "Person"
+                    },
+                    {
+                        "end": 77,
+                        "normalized_text": "\u6c11\u4e3b\u515a",
+                        "probability": 0.527,
+                        "start": 75,
+                        "type": "Organization"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 16,
+                        "id": "84025943",
+                        "start": 3,
+                        "username": "lingualandjp"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "washingtonexaminer.com/news/lindsey-g\u2026",
+                        "end": 115,
+                        "expanded_url": "https://www.washingtonexaminer.com/news/lindsey-graham-possible-ballot-harvesting-in-pennsylvania-involving-25-000-nursing-home-residents",
+                        "start": 92,
+                        "url": "https://t.co/3b0m0yH7nF"
+                    }
+                ]
+            },
+            "id": "1326398624000045059",
+            "lang": "ja",
+            "public_metrics": {
+                "impression_count": 0,
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 31
+            },
+            "referenced_tweets": [
+                {
+                    "id": "1326293691300864000",
+                    "type": "retweeted"
+                }
+            ],
+            "reply_settings": "everyone",
+            "text": "RT @lingualandjp: \u30da\u30f3\u30b7\u30eb\u30d9\u30cb\u30a2\u5dde\u306e\u4ecb\u8b77\u65bd\u8a2d25000\u4eba\u5206\u306e\u6295\u7968\u304c\u540c\u65e5\u540c\u6642\u523b\u306b\u304a\u3053\u306a\u308f\u308c\u3066\u3044\u305f\u3068\u3001\u30ea\u30f3\u30bc\u30a4\u30fb\u30b0\u30e9\u30cf\u30e0\u4e0a\u9662\u8b70\u54e1\u304c\u767a\u8868\u3002\u6c11\u4e3b\u515a\u306b\u6c11\u4e3b\u4e3b\u7fa9\u306f\u306a\u3044\u3093\u3060\u306a\u3002\n\nhttps://t.co/3b0m0yH7nF"
+        },
+        {
+            "author_id": "49524978",
+            "conversation_id": "1326398438020423681",
+            "created_at": "2020-11-11T05:36:45.000Z",
+            "edit_history_tweet_ids": [
+                "1326398438020423681"
+            ],
+            "entities": {
+                "mentions": [
+                    {
+                        "end": 13,
+                        "id": "210424042",
+                        "start": 3,
+                        "username": "RAZ0RFIST"
+                    }
+                ]
+            },
+            "id": "1326398438020423681",
+            "lang": "en",
+            "public_metrics": {
+                "impression_count": 0,
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 617
+            },
+            "referenced_tweets": [
+                {
+                    "id": "1326390365184782336",
+                    "type": "retweeted"
+                }
+            ],
+            "reply_settings": "everyone",
+            "text": "RT @RAZ0RFIST: Stop calling it 'Voter Fraud'.\nThis term implies someone walking into a booth with two ballots or something. This is systemi\u2026"
+        },
+        {
+            "author_id": "1264863277009387521",
+            "conversation_id": "1326398408266031105",
+            "created_at": "2020-11-11T05:36:38.000Z",
+            "edit_history_tweet_ids": [
+                "1326398408266031105"
+            ],
+            "entities": {
+                "mentions": [
+                    {
+                        "end": 13,
+                        "id": "210424042",
+                        "start": 3,
+                        "username": "RAZ0RFIST"
+                    }
+                ]
+            },
+            "id": "1326398408266031105",
+            "lang": "en",
+            "public_metrics": {
+                "impression_count": 0,
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 617
+            },
+            "referenced_tweets": [
+                {
+                    "id": "1326390365184782336",
+                    "type": "retweeted"
+                }
+            ],
+            "reply_settings": "everyone",
+            "text": "RT @RAZ0RFIST: Stop calling it 'Voter Fraud'.\nThis term implies someone walking into a booth with two ballots or something. This is systemi\u2026"
+        },
+        {
+            "author_id": "93325330",
+            "conversation_id": "1326398394546458625",
+            "created_at": "2020-11-11T05:36:35.000Z",
+            "edit_history_tweet_ids": [
+                "1326398394546458625"
+            ],
+            "entities": {
+                "mentions": [
+                    {
+                        "end": 12,
+                        "id": "2352629311",
+                        "start": 3,
+                        "username": "HawleyMO"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "washex.am/2Ub3hPp",
+                        "end": 65,
+                        "expanded_url": "https://washex.am/2Ub3hPp",
+                        "start": 42,
+                        "unwound_url": "https://washex.am/2Ub3hPp",
+                        "url": "https://t.co/ChGlrGEdK8"
+                    }
+                ]
+            },
+            "id": "1326398394546458625",
+            "lang": "en",
+            "public_metrics": {
+                "impression_count": 0,
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 583
+            },
+            "referenced_tweets": [
+                {
+                    "id": "1326235327485403140",
+                    "type": "retweeted"
+                }
+            ],
+            "reply_settings": "everyone",
+            "text": "RT @HawleyMO: Time for election INTEGRITY https://t.co/ChGlrGEdK8"
+        },
+        {
+            "author_id": "329189305",
+            "context_annotations": [
+                {
+                    "domain": {
+                        "description": "Real world events. ",
+                        "id": "29",
+                        "name": "Events [Entity Service]"
+                    },
+                    "entity": {
+                        "description": "2020 US Presidential Election",
+                        "id": "1029453725360775168",
+                        "name": "2020 US Presidential Election"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A taxonomy of user interests. ",
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy"
+                    },
+                    "entity": {
+                        "description": "2020 US Presidential Election",
+                        "id": "1029453725360775168",
+                        "name": "2020 US Presidential Election"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "Named people in the world like Nelson Mandela",
+                        "id": "10",
+                        "name": "Person"
+                    },
+                    "entity": {
+                        "description": "US President Joe Biden",
+                        "id": "10040395078",
+                        "name": "Joe Biden"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "Politicians in the world, like Joe Biden",
+                        "id": "35",
+                        "name": "Politician"
+                    },
+                    "entity": {
+                        "description": "US President Joe Biden",
+                        "id": "10040395078",
+                        "name": "Joe Biden"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A taxonomy of user interests. ",
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy"
+                    },
+                    "entity": {
+                        "description": "US President Joe Biden",
+                        "id": "10040395078",
+                        "name": "Joe Biden"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A taxonomy of user interests. ",
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy"
+                    },
+                    "entity": {
+                        "description": "Politics",
+                        "id": "847878884917886977",
+                        "name": "Politics"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A taxonomy of user interests. ",
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy"
+                    },
+                    "entity": {
+                        "description": "Politician",
+                        "id": "1070032753834438656",
+                        "name": "Political figures"
+                    }
+                }
+            ],
+            "conversation_id": "1326398367321255938",
+            "created_at": "2020-11-11T05:36:28.000Z",
+            "edit_history_tweet_ids": [
+                "1326398367321255938"
+            ],
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 88,
+                        "normalized_text": "Harris County",
+                        "probability": 0.7362,
+                        "start": 76,
+                        "type": "Place"
+                    },
+                    {
+                        "end": 94,
+                        "normalized_text": "Texas",
+                        "probability": 0.9058,
+                        "start": 90,
+                        "type": "Place"
+                    },
+                    {
+                        "end": 108,
+                        "normalized_text": "Dallas Jones",
+                        "probability": 0.7911,
+                        "start": 97,
+                        "type": "Person"
+                    },
+                    {
+                        "end": 127,
+                        "normalized_text": "Joe Biden",
+                        "probability": 0.8809,
+                        "start": 119,
+                        "type": "Person"
+                    },
+                    {
+                        "end": 162,
+                        "normalized_text": "Texas",
+                        "probability": 0.8159,
+                        "start": 158,
+                        "type": "Place"
+                    },
+                    {
+                        "end": 193,
+                        "normalized_text": "Texas",
+                        "probability": 0.9511,
+                        "start": 189,
+                        "type": "Place"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "scorecard.com",
+                        "end": 218,
+                        "expanded_url": "http://scorecard.com",
+                        "start": 195,
+                        "url": "https://t.co/zzpljKTLnW"
+                    },
+                    {
+                        "display_url": "twitter.com/Robertl0146434\u2026",
+                        "end": 242,
+                        "expanded_url": "https://twitter.com/Robertl01464344/status/1326390945269637127",
+                        "start": 219,
+                        "url": "https://t.co/tCNhItVbcr"
+                    }
+                ]
+            },
+            "id": "1326398367321255938",
+            "lang": "en",
+            "public_metrics": {
+                "impression_count": 0,
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 1,
+                "retweet_count": 0
+            },
+            "referenced_tweets": [
+                {
+                    "id": "1326390945269637127",
+                    "type": "quoted"
+                }
+            ],
+            "reply_settings": "everyone",
+            "text": "Ballot harvesting operation, led by \"elite\" Democrat officials prepared for Harris County Texas. Dallas Jones hired by Joe Biden presidential campaign as the Texas political director. Ref: Texas https://t.co/zzpljKTLnW https://t.co/tCNhItVbcr"
+        },
+        {
+            "author_id": "1108468477550039040",
+            "context_annotations": [
+                {
+                    "domain": {
+                        "description": "Real world events. ",
+                        "id": "29",
+                        "name": "Events [Entity Service]"
+                    },
+                    "entity": {
+                        "description": "2020 US Presidential Election",
+                        "id": "1029453725360775168",
+                        "name": "2020 US Presidential Election"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A taxonomy of user interests. ",
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy"
+                    },
+                    "entity": {
+                        "description": "2020 US Presidential Election",
+                        "id": "1029453725360775168",
+                        "name": "2020 US Presidential Election"
+                    }
+                }
+            ],
+            "conversation_id": "1326398302015905793",
+            "created_at": "2020-11-11T05:36:13.000Z",
+            "edit_history_tweet_ids": [
+                "1326398302015905793"
+            ],
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 38,
+                        "normalized_text": "Texas",
+                        "probability": 0.5557,
+                        "start": 34,
+                        "type": "Place"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 14,
+                        "id": "16456148",
+                        "start": 3,
+                        "username": "sum1pnchme"
+                    }
+                ]
+            },
+            "id": "1326398302015905793",
+            "lang": "en",
+            "public_metrics": {
+                "impression_count": 0,
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 1
+            },
+            "referenced_tweets": [
+                {
+                    "id": "1326397667325468674",
+                    "type": "retweeted"
+                }
+            ],
+            "reply_settings": "everyone",
+            "text": "RT @sum1pnchme: Affidavits Allege Texas Democrat Officials Involved In Mail-In Ballot Harvesting Scheme; Democrats Deny https://t.co/ohkrko\u2026"
+        },
+        {
+            "author_id": "771115204096647168",
+            "conversation_id": "1326398295531540480",
+            "created_at": "2020-11-11T05:36:11.000Z",
+            "edit_history_tweet_ids": [
+                "1326398295531540480"
+            ],
+            "entities": {
+                "mentions": [
+                    {
+                        "end": 13,
+                        "id": "210424042",
+                        "start": 3,
+                        "username": "RAZ0RFIST"
+                    }
+                ]
+            },
+            "id": "1326398295531540480",
+            "lang": "en",
+            "public_metrics": {
+                "impression_count": 0,
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 617
+            },
+            "referenced_tweets": [
+                {
+                    "id": "1326390365184782336",
+                    "type": "retweeted"
+                }
+            ],
+            "reply_settings": "everyone",
+            "text": "RT @RAZ0RFIST: Stop calling it 'Voter Fraud'.\nThis term implies someone walking into a booth with two ballots or something. This is systemi\u2026"
+        },
+        {
+            "author_id": "1097280512",
+            "context_annotations": [
+                {
+                    "domain": {
+                        "description": "Named people in the world like Nelson Mandela",
+                        "id": "10",
+                        "name": "Person"
+                    },
+                    "entity": {
+                        "description": "Senator Lindsey Graham (SC)",
+                        "id": "10038636953",
+                        "name": "Lindsey Graham"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "Politicians in the world, like Joe Biden",
+                        "id": "35",
+                        "name": "Politician"
+                    },
+                    "entity": {
+                        "description": "Senator Lindsey Graham (SC)",
+                        "id": "10038636953",
+                        "name": "Lindsey Graham"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A taxonomy of user interests. ",
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy"
+                    },
+                    "entity": {
+                        "description": "Senator Lindsey Graham (SC)",
+                        "id": "10038636953",
+                        "name": "Lindsey Graham"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A taxonomy of user interests. ",
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy"
+                    },
+                    "entity": {
+                        "description": "Politics",
+                        "id": "847878884917886977",
+                        "name": "Politics"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A taxonomy of user interests. ",
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy"
+                    },
+                    "entity": {
+                        "description": "Politician",
+                        "id": "1070032753834438656",
+                        "name": "Political figures"
+                    }
+                }
+            ],
+            "conversation_id": "1326398158319054849",
+            "created_at": "2020-11-11T05:35:38.000Z",
+            "edit_history_tweet_ids": [
+                "1326398158319054849"
+            ],
+            "entities": {
+                "hashtags": [
+                    {
+                        "end": 92,
+                        "start": 89,
+                        "tag": "\u5bbe\u5dde"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 12,
+                        "id": "56572394",
+                        "start": 3,
+                        "username": "dajiyuan"
+                    }
+                ]
+            },
+            "id": "1326398158319054849",
+            "lang": "zh",
+            "public_metrics": {
+                "impression_count": 0,
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 126
+            },
+            "referenced_tweets": [
+                {
+                    "id": "1326275943812517888",
+                    "type": "retweeted"
+                }
+            ],
+            "reply_settings": "everyone",
+            "text": "RT @dajiyuan: \u683c\u96f7\u5384\u59c6\uff1a\u5bbe\u5dde\u517b\u8001\u9662\u6d89\u6536\u5272\u9009\u7968 \u5f71\u54cd2.5\u4e07\u4eba \n\n\u7f8e\u56fd\u53c2\u8bae\u9662\u53f8\u6cd5\u59d4\u5458\u4f1a\u4e3b\u5e2d\u6797\u8d5b\u00b7\u683c\u96f7\u5384\u59c6\uff08Lindsey Graham\uff09\u5468\u4e00\uff089\u65e5\uff09\u8868\u793a\uff0c\u4ed6\u88ab\u544a\u77e5 #\u5bbe\u5dde \u517b\u8001\u9662\u6d89\u5acc\u201c\u6536\u5272\u9009\u7968\u201d\uff08ballot-harvesting\uff09\uff0c\u5982\u679c\u5f97\u5230\u8bc1\u5b9e\uff0c\u8fd9\u53c8\u662f\u4e00\u6869\u975e\u6cd5\u9009\u2026"
+        },
+        {
+            "author_id": "107879026",
+            "conversation_id": "1326397914382557184",
+            "created_at": "2020-11-11T05:34:40.000Z",
+            "edit_history_tweet_ids": [
+                "1326397914382557184"
+            ],
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 56,
+                        "normalized_text": "Project Veritas",
+                        "probability": 0.7923,
+                        "start": 42,
+                        "type": "Other"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 16,
+                        "id": "1439829792",
+                        "start": 3,
+                        "username": "JoshuaPotash"
+                    },
+                    {
+                        "end": 100,
+                        "id": "16989178",
+                        "start": 85,
+                        "username": "JamesOKeefeIII"
+                    }
+                ]
+            },
+            "id": "1326397914382557184",
+            "lang": "en",
+            "public_metrics": {
+                "impression_count": 0,
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 145
+            },
+            "referenced_tweets": [
+                {
+                    "id": "1326314339247263747",
+                    "type": "retweeted"
+                }
+            ],
+            "reply_settings": "everyone",
+            "text": "RT @JoshuaPotash: In case you don\u2019t know, Project Veritas is a complete scam, run by @JamesOKeefeIII. Everything they touch is dirty.\n\nhttp\u2026"
+        },
+        {
+            "author_id": "1268361086383714305",
+            "conversation_id": "1326397880723181568",
+            "created_at": "2020-11-11T05:34:32.000Z",
+            "edit_history_tweet_ids": [
+                "1326397880723181568"
+            ],
+            "entities": {
+                "mentions": [
+                    {
+                        "end": 13,
+                        "id": "210424042",
+                        "start": 3,
+                        "username": "RAZ0RFIST"
+                    }
+                ]
+            },
+            "id": "1326397880723181568",
+            "lang": "en",
+            "public_metrics": {
+                "impression_count": 0,
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 617
+            },
+            "referenced_tweets": [
+                {
+                    "id": "1326390365184782336",
+                    "type": "retweeted"
+                }
+            ],
+            "reply_settings": "everyone",
+            "text": "RT @RAZ0RFIST: Stop calling it 'Voter Fraud'.\nThis term implies someone walking into a booth with two ballots or something. This is systemi\u2026"
+        },
+        {
+            "author_id": "195915697",
+            "context_annotations": [
+                {
+                    "domain": {
+                        "description": "Named people in the world like Nelson Mandela",
+                        "id": "10",
+                        "name": "Person"
+                    },
+                    "entity": {
+                        "description": "45th US President, Donald Trump",
+                        "id": "799022225751871488",
+                        "name": "Donald Trump"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "Real world events. ",
+                        "id": "29",
+                        "name": "Events [Entity Service]"
+                    },
+                    "entity": {
+                        "description": "2020 US Presidential Election",
+                        "id": "1029453725360775168",
+                        "name": "2020 US Presidential Election"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "Politicians in the world, like Joe Biden",
+                        "id": "35",
+                        "name": "Politician"
+                    },
+                    "entity": {
+                        "description": "45th US President, Donald Trump",
+                        "id": "799022225751871488",
+                        "name": "Donald Trump"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A section of a government, like The Supreme Court",
+                        "id": "88",
+                        "name": "Political Body"
+                    },
+                    "entity": {
+                        "description": "United States Congress",
+                        "id": "961705302700654593",
+                        "name": "United States Congress"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A taxonomy of user interests. ",
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy"
+                    },
+                    "entity": {
+                        "description": "45th US President, Donald Trump",
+                        "id": "799022225751871488",
+                        "name": "Donald Trump"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A taxonomy of user interests. ",
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy"
+                    },
+                    "entity": {
+                        "description": "Politics",
+                        "id": "847878884917886977",
+                        "name": "Politics"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A taxonomy of user interests. ",
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy"
+                    },
+                    "entity": {
+                        "description": "United States Congress",
+                        "id": "961705302700654593",
+                        "name": "United States Congress"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A taxonomy of user interests. ",
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy"
+                    },
+                    "entity": {
+                        "description": "US National News",
+                        "id": "1003932601839579136",
+                        "name": "US national news"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A taxonomy of user interests. ",
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy"
+                    },
+                    "entity": {
+                        "description": "2020 US Presidential Election",
+                        "id": "1029453725360775168",
+                        "name": "2020 US Presidential Election"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A taxonomy of user interests. ",
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy"
+                    },
+                    "entity": {
+                        "description": "News",
+                        "id": "1046545033657081857",
+                        "name": "News"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A taxonomy of user interests. ",
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy"
+                    },
+                    "entity": {
+                        "description": "Political Body",
+                        "id": "1068583660914266113",
+                        "name": "Government institutions"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A taxonomy of user interests. ",
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy"
+                    },
+                    "entity": {
+                        "description": "Politician",
+                        "id": "1070032753834438656",
+                        "name": "Political figures"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A taxonomy of user interests. ",
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy"
+                    },
+                    "entity": {
+                        "id": "1286379401228124160",
+                        "name": "Americas"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "Named people in the world like Nelson Mandela",
+                        "id": "10",
+                        "name": "Person"
+                    },
+                    "entity": {
+                        "description": "Senator Rand Paul (KY)",
+                        "id": "10037721464",
+                        "name": "Rand Paul"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "Politicians in the world, like Joe Biden",
+                        "id": "35",
+                        "name": "Politician"
+                    },
+                    "entity": {
+                        "description": "Senator Rand Paul (KY)",
+                        "id": "10037721464",
+                        "name": "Rand Paul"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A section of a government, like The Supreme Court",
+                        "id": "88",
+                        "name": "Political Body"
+                    },
+                    "entity": {
+                        "description": "Conversation about the Supreme Court and justices",
+                        "id": "867872043672326144",
+                        "name": "Supreme Court of the United States"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A section of a government, like The Supreme Court",
+                        "id": "88",
+                        "name": "Political Body"
+                    },
+                    "entity": {
+                        "description": "United States Senate",
+                        "id": "877326946253684737",
+                        "name": "United States Senate"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A section of a government, like The Supreme Court",
+                        "id": "88",
+                        "name": "Political Body"
+                    },
+                    "entity": {
+                        "description": "United States Congress",
+                        "id": "961705302700654593",
+                        "name": "United States Congress"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A taxonomy of user interests. ",
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy"
+                    },
+                    "entity": {
+                        "description": "Senator Rand Paul (KY)",
+                        "id": "10037721464",
+                        "name": "Rand Paul"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A taxonomy of user interests. ",
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy"
+                    },
+                    "entity": {
+                        "description": "Politics",
+                        "id": "847878884917886977",
+                        "name": "Politics"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A taxonomy of user interests. ",
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy"
+                    },
+                    "entity": {
+                        "description": "Conversation about the Supreme Court and justices",
+                        "id": "867872043672326144",
+                        "name": "Supreme Court of the United States"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A taxonomy of user interests. ",
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy"
+                    },
+                    "entity": {
+                        "description": "United States Senate",
+                        "id": "877326946253684737",
+                        "name": "United States Senate"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A taxonomy of user interests. ",
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy"
+                    },
+                    "entity": {
+                        "description": "Political Body",
+                        "id": "1068583660914266113",
+                        "name": "Government institutions"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A taxonomy of user interests. ",
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy"
+                    },
+                    "entity": {
+                        "description": "Politician",
+                        "id": "1070032753834438656",
+                        "name": "Political figures"
+                    }
+                }
+            ],
+            "conversation_id": "1326254317062545412",
+            "created_at": "2020-11-11T05:34:28.000Z",
+            "edit_history_tweet_ids": [
+                "1326397863371403264"
+            ],
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 79,
+                        "normalized_text": "Court",
+                        "probability": 0.576,
+                        "start": 75,
+                        "type": "Place"
+                    },
+                    {
+                        "end": 96,
+                        "normalized_text": "United States",
+                        "probability": 0.9114,
+                        "start": 84,
+                        "type": "Place"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 9,
+                        "id": "2208000439",
+                        "start": 0,
+                        "username": "WVUMAMA2"
+                    },
+                    {
+                        "end": 19,
+                        "id": "216881337",
+                        "start": 10,
+                        "username": "RandPaul"
+                    },
+                    {
+                        "end": 277,
+                        "id": "1349149096909668363",
+                        "start": 271,
+                        "username": "POTUS"
+                    },
+                    {
+                        "end": 287,
+                        "id": "216881337",
+                        "start": 278,
+                        "username": "RandPaul"
+                    },
+                    {
+                        "end": 298,
+                        "id": "14344823",
+                        "start": 288,
+                        "username": "SenateGOP"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "republicans-cha.house.gov/media/press-re\u2026",
+                        "end": 43,
+                        "expanded_url": "https://republicans-cha.house.gov/media/press-releases/republicans-drop-bill-end-voting-practice-ripe-fraud-ballot-harvesting",
+                        "start": 20,
+                        "status": 200,
+                        "unwound_url": "https://cha.house.gov/media/press-releases/republicans-drop-bill-end-voting-practice-ripe-fraud-ballot-harvesting",
+                        "url": "https://t.co/gHpsMdqKfM"
+                    }
+                ]
+            },
+            "id": "1326397863371403264",
+            "in_reply_to_user_id": "2208000439",
+            "lang": "en",
+            "public_metrics": {
+                "impression_count": 0,
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "referenced_tweets": [
+                {
+                    "id": "1326393391874236417",
+                    "type": "replied_to"
+                }
+            ],
+            "reply_settings": "everyone",
+            "text": "@WVUMAMA2 @RandPaul https://t.co/gHpsMdqKfM\n\nThis will end once at Supreme Court of United States. \n\nBalloting is personal property whereby harvesting is unhealthy for privacy. And, results of whom voting for is utmost secret and beyond private. Not for public records.\n\n@POTUS\n@RandPaul @SenateGOP"
+        },
+        {
+            "author_id": "778100505750990850",
+            "conversation_id": "1326397813903810565",
+            "created_at": "2020-11-11T05:34:16.000Z",
+            "edit_history_tweet_ids": [
+                "1326397813903810565"
+            ],
+            "entities": {
+                "mentions": [
+                    {
+                        "end": 13,
+                        "id": "210424042",
+                        "start": 3,
+                        "username": "RAZ0RFIST"
+                    }
+                ]
+            },
+            "id": "1326397813903810565",
+            "lang": "en",
+            "public_metrics": {
+                "impression_count": 0,
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 617
+            },
+            "referenced_tweets": [
+                {
+                    "id": "1326390365184782336",
+                    "type": "retweeted"
+                }
+            ],
+            "reply_settings": "everyone",
+            "text": "RT @RAZ0RFIST: Stop calling it 'Voter Fraud'.\nThis term implies someone walking into a booth with two ballots or something. This is systemi\u2026"
+        },
+        {
+            "author_id": "1241179457303576576",
+            "conversation_id": "1326397800033218560",
+            "created_at": "2020-11-11T05:34:13.000Z",
+            "edit_history_tweet_ids": [
+                "1326397800033218560"
+            ],
+            "entities": {
+                "mentions": [
+                    {
+                        "end": 13,
+                        "id": "210424042",
+                        "start": 3,
+                        "username": "RAZ0RFIST"
+                    }
+                ]
+            },
+            "id": "1326397800033218560",
+            "lang": "en",
+            "public_metrics": {
+                "impression_count": 0,
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 617
+            },
+            "referenced_tweets": [
+                {
+                    "id": "1326390365184782336",
+                    "type": "retweeted"
+                }
+            ],
+            "reply_settings": "everyone",
+            "text": "RT @RAZ0RFIST: Stop calling it 'Voter Fraud'.\nThis term implies someone walking into a booth with two ballots or something. This is systemi\u2026"
+        },
+        {
+            "author_id": "1042282667117490177",
+            "conversation_id": "1326397762620035072",
+            "created_at": "2020-11-11T05:34:04.000Z",
+            "edit_history_tweet_ids": [
+                "1326397762620035072"
+            ],
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 49,
+                        "normalized_text": "California",
+                        "probability": 0.7126,
+                        "start": 40,
+                        "type": "Place"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 14,
+                        "id": "748330599249645568",
+                        "start": 3,
+                        "username": "Kat7600999"
+                    },
+                    {
+                        "end": 28,
+                        "id": "695434934190669827",
+                        "start": 16,
+                        "username": "Andi_G_Arts"
+                    },
+                    {
+                        "end": 39,
+                        "id": "805428673",
+                        "start": 29,
+                        "username": "BeauCards"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "pic.twitter.com/IvnxA7f7v9",
+                        "end": 125,
+                        "expanded_url": "https://twitter.com/Kat7600999/status/1326395956812804097/photo/1",
+                        "media_key": "3_1326395743482077186",
+                        "start": 102,
+                        "url": "https://t.co/IvnxA7f7v9"
+                    }
+                ]
+            },
+            "id": "1326397762620035072",
+            "lang": "en",
+            "public_metrics": {
+                "impression_count": 0,
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 3
+            },
+            "referenced_tweets": [
+                {
+                    "id": "1326395956812804097",
+                    "type": "retweeted"
+                }
+            ],
+            "reply_settings": "everyone",
+            "text": "RT @Kat7600999: @Andi_G_Arts @BeauCards California ballot harvesting law 2016. What happened in 2018? https://t.co/IvnxA7f7v9"
+        },
+        {
+            "author_id": "16456148",
+            "context_annotations": [
+                {
+                    "domain": {
+                        "description": "Real world events. ",
+                        "id": "29",
+                        "name": "Events [Entity Service]"
+                    },
+                    "entity": {
+                        "description": "2020 US Presidential Election",
+                        "id": "1029453725360775168",
+                        "name": "2020 US Presidential Election"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A taxonomy of user interests. ",
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy"
+                    },
+                    "entity": {
+                        "description": "2020 US Presidential Election",
+                        "id": "1029453725360775168",
+                        "name": "2020 US Presidential Election"
+                    }
+                }
+            ],
+            "conversation_id": "1326397667325468674",
+            "created_at": "2020-11-11T05:33:41.000Z",
+            "edit_history_tweet_ids": [
+                "1326397667325468674"
+            ],
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 22,
+                        "normalized_text": "Texas",
+                        "probability": 0.4261,
+                        "start": 18,
+                        "type": "Place"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "dailywire.com/news/affidavit\u2026",
+                        "end": 127,
+                        "expanded_url": "https://www.dailywire.com/news/affidavits-allege-texas-democrat-officials-involved-in-mail-in-ballot-harvesting-scheme-dems-deny-claim-dirty-voter-suppression-tricks/",
+                        "start": 104,
+                        "url": "https://t.co/ohkrkoyGqE"
+                    }
+                ]
+            },
+            "id": "1326397667325468674",
+            "lang": "en",
+            "public_metrics": {
+                "impression_count": 0,
+                "like_count": 1,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 1
+            },
+            "reply_settings": "everyone",
+            "text": "Affidavits Allege Texas Democrat Officials Involved In Mail-In Ballot Harvesting Scheme; Democrats Deny https://t.co/ohkrkoyGqE"
+        },
+        {
+            "author_id": "1292811334757658626",
+            "conversation_id": "1326397575679893506",
+            "created_at": "2020-11-11T05:33:19.000Z",
+            "edit_history_tweet_ids": [
+                "1326397575679893506"
+            ],
+            "entities": {
+                "mentions": [
+                    {
+                        "end": 13,
+                        "id": "210424042",
+                        "start": 3,
+                        "username": "RAZ0RFIST"
+                    }
+                ]
+            },
+            "id": "1326397575679893506",
+            "lang": "en",
+            "public_metrics": {
+                "impression_count": 0,
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 617
+            },
+            "referenced_tweets": [
+                {
+                    "id": "1326390365184782336",
+                    "type": "retweeted"
+                }
+            ],
+            "reply_settings": "everyone",
+            "text": "RT @RAZ0RFIST: Stop calling it 'Voter Fraud'.\nThis term implies someone walking into a booth with two ballots or something. This is systemi\u2026"
+        },
+        {
+            "author_id": "816768319877419009",
+            "conversation_id": "1326397513226661888",
+            "created_at": "2020-11-11T05:33:05.000Z",
+            "edit_history_tweet_ids": [
+                "1326397513226661888"
+            ],
+            "entities": {
+                "mentions": [
+                    {
+                        "end": 13,
+                        "id": "210424042",
+                        "start": 3,
+                        "username": "RAZ0RFIST"
+                    }
+                ]
+            },
+            "id": "1326397513226661888",
+            "lang": "en",
+            "public_metrics": {
+                "impression_count": 0,
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 617
+            },
+            "referenced_tweets": [
+                {
+                    "id": "1326390365184782336",
+                    "type": "retweeted"
+                }
+            ],
+            "reply_settings": "everyone",
+            "text": "RT @RAZ0RFIST: Stop calling it 'Voter Fraud'.\nThis term implies someone walking into a booth with two ballots or something. This is systemi\u2026"
+        },
+        {
+            "author_id": "982279957924728834",
+            "context_annotations": [
+                {
+                    "domain": {
+                        "description": "Named people in the world like Nelson Mandela",
+                        "id": "10",
+                        "name": "Person"
+                    },
+                    "entity": {
+                        "description": "Candidate for Representative from Florida, Tim Canova",
+                        "id": "1044241232904445954",
+                        "name": "Tim Canova"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "Politicians in the world, like Joe Biden",
+                        "id": "35",
+                        "name": "Politician"
+                    },
+                    "entity": {
+                        "description": "Candidate for Representative from Florida, Tim Canova",
+                        "id": "1044241232904445954",
+                        "name": "Tim Canova"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A section of a government, like The Supreme Court",
+                        "id": "88",
+                        "name": "Political Body"
+                    },
+                    "entity": {
+                        "description": "Democratic National Committee",
+                        "id": "941044631961092096",
+                        "name": "Democratic National Committee"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A taxonomy of user interests. ",
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy"
+                    },
+                    "entity": {
+                        "description": "Politics",
+                        "id": "847878884917886977",
+                        "name": "Politics"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A taxonomy of user interests. ",
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy"
+                    },
+                    "entity": {
+                        "description": "Candidate for Representative from Florida, Tim Canova",
+                        "id": "1044241232904445954",
+                        "name": "Tim Canova"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A taxonomy of user interests. ",
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy"
+                    },
+                    "entity": {
+                        "description": "Politician",
+                        "id": "1070032753834438656",
+                        "name": "Political figures"
+                    }
+                }
+            ],
+            "conversation_id": "1326397474542653440",
+            "created_at": "2020-11-11T05:32:55.000Z",
+            "edit_history_tweet_ids": [
+                "1326397474542653440"
+            ],
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 53,
+                        "normalized_text": "DNC",
+                        "probability": 0.6313,
+                        "start": 51,
+                        "type": "Organization"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 14,
+                        "id": "4735385897",
+                        "start": 3,
+                        "username": "Tim_Canova"
+                    }
+                ]
+            },
+            "id": "1326397474542653440",
+            "lang": "en",
+            "public_metrics": {
+                "impression_count": 0,
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 56
+            },
+            "referenced_tweets": [
+                {
+                    "id": "1325818712713203717",
+                    "type": "retweeted"
+                }
+            ],
+            "reply_settings": "everyone",
+            "text": "RT @Tim_Canova: Campaign with huge support against DNC establishment &amp;its corporate media, election results mathematically impossible only\u2026"
+        },
+        {
+            "author_id": "182987693",
+            "conversation_id": "1326397380300828672",
+            "created_at": "2020-11-11T05:32:33.000Z",
+            "edit_history_tweet_ids": [
+                "1326397380300828672"
+            ],
+            "entities": {
+                "mentions": [
+                    {
+                        "end": 13,
+                        "id": "210424042",
+                        "start": 3,
+                        "username": "RAZ0RFIST"
+                    }
+                ]
+            },
+            "id": "1326397380300828672",
+            "lang": "en",
+            "public_metrics": {
+                "impression_count": 0,
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 617
+            },
+            "referenced_tweets": [
+                {
+                    "id": "1326390365184782336",
+                    "type": "retweeted"
+                }
+            ],
+            "reply_settings": "everyone",
+            "text": "RT @RAZ0RFIST: Stop calling it 'Voter Fraud'.\nThis term implies someone walking into a booth with two ballots or something. This is systemi\u2026"
+        },
+        {
+            "author_id": "836111929345110016",
+            "context_annotations": [
+                {
+                    "domain": {
+                        "description": "Named people in the world like Nelson Mandela",
+                        "id": "10",
+                        "name": "Person"
+                    },
+                    "entity": {
+                        "description": "Laura Ingraham",
+                        "id": "1053753085489606656",
+                        "name": "Laura Ingraham"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A journalist like 'Anderson Cooper'",
+                        "id": "94",
+                        "name": "Journalist"
+                    },
+                    "entity": {
+                        "description": "Laura Ingraham",
+                        "id": "1053753085489606656",
+                        "name": "Laura Ingraham"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A taxonomy of user interests. ",
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy"
+                    },
+                    "entity": {
+                        "description": "News",
+                        "id": "1046545033657081857",
+                        "name": "News"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A taxonomy of user interests. ",
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy"
+                    },
+                    "entity": {
+                        "description": "Laura Ingraham",
+                        "id": "1053753085489606656",
+                        "name": "Laura Ingraham"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A taxonomy of user interests. ",
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy"
+                    },
+                    "entity": {
+                        "description": "Journalism",
+                        "id": "1074755369530880001",
+                        "name": "Journalists"
+                    }
+                }
+            ],
+            "conversation_id": "1326397370330918915",
+            "created_at": "2020-11-11T05:32:31.000Z",
+            "edit_history_tweet_ids": [
+                "1326397370330918915"
+            ],
+            "entities": {
+                "mentions": [
+                    {
+                        "end": 17,
+                        "id": "50769180",
+                        "start": 3,
+                        "username": "IngrahamAngle"
+                    },
+                    {
+                        "end": 56,
+                        "id": "62932362",
+                        "start": 42,
+                        "username": "DrJohnEastman"
+                    }
+                ]
+            },
+            "id": "1326397370330918915",
+            "lang": "en",
+            "public_metrics": {
+                "impression_count": 0,
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 244
+            },
+            "referenced_tweets": [
+                {
+                    "id": "1326343892208267264",
+                    "type": "retweeted"
+                }
+            ],
+            "reply_settings": "everyone",
+            "text": "RT @IngrahamAngle: Constitutional scholar @DrJohnEastman reveals the dangers ballot harvesting poses to election integrity. Listen to the f\u2026"
+        }
+    ],
+    "meta": {
+        "newest_id": "1326402411485925382",
+        "next_token": "b26v89c19zqg8o3fosbunxf30q8ljz46mtxv99kdqcoe5",
+        "oldest_id": "1326397370330918915",
+        "result_count": 75
+    }
+}

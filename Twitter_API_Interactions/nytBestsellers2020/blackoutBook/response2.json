@@ -1,0 +1,2922 @@
+{
+    "data": [
+        {
+            "author_id": "108120254",
+            "conversation_id": "1327396260383436801",
+            "created_at": "2020-11-13T23:41:44.000Z",
+            "edit_history_tweet_ids": [
+                "1327396260383436801"
+            ],
+            "entities": {
+                "mentions": [
+                    {
+                        "end": 14,
+                        "id": "98290850",
+                        "start": 3,
+                        "username": "kikorustia"
+                    }
+                ]
+            },
+            "id": "1327396260383436801",
+            "lang": "en",
+            "public_metrics": {
+                "impression_count": 0,
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 864
+            },
+            "referenced_tweets": [
+                {
+                    "id": "1327290093174878209",
+                    "type": "retweeted"
+                }
+            ],
+            "reply_settings": "everyone",
+            "text": "RT @kikorustia: Ako lang ba or parang may news blackout ang Cagayan? \n\nWe\u2019ve seen some, but given the extent of the damage we\u2019ve seen in th\u2026"
+        },
+        {
+            "author_id": "4013945534",
+            "conversation_id": "1327396256746901504",
+            "created_at": "2020-11-13T23:41:44.000Z",
+            "edit_history_tweet_ids": [
+                "1327396256746901504"
+            ],
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 35,
+                        "normalized_text": "Leni",
+                        "probability": 0.556,
+                        "start": 32,
+                        "type": "Person"
+                    }
+                ]
+            },
+            "id": "1327396256746901504",
+            "lang": "en",
+            "public_metrics": {
+                "impression_count": 0,
+                "like_count": 1,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 1
+            },
+            "reply_settings": "everyone",
+            "text": "I also don\u2019t get how trolls tag Leni as an epal because of her tweets eh pota media blackout nga sa Cagayan region dahil sa entrance restrictions. Kanino kukuha ng updates aber??\n\nOut of sight, out of mind lang ang peg?"
+        },
+        {
+            "author_id": "246351308",
+            "context_annotations": [
+                {
+                    "domain": {
+                        "description": "Television shows from around the world",
+                        "id": "3",
+                        "name": "TV Shows"
+                    },
+                    "entity": {
+                        "description": "CNN's chief Washington correspondent, Jake Tapper, hosts this hourlong weekday afternoon program, which covers all the day's top stories from around the country and the world, headlines that span politics, money, sports and popular culture. \"The Lead\" works to ensure that viewers are caught up on the stories that matter, often highlighting news that may have been overlooked. Prior to joining CNN, Tapper served as senior White House correspondent at ABC News.",
+                        "id": "10026568594",
+                        "name": "The Lead With Jake Tapper"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "Television show episodes",
+                        "id": "4",
+                        "name": "TV Episodes"
+                    },
+                    "entity": {
+                        "description": "CNN's chief Washington correspondent, Jake Tapper, hosts this hourlong weekday afternoon program, which covers all the day's top stories from around the country and the world, headlines that span politics, money, sports and popular culture. \"The Lead\" works to ensure that viewers are caught up on the stories that matter, often highlighting news that may have been overlooked. Prior to joining CNN, Tapper served as senior White House correspondent at ABC News.",
+                        "id": "1322654004921339904",
+                        "name": "The Lead With Jake Tapper"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "Named people in the world like Nelson Mandela",
+                        "id": "10",
+                        "name": "Person"
+                    },
+                    "entity": {
+                        "description": "45th US President, Donald Trump",
+                        "id": "799022225751871488",
+                        "name": "Donald Trump"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "Named people in the world like Nelson Mandela",
+                        "id": "10",
+                        "name": "Person"
+                    },
+                    "entity": {
+                        "description": "Jake Tapper",
+                        "id": "950394966307586048",
+                        "name": "Jake Tapper"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "Real world events. ",
+                        "id": "29",
+                        "name": "Events [Entity Service]"
+                    },
+                    "entity": {
+                        "description": "CNN's chief Washington correspondent, Jake Tapper, hosts this hourlong weekday afternoon program, which covers all the day's top stories from around the country and the world, headlines that span politics, money, sports and popular culture. \"The Lead\" works to ensure that viewers are caught up on the stories that matter, often highlighting news that may have been overlooked. Prior to joining CNN, Tapper served as senior White House correspondent at ABC News.",
+                        "id": "1322654004921339904",
+                        "name": "The Lead With Jake Tapper"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "Politicians in the world, like Joe Biden",
+                        "id": "35",
+                        "name": "Politician"
+                    },
+                    "entity": {
+                        "description": "45th US President, Donald Trump",
+                        "id": "799022225751871488",
+                        "name": "Donald Trump"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "Top level entities that describe a Brands industry",
+                        "id": "45",
+                        "name": "Brand Vertical"
+                    },
+                    "entity": {
+                        "id": "781974597310615553",
+                        "name": "Entertainment"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+                        "id": "30",
+                        "name": "Entities [Entity Service]"
+                    },
+                    "entity": {
+                        "id": "781974597105094656",
+                        "name": "TV/Movies Related - Entertainment"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "Brands and Companies",
+                        "id": "47",
+                        "name": "Brand"
+                    },
+                    "entity": {
+                        "description": "Fox News",
+                        "id": "1065657279150665728",
+                        "name": "Fox News"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A journalist like 'Anderson Cooper'",
+                        "id": "94",
+                        "name": "Journalist"
+                    },
+                    "entity": {
+                        "description": "Jake Tapper",
+                        "id": "950394966307586048",
+                        "name": "Jake Tapper"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A taxonomy of user interests. ",
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy"
+                    },
+                    "entity": {
+                        "description": "45th US President, Donald Trump",
+                        "id": "799022225751871488",
+                        "name": "Donald Trump"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A taxonomy of user interests. ",
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy"
+                    },
+                    "entity": {
+                        "description": "Politics",
+                        "id": "847878884917886977",
+                        "name": "Politics"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A taxonomy of user interests. ",
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy"
+                    },
+                    "entity": {
+                        "description": "Jake Tapper",
+                        "id": "950394966307586048",
+                        "name": "Jake Tapper"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A taxonomy of user interests. ",
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy"
+                    },
+                    "entity": {
+                        "description": "News",
+                        "id": "1046545033657081857",
+                        "name": "News"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A taxonomy of user interests. ",
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy"
+                    },
+                    "entity": {
+                        "description": "Fox News",
+                        "id": "1065657279150665728",
+                        "name": "Fox News"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A taxonomy of user interests. ",
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy"
+                    },
+                    "entity": {
+                        "description": "Politician",
+                        "id": "1070032753834438656",
+                        "name": "Political figures"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A taxonomy of user interests. ",
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy"
+                    },
+                    "entity": {
+                        "description": "Journalism",
+                        "id": "1074755369530880001",
+                        "name": "Journalists"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A taxonomy of user interests. ",
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy"
+                    },
+                    "entity": {
+                        "id": "1196447117297905665",
+                        "name": "News outlets"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A taxonomy of user interests. ",
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy"
+                    },
+                    "entity": {
+                        "id": "1263266085471580160",
+                        "name": "The Lead With Jake Tapper"
+                    }
+                }
+            ],
+            "conversation_id": "1327395335866638336",
+            "created_at": "2020-11-13T23:41:24.000Z",
+            "edit_history_tweet_ids": [
+                "1327396174597287936"
+            ],
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 32,
+                        "normalized_text": "Trump",
+                        "probability": 0.9772,
+                        "start": 28,
+                        "type": "Person"
+                    },
+                    {
+                        "end": 227,
+                        "normalized_text": "Fox News",
+                        "probability": 0.9282,
+                        "start": 220,
+                        "type": "Organization"
+                    },
+                    {
+                        "end": 251,
+                        "normalized_text": "Trump",
+                        "probability": 0.9596,
+                        "start": 247,
+                        "type": "Person"
+                    },
+                    {
+                        "end": 289,
+                        "normalized_text": "Trump",
+                        "probability": 0.942,
+                        "start": 285,
+                        "type": "Person"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 11,
+                        "id": "14529929",
+                        "start": 0,
+                        "username": "jaketapper"
+                    }
+                ]
+            },
+            "id": "1327396174597287936",
+            "in_reply_to_user_id": "14529929",
+            "lang": "en",
+            "public_metrics": {
+                "impression_count": 0,
+                "like_count": 4,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 1
+            },
+            "referenced_tweets": [
+                {
+                    "id": "1327395852537704458",
+                    "type": "replied_to"
+                }
+            ],
+            "reply_settings": "everyone",
+            "text": "@jaketapper Hey media,\nMake Trump irrelevant. Do not give him airtime. You have complete control over him. He is nothing if he can\u2019t get on tv. After 4 years the public demands the media report responsibly and honestly. Fox News can keep covering Trump but for everyone else, BLACKOUT Trump."
+        },
+        {
+            "author_id": "246351308",
+            "context_annotations": [
+                {
+                    "domain": {
+                        "description": "Television shows from around the world",
+                        "id": "3",
+                        "name": "TV Shows"
+                    },
+                    "entity": {
+                        "description": "CNN's chief Washington correspondent, Jake Tapper, hosts this hourlong weekday afternoon program, which covers all the day's top stories from around the country and the world, headlines that span politics, money, sports and popular culture. \"The Lead\" works to ensure that viewers are caught up on the stories that matter, often highlighting news that may have been overlooked. Prior to joining CNN, Tapper served as senior White House correspondent at ABC News.",
+                        "id": "10026568594",
+                        "name": "The Lead With Jake Tapper"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "Television show episodes",
+                        "id": "4",
+                        "name": "TV Episodes"
+                    },
+                    "entity": {
+                        "description": "CNN's chief Washington correspondent, Jake Tapper, hosts this hourlong weekday afternoon program, which covers all the day's top stories from around the country and the world, headlines that span politics, money, sports and popular culture. \"The Lead\" works to ensure that viewers are caught up on the stories that matter, often highlighting news that may have been overlooked. Prior to joining CNN, Tapper served as senior White House correspondent at ABC News.",
+                        "id": "1322654004921339904",
+                        "name": "The Lead With Jake Tapper"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "Named people in the world like Nelson Mandela",
+                        "id": "10",
+                        "name": "Person"
+                    },
+                    "entity": {
+                        "description": "45th US President, Donald Trump",
+                        "id": "799022225751871488",
+                        "name": "Donald Trump"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "Named people in the world like Nelson Mandela",
+                        "id": "10",
+                        "name": "Person"
+                    },
+                    "entity": {
+                        "description": "Jake Tapper",
+                        "id": "950394966307586048",
+                        "name": "Jake Tapper"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "Real world events. ",
+                        "id": "29",
+                        "name": "Events [Entity Service]"
+                    },
+                    "entity": {
+                        "description": "CNN's chief Washington correspondent, Jake Tapper, hosts this hourlong weekday afternoon program, which covers all the day's top stories from around the country and the world, headlines that span politics, money, sports and popular culture. \"The Lead\" works to ensure that viewers are caught up on the stories that matter, often highlighting news that may have been overlooked. Prior to joining CNN, Tapper served as senior White House correspondent at ABC News.",
+                        "id": "1322654004921339904",
+                        "name": "The Lead With Jake Tapper"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "Politicians in the world, like Joe Biden",
+                        "id": "35",
+                        "name": "Politician"
+                    },
+                    "entity": {
+                        "description": "45th US President, Donald Trump",
+                        "id": "799022225751871488",
+                        "name": "Donald Trump"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "Top level entities that describe a Brands industry",
+                        "id": "45",
+                        "name": "Brand Vertical"
+                    },
+                    "entity": {
+                        "id": "781974597310615553",
+                        "name": "Entertainment"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+                        "id": "30",
+                        "name": "Entities [Entity Service]"
+                    },
+                    "entity": {
+                        "id": "781974597105094656",
+                        "name": "TV/Movies Related - Entertainment"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "Brands and Companies",
+                        "id": "47",
+                        "name": "Brand"
+                    },
+                    "entity": {
+                        "description": "Fox News",
+                        "id": "1065657279150665728",
+                        "name": "Fox News"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A journalist like 'Anderson Cooper'",
+                        "id": "94",
+                        "name": "Journalist"
+                    },
+                    "entity": {
+                        "description": "Jake Tapper",
+                        "id": "950394966307586048",
+                        "name": "Jake Tapper"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A taxonomy of user interests. ",
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy"
+                    },
+                    "entity": {
+                        "description": "45th US President, Donald Trump",
+                        "id": "799022225751871488",
+                        "name": "Donald Trump"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A taxonomy of user interests. ",
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy"
+                    },
+                    "entity": {
+                        "description": "Politics",
+                        "id": "847878884917886977",
+                        "name": "Politics"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A taxonomy of user interests. ",
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy"
+                    },
+                    "entity": {
+                        "description": "Jake Tapper",
+                        "id": "950394966307586048",
+                        "name": "Jake Tapper"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A taxonomy of user interests. ",
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy"
+                    },
+                    "entity": {
+                        "description": "News",
+                        "id": "1046545033657081857",
+                        "name": "News"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A taxonomy of user interests. ",
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy"
+                    },
+                    "entity": {
+                        "description": "Fox News",
+                        "id": "1065657279150665728",
+                        "name": "Fox News"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A taxonomy of user interests. ",
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy"
+                    },
+                    "entity": {
+                        "description": "Politician",
+                        "id": "1070032753834438656",
+                        "name": "Political figures"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A taxonomy of user interests. ",
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy"
+                    },
+                    "entity": {
+                        "description": "Journalism",
+                        "id": "1074755369530880001",
+                        "name": "Journalists"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A taxonomy of user interests. ",
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy"
+                    },
+                    "entity": {
+                        "id": "1196447117297905665",
+                        "name": "News outlets"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A taxonomy of user interests. ",
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy"
+                    },
+                    "entity": {
+                        "id": "1263266085471580160",
+                        "name": "The Lead With Jake Tapper"
+                    }
+                }
+            ],
+            "conversation_id": "1327395335866638336",
+            "created_at": "2020-11-13T23:41:14.000Z",
+            "edit_history_tweet_ids": [
+                "1327396133308563457"
+            ],
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 32,
+                        "normalized_text": "Trump",
+                        "probability": 0.9772,
+                        "start": 28,
+                        "type": "Person"
+                    },
+                    {
+                        "end": 227,
+                        "normalized_text": "Fox News",
+                        "probability": 0.9282,
+                        "start": 220,
+                        "type": "Organization"
+                    },
+                    {
+                        "end": 251,
+                        "normalized_text": "Trump",
+                        "probability": 0.9596,
+                        "start": 247,
+                        "type": "Person"
+                    },
+                    {
+                        "end": 289,
+                        "normalized_text": "Trump",
+                        "probability": 0.942,
+                        "start": 285,
+                        "type": "Person"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 11,
+                        "id": "14529929",
+                        "start": 0,
+                        "username": "jaketapper"
+                    }
+                ]
+            },
+            "id": "1327396133308563457",
+            "in_reply_to_user_id": "14529929",
+            "lang": "en",
+            "public_metrics": {
+                "impression_count": 0,
+                "like_count": 1,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "referenced_tweets": [
+                {
+                    "id": "1327395335866638336",
+                    "type": "replied_to"
+                }
+            ],
+            "reply_settings": "everyone",
+            "text": "@jaketapper Hey media,\nMake Trump irrelevant. Do not give him airtime. You have complete control over him. He is nothing if he can\u2019t get on tv. After 4 years the public demands the media report responsibly and honestly. Fox News can keep covering Trump but for everyone else, BLACKOUT Trump."
+        },
+        {
+            "author_id": "1267861386799058945",
+            "conversation_id": "1327396066879213568",
+            "created_at": "2020-11-13T23:40:58.000Z",
+            "edit_history_tweet_ids": [
+                "1327396066879213568"
+            ],
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 39,
+                        "normalized_text": "Lagos",
+                        "probability": 0.9843,
+                        "start": 35,
+                        "type": "Place"
+                    },
+                    {
+                        "end": 75,
+                        "normalized_text": "lagos",
+                        "probability": 0.9515,
+                        "start": 71,
+                        "type": "Place"
+                    },
+                    {
+                        "end": 81,
+                        "normalized_text": "NEPA",
+                        "probability": 0.927,
+                        "start": 78,
+                        "type": "Place"
+                    },
+                    {
+                        "end": 87,
+                        "normalized_text": "phcn",
+                        "probability": 0.8477,
+                        "start": 84,
+                        "type": "Place"
+                    },
+                    {
+                        "end": 97,
+                        "normalized_text": "blackout",
+                        "probability": 0.5307,
+                        "start": 90,
+                        "type": "Place"
+                    },
+                    {
+                        "end": 106,
+                        "normalized_text": "Nigeria",
+                        "probability": 0.9895,
+                        "start": 100,
+                        "type": "Place"
+                    }
+                ],
+                "hashtags": [
+                    {
+                        "end": 76,
+                        "start": 70,
+                        "tag": "lagos"
+                    },
+                    {
+                        "end": 82,
+                        "start": 77,
+                        "tag": "NEPA"
+                    },
+                    {
+                        "end": 88,
+                        "start": 83,
+                        "tag": "phcn"
+                    },
+                    {
+                        "end": 98,
+                        "start": 89,
+                        "tag": "blackout"
+                    },
+                    {
+                        "end": 107,
+                        "start": 99,
+                        "tag": "Nigeria"
+                    }
+                ]
+            },
+            "id": "1327396066879213568",
+            "lang": "en",
+            "public_metrics": {
+                "impression_count": 0,
+                "like_count": 1,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "reply_settings": "everyone",
+            "text": "Comment if you don't have light in Lagos.\n\nRetweet if you have light\n\n#lagos #NEPA #phcn #blackout #Nigeria"
+        },
+        {
+            "author_id": "727041973153071104",
+            "conversation_id": "1327395951732985856",
+            "created_at": "2020-11-13T23:40:31.000Z",
+            "edit_history_tweet_ids": [
+                "1327395951732985856"
+            ],
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 97,
+                        "normalized_text": "Flying Goose Sriracha",
+                        "probability": 0.6302,
+                        "start": 77,
+                        "type": "Other"
+                    },
+                    {
+                        "end": 138,
+                        "normalized_text": "Sriracha Bla",
+                        "probability": 0.6862,
+                        "start": 127,
+                        "type": "Other"
+                    }
+                ],
+                "hashtags": [
+                    {
+                        "end": 52,
+                        "start": 48,
+                        "tag": "WIN"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 15,
+                        "id": "727526200260890625",
+                        "start": 3,
+                        "username": "Sriracha_FG"
+                    }
+                ]
+            },
+            "id": "1327395951732985856",
+            "lang": "en",
+            "public_metrics": {
+                "impression_count": 0,
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 946
+            },
+            "referenced_tweets": [
+                {
+                    "id": "1327307686740955138",
+                    "type": "retweeted"
+                }
+            ],
+            "reply_settings": "everyone",
+            "text": "RT @Sriracha_FG: FOLLOW + RT for your chance to #WIN this handsome bundle of Flying Goose Sriracha... including the ever-fiery Sriracha Bla\u2026"
+        },
+        {
+            "author_id": "1264546644965629952",
+            "conversation_id": "1327395612862664712",
+            "created_at": "2020-11-13T23:40:30.000Z",
+            "edit_history_tweet_ids": [
+                "1327395946217476097"
+            ],
+            "id": "1327395946217476097",
+            "in_reply_to_user_id": "109746464",
+            "lang": "en",
+            "public_metrics": {
+                "impression_count": 0,
+                "like_count": 1,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "referenced_tweets": [
+                {
+                    "id": "1327395612862664712",
+                    "type": "replied_to"
+                }
+            ],
+            "reply_settings": "everyone",
+            "text": "@bloody_blackout I\u2019m on a roll"
+        },
+        {
+            "author_id": "366628849",
+            "conversation_id": "1327394006624579586",
+            "created_at": "2020-11-13T23:40:19.000Z",
+            "edit_history_tweet_ids": [
+                "1327395902584217602"
+            ],
+            "entities": {
+                "mentions": [
+                    {
+                        "end": 7,
+                        "id": "24711775",
+                        "start": 0,
+                        "username": "_Nibb_"
+                    }
+                ]
+            },
+            "id": "1327395902584217602",
+            "in_reply_to_user_id": "24711775",
+            "lang": "en",
+            "public_metrics": {
+                "impression_count": 0,
+                "like_count": 1,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "referenced_tweets": [
+                {
+                    "id": "1327395307265679360",
+                    "type": "replied_to"
+                }
+            ],
+            "reply_settings": "everyone",
+            "text": "@_Nibb_ Ditto.\n\nI blackout almost every window in summer."
+        },
+        {
+            "author_id": "1318673556885114881",
+            "conversation_id": "1327395815497871361",
+            "created_at": "2020-11-13T23:39:58.000Z",
+            "edit_history_tweet_ids": [
+                "1327395815497871361"
+            ],
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 138,
+                        "normalized_text": "Sprea",
+                        "probability": 0.5413,
+                        "start": 134,
+                        "type": "Other"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 16,
+                        "id": "878299621507969025",
+                        "start": 3,
+                        "username": "Falcon82_ttv"
+                    }
+                ]
+            },
+            "id": "1327395815497871361",
+            "lang": "en",
+            "public_metrics": {
+                "impression_count": 0,
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 204
+            },
+            "referenced_tweets": [
+                {
+                    "id": "1321463290552373254",
+                    "type": "retweeted"
+                }
+            ],
+            "reply_settings": "everyone",
+            "text": "RT @Falcon82_ttv: I am hosting my first ever Giveaway! Win a Blue Yeti Blackout. Details in Link below\n\n\ud83d\udc99 Like this Tweet\n\n\ud83d\udc9e Retweet\n\nSprea\u2026"
+        },
+        {
+            "author_id": "1395575756",
+            "context_annotations": [
+                {
+                    "domain": {
+                        "description": "Named people in the world like Nelson Mandela",
+                        "id": "10",
+                        "name": "Person"
+                    },
+                    "entity": {
+                        "description": "45th US President, Donald Trump",
+                        "id": "799022225751871488",
+                        "name": "Donald Trump"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "Named people in the world like Nelson Mandela",
+                        "id": "10",
+                        "name": "Person"
+                    },
+                    "entity": {
+                        "description": "Piers Morgan",
+                        "id": "808772553472737280",
+                        "name": "Piers Morgan"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "Real world events. ",
+                        "id": "29",
+                        "name": "Events [Entity Service]"
+                    },
+                    "entity": {
+                        "description": "2020 US Presidential Election",
+                        "id": "1029453725360775168",
+                        "name": "2020 US Presidential Election"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "Politicians in the world, like Joe Biden",
+                        "id": "35",
+                        "name": "Politician"
+                    },
+                    "entity": {
+                        "description": "45th US President, Donald Trump",
+                        "id": "799022225751871488",
+                        "name": "Donald Trump"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "An entertainment personality in the world, like Anderson Cooper or Miranda Sings",
+                        "id": "58",
+                        "name": "Entertainment Personality"
+                    },
+                    "entity": {
+                        "description": "Piers Morgan",
+                        "id": "808772553472737280",
+                        "name": "Piers Morgan"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A taxonomy of user interests. ",
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy"
+                    },
+                    "entity": {
+                        "description": "45th US President, Donald Trump",
+                        "id": "799022225751871488",
+                        "name": "Donald Trump"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A taxonomy of user interests. ",
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy"
+                    },
+                    "entity": {
+                        "description": "Piers Morgan",
+                        "id": "808772553472737280",
+                        "name": "Piers Morgan"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A taxonomy of user interests. ",
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy"
+                    },
+                    "entity": {
+                        "description": "Politics",
+                        "id": "847878884917886977",
+                        "name": "Politics"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A taxonomy of user interests. ",
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy"
+                    },
+                    "entity": {
+                        "description": "2020 US Presidential Election",
+                        "id": "1029453725360775168",
+                        "name": "2020 US Presidential Election"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A taxonomy of user interests. ",
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy"
+                    },
+                    "entity": {
+                        "description": "Politician",
+                        "id": "1070032753834438656",
+                        "name": "Political figures"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "Named people in the world like Nelson Mandela",
+                        "id": "10",
+                        "name": "Person"
+                    },
+                    "entity": {
+                        "description": "US President Joe Biden",
+                        "id": "10040395078",
+                        "name": "Joe Biden"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "Politicians in the world, like Joe Biden",
+                        "id": "35",
+                        "name": "Politician"
+                    },
+                    "entity": {
+                        "description": "US President Joe Biden",
+                        "id": "10040395078",
+                        "name": "Joe Biden"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A taxonomy of user interests. ",
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy"
+                    },
+                    "entity": {
+                        "description": "US President Joe Biden",
+                        "id": "10040395078",
+                        "name": "Joe Biden"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A taxonomy of user interests. ",
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy"
+                    },
+                    "entity": {
+                        "description": "Politics",
+                        "id": "847878884917886977",
+                        "name": "Politics"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A taxonomy of user interests. ",
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy"
+                    },
+                    "entity": {
+                        "description": "Politician",
+                        "id": "1070032753834438656",
+                        "name": "Political figures"
+                    }
+                }
+            ],
+            "conversation_id": "1327362303872921602",
+            "created_at": "2020-11-13T23:39:42.000Z",
+            "edit_history_tweet_ids": [
+                "1327395748707790850"
+            ],
+            "entities": {
+                "mentions": [
+                    {
+                        "end": 16,
+                        "id": "292891307",
+                        "start": 0,
+                        "username": "IndiaWilloughby"
+                    },
+                    {
+                        "end": 29,
+                        "id": "216299334",
+                        "start": 17,
+                        "username": "piersmorgan"
+                    },
+                    {
+                        "end": 46,
+                        "id": "25073877",
+                        "start": 30,
+                        "username": "realDonaldTrump"
+                    },
+                    {
+                        "end": 274,
+                        "id": "1090746337086320643",
+                        "start": 264,
+                        "username": "AncReport"
+                    }
+                ]
+            },
+            "id": "1327395748707790850",
+            "in_reply_to_user_id": "292891307",
+            "lang": "en",
+            "public_metrics": {
+                "impression_count": 0,
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "referenced_tweets": [
+                {
+                    "id": "1327365143097978880",
+                    "type": "replied_to"
+                }
+            ],
+            "reply_settings": "everyone",
+            "text": "@IndiaWilloughby @piersmorgan @realDonaldTrump Agreed. The media blackout of the hunter biden stories and people coming forward re:the questionable voting is suspicious. You don't have to dig too hard to find interesting stories. If you haven't already, check out @AncReport"
+        },
+        {
+            "author_id": "1095310773243412482",
+            "conversation_id": "1327395635528687624",
+            "created_at": "2020-11-13T23:39:15.000Z",
+            "edit_history_tweet_ids": [
+                "1327395635528687624"
+            ],
+            "entities": {
+                "mentions": [
+                    {
+                        "end": 14,
+                        "id": "98290850",
+                        "start": 3,
+                        "username": "kikorustia"
+                    }
+                ]
+            },
+            "id": "1327395635528687624",
+            "lang": "en",
+            "public_metrics": {
+                "impression_count": 0,
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 864
+            },
+            "referenced_tweets": [
+                {
+                    "id": "1327290093174878209",
+                    "type": "retweeted"
+                }
+            ],
+            "reply_settings": "everyone",
+            "text": "RT @kikorustia: Ako lang ba or parang may news blackout ang Cagayan? \n\nWe\u2019ve seen some, but given the extent of the damage we\u2019ve seen in th\u2026"
+        },
+        {
+            "author_id": "726682683745529856",
+            "conversation_id": "1327395581136838662",
+            "created_at": "2020-11-13T23:39:03.000Z",
+            "edit_history_tweet_ids": [
+                "1327395581136838662"
+            ],
+            "entities": {
+                "mentions": [
+                    {
+                        "end": 14,
+                        "id": "98290850",
+                        "start": 3,
+                        "username": "kikorustia"
+                    }
+                ]
+            },
+            "id": "1327395581136838662",
+            "lang": "en",
+            "public_metrics": {
+                "impression_count": 0,
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 864
+            },
+            "referenced_tweets": [
+                {
+                    "id": "1327290093174878209",
+                    "type": "retweeted"
+                }
+            ],
+            "reply_settings": "everyone",
+            "text": "RT @kikorustia: Ako lang ba or parang may news blackout ang Cagayan? \n\nWe\u2019ve seen some, but given the extent of the damage we\u2019ve seen in th\u2026"
+        },
+        {
+            "author_id": "319106553",
+            "conversation_id": "1327378291183869952",
+            "created_at": "2020-11-13T23:38:44.000Z",
+            "edit_history_tweet_ids": [
+                "1327395502854266880"
+            ],
+            "entities": {
+                "mentions": [
+                    {
+                        "end": 16,
+                        "id": "2653064654",
+                        "start": 0,
+                        "username": "wangan_Blackout"
+                    }
+                ]
+            },
+            "id": "1327395502854266880",
+            "in_reply_to_user_id": "2653064654",
+            "lang": "ja",
+            "public_metrics": {
+                "impression_count": 0,
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "referenced_tweets": [
+                {
+                    "id": "1327381540221767680",
+                    "type": "replied_to"
+                }
+            ],
+            "reply_settings": "everyone",
+            "text": "@wangan_Blackout \u3044\u3066\u3089\u3042\u308a\u304c\u3068\uff01\uff01"
+        },
+        {
+            "author_id": "1042963278",
+            "context_annotations": [
+                {
+                    "domain": {
+                        "description": "Named people in the world like Nelson Mandela",
+                        "id": "10",
+                        "name": "Person"
+                    },
+                    "entity": {
+                        "description": "45th US President, Donald Trump",
+                        "id": "799022225751871488",
+                        "name": "Donald Trump"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "Named people in the world like Nelson Mandela",
+                        "id": "10",
+                        "name": "Person"
+                    },
+                    "entity": {
+                        "description": "Sean Hannity",
+                        "id": "950395459817766914",
+                        "name": "Sean Hannity"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "Named people in the world like Nelson Mandela",
+                        "id": "10",
+                        "name": "Person"
+                    },
+                    "entity": {
+                        "id": "1266467007987253248",
+                        "name": "George Floyd"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "Politicians in the world, like Joe Biden",
+                        "id": "35",
+                        "name": "Politician"
+                    },
+                    "entity": {
+                        "description": "45th US President, Donald Trump",
+                        "id": "799022225751871488",
+                        "name": "Donald Trump"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A journalist like 'Anderson Cooper'",
+                        "id": "94",
+                        "name": "Journalist"
+                    },
+                    "entity": {
+                        "description": "Sean Hannity",
+                        "id": "950395459817766914",
+                        "name": "Sean Hannity"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A taxonomy of user interests. ",
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy"
+                    },
+                    "entity": {
+                        "description": "45th US President, Donald Trump",
+                        "id": "799022225751871488",
+                        "name": "Donald Trump"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A taxonomy of user interests. ",
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy"
+                    },
+                    "entity": {
+                        "description": "Politics",
+                        "id": "847878884917886977",
+                        "name": "Politics"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A taxonomy of user interests. ",
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy"
+                    },
+                    "entity": {
+                        "description": "Sean Hannity",
+                        "id": "950395459817766914",
+                        "name": "Sean Hannity"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A taxonomy of user interests. ",
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy"
+                    },
+                    "entity": {
+                        "description": "News",
+                        "id": "1046545033657081857",
+                        "name": "News"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A taxonomy of user interests. ",
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy"
+                    },
+                    "entity": {
+                        "description": "Politician",
+                        "id": "1070032753834438656",
+                        "name": "Political figures"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A taxonomy of user interests. ",
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy"
+                    },
+                    "entity": {
+                        "description": "Journalism",
+                        "id": "1074755369530880001",
+                        "name": "Journalists"
+                    }
+                }
+            ],
+            "conversation_id": "1327391709442027527",
+            "created_at": "2020-11-13T23:38:28.000Z",
+            "edit_history_tweet_ids": [
+                "1327395437414805505"
+            ],
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 22,
+                        "normalized_text": "Trump",
+                        "probability": 0.9398,
+                        "start": 18,
+                        "type": "Person"
+                    },
+                    {
+                        "end": 77,
+                        "normalized_text": "London",
+                        "probability": 0.9574,
+                        "start": 72,
+                        "type": "Place"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 12,
+                        "id": "41634520",
+                        "start": 0,
+                        "username": "seanhannity"
+                    }
+                ]
+            },
+            "id": "1327395437414805505",
+            "in_reply_to_user_id": "41634520",
+            "lang": "en",
+            "public_metrics": {
+                "impression_count": 0,
+                "like_count": 3,
+                "quote_count": 0,
+                "reply_count": 1,
+                "retweet_count": 0
+            },
+            "referenced_tweets": [
+                {
+                    "id": "1327391709442027527",
+                    "type": "replied_to"
+                }
+            ],
+            "reply_settings": "everyone",
+            "text": "@seanhannity Man, Trump fans would've been real hoots to have around in London during the Blitz.\n\n\"I won't obey curfew or put up blackout curtains! The German bombing is totally exaggerated! I refuse to accept rationing! Because MAH FREEDUM!!!\""
+        },
+        {
+            "author_id": "730831146",
+            "conversation_id": "1327395407664701442",
+            "created_at": "2020-11-13T23:38:21.000Z",
+            "edit_history_tweet_ids": [
+                "1327395407664701442"
+            ],
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 63,
+                        "normalized_text": "Blackout Bullying",
+                        "probability": 0.7748,
+                        "start": 47,
+                        "type": "Other"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 19,
+                        "id": "768812807642947588",
+                        "start": 3,
+                        "username": "Counselor_Mosby"
+                    },
+                    {
+                        "end": 41,
+                        "id": "752935051705200640",
+                        "start": 27,
+                        "username": "AldineMS_AISD"
+                    }
+                ]
+            },
+            "id": "1327395407664701442",
+            "lang": "en",
+            "public_metrics": {
+                "impression_count": 0,
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 4
+            },
+            "referenced_tweets": [
+                {
+                    "id": "1327381167281111041",
+                    "type": "retweeted"
+                }
+            ],
+            "reply_settings": "everyone",
+            "text": "RT @Counselor_Mosby: Today @AldineMS_AISD was \u201cBlackout Bullying w/ Kindness\u201d. My act of kindness went to a very special 7th grader...Miss\u2026"
+        },
+        {
+            "author_id": "1154774384092958720",
+            "conversation_id": "1327395323602300928",
+            "created_at": "2020-11-13T23:38:01.000Z",
+            "edit_history_tweet_ids": [
+                "1327395323602300928"
+            ],
+            "entities": {
+                "mentions": [
+                    {
+                        "end": 14,
+                        "id": "98290850",
+                        "start": 3,
+                        "username": "kikorustia"
+                    }
+                ]
+            },
+            "id": "1327395323602300928",
+            "lang": "en",
+            "public_metrics": {
+                "impression_count": 0,
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 864
+            },
+            "referenced_tweets": [
+                {
+                    "id": "1327290093174878209",
+                    "type": "retweeted"
+                }
+            ],
+            "reply_settings": "everyone",
+            "text": "RT @kikorustia: Ako lang ba or parang may news blackout ang Cagayan? \n\nWe\u2019ve seen some, but given the extent of the damage we\u2019ve seen in th\u2026"
+        },
+        {
+            "author_id": "1193479242324951040",
+            "conversation_id": "1327395322817986560",
+            "created_at": "2020-11-13T23:38:01.000Z",
+            "edit_history_tweet_ids": [
+                "1327395322817986560"
+            ],
+            "entities": {
+                "mentions": [
+                    {
+                        "end": 14,
+                        "id": "98290850",
+                        "start": 3,
+                        "username": "kikorustia"
+                    }
+                ]
+            },
+            "id": "1327395322817986560",
+            "lang": "en",
+            "public_metrics": {
+                "impression_count": 0,
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 864
+            },
+            "referenced_tweets": [
+                {
+                    "id": "1327290093174878209",
+                    "type": "retweeted"
+                }
+            ],
+            "reply_settings": "everyone",
+            "text": "RT @kikorustia: Ako lang ba or parang may news blackout ang Cagayan? \n\nWe\u2019ve seen some, but given the extent of the damage we\u2019ve seen in th\u2026"
+        },
+        {
+            "author_id": "41485067",
+            "context_annotations": [
+                {
+                    "domain": {
+                        "description": "A video game like Overwatch",
+                        "id": "71",
+                        "name": "Video Game"
+                    },
+                    "entity": {
+                        "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series, if applicable.\t\t\t",
+                        "id": "10027933222",
+                        "name": "Call of Duty"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A video game like Overwatch",
+                        "id": "71",
+                        "name": "Video Game"
+                    },
+                    "entity": {
+                        "description": "Call of Duty: Black Ops 4",
+                        "id": "997093174341337088",
+                        "name": "Call of Duty: Black Ops 4"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "Video Game Hardware",
+                        "id": "79",
+                        "name": "Video Game Hardware"
+                    },
+                    "entity": {
+                        "id": "1201630019065274369",
+                        "name": "PlayStation 5"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A taxonomy of user interests. ",
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy"
+                    },
+                    "entity": {
+                        "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series, if applicable.\t\t\t",
+                        "id": "10027933222",
+                        "name": "Call of Duty"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A taxonomy of user interests. ",
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy"
+                    },
+                    "entity": {
+                        "description": "Gaming",
+                        "id": "847527650667094017",
+                        "name": "Gaming"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A taxonomy of user interests. ",
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy"
+                    },
+                    "entity": {
+                        "id": "1070028159964262400",
+                        "name": "Video games"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A taxonomy of user interests. ",
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy"
+                    },
+                    "entity": {
+                        "description": "Video Game Hardware",
+                        "id": "1070028376662888448",
+                        "name": "Console gaming"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A taxonomy of user interests. ",
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy"
+                    },
+                    "entity": {
+                        "id": "1201630019065274369",
+                        "name": "PlayStation 5"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "Top level entities that describe a Brands industry",
+                        "id": "45",
+                        "name": "Brand Vertical"
+                    },
+                    "entity": {
+                        "id": "781974597310615553",
+                        "name": "Entertainment"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+                        "id": "30",
+                        "name": "Entities [Entity Service]"
+                    },
+                    "entity": {
+                        "id": "781974597218340864",
+                        "name": "Video Games - Entertainment"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "Brands and Companies",
+                        "id": "47",
+                        "name": "Brand"
+                    },
+                    "entity": {
+                        "id": "10027048853",
+                        "name": "PlayStation"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "Video Game Hardware",
+                        "id": "79",
+                        "name": "Video Game Hardware"
+                    },
+                    "entity": {
+                        "id": "10027048853",
+                        "name": "PlayStation"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A taxonomy of user interests. ",
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy"
+                    },
+                    "entity": {
+                        "id": "10027048853",
+                        "name": "PlayStation"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A taxonomy of user interests. ",
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy"
+                    },
+                    "entity": {
+                        "description": "Gaming",
+                        "id": "847527650667094017",
+                        "name": "Gaming"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A taxonomy of user interests. ",
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy"
+                    },
+                    "entity": {
+                        "id": "1070028159964262400",
+                        "name": "Video games"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "Real world events. ",
+                        "id": "29",
+                        "name": "Events [Entity Service]"
+                    },
+                    "entity": {
+                        "id": "1320835206685679616",
+                        "name": "PlayStation 5 launch (UK, Ireland, Spain)"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "Real world events. ",
+                        "id": "29",
+                        "name": "Events [Entity Service]"
+                    },
+                    "entity": {
+                        "description": "Schaltet ein und erlebt zusammen mit PlayStation und Friends die Einf\u00fchrung der neuen PS5-Konsole! Neben spannenden Inhalten rund um den Launch wird unter allen Zuschauern eine PS5 verlost.",
+                        "id": "1324803997778149376",
+                        "name": "PS5 Launch Night"
+                    }
+                }
+            ],
+            "conversation_id": "1327395084657102849",
+            "created_at": "2020-11-13T23:37:04.000Z",
+            "edit_history_tweet_ids": [
+                "1327395084657102849"
+            ],
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 19,
+                        "normalized_text": "ColdWar",
+                        "probability": 0.9527,
+                        "start": 13,
+                        "type": "Other"
+                    },
+                    {
+                        "end": 70,
+                        "normalized_text": "Warzone",
+                        "probability": 0.9691,
+                        "start": 64,
+                        "type": "Other"
+                    },
+                    {
+                        "end": 86,
+                        "normalized_text": "Blackout",
+                        "probability": 0.9157,
+                        "start": 79,
+                        "type": "Other"
+                    },
+                    {
+                        "end": 124,
+                        "normalized_text": "ps5",
+                        "probability": 0.9672,
+                        "start": 122,
+                        "type": "Product"
+                    }
+                ],
+                "hashtags": [
+                    {
+                        "end": 20,
+                        "start": 12,
+                        "tag": "ColdWar"
+                    },
+                    {
+                        "end": 71,
+                        "start": 63,
+                        "tag": "Warzone"
+                    },
+                    {
+                        "end": 125,
+                        "start": 121,
+                        "tag": "ps5"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 120,
+                        "id": "290097288",
+                        "start": 109,
+                        "username": "CallofDuty"
+                    }
+                ]
+            },
+            "id": "1327395084657102849",
+            "lang": "en",
+            "public_metrics": {
+                "impression_count": 0,
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "reply_settings": "everyone",
+            "text": "So question #ColdWar will or will Not have it's own version of #Warzone ? Like Blackout? Asking for a friend @CallofDuty #ps5"
+        },
+        {
+            "author_id": "101471594",
+            "conversation_id": "1327395039853441024",
+            "created_at": "2020-11-13T23:36:53.000Z",
+            "edit_history_tweet_ids": [
+                "1327395039853441024"
+            ],
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 123,
+                        "normalized_text": "ABS CBN",
+                        "probability": 0.5561,
+                        "start": 117,
+                        "type": "Organization"
+                    }
+                ]
+            },
+            "id": "1327395039853441024",
+            "lang": "en",
+            "public_metrics": {
+                "impression_count": 0,
+                "like_count": 1,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "reply_settings": "everyone",
+            "text": "People are dying but the president is still drop-dead asleep inside his kulambo. \n\nWhat a shame! \nAnd the closure of ABS CBN has caused a need blackout if what is happening to cagayan anf isabela. \n\nRemember, duts, maniningil kami! Kainin mo na yang dolomite mo ng mapakinabangan!"
+        },
+        {
+            "author_id": "3866406613",
+            "conversation_id": "1327394916838719488",
+            "created_at": "2020-11-13T23:36:24.000Z",
+            "edit_history_tweet_ids": [
+                "1327394916838719488"
+            ],
+            "entities": {
+                "mentions": [
+                    {
+                        "end": 14,
+                        "id": "98290850",
+                        "start": 3,
+                        "username": "kikorustia"
+                    }
+                ]
+            },
+            "id": "1327394916838719488",
+            "lang": "en",
+            "public_metrics": {
+                "impression_count": 0,
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 864
+            },
+            "referenced_tweets": [
+                {
+                    "id": "1327290093174878209",
+                    "type": "retweeted"
+                }
+            ],
+            "reply_settings": "everyone",
+            "text": "RT @kikorustia: Ako lang ba or parang may news blackout ang Cagayan? \n\nWe\u2019ve seen some, but given the extent of the damage we\u2019ve seen in th\u2026"
+        },
+        {
+            "author_id": "28354144",
+            "conversation_id": "1327347967448190977",
+            "created_at": "2020-11-13T23:35:53.000Z",
+            "edit_history_tweet_ids": [
+                "1327394784550391808"
+            ],
+            "entities": {
+                "mentions": [
+                    {
+                        "end": 11,
+                        "id": "813738086282694656",
+                        "start": 0,
+                        "username": "56blackcat"
+                    }
+                ]
+            },
+            "id": "1327394784550391808",
+            "in_reply_to_user_id": "813738086282694656",
+            "lang": "en",
+            "public_metrics": {
+                "impression_count": 0,
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "referenced_tweets": [
+                {
+                    "id": "1327347967448190977",
+                    "type": "replied_to"
+                }
+            ],
+            "reply_settings": "everyone",
+            "text": "@56blackcat Oh believe me, he will come out and stoke the MAGnats for their march. He loves an audience that listens to his lies, hook, line and sinker. All media stations should blackout any coverage of this protest as it is an insult to democracy."
+        },
+        {
+            "author_id": "2174406991",
+            "conversation_id": "1327394634868264960",
+            "created_at": "2020-11-13T23:35:17.000Z",
+            "edit_history_tweet_ids": [
+                "1327394634868264960"
+            ],
+            "entities": {
+                "mentions": [
+                    {
+                        "end": 14,
+                        "id": "98290850",
+                        "start": 3,
+                        "username": "kikorustia"
+                    }
+                ]
+            },
+            "id": "1327394634868264960",
+            "lang": "en",
+            "public_metrics": {
+                "impression_count": 0,
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 864
+            },
+            "referenced_tweets": [
+                {
+                    "id": "1327290093174878209",
+                    "type": "retweeted"
+                }
+            ],
+            "reply_settings": "everyone",
+            "text": "RT @kikorustia: Ako lang ba or parang may news blackout ang Cagayan? \n\nWe\u2019ve seen some, but given the extent of the damage we\u2019ve seen in th\u2026"
+        },
+        {
+            "author_id": "208462026",
+            "conversation_id": "1327288912537022464",
+            "created_at": "2020-11-13T23:34:46.000Z",
+            "edit_history_tweet_ids": [
+                "1327394506547707904"
+            ],
+            "geo": {
+                "place_id": "003313fa3860e7ea"
+            },
+            "id": "1327394506547707904",
+            "in_reply_to_user_id": "209432374",
+            "lang": "en",
+            "public_metrics": {
+                "impression_count": 0,
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 1,
+                "retweet_count": 0
+            },
+            "referenced_tweets": [
+                {
+                    "id": "1327394071665471488",
+                    "type": "replied_to"
+                }
+            ],
+            "reply_settings": "everyone",
+            "text": "@hagnayajulyy Oo Erms. Blackout didto. Hope they are saaafe \ud83d\ude4f\ud83c\udffb\ud83d\ude22"
+        },
+        {
+            "author_id": "25404761",
+            "context_annotations": [
+                {
+                    "domain": {
+                        "description": "A video game like Overwatch",
+                        "id": "71",
+                        "name": "Video Game"
+                    },
+                    "entity": {
+                        "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series, if applicable.\t\t\t",
+                        "id": "10027933222",
+                        "name": "Call of Duty"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A video game like Overwatch",
+                        "id": "71",
+                        "name": "Video Game"
+                    },
+                    "entity": {
+                        "description": "Call of Duty: Black Ops 4",
+                        "id": "997093174341337088",
+                        "name": "Call of Duty: Black Ops 4"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A taxonomy of user interests. ",
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy"
+                    },
+                    "entity": {
+                        "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series, if applicable.\t\t\t",
+                        "id": "10027933222",
+                        "name": "Call of Duty"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A taxonomy of user interests. ",
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy"
+                    },
+                    "entity": {
+                        "description": "Gaming",
+                        "id": "847527650667094017",
+                        "name": "Gaming"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A taxonomy of user interests. ",
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy"
+                    },
+                    "entity": {
+                        "id": "1070028159964262400",
+                        "name": "Video games"
+                    }
+                }
+            ],
+            "conversation_id": "1327393047177539588",
+            "created_at": "2020-11-13T23:34:32.000Z",
+            "edit_history_tweet_ids": [
+                "1327394448561627140"
+            ],
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 10,
+                        "normalized_text": "Black Ops 4",
+                        "probability": 0.7866,
+                        "start": 0,
+                        "type": "Other"
+                    }
+                ]
+            },
+            "id": "1327394448561627140",
+            "in_reply_to_user_id": "25404761",
+            "lang": "en",
+            "public_metrics": {
+                "impression_count": 0,
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 1,
+                "retweet_count": 0
+            },
+            "referenced_tweets": [
+                {
+                    "id": "1327393047177539588",
+                    "type": "replied_to"
+                }
+            ],
+            "reply_settings": "everyone",
+            "text": "Black Ops 4: The blackout mode runs way better than it did at launch, very colorful. Had some funny moments here. Team battle is where I secured the victory and actually contributed"
+        },
+        {
+            "author_id": "577583618",
+            "conversation_id": "1327394426914627586",
+            "created_at": "2020-11-13T23:34:27.000Z",
+            "edit_history_tweet_ids": [
+                "1327394426914627586"
+            ],
+            "entities": {
+                "mentions": [
+                    {
+                        "end": 14,
+                        "id": "98290850",
+                        "start": 3,
+                        "username": "kikorustia"
+                    }
+                ]
+            },
+            "id": "1327394426914627586",
+            "lang": "en",
+            "public_metrics": {
+                "impression_count": 0,
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 864
+            },
+            "referenced_tweets": [
+                {
+                    "id": "1327290093174878209",
+                    "type": "retweeted"
+                }
+            ],
+            "reply_settings": "everyone",
+            "text": "RT @kikorustia: Ako lang ba or parang may news blackout ang Cagayan? \n\nWe\u2019ve seen some, but given the extent of the damage we\u2019ve seen in th\u2026"
+        },
+        {
+            "author_id": "1077707105564545025",
+            "context_annotations": [
+                {
+                    "domain": {
+                        "description": "A category for a musical style, like Pop, Rock, or Rap",
+                        "id": "55",
+                        "name": "Music Genre"
+                    },
+                    "entity": {
+                        "description": "Rock",
+                        "id": "806571747730341888",
+                        "name": "Rock"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A category for a musical style, like Pop, Rock, or Rap",
+                        "id": "55",
+                        "name": "Music Genre"
+                    },
+                    "entity": {
+                        "description": "Metal",
+                        "id": "849684649840214020",
+                        "name": "Heavy metal"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A taxonomy of user interests. ",
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy"
+                    },
+                    "entity": {
+                        "description": "Rock",
+                        "id": "806571747730341888",
+                        "name": "Rock"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A taxonomy of user interests. ",
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy"
+                    },
+                    "entity": {
+                        "id": "839544274442051584",
+                        "name": "Entertainment"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A taxonomy of user interests. ",
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy"
+                    },
+                    "entity": {
+                        "description": "Music and radio",
+                        "id": "847524658970636288",
+                        "name": "Music"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A taxonomy of user interests. ",
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy"
+                    },
+                    "entity": {
+                        "description": "Metal",
+                        "id": "849684649840214020",
+                        "name": "Heavy metal"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A taxonomy of user interests. ",
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy"
+                    },
+                    "entity": {
+                        "description": "Podcasts",
+                        "id": "1074758954444513282",
+                        "name": "Podcasts & radio"
+                    }
+                }
+            ],
+            "conversation_id": "1327394422548533249",
+            "created_at": "2020-11-13T23:34:26.000Z",
+            "edit_history_tweet_ids": [
+                "1327394422548533249"
+            ],
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 7,
+                        "normalized_text": "The Megs",
+                        "probability": 0.5822,
+                        "start": 0,
+                        "type": "Organization"
+                    },
+                    {
+                        "end": 18,
+                        "normalized_text": "Blackout",
+                        "probability": 0.8891,
+                        "start": 11,
+                        "type": "Other"
+                    },
+                    {
+                        "end": 33,
+                        "normalized_text": "PureSteel",
+                        "probability": 0.7363,
+                        "start": 25,
+                        "type": "Other"
+                    },
+                    {
+                        "end": 55,
+                        "normalized_text": "Metallic",
+                        "probability": 0.494,
+                        "start": 48,
+                        "type": "Other"
+                    },
+                    {
+                        "end": 63,
+                        "normalized_text": "London",
+                        "probability": 0.8449,
+                        "start": 58,
+                        "type": "Place"
+                    }
+                ],
+                "hashtags": [
+                    {
+                        "end": 34,
+                        "start": 24,
+                        "tag": "PureSteel"
+                    },
+                    {
+                        "end": 46,
+                        "start": 35,
+                        "tag": "NowPlaying"
+                    },
+                    {
+                        "end": 56,
+                        "start": 47,
+                        "tag": "Metallic"
+                    },
+                    {
+                        "end": 64,
+                        "start": 57,
+                        "tag": "London"
+                    },
+                    {
+                        "end": 73,
+                        "start": 65,
+                        "tag": "Premier"
+                    },
+                    {
+                        "end": 80,
+                        "start": 74,
+                        "tag": "Radio"
+                    },
+                    {
+                        "end": 188,
+                        "start": 180,
+                        "tag": "Premier"
+                    },
+                    {
+                        "end": 195,
+                        "start": 189,
+                        "tag": "Metal"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "london.metallicradio.com/listen.mp3",
+                        "end": 125,
+                        "expanded_url": "http://london.metallicradio.com/listen.mp3",
+                        "start": 102,
+                        "url": "https://t.co/Tp2Pf3sgGA"
+                    },
+                    {
+                        "display_url": "MetallicRadio.Com",
+                        "end": 149,
+                        "expanded_url": "http://MetallicRadio.Com",
+                        "start": 126,
+                        "unwound_url": "https://metallicradio.com/",
+                        "url": "https://t.co/kApxwRUvBp"
+                    }
+                ]
+            },
+            "id": "1327394422548533249",
+            "lang": "en",
+            "public_metrics": {
+                "impression_count": 0,
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "reply_settings": "everyone",
+            "text": "The Megs - Blackout via #PureSteel #NowPlaying #Metallic #London #Premier #Radio Click link to listen https://t.co/Tp2Pf3sgGA https://t.co/kApxwRUvBp plays the newest 21st Century #Premier #Metal"
+        },
+        {
+            "author_id": "3191270900",
+            "context_annotations": [
+                {
+                    "domain": {
+                        "description": "Named people in the world like Nelson Mandela",
+                        "id": "10",
+                        "name": "Person"
+                    },
+                    "entity": {
+                        "description": "iKON (\uc544\uc774\ucf58) - B.I (\ube44\uc544\uc774),\nJay (\uae40\uc9c4\ud658),\nBOBBY (\ubc14\ube44),\nSong (\uc1a1\uc724\ud615),\nJu-ne (\uad6c\uc900\ud68c),\nDK (\uae40\ub3d9\ud601),\nChan (\uc815\ucc2c\uc6b0)",
+                        "id": "894620779194621952",
+                        "name": "iKON"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A musician in the world, like Adele or Bob Dylan",
+                        "id": "54",
+                        "name": "Musician"
+                    },
+                    "entity": {
+                        "description": "iKON (\uc544\uc774\ucf58) - B.I (\ube44\uc544\uc774),\nJay (\uae40\uc9c4\ud658),\nBOBBY (\ubc14\ube44),\nSong (\uc1a1\uc724\ud615),\nJu-ne (\uad6c\uc900\ud68c),\nDK (\uae40\ub3d9\ud601),\nChan (\uc815\ucc2c\uc6b0)",
+                        "id": "894620779194621952",
+                        "name": "iKON"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A category for a musical style, like Pop, Rock, or Rap",
+                        "id": "55",
+                        "name": "Music Genre"
+                    },
+                    "entity": {
+                        "description": "K-Pop",
+                        "id": "888105153038958593",
+                        "name": "K-pop"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A taxonomy of user interests. ",
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy"
+                    },
+                    "entity": {
+                        "description": "Music and radio",
+                        "id": "847524658970636288",
+                        "name": "Music"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A taxonomy of user interests. ",
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy"
+                    },
+                    "entity": {
+                        "description": "K-Pop",
+                        "id": "888105153038958593",
+                        "name": "K-pop"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A taxonomy of user interests. ",
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy"
+                    },
+                    "entity": {
+                        "description": "iKON (\uc544\uc774\ucf58) - B.I (\ube44\uc544\uc774),\nJay (\uae40\uc9c4\ud658),\nBOBBY (\ubc14\ube44),\nSong (\uc1a1\uc724\ud615),\nJu-ne (\uad6c\uc900\ud68c),\nDK (\uae40\ub3d9\ud601),\nChan (\uc815\ucc2c\uc6b0)",
+                        "id": "894620779194621952",
+                        "name": "iKON"
+                    }
+                }
+            ],
+            "conversation_id": "1327394399056130049",
+            "created_at": "2020-11-13T23:34:21.000Z",
+            "edit_history_tweet_ids": [
+                "1327394399056130049"
+            ],
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 3,
+                        "normalized_text": "iKON",
+                        "probability": 0.8442,
+                        "start": 0,
+                        "type": "Organization"
+                    },
+                    {
+                        "end": 27,
+                        "normalized_text": "New Kids The Final EP",
+                        "probability": 0.8105,
+                        "start": 7,
+                        "type": "Other"
+                    },
+                    {
+                        "end": 37,
+                        "normalized_text": "Blackout",
+                        "probability": 0.5498,
+                        "start": 30,
+                        "type": "Other"
+                    }
+                ],
+                "urls": [
+                    {
+                        "description": "Shop Kpop albums online. Explore the latest cheap Kpop cd albums online at official Kpop website online store. Guaranteed safe packaging. Worldwide fast shipping. Buy now!",
+                        "display_url": "catchopcd.net",
+                        "end": 81,
+                        "expanded_url": "http://catchopcd.net",
+                        "start": 58,
+                        "status": 200,
+                        "title": "Kpop Albums CD | Cheap Kpop Online Store | Kpop Website - Catchopcd",
+                        "unwound_url": "https://www.catchopcd.net/",
+                        "url": "https://t.co/tewBRRsf6T"
+                    },
+                    {
+                        "display_url": "catchopcd.net/ikon-new-kids-\u2026",
+                        "end": 113,
+                        "expanded_url": "https://www.catchopcd.net/ikon-new-kids-the-final-ep-blackout-ver",
+                        "start": 90,
+                        "url": "https://t.co/fqsGqUSYe4"
+                    },
+                    {
+                        "display_url": "pic.twitter.com/W1zHXSKd1f",
+                        "end": 137,
+                        "expanded_url": "https://twitter.com/catchopcd_net/status/1327394399056130049/photo/1",
+                        "media_key": "3_1327394397588127744",
+                        "start": 114,
+                        "url": "https://t.co/W1zHXSKd1f"
+                    }
+                ]
+            },
+            "id": "1327394399056130049",
+            "lang": "en",
+            "public_metrics": {
+                "impression_count": 0,
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "reply_settings": "everyone",
+            "text": "iKON - New Kids The Final EP (Blackout Ver.) available on https://t.co/tewBRRsf6T $14.35  https://t.co/fqsGqUSYe4 https://t.co/W1zHXSKd1f"
+        },
+        {
+            "author_id": "1156583192",
+            "context_annotations": [
+                {
+                    "domain": {
+                        "description": "A category for a musical style, like Pop, Rock, or Rap",
+                        "id": "55",
+                        "name": "Music Genre"
+                    },
+                    "entity": {
+                        "description": "Rock",
+                        "id": "806571747730341888",
+                        "name": "Rock"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A category for a musical style, like Pop, Rock, or Rap",
+                        "id": "55",
+                        "name": "Music Genre"
+                    },
+                    "entity": {
+                        "description": "Metal",
+                        "id": "849684649840214020",
+                        "name": "Heavy metal"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A taxonomy of user interests. ",
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy"
+                    },
+                    "entity": {
+                        "description": "Rock",
+                        "id": "806571747730341888",
+                        "name": "Rock"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A taxonomy of user interests. ",
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy"
+                    },
+                    "entity": {
+                        "description": "Music and radio",
+                        "id": "847524658970636288",
+                        "name": "Music"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A taxonomy of user interests. ",
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy"
+                    },
+                    "entity": {
+                        "description": "Metal",
+                        "id": "849684649840214020",
+                        "name": "Heavy metal"
+                    }
+                }
+            ],
+            "conversation_id": "1327394393205207041",
+            "created_at": "2020-11-13T23:34:19.000Z",
+            "edit_history_tweet_ids": [
+                "1327394393205207041"
+            ],
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 7,
+                        "normalized_text": "The Megs",
+                        "probability": 0.6373,
+                        "start": 0,
+                        "type": "Organization"
+                    },
+                    {
+                        "end": 18,
+                        "normalized_text": "Blackout",
+                        "probability": 0.8979,
+                        "start": 11,
+                        "type": "Other"
+                    },
+                    {
+                        "end": 33,
+                        "normalized_text": "PureSteel",
+                        "probability": 0.7002,
+                        "start": 25,
+                        "type": "Other"
+                    }
+                ],
+                "hashtags": [
+                    {
+                        "end": 34,
+                        "start": 24,
+                        "tag": "PureSteel"
+                    },
+                    {
+                        "end": 46,
+                        "start": 35,
+                        "tag": "NowPlaying"
+                    },
+                    {
+                        "end": 70,
+                        "start": 62,
+                        "tag": "Premier"
+                    },
+                    {
+                        "end": 95,
+                        "start": 88,
+                        "tag": "Listen"
+                    },
+                    {
+                        "end": 183,
+                        "start": 175,
+                        "tag": "Premier"
+                    },
+                    {
+                        "end": 190,
+                        "start": 184,
+                        "tag": "Metal"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 61,
+                        "id": "1590948843268587520",
+                        "start": 47,
+                        "username": "MetallicRadio"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "MetallicRadio.com/play",
+                        "end": 120,
+                        "expanded_url": "http://MetallicRadio.com/play",
+                        "start": 97,
+                        "unwound_url": "http://MetallicRadio.com/play",
+                        "url": "https://t.co/ISUDRzcUti"
+                    },
+                    {
+                        "display_url": "MetallicRadio.Com",
+                        "end": 144,
+                        "expanded_url": "http://MetallicRadio.Com",
+                        "start": 121,
+                        "unwound_url": "https://metallicradio.com/",
+                        "url": "https://t.co/SzkoqXmX7V"
+                    }
+                ]
+            },
+            "id": "1327394393205207041",
+            "lang": "en",
+            "public_metrics": {
+                "impression_count": 0,
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "reply_settings": "everyone",
+            "text": "The Megs - Blackout via #PureSteel #NowPlaying @MetallicRadio #Premier 24x7 Heavy Metal #Listen: https://t.co/ISUDRzcUti https://t.co/SzkoqXmX7V plays the newest 21st Century #Premier #Metal"
+        },
+        {
+            "author_id": "91122921",
+            "conversation_id": "1327394387786158081",
+            "created_at": "2020-11-13T23:34:18.000Z",
+            "edit_history_tweet_ids": [
+                "1327394387786158081"
+            ],
+            "entities": {
+                "urls": [
+                    {
+                        "display_url": "ortneronline.at/frohmutsphrase\u2026",
+                        "end": 52,
+                        "expanded_url": "https://www.ortneronline.at/frohmutsphrasen-zum-blackout/",
+                        "start": 29,
+                        "url": "https://t.co/WctxUge9B5"
+                    }
+                ]
+            },
+            "id": "1327394387786158081",
+            "lang": "de",
+            "public_metrics": {
+                "impression_count": 0,
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 1,
+                "retweet_count": 1
+            },
+            "reply_settings": "everyone",
+            "text": "Frohmutsphrasen zum Blackout https://t.co/WctxUge9B5"
+        },
+        {
+            "author_id": "117586868",
+            "conversation_id": "1327394361236213760",
+            "created_at": "2020-11-13T23:34:12.000Z",
+            "edit_history_tweet_ids": [
+                "1327394361236213760"
+            ],
+            "id": "1327394361236213760",
+            "lang": "en",
+            "public_metrics": {
+                "impression_count": 0,
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "reply_settings": "everyone",
+            "text": "the urge to blackout it so strong rn"
+        },
+        {
+            "author_id": "398468172",
+            "context_annotations": [
+                {
+                    "domain": {
+                        "description": "Top level entities that describe a Brands industry",
+                        "id": "45",
+                        "name": "Brand Vertical"
+                    },
+                    "entity": {
+                        "id": "781974596740190208",
+                        "name": "CPG"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+                        "id": "30",
+                        "name": "Entities [Entity Service]"
+                    },
+                    "entity": {
+                        "id": "781974596153057282",
+                        "name": "Alcohol - CPG"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "Brands and Companies",
+                        "id": "47",
+                        "name": "Brand"
+                    },
+                    "entity": {
+                        "id": "10043230715",
+                        "name": "Four Loko"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "Top level interests and hobbies groupings, like Food or Travel",
+                        "id": "65",
+                        "name": "Interests and Hobbies Vertical"
+                    },
+                    "entity": {
+                        "description": "Drinks",
+                        "id": "834828264786898945",
+                        "name": "Drinks"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+                        "id": "66",
+                        "name": "Interests and Hobbies Category"
+                    },
+                    "entity": {
+                        "description": "Generic Drinks",
+                        "id": "834828445238431744",
+                        "name": "Generic Drinks"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+                        "id": "67",
+                        "name": "Interests and Hobbies"
+                    },
+                    "entity": {
+                        "description": "Beer",
+                        "id": "850142258871418880",
+                        "name": "Beer"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "Top level entities that describe a Brands industry",
+                        "id": "45",
+                        "name": "Brand Vertical"
+                    },
+                    "entity": {
+                        "id": "781974596740190208",
+                        "name": "CPG"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+                        "id": "30",
+                        "name": "Entities [Entity Service]"
+                    },
+                    "entity": {
+                        "id": "781974596153057282",
+                        "name": "Alcohol - CPG"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "Brands and Companies",
+                        "id": "47",
+                        "name": "Brand"
+                    },
+                    "entity": {
+                        "id": "10043230715",
+                        "name": "Four Loko"
+                    }
+                }
+            ],
+            "conversation_id": "1327394261420158978",
+            "created_at": "2020-11-13T23:33:48.000Z",
+            "edit_history_tweet_ids": [
+                "1327394261420158978"
+            ],
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 195,
+                        "normalized_text": "Fitz",
+                        "probability": 0.6353,
+                        "start": 192,
+                        "type": "Other"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "twitter.com/taqeelah94/sta\u2026",
+                        "end": 284,
+                        "expanded_url": "https://twitter.com/taqeelah94/status/1327366703395840000",
+                        "start": 261,
+                        "url": "https://t.co/8MjQunAdkm"
+                    }
+                ]
+            },
+            "id": "1327394261420158978",
+            "lang": "en",
+            "public_metrics": {
+                "impression_count": 0,
+                "like_count": 2,
+                "quote_count": 0,
+                "reply_count": 1,
+                "retweet_count": 0
+            },
+            "referenced_tweets": [
+                {
+                    "id": "1327366703395840000",
+                    "type": "quoted"
+                }
+            ],
+            "reply_settings": "everyone",
+            "text": "I\u2019m a v passive person &amp; I never blackout, I just puke (ALWAYS in a toilet or reasonable place). I chugged 2 4lokos to pregame in college and got into a shouting match with the manager at Fitz (almost got banned) and then puked on the floor of my bedroom \ud83d\udc40 https://t.co/8MjQunAdkm"
+        },
+        {
+            "author_id": "536044835",
+            "context_annotations": [
+                {
+                    "domain": {
+                        "description": "Top level interests and hobbies groupings, like Food or Travel",
+                        "id": "65",
+                        "name": "Interests and Hobbies Vertical"
+                    },
+                    "entity": {
+                        "description": "Drinks",
+                        "id": "834828264786898945",
+                        "name": "Drinks"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+                        "id": "67",
+                        "name": "Interests and Hobbies"
+                    },
+                    "entity": {
+                        "description": "Drink Experience",
+                        "id": "1006278636842782720",
+                        "name": "Drink Experience"
+                    }
+                }
+            ],
+            "conversation_id": "1327394236946386944",
+            "created_at": "2020-11-13T23:33:42.000Z",
+            "edit_history_tweet_ids": [
+                "1327394236946386944"
+            ],
+            "id": "1327394236946386944",
+            "lang": "en",
+            "public_metrics": {
+                "impression_count": 0,
+                "like_count": 9,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "reply_settings": "everyone",
+            "text": "I\u2019m sorry for drinking, but drinkings what I do. \nOne of these days I\u2019m gonna blackout and not remember you \ud83c\udf7b\ud83e\udd73"
+        },
+        {
+            "author_id": "2829914587",
+            "conversation_id": "1327394217790849025",
+            "created_at": "2020-11-13T23:33:37.000Z",
+            "edit_history_tweet_ids": [
+                "1327394217790849025"
+            ],
+            "entities": {
+                "mentions": [
+                    {
+                        "end": 14,
+                        "id": "98290850",
+                        "start": 3,
+                        "username": "kikorustia"
+                    }
+                ]
+            },
+            "id": "1327394217790849025",
+            "lang": "en",
+            "public_metrics": {
+                "impression_count": 0,
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 864
+            },
+            "referenced_tweets": [
+                {
+                    "id": "1327290093174878209",
+                    "type": "retweeted"
+                }
+            ],
+            "reply_settings": "everyone",
+            "text": "RT @kikorustia: Ako lang ba or parang may news blackout ang Cagayan? \n\nWe\u2019ve seen some, but given the extent of the damage we\u2019ve seen in th\u2026"
+        }
+    ],
+    "meta": {
+        "newest_id": "1327396260383436801",
+        "next_token": "b26v89c19zqg8o3fosbv3310t7xy22p62rcfjgm68ferh",
+        "oldest_id": "1327394217790849025",
+        "result_count": 33
+    }
+}

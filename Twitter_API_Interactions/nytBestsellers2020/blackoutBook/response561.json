@@ -1,0 +1,5127 @@
+{
+    "data": [
+        {
+            "author_id": "3143353208",
+            "context_annotations": [
+                {
+                    "domain": {
+                        "description": "Named people in the world like Nelson Mandela",
+                        "id": "10",
+                        "name": "Person"
+                    },
+                    "entity": {
+                        "id": "1174318441177567237",
+                        "name": "Scorpions"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A musician in the world, like Adele or Bob Dylan",
+                        "id": "54",
+                        "name": "Musician"
+                    },
+                    "entity": {
+                        "id": "1174318441177567237",
+                        "name": "Scorpions"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A category for a musical style, like Pop, Rock, or Rap",
+                        "id": "55",
+                        "name": "Music Genre"
+                    },
+                    "entity": {
+                        "description": "Rock",
+                        "id": "806571747730341888",
+                        "name": "Rock"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A category for a musical style, like Pop, Rock, or Rap",
+                        "id": "55",
+                        "name": "Music Genre"
+                    },
+                    "entity": {
+                        "description": "Classic Rock",
+                        "id": "1108100469778345984",
+                        "name": "Classic rock"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A taxonomy of user interests. ",
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy"
+                    },
+                    "entity": {
+                        "description": "Rock",
+                        "id": "806571747730341888",
+                        "name": "Rock"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A taxonomy of user interests. ",
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy"
+                    },
+                    "entity": {
+                        "description": "Music and radio",
+                        "id": "847524658970636288",
+                        "name": "Music"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A taxonomy of user interests. ",
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy"
+                    },
+                    "entity": {
+                        "id": "1174318441177567237",
+                        "name": "Scorpions"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A taxonomy of user interests. ",
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy"
+                    },
+                    "entity": {
+                        "id": "1291812963314098176",
+                        "name": "Hard rock"
+                    }
+                }
+            ],
+            "conversation_id": "1324342925849849857",
+            "created_at": "2020-11-05T13:28:53.000Z",
+            "edit_history_tweet_ids": [
+                "1324342925849849857"
+            ],
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 26,
+                        "normalized_text": "On This Day",
+                        "probability": 0.8937,
+                        "start": 16,
+                        "type": "Other"
+                    },
+                    {
+                        "end": 103,
+                        "normalized_text": "Comeblack",
+                        "probability": 0.9046,
+                        "start": 95,
+                        "type": "Other"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 14,
+                        "id": "247091695",
+                        "start": 3,
+                        "username": "mitchlafon"
+                    },
+                    {
+                        "end": 70,
+                        "id": "337789021",
+                        "start": 60,
+                        "username": "scorpions"
+                    }
+                ]
+            },
+            "id": "1324342925849849857",
+            "lang": "en",
+            "public_metrics": {
+                "impression_count": 0,
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 3
+            },
+            "referenced_tweets": [
+                {
+                    "id": "1324153570510446592",
+                    "type": "retweeted"
+                }
+            ],
+            "reply_settings": "everyone",
+            "text": "RT @mitchlafon: On This Day - November 4th 2011. The mighty @scorpions released the fun album, Comeblack. It includes re-recorded versions\u2026"
+        },
+        {
+            "author_id": "1097345349184835584",
+            "context_annotations": [
+                {
+                    "domain": {
+                        "description": "Real world events. ",
+                        "id": "29",
+                        "name": "Events [Entity Service]"
+                    },
+                    "entity": {
+                        "id": "1260821905491152896",
+                        "name": "Misinformation, debunk entity"
+                    }
+                }
+            ],
+            "conversation_id": "1324342827652911107",
+            "created_at": "2020-11-05T13:28:29.000Z",
+            "edit_history_tweet_ids": [
+                "1324342827652911107"
+            ],
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 64,
+                        "normalized_text": "Russia",
+                        "probability": 0.9611,
+                        "start": 59,
+                        "type": "Place"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 16,
+                        "id": "321954654",
+                        "start": 3,
+                        "username": "kylenabecker"
+                    }
+                ]
+            },
+            "id": "1324342827652911107",
+            "lang": "en",
+            "public_metrics": {
+                "impression_count": 0,
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 719
+            },
+            "referenced_tweets": [
+                {
+                    "id": "1324240293907042304",
+                    "type": "retweeted"
+                }
+            ],
+            "reply_settings": "everyone",
+            "text": "RT @kylenabecker: If you took the shadowy duplicity of the Russia hoax, the brazenness of the impeachment scam, the media blackout of the H\u2026"
+        },
+        {
+            "author_id": "832012532852355072",
+            "conversation_id": "1324342716055113729",
+            "created_at": "2020-11-05T13:28:03.000Z",
+            "edit_history_tweet_ids": [
+                "1324342716055113729"
+            ],
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 127,
+                        "normalized_text": "Congress",
+                        "probability": 0.7316,
+                        "start": 120,
+                        "type": "Organization"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 19,
+                        "id": "1221242033530195970",
+                        "start": 3,
+                        "username": "ReverendWarnock"
+                    }
+                ]
+            },
+            "id": "1324342716055113729",
+            "lang": "en",
+            "public_metrics": {
+                "impression_count": 0,
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 1557
+            },
+            "referenced_tweets": [
+                {
+                    "id": "1324065383775674369",
+                    "type": "retweeted"
+                }
+            ],
+            "reply_settings": "everyone",
+            "text": "RT @ReverendWarnock: URGENT: We face an ads blackout online, blocking us from fundraising against the richest member of Congress. While @Kl\u2026"
+        },
+        {
+            "author_id": "2328433803",
+            "conversation_id": "1324320411060965377",
+            "created_at": "2020-11-05T13:27:55.000Z",
+            "edit_history_tweet_ids": [
+                "1324342681569546243"
+            ],
+            "entities": {
+                "mentions": [
+                    {
+                        "end": 14,
+                        "id": "350954800",
+                        "start": 0,
+                        "username": "Toni_blackout"
+                    }
+                ]
+            },
+            "id": "1324342681569546243",
+            "in_reply_to_user_id": "350954800",
+            "lang": "es",
+            "public_metrics": {
+                "impression_count": 0,
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "referenced_tweets": [
+                {
+                    "id": "1324335817343553537",
+                    "type": "replied_to"
+                }
+            ],
+            "reply_settings": "everyone",
+            "text": "@Toni_blackout Jajaja jajajsjs jajaja"
+        },
+        {
+            "author_id": "921692451735293952",
+            "context_annotations": [
+                {
+                    "domain": {
+                        "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+                        "id": "30",
+                        "name": "Entities [Entity Service]"
+                    },
+                    "entity": {
+                        "description": "5G",
+                        "id": "1085628093627195392",
+                        "name": "5G"
+                    }
+                }
+            ],
+            "conversation_id": "1324342484038766593",
+            "created_at": "2020-11-05T13:27:07.000Z",
+            "edit_history_tweet_ids": [
+                "1324342484038766593"
+            ],
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 24,
+                        "normalized_text": "GForce",
+                        "probability": 0.6586,
+                        "start": 19,
+                        "type": "Other"
+                    }
+                ],
+                "hashtags": [
+                    {
+                        "end": 25,
+                        "start": 18,
+                        "tag": "GForce"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 16,
+                        "id": "1252689688667860992",
+                        "start": 3,
+                        "username": "OC_ACCollege"
+                    }
+                ]
+            },
+            "id": "1324342484038766593",
+            "lang": "en",
+            "public_metrics": {
+                "impression_count": 0,
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 23
+            },
+            "referenced_tweets": [
+                {
+                    "id": "1324292419546980353",
+                    "type": "retweeted"
+                }
+            ],
+            "reply_settings": "everyone",
+            "text": "RT @OC_ACCollege: #GForce We enter a Roll Off Top manoeuvre in the PC-9M at 210 knots (about 400 kph) and experience 4-5G until upside down\u2026"
+        },
+        {
+            "author_id": "219872160",
+            "conversation_id": "1324340166237052928",
+            "created_at": "2020-11-05T13:26:59.000Z",
+            "edit_history_tweet_ids": [
+                "1324342447728549889"
+            ],
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 85,
+                        "normalized_text": "Canada",
+                        "probability": 0.9835,
+                        "start": 80,
+                        "type": "Place"
+                    },
+                    {
+                        "end": 96,
+                        "normalized_text": "US",
+                        "probability": 0.9726,
+                        "start": 95,
+                        "type": "Place"
+                    },
+                    {
+                        "end": 150,
+                        "normalized_text": "Winnipeg",
+                        "probability": 0.9872,
+                        "start": 143,
+                        "type": "Place"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 15,
+                        "id": "275123678",
+                        "start": 0,
+                        "username": "TXLovestheHabs"
+                    }
+                ]
+            },
+            "id": "1324342447728549889",
+            "in_reply_to_user_id": "275123678",
+            "lang": "en",
+            "public_metrics": {
+                "impression_count": 0,
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 1,
+                "retweet_count": 0
+            },
+            "referenced_tweets": [
+                {
+                    "id": "1324341962934308864",
+                    "type": "replied_to"
+                }
+            ],
+            "reply_settings": "everyone",
+            "text": "@TXLovestheHabs I guess the perceived network rights are very different between Canada and the US. \n\nI can watch basically anything other than Winnipeg. I don\u2019t think I\u2019ve ever run into a different blackout here."
+        },
+        {
+            "author_id": "1303281886119239680",
+            "context_annotations": [
+                {
+                    "domain": {
+                        "description": "Brands and Companies",
+                        "id": "47",
+                        "name": "Brand"
+                    },
+                    "entity": {
+                        "id": "10026364236",
+                        "name": "Dell"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A taxonomy of user interests. ",
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy"
+                    },
+                    "entity": {
+                        "id": "10026364236",
+                        "name": "Dell"
+                    }
+                }
+            ],
+            "conversation_id": "1324342407320711169",
+            "created_at": "2020-11-05T13:26:49.000Z",
+            "edit_history_tweet_ids": [
+                "1324342407320711169"
+            ],
+            "id": "1324342407320711169",
+            "lang": "it",
+            "public_metrics": {
+                "impression_count": 0,
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 1
+            },
+            "referenced_tweets": [
+                {
+                    "id": "1324342226353356801",
+                    "type": "retweeted"
+                }
+            ],
+            "reply_settings": "everyone",
+            "text": "RT @skifogds: \ud835\udc08\ud835\udc0c\ud835\udc0f\ud835\udc08\ud835\udc00\ud835\udc0d\ud835\udc13\ud835\udc0e \ud835\udc04\ud835\udc0b\ud835\udc04\ud835\udc13\ud835\udc13\ud835\udc11\ud835\udc08\ud835\udc02\ud835\udc0e | \ud835\udc06\ud835\udc08\ud835\udc0e\ud835\udc11\ud835\udc0d\ud835\udc0e \ud835\udc08\n*Ieri sera mi ero ritirata in cabina ad un orario davvero indecente e solo a causa dell\u2019improvv\u2026"
+        },
+        {
+            "author_id": "875807737665531907",
+            "context_annotations": [
+                {
+                    "domain": {
+                        "description": "Real world events. ",
+                        "id": "29",
+                        "name": "Events [Entity Service]"
+                    },
+                    "entity": {
+                        "id": "1260821905491152896",
+                        "name": "Misinformation, debunk entity"
+                    }
+                }
+            ],
+            "conversation_id": "1324342363280605188",
+            "created_at": "2020-11-05T13:26:39.000Z",
+            "edit_history_tweet_ids": [
+                "1324342363280605188"
+            ],
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 64,
+                        "normalized_text": "Russia",
+                        "probability": 0.9611,
+                        "start": 59,
+                        "type": "Place"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 16,
+                        "id": "321954654",
+                        "start": 3,
+                        "username": "kylenabecker"
+                    }
+                ]
+            },
+            "id": "1324342363280605188",
+            "lang": "en",
+            "public_metrics": {
+                "impression_count": 0,
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 719
+            },
+            "referenced_tweets": [
+                {
+                    "id": "1324240293907042304",
+                    "type": "retweeted"
+                }
+            ],
+            "reply_settings": "everyone",
+            "text": "RT @kylenabecker: If you took the shadowy duplicity of the Russia hoax, the brazenness of the impeachment scam, the media blackout of the H\u2026"
+        },
+        {
+            "author_id": "1300964377357672449",
+            "conversation_id": "1324338806716133376",
+            "created_at": "2020-11-05T13:26:30.000Z",
+            "edit_history_tweet_ids": [
+                "1324342326366359552"
+            ],
+            "entities": {
+                "mentions": [
+                    {
+                        "end": 12,
+                        "id": "1234090428170784768",
+                        "start": 0,
+                        "username": "kyu_moraena"
+                    }
+                ]
+            },
+            "id": "1324342326366359552",
+            "in_reply_to_user_id": "1234090428170784768",
+            "lang": "tl",
+            "public_metrics": {
+                "impression_count": 0,
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "referenced_tweets": [
+                {
+                    "id": "1324341915223908352",
+                    "type": "replied_to"
+                }
+            ],
+            "reply_settings": "everyone",
+            "text": "@kyu_moraena HAHAHA atleast di tayo yung last nag blackout. \ud83d\ude02 bawi nalang sa susunod\ud83d\ude02"
+        },
+        {
+            "author_id": "872180660550615045",
+            "conversation_id": "1324342272733847552",
+            "created_at": "2020-11-05T13:26:17.000Z",
+            "edit_history_tweet_ids": [
+                "1324342272733847552"
+            ],
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 127,
+                        "normalized_text": "Congress",
+                        "probability": 0.7316,
+                        "start": 120,
+                        "type": "Organization"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 19,
+                        "id": "1221242033530195970",
+                        "start": 3,
+                        "username": "ReverendWarnock"
+                    }
+                ]
+            },
+            "id": "1324342272733847552",
+            "lang": "en",
+            "public_metrics": {
+                "impression_count": 0,
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 1557
+            },
+            "referenced_tweets": [
+                {
+                    "id": "1324065383775674369",
+                    "type": "retweeted"
+                }
+            ],
+            "reply_settings": "everyone",
+            "text": "RT @ReverendWarnock: URGENT: We face an ads blackout online, blocking us from fundraising against the richest member of Congress. While @Kl\u2026"
+        },
+        {
+            "author_id": "1294024874969706497",
+            "context_annotations": [
+                {
+                    "domain": {
+                        "description": "Brands and Companies",
+                        "id": "47",
+                        "name": "Brand"
+                    },
+                    "entity": {
+                        "id": "10026364236",
+                        "name": "Dell"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A taxonomy of user interests. ",
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy"
+                    },
+                    "entity": {
+                        "id": "10026364236",
+                        "name": "Dell"
+                    }
+                }
+            ],
+            "conversation_id": "1324342226353356801",
+            "created_at": "2020-11-05T13:26:06.000Z",
+            "edit_history_tweet_ids": [
+                "1324342226353356801"
+            ],
+            "id": "1324342226353356801",
+            "lang": "it",
+            "public_metrics": {
+                "impression_count": 0,
+                "like_count": 6,
+                "quote_count": 2,
+                "reply_count": 1,
+                "retweet_count": 1
+            },
+            "reply_settings": "everyone",
+            "text": "\ud835\udc08\ud835\udc0c\ud835\udc0f\ud835\udc08\ud835\udc00\ud835\udc0d\ud835\udc13\ud835\udc0e \ud835\udc04\ud835\udc0b\ud835\udc04\ud835\udc13\ud835\udc13\ud835\udc11\ud835\udc08\ud835\udc02\ud835\udc0e | \ud835\udc06\ud835\udc08\ud835\udc0e\ud835\udc11\ud835\udc0d\ud835\udc0e \ud835\udc08\n*Ieri sera mi ero ritirata in cabina ad un orario davvero indecente e solo a causa dell\u2019improvviso blackout, perch\u00e9 probabilmente in un\u2019altra situazione avrei fatto mattina;  \nsono sempre stata una persona empatica e -"
+        },
+        {
+            "author_id": "1213288579276754944",
+            "conversation_id": "1324342144492990464",
+            "created_at": "2020-11-05T13:25:46.000Z",
+            "edit_history_tweet_ids": [
+                "1324342144492990464"
+            ],
+            "entities": {
+                "urls": [
+                    {
+                        "display_url": "pic.twitter.com/bf22JPHBHV",
+                        "end": 128,
+                        "expanded_url": "https://twitter.com/MachineSombra/status/1324099501452349441/photo/1",
+                        "media_key": "3_1324099498180857857",
+                        "start": 105,
+                        "url": "https://t.co/bf22JPHBHV"
+                    }
+                ]
+            },
+            "id": "1324342144492990464",
+            "lang": "en",
+            "public_metrics": {
+                "impression_count": 0,
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 2
+            },
+            "referenced_tweets": [
+                {
+                    "id": "1324099501452349441",
+                    "type": "retweeted"
+                }
+            ],
+            "reply_settings": "everyone",
+            "text": "RT @MachineSombra: when your bestie is the first to blackout and you don\u2019t know anyone else at the party https://t.co/bf22JPHBHV"
+        },
+        {
+            "author_id": "532638331",
+            "context_annotations": [
+                {
+                    "domain": {
+                        "description": "Named people in the world like Nelson Mandela",
+                        "id": "10",
+                        "name": "Person"
+                    },
+                    "entity": {
+                        "description": "45th US President, Donald Trump",
+                        "id": "799022225751871488",
+                        "name": "Donald Trump"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "Politicians in the world, like Joe Biden",
+                        "id": "35",
+                        "name": "Politician"
+                    },
+                    "entity": {
+                        "description": "45th US President, Donald Trump",
+                        "id": "799022225751871488",
+                        "name": "Donald Trump"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+                        "id": "30",
+                        "name": "Entities [Entity Service]"
+                    },
+                    "entity": {
+                        "id": "781974596752842752",
+                        "name": "Services"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "Brands and Companies",
+                        "id": "47",
+                        "name": "Brand"
+                    },
+                    "entity": {
+                        "id": "10045225402",
+                        "name": "Twitter"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A taxonomy of user interests. ",
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy"
+                    },
+                    "entity": {
+                        "id": "10045225402",
+                        "name": "Twitter"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A taxonomy of user interests. ",
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy"
+                    },
+                    "entity": {
+                        "description": "45th US President, Donald Trump",
+                        "id": "799022225751871488",
+                        "name": "Donald Trump"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A taxonomy of user interests. ",
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy"
+                    },
+                    "entity": {
+                        "description": "Politics",
+                        "id": "847878884917886977",
+                        "name": "Politics"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A taxonomy of user interests. ",
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy"
+                    },
+                    "entity": {
+                        "description": "Politician",
+                        "id": "1070032753834438656",
+                        "name": "Political figures"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A taxonomy of user interests. ",
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy"
+                    },
+                    "entity": {
+                        "id": "1196446161223028736",
+                        "name": "Social media"
+                    }
+                }
+            ],
+            "conversation_id": "1324342127761989638",
+            "created_at": "2020-11-05T13:25:43.000Z",
+            "edit_history_tweet_ids": [
+                "1324342127761989638"
+            ],
+            "entities": {
+                "urls": [
+                    {
+                        "display_url": "twitter.com/GregRubini/sta\u2026",
+                        "end": 61,
+                        "expanded_url": "https://twitter.com/GregRubini/status/1324327163072516096",
+                        "start": 38,
+                        "url": "https://t.co/ej77YaK7t2"
+                    }
+                ]
+            },
+            "id": "1324342127761989638",
+            "lang": "it",
+            "public_metrics": {
+                "impression_count": 0,
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "referenced_tweets": [
+                {
+                    "id": "1324327163072516096",
+                    "type": "quoted"
+                }
+            ],
+            "reply_settings": "everyone",
+            "text": "Si avvicina il blackout della rete... https://t.co/ej77YaK7t2"
+        },
+        {
+            "author_id": "47602328",
+            "conversation_id": "1324316229507653633",
+            "created_at": "2020-11-05T13:25:24.000Z",
+            "edit_history_tweet_ids": [
+                "1324342049672409088"
+            ],
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 138,
+                        "normalized_text": "michigan",
+                        "probability": 0.3811,
+                        "start": 131,
+                        "type": "Other"
+                    },
+                    {
+                        "end": 152,
+                        "normalized_text": "wisconsin",
+                        "probability": 0.5273,
+                        "start": 144,
+                        "type": "Other"
+                    },
+                    {
+                        "end": 198,
+                        "normalized_text": "minnesota",
+                        "probability": 0.5335,
+                        "start": 190,
+                        "type": "Place"
+                    },
+                    {
+                        "end": 208,
+                        "normalized_text": "texas",
+                        "probability": 0.5975,
+                        "start": 204,
+                        "type": "Place"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 9,
+                        "id": "29210241",
+                        "start": 0,
+                        "username": "MarkArum"
+                    },
+                    {
+                        "end": 23,
+                        "id": "1311303093473206273",
+                        "start": 10,
+                        "username": "BillTetley16"
+                    },
+                    {
+                        "end": 108,
+                        "id": "29210241",
+                        "start": 99,
+                        "username": "MarkArum"
+                    }
+                ]
+            },
+            "id": "1324342049672409088",
+            "in_reply_to_user_id": "29210241",
+            "lang": "en",
+            "public_metrics": {
+                "impression_count": 0,
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "referenced_tweets": [
+                {
+                    "id": "1324336359646076928",
+                    "type": "replied_to"
+                }
+            ],
+            "reply_settings": "everyone",
+            "text": "@MarkArum @BillTetley16 long time listener first time interacting, no lie i expect better from you @MarkArum 200% voter turnout in michigan and wisconsin. Not to mention buying the votes in minnesota and texas, they were reported on just sadly the main stream blackout wouldn't allow it to be told"
+        },
+        {
+            "author_id": "58871968",
+            "context_annotations": [
+                {
+                    "domain": {
+                        "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+                        "id": "30",
+                        "name": "Entities [Entity Service]"
+                    },
+                    "entity": {
+                        "description": "Generic Food",
+                        "id": "824777229892661248",
+                        "name": "Generic Food"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+                        "id": "30",
+                        "name": "Entities [Entity Service]"
+                    },
+                    "entity": {
+                        "description": "Seafood",
+                        "id": "825065539378688000",
+                        "name": "Seafood"
+                    }
+                }
+            ],
+            "conversation_id": "1324341980722323461",
+            "created_at": "2020-11-05T13:25:07.000Z",
+            "edit_history_tweet_ids": [
+                "1324341980722323461"
+            ],
+            "geo": {
+                "place_id": "b046074b1030a44d"
+            },
+            "id": "1324341980722323461",
+            "lang": "en",
+            "public_metrics": {
+                "impression_count": 0,
+                "like_count": 6,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "reply_settings": "everyone",
+            "text": "YALL IM GOING TO MAINE TODAY TO BLACKOUT AND EAT OYSTERS. CANT TEACH SWAG."
+        },
+        {
+            "author_id": "881276580840058882",
+            "conversation_id": "1324341962414182402",
+            "created_at": "2020-11-05T13:25:03.000Z",
+            "edit_history_tweet_ids": [
+                "1324341962414182402"
+            ],
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 127,
+                        "normalized_text": "Congress",
+                        "probability": 0.7316,
+                        "start": 120,
+                        "type": "Organization"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 19,
+                        "id": "1221242033530195970",
+                        "start": 3,
+                        "username": "ReverendWarnock"
+                    }
+                ]
+            },
+            "id": "1324341962414182402",
+            "lang": "en",
+            "public_metrics": {
+                "impression_count": 0,
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 1557
+            },
+            "referenced_tweets": [
+                {
+                    "id": "1324065383775674369",
+                    "type": "retweeted"
+                }
+            ],
+            "reply_settings": "everyone",
+            "text": "RT @ReverendWarnock: URGENT: We face an ads blackout online, blocking us from fundraising against the richest member of Congress. While @Kl\u2026"
+        },
+        {
+            "author_id": "1314854210811432961",
+            "conversation_id": "1324143914564157440",
+            "created_at": "2020-11-05T13:25:00.000Z",
+            "edit_history_tweet_ids": [
+                "1324341949038473223"
+            ],
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 58,
+                        "normalized_text": "Blackout",
+                        "probability": 0.9128,
+                        "start": 51,
+                        "type": "Other"
+                    },
+                    {
+                        "end": 66,
+                        "normalized_text": "Muse",
+                        "probability": 0.5501,
+                        "start": 63,
+                        "type": "Person"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 8,
+                        "id": "1386867703357526017",
+                        "start": 0,
+                        "username": "antjan_"
+                    }
+                ]
+            },
+            "id": "1324341949038473223",
+            "in_reply_to_user_id": "1267362907647508480",
+            "lang": "es",
+            "public_metrics": {
+                "impression_count": 0,
+                "like_count": 1,
+                "quote_count": 0,
+                "reply_count": 1,
+                "retweet_count": 0
+            },
+            "referenced_tweets": [
+                {
+                    "id": "1324143914564157440",
+                    "type": "replied_to"
+                }
+            ],
+            "reply_settings": "everyone",
+            "text": "@antjan_ No s\u00e9 si es mi fav pero ahora mismo ser\u00eda Blackout de Muse.&lt;3"
+        },
+        {
+            "author_id": "947629705967964161",
+            "context_annotations": [
+                {
+                    "domain": {
+                        "description": "Real world events. ",
+                        "id": "29",
+                        "name": "Events [Entity Service]"
+                    },
+                    "entity": {
+                        "id": "1260821905491152896",
+                        "name": "Misinformation, debunk entity"
+                    }
+                }
+            ],
+            "conversation_id": "1324341814883745793",
+            "created_at": "2020-11-05T13:24:28.000Z",
+            "edit_history_tweet_ids": [
+                "1324341814883745793"
+            ],
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 64,
+                        "normalized_text": "Russia",
+                        "probability": 0.9611,
+                        "start": 59,
+                        "type": "Place"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 16,
+                        "id": "321954654",
+                        "start": 3,
+                        "username": "kylenabecker"
+                    }
+                ]
+            },
+            "id": "1324341814883745793",
+            "lang": "en",
+            "public_metrics": {
+                "impression_count": 0,
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 719
+            },
+            "referenced_tweets": [
+                {
+                    "id": "1324240293907042304",
+                    "type": "retweeted"
+                }
+            ],
+            "reply_settings": "everyone",
+            "text": "RT @kylenabecker: If you took the shadowy duplicity of the Russia hoax, the brazenness of the impeachment scam, the media blackout of the H\u2026"
+        },
+        {
+            "author_id": "385677582",
+            "conversation_id": "1324341298313220107",
+            "created_at": "2020-11-05T13:23:04.000Z",
+            "edit_history_tweet_ids": [
+                "1324341462553841664"
+            ],
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 28,
+                        "normalized_text": "lian",
+                        "probability": 0.5174,
+                        "start": 25,
+                        "type": "Other"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 9,
+                        "id": "4476431772",
+                        "start": 0,
+                        "username": "_megz242"
+                    }
+                ]
+            },
+            "id": "1324341462553841664",
+            "in_reply_to_user_id": "4476431772",
+            "lang": "en",
+            "public_metrics": {
+                "impression_count": 0,
+                "like_count": 1,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "referenced_tweets": [
+                {
+                    "id": "1324341298313220107",
+                    "type": "replied_to"
+                }
+            ],
+            "reply_settings": "everyone",
+            "text": "@_megz242 I just get off lian, how else u want me blackout"
+        },
+        {
+            "author_id": "938973378584616960",
+            "conversation_id": "1324341443230527488",
+            "created_at": "2020-11-05T13:22:59.000Z",
+            "edit_history_tweet_ids": [
+                "1324341443230527488"
+            ],
+            "id": "1324341443230527488",
+            "lang": "tl",
+            "public_metrics": {
+                "impression_count": 0,
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "reply_settings": "everyone",
+            "text": "May gana na tani ko magstudy kaso nag blackout ulit t matulog nalang ko sini eh"
+        },
+        {
+            "author_id": "774749231886262272",
+            "conversation_id": "1324341437547368448",
+            "created_at": "2020-11-05T13:22:58.000Z",
+            "edit_history_tweet_ids": [
+                "1324341437547368448"
+            ],
+            "entities": {
+                "mentions": [
+                    {
+                        "end": 16,
+                        "id": "847171951986651137",
+                        "start": 3,
+                        "username": "wheatiesmdub"
+                    }
+                ]
+            },
+            "id": "1324341437547368448",
+            "lang": "en",
+            "public_metrics": {
+                "impression_count": 0,
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 2
+            },
+            "referenced_tweets": [
+                {
+                    "id": "1324214139334676480",
+                    "type": "retweeted"
+                }
+            ],
+            "reply_settings": "everyone",
+            "text": "RT @wheatiesmdub: I get it now, elections fall on leap year so we get a freebie blackout drunk day"
+        },
+        {
+            "author_id": "1082940904598577152",
+            "context_annotations": [
+                {
+                    "domain": {
+                        "description": "Franchises which span multiple forms of media like 'Harry Potter'",
+                        "id": "130",
+                        "name": "Multimedia Franchise"
+                    },
+                    "entity": {
+                        "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series, if applicable.\t\t\t",
+                        "id": "1022485839232655360",
+                        "name": "Transformers"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A taxonomy of user interests. ",
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy"
+                    },
+                    "entity": {
+                        "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series, if applicable.\t\t\t",
+                        "id": "1022485839232655360",
+                        "name": "Transformers"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A taxonomy of user interests. ",
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy"
+                    },
+                    "entity": {
+                        "id": "1074757527995277313",
+                        "name": "Entertainment franchises"
+                    }
+                }
+            ],
+            "conversation_id": "1324341349018177544",
+            "created_at": "2020-11-05T13:22:37.000Z",
+            "edit_history_tweet_ids": [
+                "1324341349018177544"
+            ],
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 25,
+                        "normalized_text": "Transformers",
+                        "probability": 0.9076,
+                        "start": 14,
+                        "type": "Other"
+                    },
+                    {
+                        "end": 42,
+                        "normalized_text": "Blackout",
+                        "probability": 0.7628,
+                        "start": 35,
+                        "type": "Other"
+                    }
+                ],
+                "hashtags": [
+                    {
+                        "end": 26,
+                        "start": 13,
+                        "tag": "Transformers"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 11,
+                        "id": "1082940904598577152",
+                        "start": 3,
+                        "username": "tthblox"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "pic.twitter.com/fu8tbhgRkt",
+                        "end": 86,
+                        "expanded_url": "https://twitter.com/tthblox/status/1324340303986364416/photo/1",
+                        "media_key": "3_1324340290241679363",
+                        "start": 63,
+                        "url": "https://t.co/fu8tbhgRkt"
+                    },
+                    {
+                        "display_url": "pic.twitter.com/fu8tbhgRkt",
+                        "end": 86,
+                        "expanded_url": "https://twitter.com/tthblox/status/1324340303986364416/photo/1",
+                        "media_key": "3_1324340297514602496",
+                        "start": 63,
+                        "url": "https://t.co/fu8tbhgRkt"
+                    }
+                ]
+            },
+            "id": "1324341349018177544",
+            "lang": "en",
+            "public_metrics": {
+                "impression_count": 0,
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 2
+            },
+            "referenced_tweets": [
+                {
+                    "id": "1324340303986364416",
+                    "type": "retweeted"
+                }
+            ],
+            "reply_settings": "everyone",
+            "text": "RT @tthblox: #Transformers \nI drew Blackout as a freight train https://t.co/fu8tbhgRkt"
+        },
+        {
+            "author_id": "1143268547059212291",
+            "conversation_id": "1324340593930240000",
+            "created_at": "2020-11-05T13:21:05.000Z",
+            "edit_history_tweet_ids": [
+                "1324340962303291392"
+            ],
+            "entities": {
+                "mentions": [
+                    {
+                        "end": 13,
+                        "id": "1320208868",
+                        "start": 0,
+                        "username": "rzycierzycie"
+                    }
+                ]
+            },
+            "id": "1324340962303291392",
+            "in_reply_to_user_id": "1320208868",
+            "lang": "pl",
+            "public_metrics": {
+                "impression_count": 0,
+                "like_count": 1,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "referenced_tweets": [
+                {
+                    "id": "1324340593930240000",
+                    "type": "replied_to"
+                }
+            ],
+            "reply_settings": "everyone",
+            "text": "@rzycierzycie Teraz pytanie: SLM? BLACKOUT? Co innego???"
+        },
+        {
+            "author_id": "2535469003",
+            "conversation_id": "1324340885753155585",
+            "created_at": "2020-11-05T13:20:46.000Z",
+            "edit_history_tweet_ids": [
+                "1324340885753155585"
+            ],
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 1,
+                        "normalized_text": "Y8",
+                        "probability": 0.5536,
+                        "start": 0,
+                        "type": "Other"
+                    },
+                    {
+                        "end": 25,
+                        "normalized_text": "Blackout Poems",
+                        "probability": 0.6688,
+                        "start": 12,
+                        "type": "Other"
+                    },
+                    {
+                        "end": 115,
+                        "normalized_text": "Edgar Allan Poe",
+                        "probability": 0.9798,
+                        "start": 101,
+                        "type": "Person"
+                    },
+                    {
+                        "end": 146,
+                        "normalized_text": "The Masque of the Red Death",
+                        "probability": 0.9652,
+                        "start": 120,
+                        "type": "Other"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "pic.twitter.com/hbuWwMVcuH",
+                        "end": 299,
+                        "expanded_url": "https://twitter.com/Meoncross/status/1324340885753155585/photo/1",
+                        "media_key": "3_1324340754320412673",
+                        "start": 276,
+                        "url": "https://t.co/hbuWwMVcuH"
+                    },
+                    {
+                        "display_url": "pic.twitter.com/hbuWwMVcuH",
+                        "end": 299,
+                        "expanded_url": "https://twitter.com/Meoncross/status/1324340885753155585/photo/1",
+                        "media_key": "3_1324340775321292800",
+                        "start": 276,
+                        "url": "https://t.co/hbuWwMVcuH"
+                    },
+                    {
+                        "display_url": "pic.twitter.com/hbuWwMVcuH",
+                        "end": 299,
+                        "expanded_url": "https://twitter.com/Meoncross/status/1324340885753155585/photo/1",
+                        "media_key": "3_1324340822620413955",
+                        "start": 276,
+                        "url": "https://t.co/hbuWwMVcuH"
+                    },
+                    {
+                        "display_url": "pic.twitter.com/hbuWwMVcuH",
+                        "end": 299,
+                        "expanded_url": "https://twitter.com/Meoncross/status/1324340885753155585/photo/1",
+                        "media_key": "3_1324340846251171840",
+                        "start": 276,
+                        "url": "https://t.co/hbuWwMVcuH"
+                    }
+                ]
+            },
+            "id": "1324340885753155585",
+            "lang": "en",
+            "public_metrics": {
+                "impression_count": 0,
+                "like_count": 2,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "reply_settings": "everyone",
+            "text": "Y8 produced Blackout Poems based on their understanding of Gothic conventions. Using an extract from Edgar Allan Poe's 'The Masque of the Red Death', they created their own poetry based on the original text and incorporated suitable spooky imagery to illustrate their themes. https://t.co/hbuWwMVcuH"
+        },
+        {
+            "author_id": "725335315741859840",
+            "conversation_id": "1324340868527071233",
+            "created_at": "2020-11-05T13:20:42.000Z",
+            "edit_history_tweet_ids": [
+                "1324340868527071233"
+            ],
+            "entities": {
+                "urls": [
+                    {
+                        "display_url": "bit.ly/1NjhJi7",
+                        "end": 23,
+                        "expanded_url": "http://bit.ly/1NjhJi7",
+                        "start": 0,
+                        "unwound_url": "http://click.feedlikes.com/is-this-new-blackout-tattoo-trend-cute-or-creepy",
+                        "url": "https://t.co/fCWkl9zqVW"
+                    }
+                ]
+            },
+            "id": "1324340868527071233",
+            "lang": "zxx",
+            "public_metrics": {
+                "impression_count": 0,
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "reply_settings": "everyone",
+            "text": "https://t.co/fCWkl9zqVW"
+        },
+        {
+            "author_id": "1297980887989018625",
+            "conversation_id": "1324340858410409988",
+            "created_at": "2020-11-05T13:20:40.000Z",
+            "edit_history_tweet_ids": [
+                "1324340858410409988"
+            ],
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 23,
+                        "normalized_text": "mary",
+                        "probability": 0.4799,
+                        "start": 20,
+                        "type": "Other"
+                    }
+                ]
+            },
+            "id": "1324340858410409988",
+            "lang": "en",
+            "public_metrics": {
+                "impression_count": 0,
+                "like_count": 1,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "reply_settings": "everyone",
+            "text": "for fridays game vs mary persons\n\nTheme: Blackout\u26ab\ufe0f\n\ngame time: 7:30\n\nbring your own baby powder!!"
+        },
+        {
+            "author_id": "1491728786",
+            "conversation_id": "1324340566705004549",
+            "created_at": "2020-11-05T13:19:30.000Z",
+            "edit_history_tweet_ids": [
+                "1324340566705004549"
+            ],
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 43,
+                        "normalized_text": "blackout",
+                        "probability": 0.7661,
+                        "start": 36,
+                        "type": "Other"
+                    }
+                ]
+            },
+            "id": "1324340566705004549",
+            "lang": "en",
+            "public_metrics": {
+                "impression_count": 0,
+                "like_count": 3,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "reply_settings": "everyone",
+            "text": "As soon as I\u2019m off I\u2019m going to buy blackout curtains\ud83e\udd26\ud83c\udffc\u200d\u2640\ufe0f"
+        },
+        {
+            "author_id": "1274762186246639616",
+            "conversation_id": "1324340555862532096",
+            "created_at": "2020-11-05T13:19:28.000Z",
+            "edit_history_tweet_ids": [
+                "1324340555862532096"
+            ],
+            "entities": {
+                "mentions": [
+                    {
+                        "end": 14,
+                        "id": "1075376311667814400",
+                        "start": 3,
+                        "username": "Mynation13"
+                    },
+                    {
+                        "end": 30,
+                        "id": "67378160",
+                        "start": 16,
+                        "username": "DainikBhaskar"
+                    }
+                ]
+            },
+            "id": "1324340555862532096",
+            "lang": "und",
+            "public_metrics": {
+                "impression_count": 0,
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 52
+            },
+            "referenced_tweets": [
+                {
+                    "id": "1324273171759943680",
+                    "type": "retweeted"
+                }
+            ],
+            "reply_settings": "everyone",
+            "text": "RT @Mynation13: @DainikBhaskar\nWhy girls face is blackout (hidden) and boys faces are shown clearly?\n\n\u092a\u0939\u0932\u0940 \u092c\u093e\u0930 \u0938\u094b\u0936\u0932 \u092e\u0940\u0921\u093f\u092f\u093e \u0917\u0948\u0902\u0917 \u092e\u0947\u0902 \u0936\u093e\u092e\u093f\u0932\u2026"
+        },
+        {
+            "author_id": "1309827388184784896",
+            "conversation_id": "1324340515005894656",
+            "created_at": "2020-11-05T13:19:18.000Z",
+            "edit_history_tweet_ids": [
+                "1324340515005894656"
+            ],
+            "entities": {
+                "urls": [
+                    {
+                        "display_url": "pic.twitter.com/7MgAIBoYPD",
+                        "end": 105,
+                        "expanded_url": "https://twitter.com/frogsdesisyon/status/1324340515005894656/photo/1",
+                        "media_key": "3_1324340511885258754",
+                        "start": 82,
+                        "url": "https://t.co/7MgAIBoYPD"
+                    }
+                ]
+            },
+            "id": "1324340515005894656",
+            "lang": "en",
+            "public_metrics": {
+                "impression_count": 0,
+                "like_count": 7,
+                "quote_count": 0,
+                "reply_count": 1,
+                "retweet_count": 0
+            },
+            "reply_settings": "everyone",
+            "text": "Round 6\ufe0f\u20e3\nBLACKOUT \u2b1b\nDM \"Happy Second Monthsary, Froggies! \"\n\n; THREAD OF NAMES ; https://t.co/7MgAIBoYPD"
+        },
+        {
+            "author_id": "3405360189",
+            "conversation_id": "1324306471383945217",
+            "created_at": "2020-11-05T13:18:31.000Z",
+            "edit_history_tweet_ids": [
+                "1324340315868798977"
+            ],
+            "entities": {
+                "mentions": [
+                    {
+                        "end": 14,
+                        "id": "350954800",
+                        "start": 0,
+                        "username": "Toni_blackout"
+                    },
+                    {
+                        "end": 26,
+                        "id": "1282851240179838977",
+                        "start": 15,
+                        "username": "mikiloko55"
+                    }
+                ]
+            },
+            "id": "1324340315868798977",
+            "in_reply_to_user_id": "350954800",
+            "lang": "es",
+            "public_metrics": {
+                "impression_count": 0,
+                "like_count": 2,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "referenced_tweets": [
+                {
+                    "id": "1324328328447352835",
+                    "type": "replied_to"
+                }
+            ],
+            "reply_settings": "everyone",
+            "text": "@Toni_blackout @mikiloko55 Jajajajaj jajajajaj, ser\u00eda como ir lamiendo barandillas!"
+        },
+        {
+            "author_id": "1082940904598577152",
+            "context_annotations": [
+                {
+                    "domain": {
+                        "description": "Franchises which span multiple forms of media like 'Harry Potter'",
+                        "id": "130",
+                        "name": "Multimedia Franchise"
+                    },
+                    "entity": {
+                        "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series, if applicable.\t\t\t",
+                        "id": "1022485839232655360",
+                        "name": "Transformers"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A taxonomy of user interests. ",
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy"
+                    },
+                    "entity": {
+                        "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series, if applicable.\t\t\t",
+                        "id": "1022485839232655360",
+                        "name": "Transformers"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A taxonomy of user interests. ",
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy"
+                    },
+                    "entity": {
+                        "id": "1074757527995277313",
+                        "name": "Entertainment franchises"
+                    }
+                }
+            ],
+            "conversation_id": "1324340303986364416",
+            "created_at": "2020-11-05T13:18:28.000Z",
+            "edit_history_tweet_ids": [
+                "1324340303986364416"
+            ],
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 12,
+                        "normalized_text": "Transformers",
+                        "probability": 0.893,
+                        "start": 1,
+                        "type": "Other"
+                    },
+                    {
+                        "end": 29,
+                        "normalized_text": "Blackout",
+                        "probability": 0.771,
+                        "start": 22,
+                        "type": "Other"
+                    }
+                ],
+                "hashtags": [
+                    {
+                        "end": 13,
+                        "start": 0,
+                        "tag": "Transformers"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "pic.twitter.com/fu8tbhgRkt",
+                        "end": 73,
+                        "expanded_url": "https://twitter.com/tthblox/status/1324340303986364416/photo/1",
+                        "media_key": "3_1324340290241679363",
+                        "start": 50,
+                        "url": "https://t.co/fu8tbhgRkt"
+                    },
+                    {
+                        "display_url": "pic.twitter.com/fu8tbhgRkt",
+                        "end": 73,
+                        "expanded_url": "https://twitter.com/tthblox/status/1324340303986364416/photo/1",
+                        "media_key": "3_1324340297514602496",
+                        "start": 50,
+                        "url": "https://t.co/fu8tbhgRkt"
+                    }
+                ]
+            },
+            "id": "1324340303986364416",
+            "lang": "en",
+            "public_metrics": {
+                "impression_count": 0,
+                "like_count": 15,
+                "quote_count": 0,
+                "reply_count": 2,
+                "retweet_count": 2
+            },
+            "reply_settings": "everyone",
+            "text": "#Transformers \nI drew Blackout as a freight train https://t.co/fu8tbhgRkt"
+        },
+        {
+            "author_id": "244389647",
+            "conversation_id": "1324340297032179713",
+            "created_at": "2020-11-05T13:18:26.000Z",
+            "edit_history_tweet_ids": [
+                "1324340297032179713"
+            ],
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 28,
+                        "normalized_text": "blackout",
+                        "probability": 0.8663,
+                        "start": 21,
+                        "type": "Other"
+                    }
+                ]
+            },
+            "geo": {
+                "place_id": "7343e9c57b3427b5"
+            },
+            "id": "1324340297032179713",
+            "lang": "pt",
+            "public_metrics": {
+                "impression_count": 0,
+                "like_count": 3,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "reply_settings": "everyone",
+            "text": "Deixei meu quarto no blackout \ud83d\ude01"
+        },
+        {
+            "author_id": "1223235868317507586",
+            "context_annotations": [
+                {
+                    "domain": {
+                        "description": "Top level entities that describe a Brands industry",
+                        "id": "45",
+                        "name": "Brand Vertical"
+                    },
+                    "entity": {
+                        "id": "781974596706635776",
+                        "name": "Retail industry"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+                        "id": "30",
+                        "name": "Entities [Entity Service]"
+                    },
+                    "entity": {
+                        "id": "783335558466506752",
+                        "name": "Online - Retail"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "Brands and Companies",
+                        "id": "47",
+                        "name": "Brand"
+                    },
+                    "entity": {
+                        "id": "10026792024",
+                        "name": "Amazon"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A taxonomy of user interests. ",
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy"
+                    },
+                    "entity": {
+                        "id": "10026792024",
+                        "name": "Amazon"
+                    }
+                }
+            ],
+            "conversation_id": "1324340217940217863",
+            "created_at": "2020-11-05T13:18:07.000Z",
+            "edit_history_tweet_ids": [
+                "1324340217940217863"
+            ],
+            "entities": {
+                "hashtags": [
+                    {
+                        "end": 150,
+                        "start": 141,
+                        "tag": "blackout"
+                    },
+                    {
+                        "end": 158,
+                        "start": 151,
+                        "tag": "amazon"
+                    },
+                    {
+                        "end": 166,
+                        "start": 159,
+                        "tag": "online"
+                    },
+                    {
+                        "end": 176,
+                        "start": 167,
+                        "tag": "shopping"
+                    },
+                    {
+                        "end": 184,
+                        "start": 177,
+                        "tag": "window"
+                    },
+                    {
+                        "end": 194,
+                        "start": 185,
+                        "tag": "curtains"
+                    },
+                    {
+                        "end": 200,
+                        "start": 195,
+                        "tag": "silk"
+                    },
+                    {
+                        "end": 206,
+                        "start": 201,
+                        "tag": "door"
+                    },
+                    {
+                        "end": 216,
+                        "start": 207,
+                        "tag": "flipkart"
+                    },
+                    {
+                        "end": 227,
+                        "start": 217,
+                        "tag": "polyester"
+                    },
+                    {
+                        "end": 233,
+                        "start": 228,
+                        "tag": "home"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "amazon.in/s?me=AXZDMPDDS\u2026",
+                        "end": 33,
+                        "expanded_url": "https://amazon.in/s?me=AXZDMPDDSEPRI&marketplaceID=A21TJRUUN4KGV",
+                        "start": 10,
+                        "url": "https://t.co/huAKi7xjLi"
+                    },
+                    {
+                        "display_url": "pic.twitter.com/bbYcZ8J4fN",
+                        "end": 262,
+                        "expanded_url": "https://twitter.com/surya55614298/status/1324340217940217863/photo/1",
+                        "media_key": "3_1324339709833785344",
+                        "start": 239,
+                        "url": "https://t.co/bbYcZ8J4fN"
+                    }
+                ]
+            },
+            "id": "1324340217940217863",
+            "lang": "en",
+            "public_metrics": {
+                "impression_count": 0,
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "reply_settings": "everyone",
+            "text": "Shop Now\" https://t.co/huAKi7xjLi\nHome Tex Blackout Silk Window &amp; Door Curtains With 80% more Discount Limited Offer few hours Hurry Up \n#blackout #amazon #online #shopping #window #curtains #silk #door #flipkart #polyester #home\ud83d\udc95\ud83e\uddd0\ud83d\udc95\ud83e\uddd0\ud83d\udc95 https://t.co/bbYcZ8J4fN"
+        },
+        {
+            "author_id": "1193839000613773313",
+            "conversation_id": "1324336712168984578",
+            "created_at": "2020-11-05T13:18:06.000Z",
+            "edit_history_tweet_ids": [
+                "1324340211552292865"
+            ],
+            "entities": {
+                "mentions": [
+                    {
+                        "end": 14,
+                        "id": "350954800",
+                        "start": 0,
+                        "username": "Toni_blackout"
+                    }
+                ]
+            },
+            "id": "1324340211552292865",
+            "in_reply_to_user_id": "350954800",
+            "lang": "qme",
+            "public_metrics": {
+                "impression_count": 0,
+                "like_count": 1,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "referenced_tweets": [
+                {
+                    "id": "1324336712168984578",
+                    "type": "replied_to"
+                }
+            ],
+            "reply_settings": "everyone",
+            "text": "@Toni_blackout \ud83d\ude02\ud83d\ude02\ud83d\ude02\ud83d\ude02"
+        },
+        {
+            "author_id": "1186826558125858816",
+            "context_annotations": [
+                {
+                    "domain": {
+                        "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+                        "id": "30",
+                        "name": "Entities [Entity Service]"
+                    },
+                    "entity": {
+                        "description": "Technology and computing",
+                        "id": "848920371311001600",
+                        "name": "Technology"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+                        "id": "30",
+                        "name": "Entities [Entity Service]"
+                    },
+                    "entity": {
+                        "id": "1148689566112477184",
+                        "name": "Wi-Fi"
+                    }
+                }
+            ],
+            "conversation_id": "1324340031289499648",
+            "created_at": "2020-11-05T13:17:23.000Z",
+            "edit_history_tweet_ids": [
+                "1324340031289499648"
+            ],
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 87,
+                        "normalized_text": "blackout",
+                        "probability": 0.8272,
+                        "start": 80,
+                        "type": "Other"
+                    },
+                    {
+                        "end": 114,
+                        "normalized_text": "wifi",
+                        "probability": 0.5467,
+                        "start": 111,
+                        "type": "Other"
+                    }
+                ]
+            },
+            "id": "1324340031289499648",
+            "lang": "en",
+            "public_metrics": {
+                "impression_count": 0,
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "reply_settings": "everyone",
+            "text": "sorry to be inactive, my town and the entire state is going through a series of blackout, the net is unstable, wifi is off, and i using my phone's internet"
+        },
+        {
+            "author_id": "635625238",
+            "conversation_id": "1324340027308924928",
+            "created_at": "2020-11-05T13:17:22.000Z",
+            "edit_history_tweet_ids": [
+                "1324340027308924928"
+            ],
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 13,
+                        "normalized_text": "Project Winter",
+                        "probability": 0.5787,
+                        "start": 0,
+                        "type": "Other"
+                    },
+                    {
+                        "end": 30,
+                        "normalized_text": "Blackout Bundle",
+                        "probability": 0.7646,
+                        "start": 16,
+                        "type": "Other"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "pic.twitter.com/33FrBoT3LE",
+                        "end": 60,
+                        "expanded_url": "https://twitter.com/altorme/status/1324340027308924928/photo/1",
+                        "media_key": "3_1324339730033467397",
+                        "start": 37,
+                        "url": "https://t.co/33FrBoT3LE"
+                    }
+                ]
+            },
+            "id": "1324340027308924928",
+            "lang": "en",
+            "public_metrics": {
+                "impression_count": 0,
+                "like_count": 2,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "reply_settings": "everyone",
+            "text": "Project Winter: Blackout Bundle -13\u5186 https://t.co/33FrBoT3LE"
+        },
+        {
+            "author_id": "538428062",
+            "context_annotations": [
+                {
+                    "domain": {
+                        "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+                        "id": "30",
+                        "name": "Entities [Entity Service]"
+                    },
+                    "entity": {
+                        "description": "5G",
+                        "id": "1085628093627195392",
+                        "name": "5G"
+                    }
+                }
+            ],
+            "conversation_id": "1324339768017170436",
+            "created_at": "2020-11-05T13:16:20.000Z",
+            "edit_history_tweet_ids": [
+                "1324339768017170436"
+            ],
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 24,
+                        "normalized_text": "GForce",
+                        "probability": 0.6586,
+                        "start": 19,
+                        "type": "Other"
+                    }
+                ],
+                "hashtags": [
+                    {
+                        "end": 25,
+                        "start": 18,
+                        "tag": "GForce"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 16,
+                        "id": "1252689688667860992",
+                        "start": 3,
+                        "username": "OC_ACCollege"
+                    }
+                ]
+            },
+            "id": "1324339768017170436",
+            "lang": "en",
+            "public_metrics": {
+                "impression_count": 0,
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 23
+            },
+            "referenced_tweets": [
+                {
+                    "id": "1324292419546980353",
+                    "type": "retweeted"
+                }
+            ],
+            "reply_settings": "everyone",
+            "text": "RT @OC_ACCollege: #GForce We enter a Roll Off Top manoeuvre in the PC-9M at 210 knots (about 400 kph) and experience 4-5G until upside down\u2026"
+        },
+        {
+            "author_id": "207588879",
+            "context_annotations": [
+                {
+                    "domain": {
+                        "description": "Real world events. ",
+                        "id": "29",
+                        "name": "Events [Entity Service]"
+                    },
+                    "entity": {
+                        "id": "1260821905491152896",
+                        "name": "Misinformation, debunk entity"
+                    }
+                }
+            ],
+            "conversation_id": "1324339560789192705",
+            "created_at": "2020-11-05T13:15:30.000Z",
+            "edit_history_tweet_ids": [
+                "1324339560789192705"
+            ],
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 64,
+                        "normalized_text": "Russia",
+                        "probability": 0.9611,
+                        "start": 59,
+                        "type": "Place"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 16,
+                        "id": "321954654",
+                        "start": 3,
+                        "username": "kylenabecker"
+                    }
+                ]
+            },
+            "id": "1324339560789192705",
+            "lang": "en",
+            "public_metrics": {
+                "impression_count": 0,
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 719
+            },
+            "referenced_tweets": [
+                {
+                    "id": "1324240293907042304",
+                    "type": "retweeted"
+                }
+            ],
+            "reply_settings": "everyone",
+            "text": "RT @kylenabecker: If you took the shadowy duplicity of the Russia hoax, the brazenness of the impeachment scam, the media blackout of the H\u2026"
+        },
+        {
+            "author_id": "1223235868317507586",
+            "context_annotations": [
+                {
+                    "domain": {
+                        "description": "Top level entities that describe a Brands industry",
+                        "id": "45",
+                        "name": "Brand Vertical"
+                    },
+                    "entity": {
+                        "id": "781974596706635776",
+                        "name": "Retail industry"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+                        "id": "30",
+                        "name": "Entities [Entity Service]"
+                    },
+                    "entity": {
+                        "id": "783335558466506752",
+                        "name": "Online - Retail"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "Brands and Companies",
+                        "id": "47",
+                        "name": "Brand"
+                    },
+                    "entity": {
+                        "id": "10026792024",
+                        "name": "Amazon"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A taxonomy of user interests. ",
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy"
+                    },
+                    "entity": {
+                        "id": "10026792024",
+                        "name": "Amazon"
+                    }
+                }
+            ],
+            "conversation_id": "1324339474344611840",
+            "created_at": "2020-11-05T13:15:10.000Z",
+            "edit_history_tweet_ids": [
+                "1324339474344611840"
+            ],
+            "entities": {
+                "hashtags": [
+                    {
+                        "end": 150,
+                        "start": 141,
+                        "tag": "blackout"
+                    },
+                    {
+                        "end": 158,
+                        "start": 151,
+                        "tag": "amazon"
+                    },
+                    {
+                        "end": 166,
+                        "start": 159,
+                        "tag": "online"
+                    },
+                    {
+                        "end": 176,
+                        "start": 167,
+                        "tag": "shopping"
+                    },
+                    {
+                        "end": 184,
+                        "start": 177,
+                        "tag": "window"
+                    },
+                    {
+                        "end": 194,
+                        "start": 185,
+                        "tag": "curtains"
+                    },
+                    {
+                        "end": 200,
+                        "start": 195,
+                        "tag": "silk"
+                    },
+                    {
+                        "end": 206,
+                        "start": 201,
+                        "tag": "door"
+                    },
+                    {
+                        "end": 216,
+                        "start": 207,
+                        "tag": "flipkart"
+                    },
+                    {
+                        "end": 227,
+                        "start": 217,
+                        "tag": "polyester"
+                    },
+                    {
+                        "end": 233,
+                        "start": 228,
+                        "tag": "home"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "amazon.in/s?me=AXZDMPDDS\u2026",
+                        "end": 33,
+                        "expanded_url": "https://amazon.in/s?me=AXZDMPDDSEPRI&marketplaceID=A21TJRUUN4KGV",
+                        "start": 10,
+                        "url": "https://t.co/huAKi7xjLi"
+                    },
+                    {
+                        "display_url": "pic.twitter.com/olUPaBNaWx",
+                        "end": 262,
+                        "expanded_url": "https://twitter.com/surya55614298/status/1324339474344611840/photo/1",
+                        "media_key": "3_1324339085834682371",
+                        "start": 239,
+                        "url": "https://t.co/olUPaBNaWx"
+                    }
+                ]
+            },
+            "id": "1324339474344611840",
+            "lang": "en",
+            "public_metrics": {
+                "impression_count": 0,
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "reply_settings": "everyone",
+            "text": "Shop Now\" https://t.co/huAKi7xjLi\nHome Tex Blackout Silk Window &amp; Door Curtains With 80% more Discount Limited Offer few hours Hurry Up \n#blackout #amazon #online #shopping #window #curtains #silk #door #flipkart #polyester #home\ud83d\udc95\ud83e\uddd0\ud83d\ude0d\ud83d\udc95\ud83e\uddd0 https://t.co/olUPaBNaWx"
+        },
+        {
+            "author_id": "730427136",
+            "conversation_id": "1324339442262241282",
+            "created_at": "2020-11-05T13:15:02.000Z",
+            "edit_history_tweet_ids": [
+                "1324339442262241282"
+            ],
+            "id": "1324339442262241282",
+            "lang": "tl",
+            "public_metrics": {
+                "impression_count": 0,
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "reply_settings": "everyone",
+            "text": "te socoteco kapila gid mag blackout sa isa ka adlaw?"
+        },
+        {
+            "author_id": "917236859243323393",
+            "context_annotations": [
+                {
+                    "domain": {
+                        "description": "Real world events. ",
+                        "id": "29",
+                        "name": "Events [Entity Service]"
+                    },
+                    "entity": {
+                        "id": "1260821905491152896",
+                        "name": "Misinformation, debunk entity"
+                    }
+                }
+            ],
+            "conversation_id": "1324339220316622848",
+            "created_at": "2020-11-05T13:14:09.000Z",
+            "edit_history_tweet_ids": [
+                "1324339220316622848"
+            ],
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 64,
+                        "normalized_text": "Russia",
+                        "probability": 0.9611,
+                        "start": 59,
+                        "type": "Place"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 16,
+                        "id": "321954654",
+                        "start": 3,
+                        "username": "kylenabecker"
+                    }
+                ]
+            },
+            "id": "1324339220316622848",
+            "lang": "en",
+            "public_metrics": {
+                "impression_count": 0,
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 719
+            },
+            "referenced_tweets": [
+                {
+                    "id": "1324240293907042304",
+                    "type": "retweeted"
+                }
+            ],
+            "reply_settings": "everyone",
+            "text": "RT @kylenabecker: If you took the shadowy duplicity of the Russia hoax, the brazenness of the impeachment scam, the media blackout of the H\u2026"
+        },
+        {
+            "author_id": "1170327737527144449",
+            "conversation_id": "1324339046601138178",
+            "created_at": "2020-11-05T13:13:28.000Z",
+            "edit_history_tweet_ids": [
+                "1324339046601138178"
+            ],
+            "entities": {
+                "urls": [
+                    {
+                        "display_url": "t.co/kmUJJeHN79",
+                        "end": 111,
+                        "expanded_url": "https://t.co/kmUJJeHN79",
+                        "start": 88,
+                        "url": "https://t.co/kmUJJeHN79"
+                    }
+                ]
+            },
+            "id": "1324339046601138178",
+            "lang": "en",
+            "public_metrics": {
+                "impression_count": 0,
+                "like_count": 1,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "reply_settings": "everyone",
+            "text": "factory resetting sounds so ominous \ud83d\ude2d does the world get a blackout how do i do it /gen https://t.co/kmUJJeHN79"
+        },
+        {
+            "author_id": "1223235868317507586",
+            "context_annotations": [
+                {
+                    "domain": {
+                        "description": "Top level entities that describe a Brands industry",
+                        "id": "45",
+                        "name": "Brand Vertical"
+                    },
+                    "entity": {
+                        "id": "781974596706635776",
+                        "name": "Retail industry"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+                        "id": "30",
+                        "name": "Entities [Entity Service]"
+                    },
+                    "entity": {
+                        "id": "783335558466506752",
+                        "name": "Online - Retail"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "Brands and Companies",
+                        "id": "47",
+                        "name": "Brand"
+                    },
+                    "entity": {
+                        "id": "10026792024",
+                        "name": "Amazon"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A taxonomy of user interests. ",
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy"
+                    },
+                    "entity": {
+                        "id": "10026792024",
+                        "name": "Amazon"
+                    }
+                }
+            ],
+            "conversation_id": "1324338946302763008",
+            "created_at": "2020-11-05T13:13:04.000Z",
+            "edit_history_tweet_ids": [
+                "1324338946302763008"
+            ],
+            "entities": {
+                "hashtags": [
+                    {
+                        "end": 150,
+                        "start": 141,
+                        "tag": "blackout"
+                    },
+                    {
+                        "end": 158,
+                        "start": 151,
+                        "tag": "amazon"
+                    },
+                    {
+                        "end": 166,
+                        "start": 159,
+                        "tag": "online"
+                    },
+                    {
+                        "end": 176,
+                        "start": 167,
+                        "tag": "shopping"
+                    },
+                    {
+                        "end": 184,
+                        "start": 177,
+                        "tag": "window"
+                    },
+                    {
+                        "end": 194,
+                        "start": 185,
+                        "tag": "curtains"
+                    },
+                    {
+                        "end": 200,
+                        "start": 195,
+                        "tag": "silk"
+                    },
+                    {
+                        "end": 206,
+                        "start": 201,
+                        "tag": "door"
+                    },
+                    {
+                        "end": 216,
+                        "start": 207,
+                        "tag": "flipkart"
+                    },
+                    {
+                        "end": 227,
+                        "start": 217,
+                        "tag": "polyester"
+                    },
+                    {
+                        "end": 233,
+                        "start": 228,
+                        "tag": "home"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "amazon.in/s?me=AXZDMPDDS\u2026",
+                        "end": 33,
+                        "expanded_url": "https://www.amazon.in/s?me=AXZDMPDDSEPRI&marketplaceID=A21TJRUUN4KGV",
+                        "start": 10,
+                        "url": "https://t.co/7qIMvKVvq9"
+                    },
+                    {
+                        "display_url": "pic.twitter.com/mWygxMtWVm",
+                        "end": 257,
+                        "expanded_url": "https://twitter.com/surya55614298/status/1324338946302763008/photo/1",
+                        "media_key": "3_1324338477945786369",
+                        "start": 234,
+                        "url": "https://t.co/mWygxMtWVm"
+                    }
+                ]
+            },
+            "id": "1324338946302763008",
+            "lang": "en",
+            "public_metrics": {
+                "impression_count": 0,
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "reply_settings": "everyone",
+            "text": "Shop Now\" https://t.co/7qIMvKVvq9\nHome Tex Blackout Silk Window &amp; Door Curtains With 80% more Discount Limited Offer few hours Hurry Up \n#blackout #amazon #online #shopping #window #curtains #silk #door #flipkart #polyester #home https://t.co/mWygxMtWVm"
+        },
+        {
+            "author_id": "1304660434511749120",
+            "conversation_id": "1324338919958175744",
+            "created_at": "2020-11-05T13:12:58.000Z",
+            "edit_history_tweet_ids": [
+                "1324338919958175744"
+            ],
+            "entities": {
+                "urls": [
+                    {
+                        "display_url": "pic.twitter.com/VrRmvZebji",
+                        "end": 178,
+                        "expanded_url": "https://twitter.com/liaxtreasure/status/1324338919958175744/photo/1",
+                        "media_key": "3_1324338916904726530",
+                        "start": 155,
+                        "url": "https://t.co/VrRmvZebji"
+                    },
+                    {
+                        "display_url": "twitter.com/raven_teume10/\u2026",
+                        "end": 202,
+                        "expanded_url": "https://twitter.com/raven_teume10/status/1324338327458258944",
+                        "start": 179,
+                        "url": "https://t.co/JnrQd6xmRz"
+                    }
+                ]
+            },
+            "id": "1324338919958175744",
+            "lang": "tl",
+            "public_metrics": {
+                "impression_count": 0,
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 1,
+                "retweet_count": 0
+            },
+            "referenced_tweets": [
+                {
+                    "id": "1324338327458258944",
+                    "type": "quoted"
+                }
+            ],
+            "reply_settings": "everyone",
+            "text": "FINALLY i got the blackout card pero taloo HAHAHA,  uhm baka meron po dyan gusto magsponsor ng prize para sakin? kahit ano po tatanggapin ko. HAHAHSHSJSJ\ud83d\udc96 https://t.co/VrRmvZebji https://t.co/JnrQd6xmRz"
+        },
+        {
+            "author_id": "523687815",
+            "conversation_id": "1324338848105713664",
+            "created_at": "2020-11-05T13:12:41.000Z",
+            "edit_history_tweet_ids": [
+                "1324338848105713664"
+            ],
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 111,
+                        "normalized_text": "WW2",
+                        "probability": 0.9478,
+                        "start": 109,
+                        "type": "Other"
+                    }
+                ]
+            },
+            "id": "1324338848105713664",
+            "lang": "en",
+            "public_metrics": {
+                "impression_count": 0,
+                "like_count": 17,
+                "quote_count": 1,
+                "reply_count": 0,
+                "retweet_count": 5
+            },
+            "reply_settings": "everyone",
+            "text": "Wartime austerity and the blackout led to the cancellation of bonfire night celebrations for the duration of WW2."
+        },
+        {
+            "author_id": "1283035878546341895",
+            "conversation_id": "1324338825800249345",
+            "created_at": "2020-11-05T13:12:35.000Z",
+            "edit_history_tweet_ids": [
+                "1324338825800249345"
+            ],
+            "entities": {
+                "mentions": [
+                    {
+                        "end": 14,
+                        "id": "1075376311667814400",
+                        "start": 3,
+                        "username": "Mynation13"
+                    },
+                    {
+                        "end": 30,
+                        "id": "67378160",
+                        "start": 16,
+                        "username": "DainikBhaskar"
+                    }
+                ]
+            },
+            "id": "1324338825800249345",
+            "lang": "und",
+            "public_metrics": {
+                "impression_count": 0,
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 52
+            },
+            "referenced_tweets": [
+                {
+                    "id": "1324273171759943680",
+                    "type": "retweeted"
+                }
+            ],
+            "reply_settings": "everyone",
+            "text": "RT @Mynation13: @DainikBhaskar\nWhy girls face is blackout (hidden) and boys faces are shown clearly?\n\n\u092a\u0939\u0932\u0940 \u092c\u093e\u0930 \u0938\u094b\u0936\u0932 \u092e\u0940\u0921\u093f\u092f\u093e \u0917\u0948\u0902\u0917 \u092e\u0947\u0902 \u0936\u093e\u092e\u093f\u0932\u2026"
+        },
+        {
+            "author_id": "1234090428170784768",
+            "conversation_id": "1324338806716133376",
+            "created_at": "2020-11-05T13:12:31.000Z",
+            "edit_history_tweet_ids": [
+                "1324338806716133376"
+            ],
+            "entities": {
+                "urls": [
+                    {
+                        "display_url": "pic.twitter.com/HhCGOS5Ppz",
+                        "end": 96,
+                        "expanded_url": "https://twitter.com/kyu_moraena/status/1324338806716133376/photo/1",
+                        "media_key": "3_1324338803302039552",
+                        "start": 73,
+                        "url": "https://t.co/HhCGOS5Ppz"
+                    },
+                    {
+                        "display_url": "twitter.com/raven_teume10/\u2026",
+                        "end": 120,
+                        "expanded_url": "https://twitter.com/raven_teume10/status/1324338327458258944",
+                        "start": 97,
+                        "url": "https://t.co/Ly7ML0VjGs"
+                    }
+                ]
+            },
+            "id": "1324338806716133376",
+            "lang": "tl",
+            "public_metrics": {
+                "impression_count": 0,
+                "like_count": 1,
+                "quote_count": 0,
+                "reply_count": 1,
+                "retweet_count": 0
+            },
+            "referenced_tweets": [
+                {
+                    "id": "1324338327458258944",
+                    "type": "quoted"
+                }
+            ],
+            "reply_settings": "everyone",
+            "text": "na blackout din ghaaaad, k back to gawa research HAHAHAHAHAHAHAHAHAHAHAH https://t.co/HhCGOS5Ppz https://t.co/Ly7ML0VjGs"
+        },
+        {
+            "author_id": "753648011033604096",
+            "conversation_id": "1324332483089993728",
+            "created_at": "2020-11-05T13:12:07.000Z",
+            "edit_history_tweet_ids": [
+                "1324338707294527490"
+            ],
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 21,
+                        "normalized_text": "Blackout",
+                        "probability": 0.7965,
+                        "start": 14,
+                        "type": "Other"
+                    }
+                ]
+            },
+            "id": "1324338707294527490",
+            "in_reply_to_user_id": "2966583353",
+            "lang": "en",
+            "public_metrics": {
+                "impression_count": 0,
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "referenced_tweets": [
+                {
+                    "id": "1324332483089993728",
+                    "type": "replied_to"
+                }
+            ],
+            "reply_settings": "everyone",
+            "text": "@CoDNewsRecon Blackout... \ud83e\udd23"
+        },
+        {
+            "author_id": "936411257451593728",
+            "conversation_id": "1324338665884057600",
+            "created_at": "2020-11-05T13:11:57.000Z",
+            "edit_history_tweet_ids": [
+                "1324338665884057600"
+            ],
+            "id": "1324338665884057600",
+            "lang": "tl",
+            "public_metrics": {
+                "impression_count": 0,
+                "like_count": 1,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "reply_settings": "everyone",
+            "text": "The stress level nga gidulot sang blackout saakon is immeasurable. Kanami na gid i wild."
+        },
+        {
+            "author_id": "1064034793615212544",
+            "context_annotations": [
+                {
+                    "domain": {
+                        "description": "Brands and Companies",
+                        "id": "47",
+                        "name": "Brand"
+                    },
+                    "entity": {
+                        "id": "10045932924",
+                        "name": "Corsair"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "Video Game Hardware",
+                        "id": "79",
+                        "name": "Video Game Hardware"
+                    },
+                    "entity": {
+                        "id": "10045932924",
+                        "name": "Corsair"
+                    }
+                }
+            ],
+            "conversation_id": "1324338512175501312",
+            "created_at": "2020-11-05T13:11:20.000Z",
+            "edit_history_tweet_ids": [
+                "1324338512175501312"
+            ],
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 34,
+                        "normalized_text": "Corsair M65",
+                        "probability": 0.5204,
+                        "start": 24,
+                        "type": "Other"
+                    },
+                    {
+                        "end": 70,
+                        "normalized_text": "Blue Yeti",
+                        "probability": 0.5103,
+                        "start": 62,
+                        "type": "Other"
+                    }
+                ]
+            },
+            "id": "1324338512175501312",
+            "lang": "en",
+            "public_metrics": {
+                "impression_count": 0,
+                "like_count": 2,
+                "quote_count": 0,
+                "reply_count": 1,
+                "retweet_count": 0
+            },
+            "reply_settings": "everyone",
+            "text": "yo selling 2 things rn\n\nCorsair M65 (Perfect Condition)\n&amp;\nBlue Yeti Blackout (visual damage, works perfect though)\n\ndm with offers"
+        },
+        {
+            "author_id": "834821098013392897",
+            "conversation_id": "1324328785504854016",
+            "created_at": "2020-11-05T13:11:10.000Z",
+            "edit_history_tweet_ids": [
+                "1324338467673903104"
+            ],
+            "entities": {
+                "mentions": [
+                    {
+                        "end": 11,
+                        "id": "2966595605",
+                        "start": 0,
+                        "username": "fattonagds"
+                    }
+                ]
+            },
+            "id": "1324338467673903104",
+            "in_reply_to_user_id": "834821098013392897",
+            "lang": "it",
+            "public_metrics": {
+                "impression_count": 0,
+                "like_count": 11,
+                "quote_count": 2,
+                "reply_count": 1,
+                "retweet_count": 0
+            },
+            "referenced_tweets": [
+                {
+                    "id": "1324338382135300097",
+                    "type": "replied_to"
+                }
+            ],
+            "reply_settings": "everyone",
+            "text": "@fattonagds - vicini al bordo piscina. corpi immersi nel ghiaccio, immobili ma vivi. cosa diamine era successo dopo che tutti loro erano corsi nelle cabine, dopo il blackout? ma\u00eblle provava un senso di terrore nuovo, fortissimo. quel mese, se possibile, sarebbe stato perfino -"
+        },
+        {
+            "author_id": "552060753",
+            "conversation_id": "1324338066207617024",
+            "created_at": "2020-11-05T13:10:32.000Z",
+            "edit_history_tweet_ids": [
+                "1324338308927823880"
+            ],
+            "entities": {
+                "mentions": [
+                    {
+                        "end": 16,
+                        "id": "236740964",
+                        "start": 0,
+                        "username": "Typical_Mikhail"
+                    }
+                ]
+            },
+            "id": "1324338308927823880",
+            "in_reply_to_user_id": "236740964",
+            "lang": "in",
+            "public_metrics": {
+                "impression_count": 0,
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 1,
+                "retweet_count": 0
+            },
+            "referenced_tweets": [
+                {
+                    "id": "1324338209136893958",
+                    "type": "replied_to"
+                }
+            ],
+            "reply_settings": "everyone",
+            "text": "@Typical_Mikhail Hahaha jangan jangan kena blackout"
+        },
+        {
+            "author_id": "834821098013392897",
+            "conversation_id": "1324328785504854016",
+            "created_at": "2020-11-05T13:09:40.000Z",
+            "edit_history_tweet_ids": [
+                "1324338092573155328"
+            ],
+            "entities": {
+                "mentions": [
+                    {
+                        "end": 8,
+                        "id": "1287406314461761536",
+                        "start": 0,
+                        "username": "offygds"
+                    },
+                    {
+                        "end": 20,
+                        "id": "2966595605",
+                        "start": 9,
+                        "username": "fattonagds"
+                    }
+                ]
+            },
+            "id": "1324338092573155328",
+            "in_reply_to_user_id": "1287406314461761536",
+            "lang": "it",
+            "public_metrics": {
+                "impression_count": 0,
+                "like_count": 10,
+                "quote_count": 0,
+                "reply_count": 1,
+                "retweet_count": 0
+            },
+            "referenced_tweets": [
+                {
+                    "id": "1324334547241177095",
+                    "type": "replied_to"
+                }
+            ],
+            "reply_settings": "everyone",
+            "text": "@offygds @fattonagds la sera precedente per ma\u00eblle era stata parecchio strana. all'improvviso blackout quindi era corsa immediatamente nella sua cabina come richiesto. non aveva dormito molto, pensierosa ma soprattutto preoccupata per ci\u00f2 che di l\u00ec a poco sarebbe successo. ormai la rossa era -"
+        },
+        {
+            "author_id": "46820711",
+            "context_annotations": [
+                {
+                    "domain": {
+                        "description": "Real world events. ",
+                        "id": "29",
+                        "name": "Events [Entity Service]"
+                    },
+                    "entity": {
+                        "id": "1260821905491152896",
+                        "name": "Misinformation, debunk entity"
+                    }
+                }
+            ],
+            "conversation_id": "1324337920115941376",
+            "created_at": "2020-11-05T13:08:59.000Z",
+            "edit_history_tweet_ids": [
+                "1324337920115941376"
+            ],
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 64,
+                        "normalized_text": "Russia",
+                        "probability": 0.9611,
+                        "start": 59,
+                        "type": "Place"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 16,
+                        "id": "321954654",
+                        "start": 3,
+                        "username": "kylenabecker"
+                    }
+                ]
+            },
+            "id": "1324337920115941376",
+            "lang": "en",
+            "public_metrics": {
+                "impression_count": 0,
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 719
+            },
+            "referenced_tweets": [
+                {
+                    "id": "1324240293907042304",
+                    "type": "retweeted"
+                }
+            ],
+            "reply_settings": "everyone",
+            "text": "RT @kylenabecker: If you took the shadowy duplicity of the Russia hoax, the brazenness of the impeachment scam, the media blackout of the H\u2026"
+        },
+        {
+            "author_id": "794188964617920512",
+            "conversation_id": "1324337815354826754",
+            "created_at": "2020-11-05T13:08:35.000Z",
+            "edit_history_tweet_ids": [
+                "1324337819305783298"
+            ],
+            "id": "1324337819305783298",
+            "in_reply_to_user_id": "794188964617920512",
+            "lang": "en",
+            "public_metrics": {
+                "impression_count": 0,
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 1,
+                "retweet_count": 0
+            },
+            "referenced_tweets": [
+                {
+                    "id": "1324337817644793858",
+                    "type": "replied_to"
+                }
+            ],
+            "reply_settings": "everyone",
+            "text": "But she instead became a phenomenon that nobody that was present at her birth could've imagined.\n\nShe became a revolutionary, creating, innovating, changing the game.\n\nShe took a while to find her feet in the world, but after a blackout in her city, she made her move."
+        },
+        {
+            "author_id": "832931135743258625",
+            "conversation_id": "1324335273992400899",
+            "created_at": "2020-11-05T13:08:05.000Z",
+            "edit_history_tweet_ids": [
+                "1324337691459260416"
+            ],
+            "id": "1324337691459260416",
+            "in_reply_to_user_id": "1194399133777485824",
+            "lang": "it",
+            "public_metrics": {
+                "impression_count": 0,
+                "like_count": 11,
+                "quote_count": 0,
+                "reply_count": 1,
+                "retweet_count": 0
+            },
+            "referenced_tweets": [
+                {
+                    "id": "1324335280745271297",
+                    "type": "replied_to"
+                }
+            ],
+            "reply_settings": "everyone",
+            "text": "@papigds il blackout aveva lasciato tutti un po\u2019 sconvolti, d\u2019altronde erano li per spaccarsi e fare festa, non era certo la piega che avrebbe dovuto prendere la serata. si raccolsero tutti sul ponte della nave decidendo che sarebbe stato meglio aspettare la mattina seguente, la luce \u2014"
+        },
+        {
+            "author_id": "320948970",
+            "context_annotations": [
+                {
+                    "domain": {
+                        "description": "Named people in the world like Nelson Mandela",
+                        "id": "10",
+                        "name": "Person"
+                    },
+                    "entity": {
+                        "description": "Linkin Park",
+                        "id": "864578631275761664",
+                        "name": "Linkin Park"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A musician in the world, like Adele or Bob Dylan",
+                        "id": "54",
+                        "name": "Musician"
+                    },
+                    "entity": {
+                        "description": "Linkin Park",
+                        "id": "864578631275761664",
+                        "name": "Linkin Park"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A category for a musical style, like Pop, Rock, or Rap",
+                        "id": "55",
+                        "name": "Music Genre"
+                    },
+                    "entity": {
+                        "description": "Alternative",
+                        "id": "849684194242338816",
+                        "name": "Alternative rock"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A taxonomy of user interests. ",
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy"
+                    },
+                    "entity": {
+                        "description": "Rock",
+                        "id": "806571747730341888",
+                        "name": "Rock"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A taxonomy of user interests. ",
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy"
+                    },
+                    "entity": {
+                        "description": "Music and radio",
+                        "id": "847524658970636288",
+                        "name": "Music"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A taxonomy of user interests. ",
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy"
+                    },
+                    "entity": {
+                        "description": "Alternative",
+                        "id": "849684194242338816",
+                        "name": "Alternative rock"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A taxonomy of user interests. ",
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy"
+                    },
+                    "entity": {
+                        "description": "Linkin Park",
+                        "id": "864578631275761664",
+                        "name": "Linkin Park"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A taxonomy of user interests. ",
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy"
+                    },
+                    "entity": {
+                        "id": "1293191811561709575",
+                        "name": "Indie & Alternative"
+                    }
+                }
+            ],
+            "conversation_id": "1324337404166070274",
+            "created_at": "2020-11-05T13:06:56.000Z",
+            "edit_history_tweet_ids": [
+                "1324337404166070274"
+            ],
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 80,
+                        "normalized_text": "Blackout",
+                        "probability": 0.7397,
+                        "start": 73,
+                        "type": "Other"
+                    }
+                ],
+                "hashtags": [
+                    {
+                        "end": 93,
+                        "start": 82,
+                        "tag": "linkinpark"
+                    },
+                    {
+                        "end": 97,
+                        "start": 94,
+                        "tag": "lp"
+                    }
+                ]
+            },
+            "id": "1324337404166070274",
+            "lang": "en",
+            "public_metrics": {
+                "impression_count": 0,
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "reply_settings": "everyone",
+            "text": "You run but then back you fall\nSuffocate in the mess you're making\n:from Blackout #linkinpark #lp"
+        },
+        {
+            "author_id": "113214799",
+            "conversation_id": "1324337333970370561",
+            "created_at": "2020-11-05T13:06:40.000Z",
+            "edit_history_tweet_ids": [
+                "1324337333970370561"
+            ],
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 57,
+                        "normalized_text": "BLM",
+                        "probability": 0.3343,
+                        "start": 55,
+                        "type": "Other"
+                    }
+                ]
+            },
+            "id": "1324337333970370561",
+            "lang": "en",
+            "public_metrics": {
+                "impression_count": 0,
+                "like_count": 4,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "reply_settings": "everyone",
+            "text": "InFLuEncErrrrSsSs that have a Blackout Tuesday square, BLM highlight, and are showing off their reg content without saying anything about the election... BYE BITCH \u270c\ud83c\udffd\n\nRead the room, this isn\u2019t your time or your week. Check that privilege at the door please."
+        },
+        {
+            "author_id": "1151232712138788864",
+            "conversation_id": "1324337268836995072",
+            "created_at": "2020-11-05T13:06:24.000Z",
+            "edit_history_tweet_ids": [
+                "1324337268836995072"
+            ],
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 133,
+                        "normalized_text": "UK",
+                        "probability": 0.958,
+                        "start": 132,
+                        "type": "Place"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 15,
+                        "id": "1017280993",
+                        "start": 3,
+                        "username": "davidkurten"
+                    }
+                ]
+            },
+            "id": "1324337268836995072",
+            "lang": "en",
+            "public_metrics": {
+                "impression_count": 0,
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 59
+            },
+            "referenced_tweets": [
+                {
+                    "id": "1323930347000705025",
+                    "type": "retweeted"
+                }
+            ],
+            "reply_settings": "everyone",
+            "text": "RT @davidkurten: Anyone with half a brain could see this coming. Wind farms stop producing electricity when the wind stops blowing. UK ener\u2026"
+        },
+        {
+            "author_id": "1324222288225574913",
+            "conversation_id": "1324337238151438336",
+            "created_at": "2020-11-05T13:06:17.000Z",
+            "edit_history_tweet_ids": [
+                "1324337238151438336"
+            ],
+            "entities": {
+                "hashtags": [
+                    {
+                        "end": 59,
+                        "start": 50,
+                        "tag": "Blackout"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "pic.twitter.com/ROInm0CqLc",
+                        "end": 84,
+                        "expanded_url": "https://twitter.com/Sikhulile_Thusi/status/1324337238151438336/video/1",
+                        "media_key": "7_1324335108510392320",
+                        "start": 61,
+                        "url": "https://t.co/ROInm0CqLc"
+                    }
+                ]
+            },
+            "id": "1324337238151438336",
+            "lang": "en",
+            "public_metrics": {
+                "impression_count": 0,
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "reply_settings": "everyone",
+            "text": "\"I'm sure he didn't wanna go home the next day\"\ud83d\ude02\ud83d\ude02 #Blackout\ud83c\udf1a https://t.co/ROInm0CqLc"
+        },
+        {
+            "author_id": "1283871523779084290",
+            "context_annotations": [
+                {
+                    "domain": {
+                        "description": "Named people in the world like Nelson Mandela",
+                        "id": "10",
+                        "name": "Person"
+                    },
+                    "entity": {
+                        "description": "James Woods",
+                        "id": "899697002988019714",
+                        "name": "James Woods"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "An actor or actress in the world, like Kate Winslet or Leonardo DiCaprio",
+                        "id": "56",
+                        "name": "Actor"
+                    },
+                    "entity": {
+                        "description": "James Woods",
+                        "id": "899697002988019714",
+                        "name": "James Woods"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A taxonomy of user interests. ",
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy"
+                    },
+                    "entity": {
+                        "description": "James Woods",
+                        "id": "899697002988019714",
+                        "name": "James Woods"
+                    }
+                }
+            ],
+            "conversation_id": "1324184501237424128",
+            "created_at": "2020-11-05T13:05:47.000Z",
+            "edit_history_tweet_ids": [
+                "1324337113324609536"
+            ],
+            "entities": {
+                "mentions": [
+                    {
+                        "end": 15,
+                        "id": "78523300",
+                        "start": 0,
+                        "username": "RealJamesWoods"
+                    }
+                ]
+            },
+            "id": "1324337113324609536",
+            "in_reply_to_user_id": "78523300",
+            "lang": "en",
+            "public_metrics": {
+                "impression_count": 0,
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "referenced_tweets": [
+                {
+                    "id": "1324184501237424128",
+                    "type": "replied_to"
+                }
+            ],
+            "reply_settings": "everyone",
+            "text": "@RealJamesWoods That's why there should be a media blackout the night of the election."
+        },
+        {
+            "author_id": "726268166",
+            "conversation_id": "1324335016185339904",
+            "created_at": "2020-11-05T13:05:44.000Z",
+            "edit_history_tweet_ids": [
+                "1324337098854465540"
+            ],
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 23,
+                        "normalized_text": "Blackout",
+                        "probability": 0.9313,
+                        "start": 16,
+                        "type": "Other"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 15,
+                        "id": "568613693",
+                        "start": 0,
+                        "username": "ethansmcdowell"
+                    },
+                    {
+                        "end": 40,
+                        "id": "24700232",
+                        "start": 28,
+                        "username": "SerenaChloe"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "vimeo.com/227133148",
+                        "end": 78,
+                        "expanded_url": "https://vimeo.com/227133148",
+                        "start": 55,
+                        "status": 200,
+                        "unwound_url": "https://vimeo.com/227133148",
+                        "url": "https://t.co/k9d4f6cVce"
+                    }
+                ]
+            },
+            "id": "1324337098854465540",
+            "in_reply_to_user_id": "568613693",
+            "lang": "en",
+            "public_metrics": {
+                "impression_count": 0,
+                "like_count": 2,
+                "quote_count": 0,
+                "reply_count": 1,
+                "retweet_count": 0
+            },
+            "referenced_tweets": [
+                {
+                    "id": "1324335016185339904",
+                    "type": "replied_to"
+                }
+            ],
+            "reply_settings": "everyone",
+            "text": "@ethansmcdowell Blackout by @SerenaChloe is brilliant: https://t.co/k9d4f6cVce\n\nI also have a trilogy of films on the themes of loneliness, old age and dementia. If those topics are of interest too let me know and I can share the links."
+        },
+        {
+            "author_id": "906053660467191808",
+            "context_annotations": [
+                {
+                    "domain": {
+                        "description": "A taxonomy of user interests. ",
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy"
+                    },
+                    "entity": {
+                        "description": "News",
+                        "id": "1046545033657081857",
+                        "name": "News"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A taxonomy of user interests. ",
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy"
+                    },
+                    "entity": {
+                        "id": "1196447117297905665",
+                        "name": "News outlets"
+                    }
+                }
+            ],
+            "conversation_id": "1324120414243741698",
+            "created_at": "2020-11-05T13:05:20.000Z",
+            "edit_history_tweet_ids": [
+                "1324337000078548995"
+            ],
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 58,
+                        "normalized_text": "RAAF",
+                        "probability": 0.3766,
+                        "start": 55,
+                        "type": "Other"
+                    },
+                    {
+                        "end": 117,
+                        "normalized_text": "The Nursery End",
+                        "probability": 0.7629,
+                        "start": 103,
+                        "type": "Other"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 15,
+                        "id": "1198682851199397889",
+                        "start": 0,
+                        "username": "CricketWartime"
+                    }
+                ]
+            },
+            "id": "1324337000078548995",
+            "in_reply_to_user_id": "1198682851199397889",
+            "lang": "en",
+            "public_metrics": {
+                "impression_count": 0,
+                "like_count": 1,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "referenced_tweets": [
+                {
+                    "id": "1324326311813353475",
+                    "type": "replied_to"
+                }
+            ],
+            "reply_settings": "everyone",
+            "text": "@CricketWartime That game was between the Army and the RAAF and there were around 8000 there to watch. The Nursery End looks fairly empty but that does not show the bulk of the ground. The newspaper reports do not mention anything but there was often a blackout on V1 attacks at the time"
+        },
+        {
+            "author_id": "1312941287457259521",
+            "conversation_id": "1324336552688824326",
+            "created_at": "2020-11-05T13:05:03.000Z",
+            "edit_history_tweet_ids": [
+                "1324336928263528448"
+            ],
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 50,
+                        "normalized_text": "Bang Bong",
+                        "probability": 0.7961,
+                        "start": 42,
+                        "type": "Other"
+                    }
+                ]
+            },
+            "id": "1324336928263528448",
+            "in_reply_to_user_id": "1316999951247757312",
+            "lang": "en",
+            "public_metrics": {
+                "impression_count": 0,
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "referenced_tweets": [
+                {
+                    "id": "1324336552688824326",
+                    "type": "replied_to"
+                }
+            ],
+            "reply_settings": "everyone",
+            "text": "@ROUTE1988Backup Blackout ba tayo for the Bang Bong? sa card mamsh?"
+        },
+        {
+            "author_id": "930300322416803840",
+            "conversation_id": "1324336369976553473",
+            "created_at": "2020-11-05T13:02:50.000Z",
+            "edit_history_tweet_ids": [
+                "1324336369976553473"
+            ],
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 7,
+                        "normalized_text": "Blackout",
+                        "probability": 0.6929,
+                        "start": 0,
+                        "type": "Other"
+                    }
+                ]
+            },
+            "id": "1324336369976553473",
+            "lang": "en",
+            "public_metrics": {
+                "impression_count": 0,
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "reply_settings": "everyone",
+            "text": "Blackout why u do dis"
+        },
+        {
+            "author_id": "71301453",
+            "conversation_id": "1324336252125138944",
+            "created_at": "2020-11-05T13:02:22.000Z",
+            "edit_history_tweet_ids": [
+                "1324336252125138944"
+            ],
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 76,
+                        "normalized_text": "photoshop",
+                        "probability": 0.7492,
+                        "start": 68,
+                        "type": "Other"
+                    },
+                    {
+                        "end": 137,
+                        "normalized_text": "Malick",
+                        "probability": 0.5229,
+                        "start": 132,
+                        "type": "Other"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 13,
+                        "id": "853891665177845760",
+                        "start": 3,
+                        "username": "annekabot"
+                    }
+                ]
+            },
+            "id": "1324336252125138944",
+            "lang": "en",
+            "public_metrics": {
+                "impression_count": 0,
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 1
+            },
+            "referenced_tweets": [
+                {
+                    "id": "1324335409678196739",
+                    "type": "retweeted"
+                }
+            ],
+            "reply_settings": "everyone",
+            "text": "RT @annekabot: A blackout poem  shot on auto and edited entirely in photoshop later about terror and tenderness that pays homage to Malick"
+        },
+        {
+            "author_id": "1079800160081850369",
+            "context_annotations": [
+                {
+                    "domain": {
+                        "description": "Top level entities that describe a Brands industry",
+                        "id": "45",
+                        "name": "Brand Vertical"
+                    },
+                    "entity": {
+                        "id": "781974597310615553",
+                        "name": "Entertainment"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+                        "id": "30",
+                        "name": "Entities [Entity Service]"
+                    },
+                    "entity": {
+                        "id": "781974597222535168",
+                        "name": "Online Services - Entertainment"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "Brands and Companies",
+                        "id": "47",
+                        "name": "Brand"
+                    },
+                    "entity": {
+                        "id": "10040276669",
+                        "name": "Spotify"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A taxonomy of user interests. ",
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy"
+                    },
+                    "entity": {
+                        "id": "10040276669",
+                        "name": "Spotify"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A taxonomy of user interests. ",
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy"
+                    },
+                    "entity": {
+                        "description": "Music and radio",
+                        "id": "847524658970636288",
+                        "name": "Music"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A taxonomy of user interests. ",
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy"
+                    },
+                    "entity": {
+                        "id": "1196457934370172928",
+                        "name": "Music industry"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A taxonomy of user interests. ",
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy"
+                    },
+                    "entity": {
+                        "id": "1288826829634035714",
+                        "name": "Backstage"
+                    }
+                }
+            ],
+            "conversation_id": "1324336237042425857",
+            "created_at": "2020-11-05T13:02:18.000Z",
+            "edit_history_tweet_ids": [
+                "1324336237042425857"
+            ],
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 7,
+                        "normalized_text": "BLACKOUT",
+                        "probability": 0.5005,
+                        "start": 0,
+                        "type": "Organization"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 76,
+                        "id": "873786517436674048",
+                        "start": 66,
+                        "username": "jclumusic"
+                    },
+                    {
+                        "end": 91,
+                        "id": "1024234193432326145",
+                        "start": 77,
+                        "username": "MajorSteez_za"
+                    },
+                    {
+                        "end": 104,
+                        "id": "1024793815675269121",
+                        "start": 92,
+                        "username": "kindlynxsh0"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "open.spotify.com/playlist/1ZHHX\u2026",
+                        "end": 150,
+                        "expanded_url": "https://open.spotify.com/playlist/1ZHHX5qCcHml2MCL4BPJL8",
+                        "start": 127,
+                        "status": 200,
+                        "unwound_url": "https://open.spotify.com/playlist/1ZHHX5qCcHml2MCL4BPJL8",
+                        "url": "https://t.co/8MiGbQKIy2"
+                    }
+                ]
+            },
+            "id": "1324336237042425857",
+            "lang": "en",
+            "public_metrics": {
+                "impression_count": 0,
+                "like_count": 5,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 1
+            },
+            "reply_settings": "everyone",
+            "text": "BLACKOUT PLAYLIST ON SPOTIFY FEATURING ARTISTS LIKE @lethabo_acid @jclumusic @MajorSteez_za @kindlynxsh0 &amp; more link below\nhttps://t.co/8MiGbQKIy2"
+        },
+        {
+            "author_id": "1106552125180559361",
+            "context_annotations": [
+                {
+                    "domain": {
+                        "description": "A taxonomy of user interests. ",
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy"
+                    },
+                    "entity": {
+                        "description": "US National News",
+                        "id": "1003932601839579136",
+                        "name": "US national news"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A taxonomy of user interests. ",
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy"
+                    },
+                    "entity": {
+                        "description": "News",
+                        "id": "1046545033657081857",
+                        "name": "News"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A taxonomy of user interests. ",
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy"
+                    },
+                    "entity": {
+                        "id": "1286379401228124160",
+                        "name": "Americas"
+                    }
+                }
+            ],
+            "conversation_id": "1324336108331741186",
+            "created_at": "2020-11-05T13:01:47.000Z",
+            "edit_history_tweet_ids": [
+                "1324336108331741186"
+            ],
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 79,
+                        "normalized_text": "Big Charity",
+                        "probability": 0.6925,
+                        "start": 69,
+                        "type": "Other"
+                    },
+                    {
+                        "end": 129,
+                        "normalized_text": "The Death of America\u2019s Oldest Hospital\nDirected",
+                        "probability": 0.8724,
+                        "start": 83,
+                        "type": "Other"
+                    },
+                    {
+                        "end": 152,
+                        "normalized_text": "Alexander Glustrom",
+                        "probability": 0.919,
+                        "start": 135,
+                        "type": "Person"
+                    },
+                    {
+                        "end": 189,
+                        "normalized_text": "Tenesha Morris",
+                        "probability": 0.9065,
+                        "start": 176,
+                        "type": "Person"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "louisianafilmchannel.com",
+                        "end": 50,
+                        "expanded_url": "http://www.louisianafilmchannel.com",
+                        "start": 27,
+                        "url": "https://t.co/i0Z6uEDBE9"
+                    },
+                    {
+                        "display_url": "pic.twitter.com/oTqvjlIxW9",
+                        "end": 214,
+                        "expanded_url": "https://twitter.com/lafilmchannel/status/1324336108331741186/photo/1",
+                        "media_key": "3_1324336106595373059",
+                        "start": 191,
+                        "url": "https://t.co/oTqvjlIxW9"
+                    }
+                ]
+            },
+            "id": "1324336108331741186",
+            "lang": "en",
+            "public_metrics": {
+                "impression_count": 0,
+                "like_count": 1,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "reply_settings": "everyone",
+            "text": "Submit your movie today on https://t.co/i0Z6uEDBE9\nNew Movies Added:\nBig Charity - The Death of America\u2019s Oldest Hospital\nDirected by: Alexander Glustrom\nBlackout\nDirected by: Tenesha Morris https://t.co/oTqvjlIxW9"
+        },
+        {
+            "author_id": "246095089",
+            "context_annotations": [
+                {
+                    "domain": {
+                        "description": "Real world events. ",
+                        "id": "29",
+                        "name": "Events [Entity Service]"
+                    },
+                    "entity": {
+                        "id": "1260821905491152896",
+                        "name": "Misinformation, debunk entity"
+                    }
+                }
+            ],
+            "conversation_id": "1324335716294381570",
+            "created_at": "2020-11-05T13:00:14.000Z",
+            "edit_history_tweet_ids": [
+                "1324335716294381570"
+            ],
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 64,
+                        "normalized_text": "Russia",
+                        "probability": 0.9611,
+                        "start": 59,
+                        "type": "Place"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 16,
+                        "id": "321954654",
+                        "start": 3,
+                        "username": "kylenabecker"
+                    }
+                ]
+            },
+            "id": "1324335716294381570",
+            "lang": "en",
+            "public_metrics": {
+                "impression_count": 0,
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 719
+            },
+            "referenced_tweets": [
+                {
+                    "id": "1324240293907042304",
+                    "type": "retweeted"
+                }
+            ],
+            "reply_settings": "everyone",
+            "text": "RT @kylenabecker: If you took the shadowy duplicity of the Russia hoax, the brazenness of the impeachment scam, the media blackout of the H\u2026"
+        },
+        {
+            "author_id": "4897036502",
+            "conversation_id": "1324335585616539648",
+            "created_at": "2020-11-05T12:59:43.000Z",
+            "edit_history_tweet_ids": [
+                "1324335585616539648"
+            ],
+            "entities": {
+                "urls": [
+                    {
+                        "display_url": "pic.twitter.com/5fi8XhJ2Pe",
+                        "end": 43,
+                        "expanded_url": "https://twitter.com/mawardi2011/status/1324335585616539648/photo/1",
+                        "media_key": "3_1324335576506531840",
+                        "start": 20,
+                        "url": "https://t.co/5fi8XhJ2Pe"
+                    }
+                ]
+            },
+            "id": "1324335585616539648",
+            "lang": "en",
+            "public_metrics": {
+                "impression_count": 0,
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "reply_settings": "everyone",
+            "text": "blackout otw ! haha https://t.co/5fi8XhJ2Pe"
+        },
+        {
+            "author_id": "1298338621477576706",
+            "conversation_id": "1324295205990866947",
+            "created_at": "2020-11-05T12:59:42.000Z",
+            "edit_history_tweet_ids": [
+                "1324335582370287616"
+            ],
+            "entities": {
+                "mentions": [
+                    {
+                        "end": 14,
+                        "id": "1309977566573473808",
+                        "start": 0,
+                        "username": "Robin55877531"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "public.Next",
+                        "end": 92,
+                        "expanded_url": "http://public.Next",
+                        "start": 69,
+                        "url": "https://t.co/k98IW9mxhK"
+                    }
+                ]
+            },
+            "id": "1324335582370287616",
+            "in_reply_to_user_id": "1309977566573473808",
+            "lang": "en",
+            "public_metrics": {
+                "impression_count": 0,
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "referenced_tweets": [
+                {
+                    "id": "1324295205990866947",
+                    "type": "replied_to"
+                }
+            ],
+            "reply_settings": "everyone",
+            "text": "@Robin55877531 This fraud episode is exposing the media bias -to the https://t.co/k98IW9mxhK we need the media blackout for sheep to wake up and be informed about deceptions."
+        },
+        {
+            "author_id": "803947533559070721",
+            "context_annotations": [
+                {
+                    "domain": {
+                        "description": "A taxonomy of user interests. ",
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy"
+                    },
+                    "entity": {
+                        "id": "1196446161223028736",
+                        "name": "Social media"
+                    }
+                }
+            ],
+            "conversation_id": "1324335541610008579",
+            "created_at": "2020-11-05T12:59:32.000Z",
+            "edit_history_tweet_ids": [
+                "1324335541610008579"
+            ],
+            "id": "1324335541610008579",
+            "lang": "en",
+            "public_metrics": {
+                "impression_count": 0,
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "reply_settings": "everyone",
+            "text": "&amp; to all of those on social media who havent spoken up about the racial issues and injustice in this country or this election. The only thing you contributed was a black square on blackout tuesday.. your silence speaks volumes! &amp; its clear who yall voted for."
+        },
+        {
+            "author_id": "853891665177845760",
+            "conversation_id": "1324335409678196739",
+            "created_at": "2020-11-05T12:59:01.000Z",
+            "edit_history_tweet_ids": [
+                "1324335409678196739"
+            ],
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 61,
+                        "normalized_text": "photoshop",
+                        "probability": 0.6946,
+                        "start": 53,
+                        "type": "Other"
+                    },
+                    {
+                        "end": 122,
+                        "normalized_text": "Malick",
+                        "probability": 0.5531,
+                        "start": 117,
+                        "type": "Other"
+                    }
+                ]
+            },
+            "id": "1324335409678196739",
+            "lang": "en",
+            "public_metrics": {
+                "impression_count": 0,
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 1
+            },
+            "reply_settings": "everyone",
+            "text": "A blackout poem  shot on auto and edited entirely in photoshop later about terror and tenderness that pays homage to Malick"
+        },
+        {
+            "author_id": "4713485301",
+            "conversation_id": "1324335142471634945",
+            "created_at": "2020-11-05T12:57:57.000Z",
+            "edit_history_tweet_ids": [
+                "1324335142471634945"
+            ],
+            "entities": {
+                "hashtags": [
+                    {
+                        "end": 249,
+                        "start": 234,
+                        "tag": "createyourhome"
+                    },
+                    {
+                        "end": 259,
+                        "start": 250,
+                        "tag": "blackout"
+                    },
+                    {
+                        "end": 276,
+                        "start": 260,
+                        "tag": "guaranteedirish"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "pic.twitter.com/0P4O0kaNAr",
+                        "end": 300,
+                        "expanded_url": "https://twitter.com/AcmeBlinds_Irl/status/1324335142471634945/video/1",
+                        "media_key": "7_1324335026771808258",
+                        "start": 277,
+                        "url": "https://t.co/0P4O0kaNAr"
+                    }
+                ]
+            },
+            "id": "1324335142471634945",
+            "lang": "en",
+            "public_metrics": {
+                "impression_count": 0,
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "reply_settings": "everyone",
+            "text": "A recent blackout blind fitted in a high skylight setting. For all your shade solutions contact us today.   This particular blind uses mains electricity but can be solar powered also.  Such a beautiful window i'm sure you will agree. #createyourhome #blackout #guaranteedirish https://t.co/0P4O0kaNAr"
+        },
+        {
+            "author_id": "832999521739214848",
+            "context_annotations": [
+                {
+                    "domain": {
+                        "description": "Named people in the world like Nelson Mandela",
+                        "id": "10",
+                        "name": "Person"
+                    },
+                    "entity": {
+                        "description": "45th US President, Donald Trump",
+                        "id": "799022225751871488",
+                        "name": "Donald Trump"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "Politicians in the world, like Joe Biden",
+                        "id": "35",
+                        "name": "Politician"
+                    },
+                    "entity": {
+                        "description": "45th US President, Donald Trump",
+                        "id": "799022225751871488",
+                        "name": "Donald Trump"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A taxonomy of user interests. ",
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy"
+                    },
+                    "entity": {
+                        "description": "45th US President, Donald Trump",
+                        "id": "799022225751871488",
+                        "name": "Donald Trump"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A taxonomy of user interests. ",
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy"
+                    },
+                    "entity": {
+                        "description": "Politics",
+                        "id": "847878884917886977",
+                        "name": "Politics"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A taxonomy of user interests. ",
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy"
+                    },
+                    "entity": {
+                        "description": "Politician",
+                        "id": "1070032753834438656",
+                        "name": "Political figures"
+                    }
+                }
+            ],
+            "conversation_id": "1324335104836206595",
+            "created_at": "2020-11-05T12:57:48.000Z",
+            "edit_history_tweet_ids": [
+                "1324335104836206595"
+            ],
+            "entities": {
+                "hashtags": [
+                    {
+                        "end": 24,
+                        "start": 15,
+                        "tag": "mattino5"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 13,
+                        "id": "1627031726",
+                        "start": 3,
+                        "username": "carmentpf"
+                    }
+                ]
+            },
+            "id": "1324335104836206595",
+            "lang": "it",
+            "public_metrics": {
+                "impression_count": 0,
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 57
+            },
+            "referenced_tweets": [
+                {
+                    "id": "1324274213415432192",
+                    "type": "retweeted"
+                }
+            ],
+            "reply_settings": "everyone",
+            "text": "RT @carmentpf: #mattino5 \"perch\u00e9 Trump vuole ricontrollare le schede?\".\nLa giornalista: \nPerch\u00e8 nelle schefe spedite risultano molti \"morti\u2026"
+        },
+        {
+            "author_id": "126179686",
+            "context_annotations": [
+                {
+                    "domain": {
+                        "description": "Named people in the world like Nelson Mandela",
+                        "id": "10",
+                        "name": "Person"
+                    },
+                    "entity": {
+                        "description": "US President Joe Biden",
+                        "id": "10040395078",
+                        "name": "Joe Biden"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "Politicians in the world, like Joe Biden",
+                        "id": "35",
+                        "name": "Politician"
+                    },
+                    "entity": {
+                        "description": "US President Joe Biden",
+                        "id": "10040395078",
+                        "name": "Joe Biden"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A taxonomy of user interests. ",
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy"
+                    },
+                    "entity": {
+                        "description": "US President Joe Biden",
+                        "id": "10040395078",
+                        "name": "Joe Biden"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A taxonomy of user interests. ",
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy"
+                    },
+                    "entity": {
+                        "description": "Politics",
+                        "id": "847878884917886977",
+                        "name": "Politics"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A taxonomy of user interests. ",
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy"
+                    },
+                    "entity": {
+                        "description": "Politician",
+                        "id": "1070032753834438656",
+                        "name": "Political figures"
+                    }
+                }
+            ],
+            "conversation_id": "1324335021914755072",
+            "created_at": "2020-11-05T12:57:28.000Z",
+            "edit_history_tweet_ids": [
+                "1324335021914755072"
+            ],
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 22,
+                        "normalized_text": "Biden",
+                        "probability": 0.9349,
+                        "start": 18,
+                        "type": "Person"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 13,
+                        "id": "1141466587695763456",
+                        "start": 3,
+                        "username": "cianyzzle"
+                    }
+                ]
+            },
+            "id": "1324335021914755072",
+            "lang": "en",
+            "public_metrics": {
+                "impression_count": 0,
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 45
+            },
+            "referenced_tweets": [
+                {
+                    "id": "1324142530900885505",
+                    "type": "retweeted"
+                }
+            ],
+            "reply_settings": "everyone",
+            "text": "RT @cianyzzle: if Biden wins I\u2019ll blackout this weekend"
+        },
+        {
+            "author_id": "1292850694085468161",
+            "conversation_id": "1324334425748824064",
+            "created_at": "2020-11-05T12:57:20.000Z",
+            "edit_history_tweet_ids": [
+                "1324334987420729350"
+            ],
+            "entities": {
+                "mentions": [
+                    {
+                        "end": 7,
+                        "id": "1298908543618183169",
+                        "start": 0,
+                        "username": "FWBESS"
+                    }
+                ]
+            },
+            "id": "1324334987420729350",
+            "in_reply_to_user_id": "1298908543618183169",
+            "lang": "in",
+            "public_metrics": {
+                "impression_count": 0,
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "referenced_tweets": [
+                {
+                    "id": "1324334425748824064",
+                    "type": "replied_to"
+                }
+            ],
+            "reply_settings": "everyone",
+            "text": "@FWBESS aku suka blackout"
+        },
+        {
+            "author_id": "36107051",
+            "conversation_id": "1324334975542505475",
+            "created_at": "2020-11-05T12:57:17.000Z",
+            "edit_history_tweet_ids": [
+                "1324334975542505475"
+            ],
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 46,
+                        "normalized_text": "Radio Blackout Map",
+                        "probability": 0.7159,
+                        "start": 29,
+                        "type": "Other"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 13,
+                        "id": "978776569916284928",
+                        "start": 3,
+                        "username": "Loveon999"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "pic.twitter.com/apD7W8wugc",
+                        "end": 120,
+                        "expanded_url": "https://twitter.com/Loveon999/status/1324329829517283328/photo/1",
+                        "media_key": "16_1324329809636257792",
+                        "start": 97,
+                        "url": "https://t.co/apD7W8wugc"
+                    }
+                ]
+            },
+            "id": "1324334975542505475",
+            "lang": "en",
+            "public_metrics": {
+                "impression_count": 0,
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 1
+            },
+            "referenced_tweets": [
+                {
+                    "id": "1324329829517283328",
+                    "type": "retweeted"
+                }
+            ],
+            "reply_settings": "everyone",
+            "text": "RT @Loveon999: \u261d\ufe0f That's the Radio Blackout Map created by the solar flare. \ud83d\udc47 This is the flare. https://t.co/apD7W8wugc"
+        },
+        {
+            "author_id": "1021172712956481538",
+            "context_annotations": [
+                {
+                    "domain": {
+                        "description": "Real world events. ",
+                        "id": "29",
+                        "name": "Events [Entity Service]"
+                    },
+                    "entity": {
+                        "id": "1260821905491152896",
+                        "name": "Misinformation, debunk entity"
+                    }
+                }
+            ],
+            "conversation_id": "1324334890993831936",
+            "created_at": "2020-11-05T12:56:57.000Z",
+            "edit_history_tweet_ids": [
+                "1324334890993831936"
+            ],
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 64,
+                        "normalized_text": "Russia",
+                        "probability": 0.9611,
+                        "start": 59,
+                        "type": "Place"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 16,
+                        "id": "321954654",
+                        "start": 3,
+                        "username": "kylenabecker"
+                    }
+                ]
+            },
+            "id": "1324334890993831936",
+            "lang": "en",
+            "public_metrics": {
+                "impression_count": 0,
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 719
+            },
+            "referenced_tweets": [
+                {
+                    "id": "1324240293907042304",
+                    "type": "retweeted"
+                }
+            ],
+            "reply_settings": "everyone",
+            "text": "RT @kylenabecker: If you took the shadowy duplicity of the Russia hoax, the brazenness of the impeachment scam, the media blackout of the H\u2026"
+        },
+        {
+            "author_id": "302932394",
+            "context_annotations": [
+                {
+                    "domain": {
+                        "description": "Named people in the world like Nelson Mandela",
+                        "id": "10",
+                        "name": "Person"
+                    },
+                    "entity": {
+                        "id": "1308789041047859205",
+                        "name": "Jo Jorgensen"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "Politicians in the world, like Joe Biden",
+                        "id": "35",
+                        "name": "Politician"
+                    },
+                    "entity": {
+                        "id": "1308789041047859205",
+                        "name": "Jo Jorgensen"
+                    }
+                }
+            ],
+            "conversation_id": "1324334873482592258",
+            "created_at": "2020-11-05T12:56:53.000Z",
+            "edit_history_tweet_ids": [
+                "1324334873482592258"
+            ],
+            "entities": {
+                "mentions": [
+                    {
+                        "end": 15,
+                        "id": "1202683561544953856",
+                        "start": 3,
+                        "username": "Boo_urns357"
+                    }
+                ]
+            },
+            "id": "1324334873482592258",
+            "lang": "en",
+            "public_metrics": {
+                "impression_count": 0,
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 1
+            },
+            "referenced_tweets": [
+                {
+                    "id": "1324333769726349317",
+                    "type": "retweeted"
+                }
+            ],
+            "reply_settings": "everyone",
+            "text": "RT @Boo_urns357: What percent of the vote did @Jorgensen4POTUS get?  I know it was low but I can't find the info ANYWHERE.  Total blackout."
+        },
+        {
+            "author_id": "2328433803",
+            "conversation_id": "1324320411060965377",
+            "created_at": "2020-11-05T12:56:11.000Z",
+            "edit_history_tweet_ids": [
+                "1324334697099468802"
+            ],
+            "entities": {
+                "mentions": [
+                    {
+                        "end": 14,
+                        "id": "350954800",
+                        "start": 0,
+                        "username": "Toni_blackout"
+                    }
+                ]
+            },
+            "id": "1324334697099468802",
+            "in_reply_to_user_id": "350954800",
+            "lang": "es",
+            "public_metrics": {
+                "impression_count": 0,
+                "like_count": 1,
+                "quote_count": 0,
+                "reply_count": 1,
+                "retweet_count": 0
+            },
+            "referenced_tweets": [
+                {
+                    "id": "1324326979873738752",
+                    "type": "replied_to"
+                }
+            ],
+            "reply_settings": "everyone",
+            "text": "@Toni_blackout Sabes de lo que hablo, ehhhh \ud83d\ude02\ud83d\ude02"
+        },
+        {
+            "author_id": "3034341596",
+            "context_annotations": [
+                {
+                    "domain": {
+                        "description": "Named people in the world like Nelson Mandela",
+                        "id": "10",
+                        "name": "Person"
+                    },
+                    "entity": {
+                        "id": "1277665608771895296",
+                        "name": "Jadakiss"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A musician in the world, like Adele or Bob Dylan",
+                        "id": "54",
+                        "name": "Musician"
+                    },
+                    "entity": {
+                        "id": "1277665608771895296",
+                        "name": "Jadakiss"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A category for a musical style, like Pop, Rock, or Rap",
+                        "id": "55",
+                        "name": "Music Genre"
+                    },
+                    "entity": {
+                        "description": "Hip-Hop/Rap",
+                        "id": "810937888334487552",
+                        "name": "Rap"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A taxonomy of user interests. ",
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy"
+                    },
+                    "entity": {
+                        "description": "Hip-Hop/Rap",
+                        "id": "810937888334487552",
+                        "name": "Rap"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A taxonomy of user interests. ",
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy"
+                    },
+                    "entity": {
+                        "description": "Music and radio",
+                        "id": "847524658970636288",
+                        "name": "Music"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A taxonomy of user interests. ",
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy"
+                    },
+                    "entity": {
+                        "id": "1277665608771895296",
+                        "name": "Jadakiss"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A taxonomy of user interests. ",
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy"
+                    },
+                    "entity": {
+                        "id": "1291184917221535744",
+                        "name": "Hip hop"
+                    }
+                }
+            ],
+            "conversation_id": "1324334645601853442",
+            "created_at": "2020-11-05T12:55:59.000Z",
+            "edit_history_tweet_ids": [
+                "1324334645601853442"
+            ],
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 72,
+                        "normalized_text": "Jadakiss",
+                        "probability": 0.5972,
+                        "start": 65,
+                        "type": "Person"
+                    },
+                    {
+                        "end": 125,
+                        "normalized_text": "BlackLivesMatter",
+                        "probability": 0.6123,
+                        "start": 110,
+                        "type": "Organization"
+                    }
+                ],
+                "hashtags": [
+                    {
+                        "end": 126,
+                        "start": 109,
+                        "tag": "BlackLivesMatter"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 17,
+                        "id": "1180625876620197889",
+                        "start": 3,
+                        "username": "_winston_chow"
+                    },
+                    {
+                        "end": 34,
+                        "id": "37323294",
+                        "start": 22,
+                        "username": "uniqueloves"
+                    },
+                    {
+                        "end": 51,
+                        "id": "37323294",
+                        "start": 39,
+                        "username": "uniqueloves"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "youtu.be/9iBy3yhjyo8",
+                        "end": 108,
+                        "expanded_url": "https://youtu.be/9iBy3yhjyo8",
+                        "start": 85,
+                        "unwound_url": "https://www.youtube.com/watch?v=9iBy3yhjyo8&feature=youtu.be",
+                        "url": "https://t.co/XolHjgSAfl"
+                    }
+                ]
+            },
+            "id": "1324334645601853442",
+            "lang": "en",
+            "public_metrics": {
+                "impression_count": 0,
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 2
+            },
+            "referenced_tweets": [
+                {
+                    "id": "1324261813832265728",
+                    "type": "retweeted"
+                }
+            ],
+            "reply_settings": "everyone",
+            "text": "RT @_winston_chow: RT @uniqueloves: RT @uniqueloves: The Best of Jadakiss : Blackout https://t.co/XolHjgSAfl #BlackLivesMatter #SayTheirNam\u2026"
+        },
+        {
+            "author_id": "1320013282913103873",
+            "conversation_id": "1324334591730053124",
+            "created_at": "2020-11-05T12:55:46.000Z",
+            "edit_history_tweet_ids": [
+                "1324334591730053124"
+            ],
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 77,
+                        "normalized_text": "The One with the Blackout",
+                        "probability": 0.98,
+                        "start": 53,
+                        "type": "Other"
+                    }
+                ],
+                "hashtags": [
+                    {
+                        "end": 36,
+                        "start": 17,
+                        "tag": "OnThisDayInFriends"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 15,
+                        "id": "61104692",
+                        "start": 3,
+                        "username": "FriendsShow"
+                    }
+                ]
+            },
+            "id": "1324334591730053124",
+            "lang": "en",
+            "public_metrics": {
+                "impression_count": 0,
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 7
+            },
+            "referenced_tweets": [
+                {
+                    "id": "1323730835590316034",
+                    "type": "retweeted"
+                }
+            ],
+            "reply_settings": "everyone",
+            "text": "RT @FriendsShow: #OnThisDayInFriends - November 3 - \"The One with the Blackout\" (season 1, episode 7)  originally aired in 1994. https://t.\u2026"
+        },
+        {
+            "author_id": "730370855973339136",
+            "conversation_id": "1324334552689614852",
+            "created_at": "2020-11-05T12:55:36.000Z",
+            "edit_history_tweet_ids": [
+                "1324334552689614852"
+            ],
+            "entities": {
+                "hashtags": [
+                    {
+                        "end": 128,
+                        "start": 124,
+                        "tag": "PMR"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "prepper.gr/tools/pmr-comm\u2026",
+                        "end": 206,
+                        "expanded_url": "https://www.prepper.gr/tools/pmr-communications-for-emergency-blackout",
+                        "start": 183,
+                        "url": "https://t.co/1ZmDcLIunn"
+                    }
+                ]
+            },
+            "id": "1324334552689614852",
+            "lang": "el",
+            "public_metrics": {
+                "impression_count": 0,
+                "like_count": 7,
+                "quote_count": 0,
+                "reply_count": 1,
+                "retweet_count": 0
+            },
+            "reply_settings": "everyone",
+            "text": "\u0393\u03b9\u03b1 \u03cc\u03c4\u03b1\u03bd \u03b8\u03b1 \u03c0\u03ad\u03c3\u03b5\u03b9 \u03c4\u03bf \u03c3\u03cd\u03c3\u03c4\u03b7\u03bc\u03b1, \u03cc\u03c0\u03bf\u03c5 \u03b4\u03b5\u03bd \u03b8\u03b1 \u03b4\u03bf\u03c5\u03bb\u03b5\u03cd\u03bf\u03c5\u03bd \u03c4\u03b7\u03bb\u03b5\u03c0\u03b9\u03ba\u03bf\u03b9\u03bd\u03c9\u03bd\u03af\u03b5\u03c2 (\u03ba\u03b9\u03bd\u03b7\u03c4\u03cc, \u03c3\u03c4\u03b1\u03b8\u03b5\u03c1\u03cc \u03ba\u03b1\u03b9 internet).\n\n\u0398\u03b1 \u03c7\u03c1\u03b5\u03b9\u03b1\u03c3\u03c4\u03b5\u03af\u03c2 \u03ad\u03bd\u03b1 \u03b1\u03c0\u03bb\u03cc #PMR\n\n\u039c\u03b5 \u03ba\u03cc\u03c3\u03c4\u03bf\u03c2 \u03b1\u03c0\u03cc 20\u20ac \u03bc\u03c0\u03bf\u03c1\u03b5\u03af\u03c2 \u03bd\u03b1 \u03c3\u03ce\u03c3\u03b5\u03b9\u03c2 \u03ba\u03b1\u03b9 \u03bd\u03b1 \u03c3\u03c9\u03b8\u03b5\u03af\u03c2.\n\ud83d\udc47\nhttps://t.co/1ZmDcLIunn"
+        },
+        {
+            "author_id": "4165932021",
+            "conversation_id": "1324329068683284480",
+            "created_at": "2020-11-05T12:55:23.000Z",
+            "edit_history_tweet_ids": [
+                "1324334494300733440"
+            ],
+            "id": "1324334494300733440",
+            "in_reply_to_user_id": "4165932021",
+            "lang": "it",
+            "public_metrics": {
+                "impression_count": 0,
+                "like_count": 9,
+                "quote_count": 1,
+                "reply_count": 1,
+                "retweet_count": 0
+            },
+            "referenced_tweets": [
+                {
+                    "id": "1324334417649803270",
+                    "type": "replied_to"
+                }
+            ],
+            "reply_settings": "everyone",
+            "text": "@gdsregina a causa del blackout, ora toccava a loro prendere in mano la situazione e giocare a poliziotto buono e poliziotto cattivo con la gente; una vera seccatura. si stava cos\u00ec bene, al buio e lei era gi\u00e0 pronta a far prendere qualche spavento alla gente che le passava accanto. prima -"
+        },
+        {
+            "author_id": "929249360",
+            "context_annotations": [
+                {
+                    "domain": {
+                        "description": "Named people in the world like Nelson Mandela",
+                        "id": "10",
+                        "name": "Person"
+                    },
+                    "entity": {
+                        "description": "45th US President, Donald Trump",
+                        "id": "799022225751871488",
+                        "name": "Donald Trump"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "Politicians in the world, like Joe Biden",
+                        "id": "35",
+                        "name": "Politician"
+                    },
+                    "entity": {
+                        "description": "45th US President, Donald Trump",
+                        "id": "799022225751871488",
+                        "name": "Donald Trump"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A taxonomy of user interests. ",
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy"
+                    },
+                    "entity": {
+                        "description": "45th US President, Donald Trump",
+                        "id": "799022225751871488",
+                        "name": "Donald Trump"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A taxonomy of user interests. ",
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy"
+                    },
+                    "entity": {
+                        "description": "Politics",
+                        "id": "847878884917886977",
+                        "name": "Politics"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A taxonomy of user interests. ",
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy"
+                    },
+                    "entity": {
+                        "description": "Politician",
+                        "id": "1070032753834438656",
+                        "name": "Political figures"
+                    }
+                }
+            ],
+            "conversation_id": "1324334414101401603",
+            "created_at": "2020-11-05T12:55:03.000Z",
+            "edit_history_tweet_ids": [
+                "1324334414101401603"
+            ],
+            "entities": {
+                "hashtags": [
+                    {
+                        "end": 24,
+                        "start": 15,
+                        "tag": "mattino5"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 13,
+                        "id": "1627031726",
+                        "start": 3,
+                        "username": "carmentpf"
+                    }
+                ]
+            },
+            "id": "1324334414101401603",
+            "lang": "it",
+            "public_metrics": {
+                "impression_count": 0,
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 57
+            },
+            "referenced_tweets": [
+                {
+                    "id": "1324274213415432192",
+                    "type": "retweeted"
+                }
+            ],
+            "reply_settings": "everyone",
+            "text": "RT @carmentpf: #mattino5 \"perch\u00e9 Trump vuole ricontrollare le schede?\".\nLa giornalista: \nPerch\u00e8 nelle schefe spedite risultano molti \"morti\u2026"
+        },
+        {
+            "author_id": "358309682",
+            "context_annotations": [
+                {
+                    "domain": {
+                        "description": "Real world events. ",
+                        "id": "29",
+                        "name": "Events [Entity Service]"
+                    },
+                    "entity": {
+                        "id": "1260821905491152896",
+                        "name": "Misinformation, debunk entity"
+                    }
+                }
+            ],
+            "conversation_id": "1324334353808314368",
+            "created_at": "2020-11-05T12:54:49.000Z",
+            "edit_history_tweet_ids": [
+                "1324334353808314368"
+            ],
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 64,
+                        "normalized_text": "Russia",
+                        "probability": 0.9611,
+                        "start": 59,
+                        "type": "Place"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 16,
+                        "id": "321954654",
+                        "start": 3,
+                        "username": "kylenabecker"
+                    }
+                ]
+            },
+            "id": "1324334353808314368",
+            "lang": "en",
+            "public_metrics": {
+                "impression_count": 0,
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 719
+            },
+            "referenced_tweets": [
+                {
+                    "id": "1324240293907042304",
+                    "type": "retweeted"
+                }
+            ],
+            "reply_settings": "everyone",
+            "text": "RT @kylenabecker: If you took the shadowy duplicity of the Russia hoax, the brazenness of the impeachment scam, the media blackout of the H\u2026"
+        },
+        {
+            "author_id": "1181257192026099712",
+            "conversation_id": "1324272725838344192",
+            "created_at": "2020-11-05T12:54:33.000Z",
+            "edit_history_tweet_ids": [
+                "1324334284442914818"
+            ],
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 51,
+                        "normalized_text": "Blackout",
+                        "probability": 0.6739,
+                        "start": 44,
+                        "type": "Other"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 11,
+                        "id": "1352547041071812608",
+                        "start": 0,
+                        "username": "hotshinoda"
+                    }
+                ]
+            },
+            "id": "1324334284442914818",
+            "in_reply_to_user_id": "1171450308389552128",
+            "lang": "en",
+            "public_metrics": {
+                "impression_count": 0,
+                "like_count": 1,
+                "quote_count": 0,
+                "reply_count": 1,
+                "retweet_count": 0
+            },
+            "referenced_tweets": [
+                {
+                    "id": "1324333611563143169",
+                    "type": "replied_to"
+                }
+            ],
+            "reply_settings": "everyone",
+            "text": "@hotshinoda I was just making sure okay \ud83d\ude2d\ud83d\ude02. Blackout?"
+        },
+        {
+            "author_id": "388587190",
+            "conversation_id": "1324334224787165187",
+            "created_at": "2020-11-05T12:54:18.000Z",
+            "edit_history_tweet_ids": [
+                "1324334224787165187"
+            ],
+            "entities": {
+                "mentions": [
+                    {
+                        "end": 14,
+                        "id": "1075376311667814400",
+                        "start": 3,
+                        "username": "Mynation13"
+                    },
+                    {
+                        "end": 30,
+                        "id": "67378160",
+                        "start": 16,
+                        "username": "DainikBhaskar"
+                    }
+                ]
+            },
+            "id": "1324334224787165187",
+            "lang": "und",
+            "public_metrics": {
+                "impression_count": 0,
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 52
+            },
+            "referenced_tweets": [
+                {
+                    "id": "1324273171759943680",
+                    "type": "retweeted"
+                }
+            ],
+            "reply_settings": "everyone",
+            "text": "RT @Mynation13: @DainikBhaskar\nWhy girls face is blackout (hidden) and boys faces are shown clearly?\n\n\u092a\u0939\u0932\u0940 \u092c\u093e\u0930 \u0938\u094b\u0936\u0932 \u092e\u0940\u0921\u093f\u092f\u093e \u0917\u0948\u0902\u0917 \u092e\u0947\u0902 \u0936\u093e\u092e\u093f\u0932\u2026"
+        }
+    ],
+    "meta": {
+        "newest_id": "1324342925849849857",
+        "next_token": "b26v89c19zqg8o3fosbttm5ebhwn2esp83yqovkkqpcvx",
+        "oldest_id": "1324334224787165187",
+        "result_count": 89
+    }
+}

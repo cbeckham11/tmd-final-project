@@ -1,0 +1,3259 @@
+{
+    "data": [
+        {
+            "author_id": "796521640829952000",
+            "context_annotations": [
+                {
+                    "domain": {
+                        "description": "Named people in the world like Nelson Mandela",
+                        "id": "10",
+                        "name": "Person"
+                    },
+                    "entity": {
+                        "description": "US President Joe Biden",
+                        "id": "10040395078",
+                        "name": "Joe Biden"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "Politicians in the world, like Joe Biden",
+                        "id": "35",
+                        "name": "Politician"
+                    },
+                    "entity": {
+                        "description": "US President Joe Biden",
+                        "id": "10040395078",
+                        "name": "Joe Biden"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A taxonomy of user interests. ",
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy"
+                    },
+                    "entity": {
+                        "description": "US President Joe Biden",
+                        "id": "10040395078",
+                        "name": "Joe Biden"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A taxonomy of user interests. ",
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy"
+                    },
+                    "entity": {
+                        "description": "Politics",
+                        "id": "847878884917886977",
+                        "name": "Politics"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A taxonomy of user interests. ",
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy"
+                    },
+                    "entity": {
+                        "description": "Politician",
+                        "id": "1070032753834438656",
+                        "name": "Political figures"
+                    }
+                }
+            ],
+            "conversation_id": "1323860802579787776",
+            "created_at": "2020-11-04T05:33:06.000Z",
+            "edit_history_tweet_ids": [
+                "1323860802579787776"
+            ],
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 24,
+                        "normalized_text": "biden",
+                        "probability": 0.9101,
+                        "start": 20,
+                        "type": "Person"
+                    },
+                    {
+                        "end": 56,
+                        "normalized_text": "jennis",
+                        "probability": 0.8281,
+                        "start": 51,
+                        "type": "Person"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 15,
+                        "id": "2237128321",
+                        "start": 3,
+                        "username": "xofatimaaaa"
+                    }
+                ]
+            },
+            "id": "1323860802579787776",
+            "lang": "en",
+            "public_metrics": {
+                "impression_count": 0,
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 2
+            },
+            "referenced_tweets": [
+                {
+                    "id": "1323860123123556352",
+                    "type": "retweeted"
+                }
+            ],
+            "reply_settings": "everyone",
+            "text": "RT @xofatimaaaa: if biden wins i will blackout for jennis bday\ud83d\ude0c"
+        },
+        {
+            "author_id": "1311975378747965441",
+            "conversation_id": "1323860681888653312",
+            "created_at": "2020-11-04T05:32:37.000Z",
+            "edit_history_tweet_ids": [
+                "1323860681888653312"
+            ],
+            "id": "1323860681888653312",
+            "lang": "tl",
+            "public_metrics": {
+                "impression_count": 0,
+                "like_count": 2,
+                "quote_count": 0,
+                "reply_count": 3,
+                "retweet_count": 0
+            },
+            "reply_settings": "everyone",
+            "text": "yawa blackout maka guba ug relasyon!"
+        },
+        {
+            "author_id": "21711312",
+            "context_annotations": [
+                {
+                    "domain": {
+                        "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+                        "id": "30",
+                        "name": "Entities [Entity Service]"
+                    },
+                    "entity": {
+                        "description": "Food",
+                        "id": "825047692124442624",
+                        "name": "Food"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "Top level interests and hobbies groupings, like Food or Travel",
+                        "id": "65",
+                        "name": "Interests and Hobbies Vertical"
+                    },
+                    "entity": {
+                        "description": "Drinks",
+                        "id": "834828264786898945",
+                        "name": "Drinks"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+                        "id": "66",
+                        "name": "Interests and Hobbies Category"
+                    },
+                    "entity": {
+                        "description": "Generic Drinks",
+                        "id": "834828445238431744",
+                        "name": "Generic Drinks"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+                        "id": "67",
+                        "name": "Interests and Hobbies"
+                    },
+                    "entity": {
+                        "description": "Wine",
+                        "id": "841378993408425985",
+                        "name": "Wine"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+                        "id": "67",
+                        "name": "Interests and Hobbies"
+                    },
+                    "entity": {
+                        "description": "Drink Experience",
+                        "id": "1006278636842782720",
+                        "name": "Drink Experience"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A taxonomy of user interests. ",
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy"
+                    },
+                    "entity": {
+                        "description": "Drinks",
+                        "id": "834828264786898945",
+                        "name": "Drinks"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A taxonomy of user interests. ",
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy"
+                    },
+                    "entity": {
+                        "description": "Wine",
+                        "id": "841378993408425985",
+                        "name": "Wine"
+                    }
+                }
+            ],
+            "conversation_id": "1323830515250556929",
+            "created_at": "2020-11-04T05:32:36.000Z",
+            "edit_history_tweet_ids": [
+                "1323860679682625537"
+            ],
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 95,
+                        "normalized_text": "PTSD",
+                        "probability": 0.835,
+                        "start": 92,
+                        "type": "Other"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 11,
+                        "id": "254186356",
+                        "start": 0,
+                        "username": "billburton"
+                    }
+                ]
+            },
+            "id": "1323860679682625537",
+            "in_reply_to_user_id": "254186356",
+            "lang": "en",
+            "public_metrics": {
+                "impression_count": 0,
+                "like_count": 1,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "referenced_tweets": [
+                {
+                    "id": "1323830515250556929",
+                    "type": "replied_to"
+                }
+            ],
+            "reply_settings": "everyone",
+            "text": "@billburton I am not blackout drunk. I've been drinking merlot, sparingly, but I still have PTSD from 2016, which, regardless of any warnings, is making me nervous."
+        },
+        {
+            "author_id": "621499575",
+            "conversation_id": "1323860654353207296",
+            "created_at": "2020-11-04T05:32:30.000Z",
+            "edit_history_tweet_ids": [
+                "1323860654353207296"
+            ],
+            "id": "1323860654353207296",
+            "lang": "en",
+            "public_metrics": {
+                "impression_count": 0,
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 16
+            },
+            "referenced_tweets": [
+                {
+                    "id": "1323661936270200834",
+                    "type": "retweeted"
+                }
+            ],
+            "reply_settings": "everyone",
+            "text": "RT @lahreigh: Strategically planning my blackout so that when someone tells me the results tomorrow it\u2019s like whatever. Like when you wake\u2026"
+        },
+        {
+            "author_id": "388217232",
+            "context_annotations": [
+                {
+                    "domain": {
+                        "description": "Named people in the world like Nelson Mandela",
+                        "id": "10",
+                        "name": "Person"
+                    },
+                    "entity": {
+                        "id": "1138115936014127104",
+                        "name": "Piyush Goyal"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "Politicians in the world, like Joe Biden",
+                        "id": "35",
+                        "name": "Politician"
+                    },
+                    "entity": {
+                        "id": "1138115936014127104",
+                        "name": "Piyush Goyal"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A taxonomy of user interests. ",
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy"
+                    },
+                    "entity": {
+                        "description": "Politics",
+                        "id": "847878884917886977",
+                        "name": "Politics"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A taxonomy of user interests. ",
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy"
+                    },
+                    "entity": {
+                        "description": "Politician",
+                        "id": "1070032753834438656",
+                        "name": "Political figures"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A taxonomy of user interests. ",
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy"
+                    },
+                    "entity": {
+                        "id": "1138115936014127104",
+                        "name": "Piyush Goyal"
+                    }
+                }
+            ],
+            "conversation_id": "1323860604436672512",
+            "created_at": "2020-11-04T05:32:18.000Z",
+            "edit_history_tweet_ids": [
+                "1323860604436672512"
+            ],
+            "entities": {
+                "hashtags": [
+                    {
+                        "end": 9,
+                        "start": 0,
+                        "tag": "BREAKING"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 67,
+                        "id": "2602959463",
+                        "start": 54,
+                        "username": "RailMinIndia"
+                    },
+                    {
+                        "end": 80,
+                        "id": "1324334436",
+                        "start": 68,
+                        "username": "PiyushGoyal"
+                    },
+                    {
+                        "end": 102,
+                        "id": "2940723738",
+                        "start": 92,
+                        "username": "INCPunjab"
+                    },
+                    {
+                        "end": 174,
+                        "id": "372172477",
+                        "start": 158,
+                        "username": "DailyUttamHindu"
+                    }
+                ]
+            },
+            "id": "1323860604436672512",
+            "lang": "hi",
+            "public_metrics": {
+                "impression_count": 0,
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "reply_settings": "everyone",
+            "text": "#BREAKING : \u0915\u0932 1 \u092c\u091c\u0947 \u092a\u0902\u091c\u093e\u092c \u092e\u0947\u0902 \u092e\u093e\u0932\u0917\u093e\u0921\u093c\u093f\u092f\u093e\u0902 \u091a\u0932\u093e\u0928\u0947 \u0939\u0947\u0924\u0941 @RailMinIndia @PiyushGoyal \u0938\u0947 \u092e\u093f\u0932\u0947\u0902\u0917\u0947 @INCPunjab \u0915\u0947 \u0938\u093e\u0902\u0938\u0926. \u092a\u0902\u091c\u093e\u092c \u092e\u0947\u0902 \u0915\u094b\u092f\u0932\u093e \u0932\u0917\u092d\u0917 \u0916\u0924\u094d\u092e\u0964 Blackout \u0915\u0947 \u0906\u0938\u093e\u0930\u0964\n@DailyUttamHindu"
+        },
+        {
+            "author_id": "1067650386608017410",
+            "context_annotations": [
+                {
+                    "domain": {
+                        "description": "Named people in the world like Nelson Mandela",
+                        "id": "10",
+                        "name": "Person"
+                    },
+                    "entity": {
+                        "description": "45th US President, Donald Trump",
+                        "id": "799022225751871488",
+                        "name": "Donald Trump"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "Politicians in the world, like Joe Biden",
+                        "id": "35",
+                        "name": "Politician"
+                    },
+                    "entity": {
+                        "description": "45th US President, Donald Trump",
+                        "id": "799022225751871488",
+                        "name": "Donald Trump"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A taxonomy of user interests. ",
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy"
+                    },
+                    "entity": {
+                        "description": "45th US President, Donald Trump",
+                        "id": "799022225751871488",
+                        "name": "Donald Trump"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A taxonomy of user interests. ",
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy"
+                    },
+                    "entity": {
+                        "description": "Politics",
+                        "id": "847878884917886977",
+                        "name": "Politics"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A taxonomy of user interests. ",
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy"
+                    },
+                    "entity": {
+                        "description": "Politician",
+                        "id": "1070032753834438656",
+                        "name": "Political figures"
+                    }
+                }
+            ],
+            "conversation_id": "1323842755840204800",
+            "created_at": "2020-11-04T05:32:17.000Z",
+            "edit_history_tweet_ids": [
+                "1323860598191394816"
+            ],
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 65,
+                        "normalized_text": "Trump",
+                        "probability": 0.9801,
+                        "start": 61,
+                        "type": "Person"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 13,
+                        "id": "777319354387922945",
+                        "start": 0,
+                        "username": "LandM_Marius"
+                    }
+                ]
+            },
+            "id": "1323860598191394816",
+            "in_reply_to_user_id": "777319354387922945",
+            "lang": "en",
+            "public_metrics": {
+                "impression_count": 0,
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "referenced_tweets": [
+                {
+                    "id": "1323842755840204800",
+                    "type": "replied_to"
+                }
+            ],
+            "reply_settings": "everyone",
+            "text": "@LandM_Marius Could see media blackout if it keeps going for Trump"
+        },
+        {
+            "author_id": "202565903",
+            "conversation_id": "1323860592839532546",
+            "created_at": "2020-11-04T05:32:16.000Z",
+            "edit_history_tweet_ids": [
+                "1323860592839532546"
+            ],
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 8,
+                        "normalized_text": "Gikambura",
+                        "probability": 0.6026,
+                        "start": 0,
+                        "type": "Other"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 70,
+                        "id": "147561402",
+                        "start": 54,
+                        "username": "KenyaPower_Care"
+                    }
+                ]
+            },
+            "id": "1323860592839532546",
+            "lang": "en",
+            "public_metrics": {
+                "impression_count": 0,
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 1,
+                "retweet_count": 0
+            },
+            "reply_settings": "everyone",
+            "text": "Gikambura blackout yesterday and today. Kindly assist @KenyaPower_Care"
+        },
+        {
+            "author_id": "865439486632644608",
+            "conversation_id": "1323860591639867392",
+            "created_at": "2020-11-04T05:32:15.000Z",
+            "edit_history_tweet_ids": [
+                "1323860591639867392"
+            ],
+            "entities": {
+                "urls": [
+                    {
+                        "display_url": "pic.twitter.com/I7w3xmH9DP",
+                        "end": 230,
+                        "expanded_url": "https://twitter.com/ChikenAU/status/1323860591639867392/photo/1",
+                        "media_key": "3_1323860586325700609",
+                        "start": 207,
+                        "url": "https://t.co/I7w3xmH9DP"
+                    },
+                    {
+                        "display_url": "pic.twitter.com/I7w3xmH9DP",
+                        "end": 230,
+                        "expanded_url": "https://twitter.com/ChikenAU/status/1323860591639867392/photo/1",
+                        "media_key": "3_1323860586325667842",
+                        "start": 207,
+                        "url": "https://t.co/I7w3xmH9DP"
+                    }
+                ]
+            },
+            "id": "1323860591639867392",
+            "lang": "en",
+            "public_metrics": {
+                "impression_count": 0,
+                "like_count": 20,
+                "quote_count": 0,
+                "reply_count": 6,
+                "retweet_count": 0
+            },
+            "reply_settings": "everyone",
+            "text": "Looks gross but just sat half a sleeve blackout \ud83d\ude02\ud83d\ude02 hurt like hell and now I\u2019m suuuuper drained! Gonna rest up and try be back tomorrow with my balloon arm. Have a good night everyone I\u2019m going to pass out \ud83d\ude18 https://t.co/I7w3xmH9DP"
+        },
+        {
+            "author_id": "14756122",
+            "conversation_id": "1323860496856985600",
+            "created_at": "2020-11-04T05:31:53.000Z",
+            "edit_history_tweet_ids": [
+                "1323860496856985600"
+            ],
+            "entities": {
+                "mentions": [
+                    {
+                        "end": 16,
+                        "id": "396383686",
+                        "start": 3,
+                        "username": "StevenDehler"
+                    },
+                    {
+                        "end": 32,
+                        "id": "180290165",
+                        "start": 18,
+                        "username": "shawnpelofsky"
+                    }
+                ]
+            },
+            "id": "1323860496856985600",
+            "lang": "en",
+            "public_metrics": {
+                "impression_count": 0,
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 1
+            },
+            "referenced_tweets": [
+                {
+                    "id": "1323832191126659073",
+                    "type": "retweeted"
+                }
+            ],
+            "reply_settings": "everyone",
+            "text": "RT @StevenDehler: @shawnpelofsky It\u2019s a black tie event!.. i mean blackout..  it\u2019s a blackout event \ud83e\udd74"
+        },
+        {
+            "author_id": "48033553",
+            "conversation_id": "1323860294674894848",
+            "created_at": "2020-11-04T05:31:05.000Z",
+            "edit_history_tweet_ids": [
+                "1323860294674894848"
+            ],
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 14,
+                        "normalized_text": "Vegas",
+                        "probability": 0.9691,
+                        "start": 10,
+                        "type": "Place"
+                    }
+                ]
+            },
+            "id": "1323860294674894848",
+            "lang": "en",
+            "public_metrics": {
+                "impression_count": 0,
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "reply_settings": "everyone",
+            "text": "whats the Vegas odds on a massive blackout tomorrow?"
+        },
+        {
+            "author_id": "1429321999",
+            "conversation_id": "1323853833043324928",
+            "created_at": "2020-11-04T05:30:45.000Z",
+            "edit_history_tweet_ids": [
+                "1323860214551089153"
+            ],
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 35,
+                        "normalized_text": "blackout",
+                        "probability": 0.7969,
+                        "start": 28,
+                        "type": "Other"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 10,
+                        "id": "24625220",
+                        "start": 0,
+                        "username": "me0wstic_"
+                    }
+                ]
+            },
+            "id": "1323860214551089153",
+            "in_reply_to_user_id": "24625220",
+            "lang": "en",
+            "public_metrics": {
+                "impression_count": 0,
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 1,
+                "retweet_count": 0
+            },
+            "referenced_tweets": [
+                {
+                    "id": "1323859820584312833",
+                    "type": "replied_to"
+                }
+            ],
+            "reply_settings": "everyone",
+            "text": "@me0wstic_ it\u2019s my fave off blackout i love the production"
+        },
+        {
+            "author_id": "2237128321",
+            "context_annotations": [
+                {
+                    "domain": {
+                        "description": "Named people in the world like Nelson Mandela",
+                        "id": "10",
+                        "name": "Person"
+                    },
+                    "entity": {
+                        "description": "US President Joe Biden",
+                        "id": "10040395078",
+                        "name": "Joe Biden"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "Politicians in the world, like Joe Biden",
+                        "id": "35",
+                        "name": "Politician"
+                    },
+                    "entity": {
+                        "description": "US President Joe Biden",
+                        "id": "10040395078",
+                        "name": "Joe Biden"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A taxonomy of user interests. ",
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy"
+                    },
+                    "entity": {
+                        "description": "US President Joe Biden",
+                        "id": "10040395078",
+                        "name": "Joe Biden"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A taxonomy of user interests. ",
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy"
+                    },
+                    "entity": {
+                        "description": "Politics",
+                        "id": "847878884917886977",
+                        "name": "Politics"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A taxonomy of user interests. ",
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy"
+                    },
+                    "entity": {
+                        "description": "Politician",
+                        "id": "1070032753834438656",
+                        "name": "Political figures"
+                    }
+                }
+            ],
+            "conversation_id": "1323860123123556352",
+            "created_at": "2020-11-04T05:30:24.000Z",
+            "edit_history_tweet_ids": [
+                "1323860123123556352"
+            ],
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 7,
+                        "normalized_text": "biden",
+                        "probability": 0.8985,
+                        "start": 3,
+                        "type": "Person"
+                    },
+                    {
+                        "end": 39,
+                        "normalized_text": "jennis",
+                        "probability": 0.7864,
+                        "start": 34,
+                        "type": "Person"
+                    }
+                ]
+            },
+            "id": "1323860123123556352",
+            "lang": "en",
+            "public_metrics": {
+                "impression_count": 0,
+                "like_count": 7,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 2
+            },
+            "reply_settings": "everyone",
+            "text": "if biden wins i will blackout for jennis bday\ud83d\ude0c"
+        },
+        {
+            "author_id": "2544525761",
+            "conversation_id": "1323860088310755329",
+            "created_at": "2020-11-04T05:30:15.000Z",
+            "edit_history_tweet_ids": [
+                "1323860088310755329"
+            ],
+            "entities": {
+                "hashtags": [
+                    {
+                        "end": 119,
+                        "start": 106,
+                        "tag": "ArnabGoswami"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 19,
+                        "id": "1287104036622090241",
+                        "start": 3,
+                        "username": "Gautams41648508"
+                    }
+                ]
+            },
+            "id": "1323860088310755329",
+            "lang": "hi",
+            "public_metrics": {
+                "impression_count": 0,
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 1
+            },
+            "referenced_tweets": [
+                {
+                    "id": "1323859794889863168",
+                    "type": "retweeted"
+                }
+            ],
+            "reply_settings": "everyone",
+            "text": "RT @Gautams41648508: \u0939\u0930 \u091a\u0948\u0928\u0932 \u0915\u094b blackout \u0915\u0930\u0928\u093e \u091a\u093e\u0939\u093f\u090f \u0924\u093e\u0915\u0940 \u0938\u0930\u0915\u093e\u0930 \u0915\u094b \u0938\u092e\u091d \u0906\u092f\u0947 \u0915\u0940 \u0939\u0930 \u092a\u0924\u094d\u0930\u0915\u093e\u0930 \u0905\u0930\u094d\u0928\u092c \u0915\u0947 \u0938\u093e\u0925 \u0939\u0948..\n#ArnabGoswami"
+        },
+        {
+            "author_id": "1224502331531763713",
+            "conversation_id": "1323859885847621634",
+            "created_at": "2020-11-04T05:29:27.000Z",
+            "edit_history_tweet_ids": [
+                "1323859885847621634"
+            ],
+            "id": "1323859885847621634",
+            "lang": "en",
+            "public_metrics": {
+                "impression_count": 0,
+                "like_count": 1,
+                "quote_count": 0,
+                "reply_count": 1,
+                "retweet_count": 0
+            },
+            "reply_settings": "everyone",
+            "text": "not really paying attention to the polls. not even sure who i voted for on my ballot since i was blackout drunk when i filled it out and mailed it."
+        },
+        {
+            "author_id": "1313296493336502272",
+            "context_annotations": [
+                {
+                    "domain": {
+                        "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+                        "id": "30",
+                        "name": "Entities [Entity Service]"
+                    },
+                    "entity": {
+                        "id": "781974596752842752",
+                        "name": "Services"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "Brands and Companies",
+                        "id": "47",
+                        "name": "Brand"
+                    },
+                    "entity": {
+                        "id": "10045225402",
+                        "name": "Twitter"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A taxonomy of user interests. ",
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy"
+                    },
+                    "entity": {
+                        "id": "10045225402",
+                        "name": "Twitter"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A taxonomy of user interests. ",
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy"
+                    },
+                    "entity": {
+                        "id": "1196446161223028736",
+                        "name": "Social media"
+                    }
+                }
+            ],
+            "conversation_id": "1323857173688930304",
+            "created_at": "2020-11-04T05:29:24.000Z",
+            "edit_history_tweet_ids": [
+                "1323859873201852417"
+            ],
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 60,
+                        "normalized_text": "twitter",
+                        "probability": 0.9626,
+                        "start": 54,
+                        "type": "Other"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 11,
+                        "id": "1310015069711785984",
+                        "start": 0,
+                        "username": "nanasaysno"
+                    }
+                ]
+            },
+            "id": "1323859873201852417",
+            "in_reply_to_user_id": "1310015069711785984",
+            "lang": "en",
+            "public_metrics": {
+                "impression_count": 0,
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 1,
+                "retweet_count": 0
+            },
+            "referenced_tweets": [
+                {
+                    "id": "1323857173688930304",
+                    "type": "replied_to"
+                }
+            ],
+            "reply_settings": "everyone",
+            "text": "@nanasaysno its bc of how powerful u were during that twitter blackout. ppl hate what they can\u2019t have \ud83d\ude44"
+        },
+        {
+            "author_id": "55182460",
+            "context_annotations": [
+                {
+                    "domain": {
+                        "description": "A taxonomy of user interests. ",
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy"
+                    },
+                    "entity": {
+                        "description": "News",
+                        "id": "1046545033657081857",
+                        "name": "News"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A taxonomy of user interests. ",
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy"
+                    },
+                    "entity": {
+                        "id": "1196447117297905665",
+                        "name": "News outlets"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "Real world events. ",
+                        "id": "29",
+                        "name": "Events [Entity Service]"
+                    },
+                    "entity": {
+                        "id": "1260821905491152896",
+                        "name": "Misinformation, debunk entity"
+                    }
+                }
+            ],
+            "conversation_id": "1323859840360312832",
+            "created_at": "2020-11-04T05:29:16.000Z",
+            "edit_history_tweet_ids": [
+                "1323859840360312832"
+            ],
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 54,
+                        "normalized_text": "India",
+                        "probability": 0.9497,
+                        "start": 50,
+                        "type": "Place"
+                    },
+                    {
+                        "end": 132,
+                        "normalized_text": "Arnab Goswami",
+                        "probability": 0.9787,
+                        "start": 120,
+                        "type": "Person"
+                    }
+                ]
+            },
+            "id": "1323859840360312832",
+            "lang": "en",
+            "public_metrics": {
+                "impression_count": 0,
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 1,
+                "retweet_count": 0
+            },
+            "reply_settings": "everyone",
+            "text": "Have some shame,the professional news channels of India,you can also face this one,if u stop licking,beware,blackout of Arnab Goswami arrest news,from ur channels just shows ur fake attitude of always with truth,shame on you,where is ur freedom of press? You all are nothing but"
+        },
+        {
+            "author_id": "24625220",
+            "conversation_id": "1323853833043324928",
+            "created_at": "2020-11-04T05:29:12.000Z",
+            "edit_history_tweet_ids": [
+                "1323859820584312833"
+            ],
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 46,
+                        "normalized_text": "Blackout",
+                        "probability": 0.9791,
+                        "start": 39,
+                        "type": "Other"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 14,
+                        "id": "1429321999",
+                        "start": 0,
+                        "username": "biglipsmcguee"
+                    }
+                ]
+            },
+            "id": "1323859820584312833",
+            "in_reply_to_user_id": "1429321999",
+            "lang": "en",
+            "public_metrics": {
+                "impression_count": 0,
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 1,
+                "retweet_count": 0
+            },
+            "referenced_tweets": [
+                {
+                    "id": "1323858661706522624",
+                    "type": "replied_to"
+                }
+            ],
+            "reply_settings": "everyone",
+            "text": "@biglipsmcguee IMO the weakest song on Blackout BUT it\u2019s such a strong body of work that it\u2019s still a great song. I think there\u2019s power in -not- talking about what\u2019s upsetting you, &amp; she does that beautifully for 11 tracks but when she finally does address it, it\u2019s even more powerful bc of that"
+        },
+        {
+            "author_id": "18742521",
+            "conversation_id": "1323857893431660545",
+            "created_at": "2020-11-04T05:29:08.000Z",
+            "edit_history_tweet_ids": [
+                "1323859805417562113"
+            ],
+            "entities": {
+                "mentions": [
+                    {
+                        "end": 9,
+                        "id": "932772990177202176",
+                        "start": 0,
+                        "username": "CynnaAel"
+                    },
+                    {
+                        "end": 19,
+                        "id": "398146813",
+                        "start": 10,
+                        "username": "BCDreyer"
+                    }
+                ]
+            },
+            "id": "1323859805417562113",
+            "in_reply_to_user_id": "932772990177202176",
+            "lang": "en",
+            "public_metrics": {
+                "impression_count": 0,
+                "like_count": 1,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "referenced_tweets": [
+                {
+                    "id": "1323858426787672065",
+                    "type": "replied_to"
+                }
+            ],
+            "reply_settings": "everyone",
+            "text": "@CynnaAel @BCDreyer Stop. I can only take so much logic and hope. And a 24 hour media blackout?! That gets me all hot and bothered."
+        },
+        {
+            "author_id": "1287104036622090241",
+            "conversation_id": "1323859794889863168",
+            "created_at": "2020-11-04T05:29:05.000Z",
+            "edit_history_tweet_ids": [
+                "1323859794889863168"
+            ],
+            "entities": {
+                "hashtags": [
+                    {
+                        "end": 98,
+                        "start": 85,
+                        "tag": "ArnabGoswami"
+                    }
+                ]
+            },
+            "id": "1323859794889863168",
+            "lang": "hi",
+            "public_metrics": {
+                "impression_count": 0,
+                "like_count": 1,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 1
+            },
+            "reply_settings": "everyone",
+            "text": "\u0939\u0930 \u091a\u0948\u0928\u0932 \u0915\u094b blackout \u0915\u0930\u0928\u093e \u091a\u093e\u0939\u093f\u090f \u0924\u093e\u0915\u0940 \u0938\u0930\u0915\u093e\u0930 \u0915\u094b \u0938\u092e\u091d \u0906\u092f\u0947 \u0915\u0940 \u0939\u0930 \u092a\u0924\u094d\u0930\u0915\u093e\u0930 \u0905\u0930\u094d\u0928\u092c \u0915\u0947 \u0938\u093e\u0925 \u0939\u0948..\n#ArnabGoswami"
+        },
+        {
+            "author_id": "180006585",
+            "context_annotations": [
+                {
+                    "domain": {
+                        "description": "Named people in the world like Nelson Mandela",
+                        "id": "10",
+                        "name": "Person"
+                    },
+                    "entity": {
+                        "description": "DMX",
+                        "id": "890579311886979072",
+                        "name": "DMX"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A musician in the world, like Adele or Bob Dylan",
+                        "id": "54",
+                        "name": "Musician"
+                    },
+                    "entity": {
+                        "description": "DMX",
+                        "id": "890579311886979072",
+                        "name": "DMX"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A category for a musical style, like Pop, Rock, or Rap",
+                        "id": "55",
+                        "name": "Music Genre"
+                    },
+                    "entity": {
+                        "description": "Hip-Hop/Rap",
+                        "id": "810937888334487552",
+                        "name": "Rap"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A taxonomy of user interests. ",
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy"
+                    },
+                    "entity": {
+                        "description": "Hip-Hop/Rap",
+                        "id": "810937888334487552",
+                        "name": "Rap"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A taxonomy of user interests. ",
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy"
+                    },
+                    "entity": {
+                        "description": "Music and radio",
+                        "id": "847524658970636288",
+                        "name": "Music"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A taxonomy of user interests. ",
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy"
+                    },
+                    "entity": {
+                        "description": "DMX",
+                        "id": "890579311886979072",
+                        "name": "DMX"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A taxonomy of user interests. ",
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy"
+                    },
+                    "entity": {
+                        "id": "1291184917221535744",
+                        "name": "Hip hop"
+                    }
+                }
+            ],
+            "conversation_id": "1323859495114678276",
+            "created_at": "2020-11-04T05:29:04.000Z",
+            "edit_history_tweet_ids": [
+                "1323859788753637378"
+            ],
+            "entities": {
+                "mentions": [
+                    {
+                        "end": 16,
+                        "id": "948322736534900737",
+                        "start": 0,
+                        "username": "BleuChampagne27"
+                    }
+                ]
+            },
+            "id": "1323859788753637378",
+            "in_reply_to_user_id": "948322736534900737",
+            "lang": "en",
+            "public_metrics": {
+                "impression_count": 0,
+                "like_count": 0,
+                "quote_count": 1,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "referenced_tweets": [
+                {
+                    "id": "1323859495114678276",
+                    "type": "replied_to"
+                }
+            ],
+            "reply_settings": "everyone",
+            "text": "@BleuChampagne27 Dmx...blackout"
+        },
+        {
+            "author_id": "1300191175",
+            "conversation_id": "1323857384780009472",
+            "created_at": "2020-11-04T05:27:49.000Z",
+            "edit_history_tweet_ids": [
+                "1323859473413427201"
+            ],
+            "id": "1323859473413427201",
+            "in_reply_to_user_id": "1300191175",
+            "lang": "en",
+            "public_metrics": {
+                "impression_count": 0,
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "referenced_tweets": [
+                {
+                    "id": "1323857384780009472",
+                    "type": "replied_to"
+                }
+            ],
+            "reply_settings": "everyone",
+            "text": "Time to blackout"
+        },
+        {
+            "author_id": "1283034769354297346",
+            "conversation_id": "1323796475122454540",
+            "created_at": "2020-11-04T05:27:48.000Z",
+            "edit_history_tweet_ids": [
+                "1323859469365858304"
+            ],
+            "entities": {
+                "urls": [
+                    {
+                        "display_url": "pic.twitter.com/c4lWeVGXAy",
+                        "end": 233,
+                        "expanded_url": "https://twitter.com/Neloangelo314/status/1323859469365858304/photo/1",
+                        "media_key": "3_1323859410637201409",
+                        "start": 210,
+                        "url": "https://t.co/c4lWeVGXAy"
+                    },
+                    {
+                        "display_url": "pic.twitter.com/c4lWeVGXAy",
+                        "end": 233,
+                        "expanded_url": "https://twitter.com/Neloangelo314/status/1323859469365858304/photo/1",
+                        "media_key": "3_1323859433324236800",
+                        "start": 210,
+                        "url": "https://t.co/c4lWeVGXAy"
+                    },
+                    {
+                        "display_url": "pic.twitter.com/c4lWeVGXAy",
+                        "end": 233,
+                        "expanded_url": "https://twitter.com/Neloangelo314/status/1323859469365858304/photo/1",
+                        "media_key": "3_1323859448268492806",
+                        "start": 210,
+                        "url": "https://t.co/c4lWeVGXAy"
+                    }
+                ]
+            },
+            "id": "1323859469365858304",
+            "in_reply_to_user_id": "1283034769354297346",
+            "lang": "en",
+            "public_metrics": {
+                "impression_count": 0,
+                "like_count": 2,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "referenced_tweets": [
+                {
+                    "id": "1323858904409919490",
+                    "type": "replied_to"
+                }
+            ],
+            "reply_settings": "everyone",
+            "text": "@mariahkcg1 Also the words \"weekend\" show up on a blackout screen. This video was shot a year ago. He sticks his tongue out and goes into the tunnel at 2:23 the reversal of 322. 88 transcending time and space. https://t.co/c4lWeVGXAy"
+        },
+        {
+            "author_id": "33104182",
+            "context_annotations": [
+                {
+                    "domain": {
+                        "description": "Real world events. ",
+                        "id": "29",
+                        "name": "Events [Entity Service]"
+                    },
+                    "entity": {
+                        "description": "2020 US Presidential Election",
+                        "id": "1029453725360775168",
+                        "name": "2020 US Presidential Election"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A taxonomy of user interests. ",
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy"
+                    },
+                    "entity": {
+                        "description": "2020 US Presidential Election",
+                        "id": "1029453725360775168",
+                        "name": "2020 US Presidential Election"
+                    }
+                }
+            ],
+            "conversation_id": "1323859209163837440",
+            "created_at": "2020-11-04T05:26:46.000Z",
+            "edit_history_tweet_ids": [
+                "1323859209163837440"
+            ],
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 138,
+                        "normalized_text": "severa",
+                        "probability": 0.4164,
+                        "start": 133,
+                        "type": "Person"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 18,
+                        "id": "817743559457730560",
+                        "start": 3,
+                        "username": "indivisibleHOU"
+                    }
+                ]
+            },
+            "id": "1323859209163837440",
+            "lang": "en",
+            "public_metrics": {
+                "impression_count": 0,
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 30
+            },
+            "referenced_tweets": [
+                {
+                    "id": "1323843286642139137",
+                    "type": "retweeted"
+                }
+            ],
+            "reply_settings": "everyone",
+            "text": "RT @indivisibleHOU: There is a reasonably good chance of a blue shift from mail in ballots, and that we won't know final results for severa\u2026"
+        },
+        {
+            "author_id": "15625129",
+            "context_annotations": [
+                {
+                    "domain": {
+                        "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+                        "id": "30",
+                        "name": "Entities [Entity Service]"
+                    },
+                    "entity": {
+                        "id": "781974596752842752",
+                        "name": "Services"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "Brands and Companies",
+                        "id": "47",
+                        "name": "Brand"
+                    },
+                    "entity": {
+                        "id": "10045225402",
+                        "name": "Twitter"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A taxonomy of user interests. ",
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy"
+                    },
+                    "entity": {
+                        "id": "10045225402",
+                        "name": "Twitter"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A taxonomy of user interests. ",
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy"
+                    },
+                    "entity": {
+                        "id": "1196446161223028736",
+                        "name": "Social media"
+                    }
+                }
+            ],
+            "conversation_id": "1323859194311684099",
+            "created_at": "2020-11-04T05:26:42.000Z",
+            "edit_history_tweet_ids": [
+                "1323859194311684099"
+            ],
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 6,
+                        "normalized_text": "Twitter",
+                        "probability": 0.9449,
+                        "start": 0,
+                        "type": "Other"
+                    }
+                ]
+            },
+            "id": "1323859194311684099",
+            "lang": "en",
+            "public_metrics": {
+                "impression_count": 0,
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "reply_settings": "everyone",
+            "text": "Twitter been suspending my account last 36 hrs. It\u2019s like an information blackout."
+        },
+        {
+            "author_id": "1259974933616250880",
+            "context_annotations": [
+                {
+                    "domain": {
+                        "description": "Named people in the world like Nelson Mandela",
+                        "id": "10",
+                        "name": "Person"
+                    },
+                    "entity": {
+                        "description": "Josh Duhamel",
+                        "id": "826800344386580480",
+                        "name": "Josh Duhamel"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "An actor or actress in the world, like Kate Winslet or Leonardo DiCaprio",
+                        "id": "56",
+                        "name": "Actor"
+                    },
+                    "entity": {
+                        "description": "Josh Duhamel",
+                        "id": "826800344386580480",
+                        "name": "Josh Duhamel"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A taxonomy of user interests. ",
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy"
+                    },
+                    "entity": {
+                        "description": "Josh Duhamel",
+                        "id": "826800344386580480",
+                        "name": "Josh Duhamel"
+                    }
+                }
+            ],
+            "conversation_id": "1323859042566066177",
+            "created_at": "2020-11-04T05:26:06.000Z",
+            "edit_history_tweet_ids": [
+                "1323859042566066177"
+            ],
+            "entities": {
+                "hashtags": [
+                    {
+                        "end": 103,
+                        "start": 94,
+                        "tag": "blackout"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 16,
+                        "id": "285371579",
+                        "start": 3,
+                        "username": "JoshDcentral"
+                    },
+                    {
+                        "end": 53,
+                        "id": "107512859",
+                        "start": 41,
+                        "username": "joshduhamel"
+                    },
+                    {
+                        "end": 74,
+                        "id": "170504972",
+                        "start": 59,
+                        "username": "barbaraderegil"
+                    },
+                    {
+                        "end": 127,
+                        "id": "300540758",
+                        "start": 115,
+                        "username": "SamMacaroni"
+                    }
+                ]
+            },
+            "id": "1323859042566066177",
+            "lang": "en",
+            "public_metrics": {
+                "impression_count": 0,
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 2
+            },
+            "referenced_tweets": [
+                {
+                    "id": "1323433161859223558",
+                    "type": "retweeted"
+                }
+            ],
+            "reply_settings": "everyone",
+            "text": "RT @JoshDcentral: So funny Lol \ud83e\udd23 my dear @joshduhamel  and @barbaraderegil , set of the movie #blackout \n\nDirector @SamMacaroni https://t.c\u2026"
+        },
+        {
+            "author_id": "29289441",
+            "context_annotations": [
+                {
+                    "domain": {
+                        "description": "Named people in the world like Nelson Mandela",
+                        "id": "10",
+                        "name": "Person"
+                    },
+                    "entity": {
+                        "description": "45th US President, Donald Trump",
+                        "id": "799022225751871488",
+                        "name": "Donald Trump"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "Named people in the world like Nelson Mandela",
+                        "id": "10",
+                        "name": "Person"
+                    },
+                    "entity": {
+                        "description": "US Representative Maxine Waters (CA-43)",
+                        "id": "964532337168953344",
+                        "name": "Maxine Waters"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "Real world events. ",
+                        "id": "29",
+                        "name": "Events [Entity Service]"
+                    },
+                    "entity": {
+                        "description": "2020 US Presidential Election",
+                        "id": "1029453725360775168",
+                        "name": "2020 US Presidential Election"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "Politicians in the world, like Joe Biden",
+                        "id": "35",
+                        "name": "Politician"
+                    },
+                    "entity": {
+                        "description": "45th US President, Donald Trump",
+                        "id": "799022225751871488",
+                        "name": "Donald Trump"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "Politicians in the world, like Joe Biden",
+                        "id": "35",
+                        "name": "Politician"
+                    },
+                    "entity": {
+                        "description": "US Representative Maxine Waters (CA-43)",
+                        "id": "964532337168953344",
+                        "name": "Maxine Waters"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A taxonomy of user interests. ",
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy"
+                    },
+                    "entity": {
+                        "description": "45th US President, Donald Trump",
+                        "id": "799022225751871488",
+                        "name": "Donald Trump"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A taxonomy of user interests. ",
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy"
+                    },
+                    "entity": {
+                        "description": "Politics",
+                        "id": "847878884917886977",
+                        "name": "Politics"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A taxonomy of user interests. ",
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy"
+                    },
+                    "entity": {
+                        "description": "US Representative Maxine Waters (CA-43)",
+                        "id": "964532337168953344",
+                        "name": "Maxine Waters"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A taxonomy of user interests. ",
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy"
+                    },
+                    "entity": {
+                        "description": "2020 US Presidential Election",
+                        "id": "1029453725360775168",
+                        "name": "2020 US Presidential Election"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A taxonomy of user interests. ",
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy"
+                    },
+                    "entity": {
+                        "description": "Politician",
+                        "id": "1070032753834438656",
+                        "name": "Political figures"
+                    }
+                }
+            ],
+            "conversation_id": "1323859027621797888",
+            "created_at": "2020-11-04T05:26:02.000Z",
+            "edit_history_tweet_ids": [
+                "1323859027621797888"
+            ],
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 19,
+                        "normalized_text": "Maxine Waters",
+                        "probability": 0.9808,
+                        "start": 7,
+                        "type": "Person"
+                    },
+                    {
+                        "end": 61,
+                        "normalized_text": "Trump",
+                        "probability": 0.9551,
+                        "start": 57,
+                        "type": "Person"
+                    },
+                    {
+                        "end": 143,
+                        "normalized_text": "Maxine",
+                        "probability": 0.6072,
+                        "start": 138,
+                        "type": "Person"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 137,
+                        "id": "4183248796",
+                        "start": 121,
+                        "username": "realDennisLynch"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "dennismichaellynch.com/audio-maxine-w\u2026",
+                        "end": 116,
+                        "expanded_url": "https://dennismichaellynch.com/audio-maxine-waters-rages-again-black-voters-who-choose-trump-one-is-trying-to-unseat-her/",
+                        "start": 93,
+                        "url": "https://t.co/3tRMFXzMgV"
+                    }
+                ]
+            },
+            "id": "1323859027621797888",
+            "lang": "en",
+            "public_metrics": {
+                "impression_count": 0,
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "reply_settings": "everyone",
+            "text": "AUDIO: Maxine Waters rages again Black voters who choose Trump \u2013 one is trying to unseat her https://t.co/3tRMFXzMgV via @realdennislynch Maxine don\u2019t you get it? Democrats don\u2019t keep big grand PROMISES &amp; forget those promises immediately. Stop SHAMING VALID VOTES. Read BLACKOUT!"
+        },
+        {
+            "author_id": "170504972",
+            "context_annotations": [
+                {
+                    "domain": {
+                        "description": "Named people in the world like Nelson Mandela",
+                        "id": "10",
+                        "name": "Person"
+                    },
+                    "entity": {
+                        "description": "Josh Duhamel",
+                        "id": "826800344386580480",
+                        "name": "Josh Duhamel"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "An actor or actress in the world, like Kate Winslet or Leonardo DiCaprio",
+                        "id": "56",
+                        "name": "Actor"
+                    },
+                    "entity": {
+                        "description": "Josh Duhamel",
+                        "id": "826800344386580480",
+                        "name": "Josh Duhamel"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A taxonomy of user interests. ",
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy"
+                    },
+                    "entity": {
+                        "description": "Josh Duhamel",
+                        "id": "826800344386580480",
+                        "name": "Josh Duhamel"
+                    }
+                }
+            ],
+            "conversation_id": "1323858927528878081",
+            "created_at": "2020-11-04T05:25:39.000Z",
+            "edit_history_tweet_ids": [
+                "1323858927528878081"
+            ],
+            "entities": {
+                "hashtags": [
+                    {
+                        "end": 103,
+                        "start": 94,
+                        "tag": "blackout"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 16,
+                        "id": "285371579",
+                        "start": 3,
+                        "username": "JoshDcentral"
+                    },
+                    {
+                        "end": 53,
+                        "id": "107512859",
+                        "start": 41,
+                        "username": "joshduhamel"
+                    },
+                    {
+                        "end": 74,
+                        "id": "170504972",
+                        "start": 59,
+                        "username": "barbaraderegil"
+                    },
+                    {
+                        "end": 127,
+                        "id": "300540758",
+                        "start": 115,
+                        "username": "SamMacaroni"
+                    }
+                ]
+            },
+            "id": "1323858927528878081",
+            "lang": "en",
+            "public_metrics": {
+                "impression_count": 0,
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 2
+            },
+            "referenced_tweets": [
+                {
+                    "id": "1323433161859223558",
+                    "type": "retweeted"
+                }
+            ],
+            "reply_settings": "everyone",
+            "text": "RT @JoshDcentral: So funny Lol \ud83e\udd23 my dear @joshduhamel  and @barbaraderegil , set of the movie #blackout \n\nDirector @SamMacaroni https://t.c\u2026"
+        },
+        {
+            "author_id": "170504972",
+            "context_annotations": [
+                {
+                    "domain": {
+                        "description": "Named people in the world like Nelson Mandela",
+                        "id": "10",
+                        "name": "Person"
+                    },
+                    "entity": {
+                        "description": "Josh Duhamel",
+                        "id": "826800344386580480",
+                        "name": "Josh Duhamel"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "An actor or actress in the world, like Kate Winslet or Leonardo DiCaprio",
+                        "id": "56",
+                        "name": "Actor"
+                    },
+                    "entity": {
+                        "description": "Josh Duhamel",
+                        "id": "826800344386580480",
+                        "name": "Josh Duhamel"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A taxonomy of user interests. ",
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy"
+                    },
+                    "entity": {
+                        "description": "Josh Duhamel",
+                        "id": "826800344386580480",
+                        "name": "Josh Duhamel"
+                    }
+                }
+            ],
+            "conversation_id": "1323858912521654274",
+            "created_at": "2020-11-04T05:25:35.000Z",
+            "edit_history_tweet_ids": [
+                "1323858912521654274"
+            ],
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 103,
+                        "normalized_text": "blackout",
+                        "probability": 0.8186,
+                        "start": 96,
+                        "type": "Other"
+                    }
+                ],
+                "hashtags": [
+                    {
+                        "end": 104,
+                        "start": 95,
+                        "tag": "blackout"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 16,
+                        "id": "285371579",
+                        "start": 3,
+                        "username": "JoshDcentral"
+                    },
+                    {
+                        "end": 53,
+                        "id": "107512859",
+                        "start": 41,
+                        "username": "joshduhamel"
+                    },
+                    {
+                        "end": 74,
+                        "id": "170504972",
+                        "start": 59,
+                        "username": "barbaraderegil"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "pic.twitter.com/tpNzha7ysU",
+                        "end": 128,
+                        "expanded_url": "https://twitter.com/JoshDcentral/status/1323433714387423237/video/1",
+                        "media_key": "7_1323433657709797376",
+                        "start": 105,
+                        "url": "https://t.co/tpNzha7ysU"
+                    }
+                ]
+            },
+            "id": "1323858912521654274",
+            "lang": "en",
+            "public_metrics": {
+                "impression_count": 0,
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 1
+            },
+            "referenced_tweets": [
+                {
+                    "id": "1323433714387423237",
+                    "type": "retweeted"
+                }
+            ],
+            "reply_settings": "everyone",
+            "text": "RT @JoshDcentral: More videos of My dear @joshduhamel with @barbaraderegil \ud83c\udfa5\ud83d\ude0a set of the movie #blackout https://t.co/tpNzha7ysU"
+        },
+        {
+            "author_id": "1106123067892342784",
+            "context_annotations": [
+                {
+                    "domain": {
+                        "description": "Ongoing News Stories like 'Brexit'",
+                        "id": "123",
+                        "name": "Ongoing News Story"
+                    },
+                    "entity": {
+                        "id": "1220701888179359745",
+                        "name": "COVID-19"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A taxonomy of user interests. ",
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy"
+                    },
+                    "entity": {
+                        "id": "1220701888179359745",
+                        "name": "COVID-19"
+                    }
+                }
+            ],
+            "conversation_id": "1323858875729235968",
+            "created_at": "2020-11-04T05:25:26.000Z",
+            "edit_history_tweet_ids": [
+                "1323858875729235968"
+            ],
+            "entities": {
+                "mentions": [
+                    {
+                        "end": 17,
+                        "id": "816570709128441856",
+                        "start": 3,
+                        "username": "NgalulaDonald"
+                    }
+                ]
+            },
+            "id": "1323858875729235968",
+            "lang": "en",
+            "public_metrics": {
+                "impression_count": 0,
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 8
+            },
+            "referenced_tweets": [
+                {
+                    "id": "1321493096484511745",
+                    "type": "retweeted"
+                }
+            ],
+            "reply_settings": "everyone",
+            "text": "RT @NgalulaDonald: REMIDER:\n1. Wear Masks\n2. Wash hands regularly\n3. Keep 2 feet Physical distance\n4. Avoid touching your face to necessary\u2026"
+        },
+        {
+            "author_id": "851678533374136321",
+            "context_annotations": [
+                {
+                    "domain": {
+                        "description": "Real world events. ",
+                        "id": "29",
+                        "name": "Events [Entity Service]"
+                    },
+                    "entity": {
+                        "description": "2020 US Presidential Election",
+                        "id": "1029453725360775168",
+                        "name": "2020 US Presidential Election"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A taxonomy of user interests. ",
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy"
+                    },
+                    "entity": {
+                        "description": "2020 US Presidential Election",
+                        "id": "1029453725360775168",
+                        "name": "2020 US Presidential Election"
+                    }
+                }
+            ],
+            "conversation_id": "1323858861229400067",
+            "created_at": "2020-11-04T05:25:23.000Z",
+            "edit_history_tweet_ids": [
+                "1323858861229400067"
+            ],
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 138,
+                        "normalized_text": "severa",
+                        "probability": 0.4164,
+                        "start": 133,
+                        "type": "Person"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 18,
+                        "id": "817743559457730560",
+                        "start": 3,
+                        "username": "indivisibleHOU"
+                    }
+                ]
+            },
+            "id": "1323858861229400067",
+            "lang": "en",
+            "public_metrics": {
+                "impression_count": 0,
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 30
+            },
+            "referenced_tweets": [
+                {
+                    "id": "1323843286642139137",
+                    "type": "retweeted"
+                }
+            ],
+            "reply_settings": "everyone",
+            "text": "RT @indivisibleHOU: There is a reasonably good chance of a blue shift from mail in ballots, and that we won't know final results for severa\u2026"
+        },
+        {
+            "author_id": "932772990177202176",
+            "context_annotations": [
+                {
+                    "domain": {
+                        "description": "Real world events. ",
+                        "id": "29",
+                        "name": "Events [Entity Service]"
+                    },
+                    "entity": {
+                        "description": "2020 US Presidential Election",
+                        "id": "1029453725360775168",
+                        "name": "2020 US Presidential Election"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A taxonomy of user interests. ",
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy"
+                    },
+                    "entity": {
+                        "description": "2020 US Presidential Election",
+                        "id": "1029453725360775168",
+                        "name": "2020 US Presidential Election"
+                    }
+                }
+            ],
+            "conversation_id": "1323857893431660545",
+            "created_at": "2020-11-04T05:23:39.000Z",
+            "edit_history_tweet_ids": [
+                "1323858426787672065"
+            ],
+            "entities": {
+                "mentions": [
+                    {
+                        "end": 9,
+                        "id": "398146813",
+                        "start": 0,
+                        "username": "BCDreyer"
+                    }
+                ]
+            },
+            "id": "1323858426787672065",
+            "in_reply_to_user_id": "398146813",
+            "lang": "en",
+            "public_metrics": {
+                "impression_count": 0,
+                "like_count": 4,
+                "quote_count": 0,
+                "reply_count": 1,
+                "retweet_count": 0
+            },
+            "referenced_tweets": [
+                {
+                    "id": "1323857893431660545",
+                    "type": "replied_to"
+                }
+            ],
+            "reply_settings": "everyone",
+            "text": "@BCDreyer Hel yes! Can we get it to include my faves? Auto registration at 18, moves where you do, mail in voting in every state, paper ballots, and national election holiday with 24 hour media blackout."
+        },
+        {
+            "author_id": "578879061",
+            "conversation_id": "1323858270495207426",
+            "created_at": "2020-11-04T05:23:02.000Z",
+            "edit_history_tweet_ids": [
+                "1323858270495207426"
+            ],
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 28,
+                        "normalized_text": "Blackout",
+                        "probability": 0.7321,
+                        "start": 21,
+                        "type": "Other"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 19,
+                        "id": "180227379",
+                        "start": 3,
+                        "username": "Osvaldo_Robledo"
+                    }
+                ]
+            },
+            "id": "1323858270495207426",
+            "lang": "en",
+            "public_metrics": {
+                "impression_count": 0,
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 1
+            },
+            "referenced_tweets": [
+                {
+                    "id": "1323854774458966016",
+                    "type": "retweeted"
+                }
+            ],
+            "reply_settings": "everyone",
+            "text": "RT @Osvaldo_Robledo: Blackout process starts now"
+        },
+        {
+            "author_id": "984650742307766272",
+            "conversation_id": "1323857421475799040",
+            "created_at": "2020-11-04T05:22:32.000Z",
+            "edit_history_tweet_ids": [
+                "1323858143156203521"
+            ],
+            "entities": {
+                "mentions": [
+                    {
+                        "end": 9,
+                        "id": "3254019716",
+                        "start": 0,
+                        "username": "spinsewz"
+                    }
+                ]
+            },
+            "id": "1323858143156203521",
+            "in_reply_to_user_id": "3254019716",
+            "lang": "en",
+            "public_metrics": {
+                "impression_count": 0,
+                "like_count": 1,
+                "quote_count": 0,
+                "reply_count": 2,
+                "retweet_count": 0
+            },
+            "referenced_tweets": [
+                {
+                    "id": "1323857421475799040",
+                    "type": "replied_to"
+                }
+            ],
+            "reply_settings": "everyone",
+            "text": "@spinsewz says or tweets? bc you\u2019re about to make yourself blackout lmao"
+        },
+        {
+            "author_id": "113530529",
+            "conversation_id": "1323858097086103553",
+            "created_at": "2020-11-04T05:22:21.000Z",
+            "edit_history_tweet_ids": [
+                "1323858097086103553"
+            ],
+            "entities": {
+                "urls": [
+                    {
+                        "display_url": "ift.tt/35V3qMk",
+                        "end": 73,
+                        "expanded_url": "https://ift.tt/35V3qMk",
+                        "start": 50,
+                        "url": "https://t.co/TYb4NOgame"
+                    }
+                ]
+            },
+            "id": "1323858097086103553",
+            "lang": "en",
+            "public_metrics": {
+                "impression_count": 0,
+                "like_count": 2,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 2
+            },
+            "reply_settings": "everyone",
+            "text": "Blackout for thousands of central Victorian homes https://t.co/TYb4NOgame"
+        },
+        {
+            "author_id": "4084986323",
+            "conversation_id": "1323857732928217088",
+            "created_at": "2020-11-04T05:21:57.000Z",
+            "edit_history_tweet_ids": [
+                "1323857999237156867"
+            ],
+            "entities": {
+                "mentions": [
+                    {
+                        "end": 9,
+                        "id": "1019613143520153600",
+                        "start": 0,
+                        "username": "tvtuners"
+                    }
+                ]
+            },
+            "id": "1323857999237156867",
+            "in_reply_to_user_id": "1019613143520153600",
+            "lang": "en",
+            "public_metrics": {
+                "impression_count": 0,
+                "like_count": 1,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "referenced_tweets": [
+                {
+                    "id": "1323857732928217088",
+                    "type": "replied_to"
+                }
+            ],
+            "reply_settings": "everyone",
+            "text": "@tvtuners WAIT FOR THE BLACKOUT"
+        },
+        {
+            "author_id": "1273692358643597317",
+            "conversation_id": "1323857919855808518",
+            "created_at": "2020-11-04T05:21:38.000Z",
+            "edit_history_tweet_ids": [
+                "1323857919855808518"
+            ],
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 71,
+                        "normalized_text": "Obigbo",
+                        "probability": 0.3136,
+                        "start": 66,
+                        "type": "Place"
+                    },
+                    {
+                        "end": 78,
+                        "normalized_text": "Oyigbo",
+                        "probability": 0.3559,
+                        "start": 73,
+                        "type": "Other"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 117,
+                        "id": "3373715141",
+                        "start": 109,
+                        "username": "GovWike"
+                    }
+                ]
+            },
+            "id": "1323857919855808518",
+            "lang": "en",
+            "public_metrics": {
+                "impression_count": 0,
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 1082
+            },
+            "referenced_tweets": [
+                {
+                    "id": "1323181414456659968",
+                    "type": "retweeted"
+                }
+            ],
+            "reply_settings": "everyone",
+            "text": "RT @MrSomtoOkonkwo: Media Blackout: Ongoing Genocide Happening In Obigbo/Oyigbo Rivers State By The MURDERER @GovWike. Innocent People (Eve\u2026"
+        },
+        {
+            "author_id": "1246121262956646400",
+            "context_annotations": [
+                {
+                    "domain": {
+                        "description": "Named people in the world like Nelson Mandela",
+                        "id": "10",
+                        "name": "Person"
+                    },
+                    "entity": {
+                        "description": "45th US President, Donald Trump",
+                        "id": "799022225751871488",
+                        "name": "Donald Trump"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "Politicians in the world, like Joe Biden",
+                        "id": "35",
+                        "name": "Politician"
+                    },
+                    "entity": {
+                        "description": "45th US President, Donald Trump",
+                        "id": "799022225751871488",
+                        "name": "Donald Trump"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+                        "id": "30",
+                        "name": "Entities [Entity Service]"
+                    },
+                    "entity": {
+                        "description": "Food",
+                        "id": "825047692124442624",
+                        "name": "Food"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "Top level interests and hobbies groupings, like Food or Travel",
+                        "id": "65",
+                        "name": "Interests and Hobbies Vertical"
+                    },
+                    "entity": {
+                        "description": "Drinks",
+                        "id": "834828264786898945",
+                        "name": "Drinks"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+                        "id": "66",
+                        "name": "Interests and Hobbies Category"
+                    },
+                    "entity": {
+                        "description": "Generic Drinks",
+                        "id": "834828445238431744",
+                        "name": "Generic Drinks"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+                        "id": "67",
+                        "name": "Interests and Hobbies"
+                    },
+                    "entity": {
+                        "description": "Tequila",
+                        "id": "850441431877468160",
+                        "name": "Tequila"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A taxonomy of user interests. ",
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy"
+                    },
+                    "entity": {
+                        "description": "45th US President, Donald Trump",
+                        "id": "799022225751871488",
+                        "name": "Donald Trump"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A taxonomy of user interests. ",
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy"
+                    },
+                    "entity": {
+                        "description": "Drinks",
+                        "id": "834828264786898945",
+                        "name": "Drinks"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A taxonomy of user interests. ",
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy"
+                    },
+                    "entity": {
+                        "description": "Politics",
+                        "id": "847878884917886977",
+                        "name": "Politics"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A taxonomy of user interests. ",
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy"
+                    },
+                    "entity": {
+                        "description": "Tequila",
+                        "id": "850441431877468160",
+                        "name": "Tequila"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A taxonomy of user interests. ",
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy"
+                    },
+                    "entity": {
+                        "description": "Politician",
+                        "id": "1070032753834438656",
+                        "name": "Political figures"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "Top level interests and hobbies groupings, like Food or Travel",
+                        "id": "65",
+                        "name": "Interests and Hobbies Vertical"
+                    },
+                    "entity": {
+                        "description": "Drinks",
+                        "id": "834828264786898945",
+                        "name": "Drinks"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+                        "id": "66",
+                        "name": "Interests and Hobbies Category"
+                    },
+                    "entity": {
+                        "description": "Generic Drinks",
+                        "id": "834828445238431744",
+                        "name": "Generic Drinks"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+                        "id": "67",
+                        "name": "Interests and Hobbies"
+                    },
+                    "entity": {
+                        "description": "Liquor and spirits",
+                        "id": "847866073693081601",
+                        "name": "Liquor and spirits"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A taxonomy of user interests. ",
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy"
+                    },
+                    "entity": {
+                        "description": "Drinks",
+                        "id": "834828264786898945",
+                        "name": "Drinks"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A taxonomy of user interests. ",
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy"
+                    },
+                    "entity": {
+                        "description": "Liquor and spirits",
+                        "id": "847866073693081601",
+                        "name": "Liquor and spirits"
+                    }
+                }
+            ],
+            "conversation_id": "1323857895130337280",
+            "created_at": "2020-11-04T05:21:32.000Z",
+            "edit_history_tweet_ids": [
+                "1323857895130337280"
+            ],
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 80,
+                        "normalized_text": "miami",
+                        "probability": 0.8049,
+                        "start": 76,
+                        "type": "Place"
+                    },
+                    {
+                        "end": 96,
+                        "normalized_text": "trump",
+                        "probability": 0.3828,
+                        "start": 92,
+                        "type": "Organization"
+                    }
+                ]
+            },
+            "id": "1323857895130337280",
+            "lang": "en",
+            "public_metrics": {
+                "impression_count": 0,
+                "like_count": 2,
+                "quote_count": 0,
+                "reply_count": 1,
+                "retweet_count": 0
+            },
+            "reply_settings": "everyone",
+            "text": "can't tell if i need to blackout on tequila, hookup with my ex while i'm in miami, or pop a trump supporter and damage my $7k nose"
+        },
+        {
+            "author_id": "873495439",
+            "context_annotations": [
+                {
+                    "domain": {
+                        "description": "A taxonomy of user interests. ",
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy"
+                    },
+                    "entity": {
+                        "id": "839544274442051584",
+                        "name": "Entertainment"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A taxonomy of user interests. ",
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy"
+                    },
+                    "entity": {
+                        "description": "Podcasts",
+                        "id": "1074758954444513282",
+                        "name": "Podcasts & radio"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "Top level interests and hobbies groupings, like Food or Travel",
+                        "id": "65",
+                        "name": "Interests and Hobbies Vertical"
+                    },
+                    "entity": {
+                        "description": "-",
+                        "id": "847868745150119936",
+                        "name": "Entertainment industry"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+                        "id": "66",
+                        "name": "Interests and Hobbies Category"
+                    },
+                    "entity": {
+                        "description": "Talk radio",
+                        "id": "847527324043968512",
+                        "name": "Talk radio"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A taxonomy of user interests. ",
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy"
+                    },
+                    "entity": {
+                        "description": "Talk radio",
+                        "id": "847527324043968512",
+                        "name": "Talk radio"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A taxonomy of user interests. ",
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy"
+                    },
+                    "entity": {
+                        "description": "Podcasts",
+                        "id": "1074758954444513282",
+                        "name": "Podcasts & radio"
+                    }
+                }
+            ],
+            "conversation_id": "1323857795259588608",
+            "created_at": "2020-11-04T05:21:09.000Z",
+            "edit_history_tweet_ids": [
+                "1323857795259588608"
+            ],
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 3,
+                        "normalized_text": "\u795e\u5d0e\u30e6\u30a6",
+                        "probability": 0.802,
+                        "start": 0,
+                        "type": "Person"
+                    }
+                ],
+                "hashtags": [
+                    {
+                        "end": 90,
+                        "start": 81,
+                        "tag": "BLACKOUT"
+                    }
+                ]
+            },
+            "id": "1323857795259588608",
+            "lang": "ja",
+            "public_metrics": {
+                "impression_count": 0,
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "reply_settings": "everyone",
+            "text": "\u795e\u5d0e\u30e6\u30a6\u304b\u3089\u306a\u308b\uff14\u4eba\u7d44\u306e\u30b5\u30fc\u30af\u30ebBLACK OUT\u306e\u516c\u5f0f\u30a2\u30ab\u30a6\u30f3\u30c8\u306b\u306a\u308a\u307e\u3059\uff01\u30e9\u30b8\u30aa\u306e\u60c5\u5831\u7b49\u3005\u65e9\u3005\u3068\u51fa\u305b\u308b\u5834\u3068\u306a\u308a\u307e\u3059\u306e\u3067\u662f\u975e\u30d5\u30a9\u30ed\u30fc\u306e\u7a0b\u3088\u308d\u3057\u304f\u304a\u9858\u3044\u3057\u307e\u3059\uff01 #BLACKOUT"
+        },
+        {
+            "author_id": "49875775",
+            "context_annotations": [
+                {
+                    "domain": {
+                        "description": "Named people in the world like Nelson Mandela",
+                        "id": "10",
+                        "name": "Person"
+                    },
+                    "entity": {
+                        "description": "US President Joe Biden",
+                        "id": "10040395078",
+                        "name": "Joe Biden"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "Politicians in the world, like Joe Biden",
+                        "id": "35",
+                        "name": "Politician"
+                    },
+                    "entity": {
+                        "description": "US President Joe Biden",
+                        "id": "10040395078",
+                        "name": "Joe Biden"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A taxonomy of user interests. ",
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy"
+                    },
+                    "entity": {
+                        "description": "US President Joe Biden",
+                        "id": "10040395078",
+                        "name": "Joe Biden"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A taxonomy of user interests. ",
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy"
+                    },
+                    "entity": {
+                        "description": "Politics",
+                        "id": "847878884917886977",
+                        "name": "Politics"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A taxonomy of user interests. ",
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy"
+                    },
+                    "entity": {
+                        "description": "Politician",
+                        "id": "1070032753834438656",
+                        "name": "Political figures"
+                    }
+                }
+            ],
+            "conversation_id": "1323857684215549952",
+            "created_at": "2020-11-04T05:20:42.000Z",
+            "edit_history_tweet_ids": [
+                "1323857684215549952"
+            ],
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 75,
+                        "normalized_text": "Joe Biden",
+                        "probability": 0.9758,
+                        "start": 67,
+                        "type": "Person"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 13,
+                        "id": "16106584",
+                        "start": 3,
+                        "username": "stillgray"
+                    }
+                ]
+            },
+            "id": "1323857684215549952",
+            "lang": "en",
+            "public_metrics": {
+                "impression_count": 0,
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 216
+            },
+            "referenced_tweets": [
+                {
+                    "id": "1323846277348552709",
+                    "type": "retweeted"
+                }
+            ],
+            "reply_settings": "everyone",
+            "text": "RT @stillgray: The average person has no idea what's going on with Joe Biden. The lack of information about him is shocking and you can tha\u2026"
+        },
+        {
+            "author_id": "3237969154",
+            "conversation_id": "1323857408494432256",
+            "created_at": "2020-11-04T05:19:36.000Z",
+            "edit_history_tweet_ids": [
+                "1323857408494432256"
+            ],
+            "id": "1323857408494432256",
+            "lang": "en",
+            "public_metrics": {
+                "impression_count": 0,
+                "like_count": 16,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "reply_settings": "everyone",
+            "text": "Goddamn I love watching elections as much as I love getting blackout and telling girls I\u2019m a pilot. Ya big stat guy, numbers get me going and this is just a constant bombardment of digits. Inject."
+        },
+        {
+            "author_id": "44359610",
+            "conversation_id": "1323857047188885505",
+            "created_at": "2020-11-04T05:18:10.000Z",
+            "edit_history_tweet_ids": [
+                "1323857047188885505"
+            ],
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 7,
+                        "normalized_text": "Blackout",
+                        "probability": 0.7317,
+                        "start": 0,
+                        "type": "Other"
+                    }
+                ]
+            },
+            "id": "1323857047188885505",
+            "lang": "en",
+            "public_metrics": {
+                "impression_count": 0,
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "reply_settings": "everyone",
+            "text": "Blackout \ud83e\udd23"
+        },
+        {
+            "author_id": "1127757862615175168",
+            "conversation_id": "1323857036459782144",
+            "created_at": "2020-11-04T05:18:08.000Z",
+            "edit_history_tweet_ids": [
+                "1323857036459782144"
+            ],
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 27,
+                        "normalized_text": "Dropkick Murphys",
+                        "probability": 0.645,
+                        "start": 12,
+                        "type": "Other"
+                    },
+                    {
+                        "end": 57,
+                        "normalized_text": "Gonna Be a Blackout Tonight",
+                        "probability": 0.9247,
+                        "start": 31,
+                        "type": "Other"
+                    }
+                ],
+                "hashtags": [
+                    {
+                        "end": 11,
+                        "start": 0,
+                        "tag": "NowPlaying"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "pic.twitter.com/so7NHXvJHn",
+                        "end": 82,
+                        "expanded_url": "https://twitter.com/SaigonRuby/status/1323857036459782144/photo/1",
+                        "media_key": "3_1323857034933116928",
+                        "start": 59,
+                        "url": "https://t.co/so7NHXvJHn"
+                    }
+                ]
+            },
+            "id": "1323857036459782144",
+            "lang": "en",
+            "public_metrics": {
+                "impression_count": 0,
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "reply_settings": "everyone",
+            "text": "#NowPlaying Dropkick Murphys - Gonna Be a Blackout Tonight https://t.co/so7NHXvJHn"
+        },
+        {
+            "author_id": "945582079894470656",
+            "context_annotations": [
+                {
+                    "domain": {
+                        "description": "A taxonomy of user interests. ",
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy"
+                    },
+                    "entity": {
+                        "id": "1196446161223028736",
+                        "name": "Social media"
+                    }
+                }
+            ],
+            "conversation_id": "1323856780116422657",
+            "created_at": "2020-11-04T05:17:07.000Z",
+            "edit_history_tweet_ids": [
+                "1323856780116422657"
+            ],
+            "entities": {
+                "mentions": [
+                    {
+                        "end": 11,
+                        "id": "15661696",
+                        "start": 3,
+                        "username": "blayone"
+                    }
+                ]
+            },
+            "id": "1323856780116422657",
+            "lang": "en",
+            "public_metrics": {
+                "impression_count": 0,
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 21
+            },
+            "referenced_tweets": [
+                {
+                    "id": "1323754391673864192",
+                    "type": "retweeted"
+                }
+            ],
+            "reply_settings": "everyone",
+            "text": "RT @blayone: Blackout incoming? Media going for broke to steal the election. Social Media will go offline. See below.\n\nWill we get alerts o\u2026"
+        },
+        {
+            "author_id": "480006493",
+            "conversation_id": "1323856730158190592",
+            "created_at": "2020-11-04T05:16:55.000Z",
+            "edit_history_tweet_ids": [
+                "1323856730158190592"
+            ],
+            "entities": {
+                "mentions": [
+                    {
+                        "end": 10,
+                        "id": "1061030366696267777",
+                        "start": 3,
+                        "username": "uyive_"
+                    }
+                ]
+            },
+            "id": "1323856730158190592",
+            "lang": "en",
+            "public_metrics": {
+                "impression_count": 0,
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 2
+            },
+            "referenced_tweets": [
+                {
+                    "id": "1323753793008357376",
+                    "type": "retweeted"
+                }
+            ],
+            "reply_settings": "everyone",
+            "text": "RT @uyive_: Thinking about how those blackout posts could\u2019ve been posts uplifting local Black-led organizing efforts."
+        },
+        {
+            "author_id": "465021649",
+            "conversation_id": "1323856617415364609",
+            "created_at": "2020-11-04T05:16:28.000Z",
+            "edit_history_tweet_ids": [
+                "1323856617415364609"
+            ],
+            "entities": {
+                "mentions": [
+                    {
+                        "end": 19,
+                        "id": "3322711489",
+                        "start": 3,
+                        "username": "blackout_social"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "pic.twitter.com/LGUVOOxksu",
+                        "end": 60,
+                        "expanded_url": "https://twitter.com/whiteoutsocial/status/879909806902960128/video/1",
+                        "media_key": "7_879909275518124032",
+                        "start": 37,
+                        "url": "https://t.co/LGUVOOxksu"
+                    }
+                ]
+            },
+            "id": "1323856617415364609",
+            "lang": "en",
+            "public_metrics": {
+                "impression_count": 0,
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 1455
+            },
+            "referenced_tweets": [
+                {
+                    "id": "879909806902960128",
+                    "type": "retweeted"
+                }
+            ],
+            "reply_settings": "everyone",
+            "text": "RT @blackout_social: Invade his ass. https://t.co/LGUVOOxksu"
+        },
+        {
+            "author_id": "1348317294",
+            "context_annotations": [
+                {
+                    "domain": {
+                        "description": "Named people in the world like Nelson Mandela",
+                        "id": "10",
+                        "name": "Person"
+                    },
+                    "entity": {
+                        "description": "Patton Oswalt",
+                        "id": "811265716049485824",
+                        "name": "Patton Oswalt"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "An entertainment personality in the world, like Anderson Cooper or Miranda Sings",
+                        "id": "58",
+                        "name": "Entertainment Personality"
+                    },
+                    "entity": {
+                        "description": "Patton Oswalt",
+                        "id": "811265716049485824",
+                        "name": "Patton Oswalt"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A taxonomy of user interests. ",
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy"
+                    },
+                    "entity": {
+                        "description": "Patton Oswalt",
+                        "id": "811265716049485824",
+                        "name": "Patton Oswalt"
+                    }
+                }
+            ],
+            "conversation_id": "1323856331065815040",
+            "created_at": "2020-11-04T05:16:27.000Z",
+            "edit_history_tweet_ids": [
+                "1323856613938094081"
+            ],
+            "entities": {
+                "mentions": [
+                    {
+                        "end": 13,
+                        "id": "139162440",
+                        "start": 0,
+                        "username": "pattonoswalt"
+                    }
+                ]
+            },
+            "id": "1323856613938094081",
+            "in_reply_to_user_id": "139162440",
+            "lang": "en",
+            "public_metrics": {
+                "impression_count": 0,
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "referenced_tweets": [
+                {
+                    "id": "1323856331065815040",
+                    "type": "replied_to"
+                }
+            ],
+            "reply_settings": "everyone",
+            "text": "@pattonoswalt can you tell us when it's safe to come out of the blackout"
+        },
+        {
+            "author_id": "994848992218570752",
+            "conversation_id": "1323837037255024641",
+            "created_at": "2020-11-04T05:16:26.000Z",
+            "edit_history_tweet_ids": [
+                "1323856610335272960"
+            ],
+            "id": "1323856610335272960",
+            "in_reply_to_user_id": "994848992218570752",
+            "lang": "en",
+            "public_metrics": {
+                "impression_count": 0,
+                "like_count": 7,
+                "quote_count": 0,
+                "reply_count": 1,
+                "retweet_count": 0
+            },
+            "referenced_tweets": [
+                {
+                    "id": "1323853882448031745",
+                    "type": "replied_to"
+                }
+            ],
+            "reply_settings": "everyone",
+            "text": "I'm already gonna have to get borderline blackout drunk in order to sleep tonight.\n\nJust so all y'all know.\n\nEvery single one of you that is using this clusterfuck to play purity games can suck my 6.28\" circumference, 8\" long girldick.\nYou are awful, smug shitbags."
+        },
+        {
+            "author_id": "797960376671293440",
+            "context_annotations": [
+                {
+                    "domain": {
+                        "description": "Named people in the world like Nelson Mandela",
+                        "id": "10",
+                        "name": "Person"
+                    },
+                    "entity": {
+                        "description": "US President Joe Biden",
+                        "id": "10040395078",
+                        "name": "Joe Biden"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "Politicians in the world, like Joe Biden",
+                        "id": "35",
+                        "name": "Politician"
+                    },
+                    "entity": {
+                        "description": "US President Joe Biden",
+                        "id": "10040395078",
+                        "name": "Joe Biden"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A taxonomy of user interests. ",
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy"
+                    },
+                    "entity": {
+                        "description": "US President Joe Biden",
+                        "id": "10040395078",
+                        "name": "Joe Biden"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A taxonomy of user interests. ",
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy"
+                    },
+                    "entity": {
+                        "description": "Politics",
+                        "id": "847878884917886977",
+                        "name": "Politics"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A taxonomy of user interests. ",
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy"
+                    },
+                    "entity": {
+                        "description": "Politician",
+                        "id": "1070032753834438656",
+                        "name": "Political figures"
+                    }
+                }
+            ],
+            "conversation_id": "1323856486028746753",
+            "created_at": "2020-11-04T05:15:56.000Z",
+            "edit_history_tweet_ids": [
+                "1323856486028746753"
+            ],
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 75,
+                        "normalized_text": "Joe Biden",
+                        "probability": 0.9758,
+                        "start": 67,
+                        "type": "Person"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 13,
+                        "id": "16106584",
+                        "start": 3,
+                        "username": "stillgray"
+                    }
+                ]
+            },
+            "id": "1323856486028746753",
+            "lang": "en",
+            "public_metrics": {
+                "impression_count": 0,
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 216
+            },
+            "referenced_tweets": [
+                {
+                    "id": "1323846277348552709",
+                    "type": "retweeted"
+                }
+            ],
+            "reply_settings": "everyone",
+            "text": "RT @stillgray: The average person has no idea what's going on with Joe Biden. The lack of information about him is shocking and you can tha\u2026"
+        }
+    ],
+    "meta": {
+        "newest_id": "1323860802579787776",
+        "next_token": "b26v89c19zqg8o3fosbter7ot04zl1gyimka6mc9ubon1",
+        "oldest_id": "1323856486028746753",
+        "result_count": 48
+    }
+}

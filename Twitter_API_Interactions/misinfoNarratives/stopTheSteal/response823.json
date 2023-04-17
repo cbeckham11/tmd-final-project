@@ -1,0 +1,4866 @@
+{
+    "data": [
+        {
+            "author_id": "1073202121502326785",
+            "context_annotations": [
+                {
+                    "domain": {
+                        "description": "Real world events. ",
+                        "id": "29",
+                        "name": "Events [Entity Service]"
+                    },
+                    "entity": {
+                        "description": "2020 US Presidential Election",
+                        "id": "1029453725360775168",
+                        "name": "2020 US Presidential Election"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "Real world events. ",
+                        "id": "29",
+                        "name": "Events [Entity Service]"
+                    },
+                    "entity": {
+                        "description": "The latest:\n\n- Democrats capture the House as Republicans maintain grip on the Senate\n- House Democratic leader Nancy Pelosi said \"We have all had enough of division\"\n- Women, Muslims and other first-time candidates secured historic wins on Election Day",
+                        "id": "1058468742118572032",
+                        "name": "Women lead House gains for Democrats as Republicans hold the Senate"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A taxonomy of user interests. ",
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy"
+                    },
+                    "entity": {
+                        "description": "2020 US Presidential Election",
+                        "id": "1029453725360775168",
+                        "name": "2020 US Presidential Election"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "Real world events. ",
+                        "id": "29",
+                        "name": "Events [Entity Service]"
+                    },
+                    "entity": {
+                        "id": "1318573265820921857",
+                        "name": "2020 US Election Day"
+                    }
+                }
+            ],
+            "conversation_id": "1325282233981276160",
+            "created_at": "2020-11-08T03:41:21.000Z",
+            "edit_history_tweet_ids": [
+                "1325282233981276160"
+            ],
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 92,
+                        "normalized_text": "Democrats",
+                        "probability": 0.5641,
+                        "start": 84,
+                        "type": "Organization"
+                    },
+                    {
+                        "end": 136,
+                        "normalized_text": "Day",
+                        "probability": 0.485,
+                        "start": 134,
+                        "type": "Other"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 15,
+                        "id": "2894032402",
+                        "start": 3,
+                        "username": "Craftmastah"
+                    }
+                ]
+            },
+            "id": "1325282233981276160",
+            "lang": "en",
+            "public_metrics": {
+                "impression_count": 0,
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 34
+            },
+            "referenced_tweets": [
+                {
+                    "id": "1325255486325755905",
+                    "type": "retweeted"
+                }
+            ],
+            "reply_settings": "everyone",
+            "text": "RT @Craftmastah: How To Steal An Election\n\n-Find a swing state county controlled by Democrats\n\n-If its not going your way on Election Day S\u2026"
+        },
+        {
+            "author_id": "1174076979953504257",
+            "context_annotations": [
+                {
+                    "domain": {
+                        "description": "Named people in the world like Nelson Mandela",
+                        "id": "10",
+                        "name": "Person"
+                    },
+                    "entity": {
+                        "description": "45th US President, Donald Trump",
+                        "id": "799022225751871488",
+                        "name": "Donald Trump"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "Politicians in the world, like Joe Biden",
+                        "id": "35",
+                        "name": "Politician"
+                    },
+                    "entity": {
+                        "description": "45th US President, Donald Trump",
+                        "id": "799022225751871488",
+                        "name": "Donald Trump"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A taxonomy of user interests. ",
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy"
+                    },
+                    "entity": {
+                        "description": "45th US President, Donald Trump",
+                        "id": "799022225751871488",
+                        "name": "Donald Trump"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A taxonomy of user interests. ",
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy"
+                    },
+                    "entity": {
+                        "description": "Politics",
+                        "id": "847878884917886977",
+                        "name": "Politics"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A taxonomy of user interests. ",
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy"
+                    },
+                    "entity": {
+                        "description": "Politician",
+                        "id": "1070032753834438656",
+                        "name": "Political figures"
+                    }
+                }
+            ],
+            "conversation_id": "1325282225902874624",
+            "created_at": "2020-11-08T03:41:19.000Z",
+            "edit_history_tweet_ids": [
+                "1325282225902874624"
+            ],
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 4,
+                        "normalized_text": "Trump",
+                        "probability": 0.9056,
+                        "start": 0,
+                        "type": "Person"
+                    },
+                    {
+                        "end": 28,
+                        "normalized_text": "Louisiana",
+                        "probability": 0.9279,
+                        "start": 20,
+                        "type": "Place"
+                    },
+                    {
+                        "end": 44,
+                        "normalized_text": "Capitol",
+                        "probability": 0.7569,
+                        "start": 38,
+                        "type": "Place"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 232,
+                        "id": "522350292",
+                        "start": 221,
+                        "username": "diffuser85"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "theadvocate.com/baton_rouge/ne\u2026",
+                        "end": 284,
+                        "expanded_url": "https://www.theadvocate.com/baton_rouge/news/politics/elections/article_a616bbfa-2138-11eb-ba11-17b831303cc9.html?utm_medium=social&utm_source=twitter&utm_campaign=user-share",
+                        "start": 261,
+                        "url": "https://t.co/2tVV8caOCR"
+                    }
+                ]
+            },
+            "id": "1325282225902874624",
+            "lang": "en",
+            "public_metrics": {
+                "impression_count": 0,
+                "like_count": 1,
+                "quote_count": 0,
+                "reply_count": 1,
+                "retweet_count": 0
+            },
+            "reply_settings": "everyone",
+            "text": "Trump supporters at Louisiana's State Capitol this afternoon waved signs that read \u201cBlatant Fraud!\u201d, \u201cDon\u2019t let the communists take what\u2019s yours!,\u201d &amp; \u201cStop the Steal!\u201d  Others recited prayers to overturn the results.\n@diffuser85 you asked. \nI need to move. https://t.co/2tVV8caOCR"
+        },
+        {
+            "author_id": "977279650413105153",
+            "conversation_id": "1325282224686714881",
+            "created_at": "2020-11-08T03:41:19.000Z",
+            "edit_history_tweet_ids": [
+                "1325282224686714881"
+            ],
+            "entities": {
+                "mentions": [
+                    {
+                        "end": 14,
+                        "id": "466864852",
+                        "start": 3,
+                        "username": "BoSnerdley"
+                    }
+                ]
+            },
+            "id": "1325282224686714881",
+            "lang": "en",
+            "public_metrics": {
+                "impression_count": 0,
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 35
+            },
+            "referenced_tweets": [
+                {
+                    "id": "1325280673754722305",
+                    "type": "retweeted"
+                }
+            ],
+            "reply_settings": "everyone",
+            "text": "RT @BoSnerdley: With all due respect who  the HELL said anything about LETTING them steal anything. WTF. I am saying fight at every step. A\u2026"
+        },
+        {
+            "author_id": "948609558",
+            "conversation_id": "1325282221037588482",
+            "created_at": "2020-11-08T03:41:18.000Z",
+            "edit_history_tweet_ids": [
+                "1325282221037588482"
+            ],
+            "entities": {
+                "mentions": [
+                    {
+                        "end": 13,
+                        "id": "826065164504006657",
+                        "start": 3,
+                        "username": "mtgreenee"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "newstalk1130.iheart.com/featured/commo\u2026",
+                        "end": 54,
+                        "expanded_url": "https://newstalk1130.iheart.com/featured/common-sense-central/content/2020-11-07-wisconsin-clerks-may-have-unlawfully-altered-thousands-of-absentee-ballots/",
+                        "start": 31,
+                        "url": "https://t.co/Cb31qUMRXc"
+                    }
+                ]
+            },
+            "id": "1325282221037588482",
+            "lang": "en",
+            "public_metrics": {
+                "impression_count": 0,
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 944
+            },
+            "referenced_tweets": [
+                {
+                    "id": "1325277624084664320",
+                    "type": "retweeted"
+                }
+            ],
+            "reply_settings": "everyone",
+            "text": "RT @mtgreenee: STOP THE STEAL! https://t.co/Cb31qUMRXc"
+        },
+        {
+            "author_id": "17205852",
+            "conversation_id": "1325282201253113858",
+            "created_at": "2020-11-08T03:41:13.000Z",
+            "edit_history_tweet_ids": [
+                "1325282201253113858"
+            ],
+            "entities": {
+                "mentions": [
+                    {
+                        "end": 13,
+                        "id": "826065164504006657",
+                        "start": 3,
+                        "username": "mtgreenee"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "newstalk1130.iheart.com/featured/commo\u2026",
+                        "end": 54,
+                        "expanded_url": "https://newstalk1130.iheart.com/featured/common-sense-central/content/2020-11-07-wisconsin-clerks-may-have-unlawfully-altered-thousands-of-absentee-ballots/",
+                        "start": 31,
+                        "url": "https://t.co/Cb31qUMRXc"
+                    }
+                ]
+            },
+            "id": "1325282201253113858",
+            "lang": "en",
+            "public_metrics": {
+                "impression_count": 0,
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 944
+            },
+            "referenced_tweets": [
+                {
+                    "id": "1325277624084664320",
+                    "type": "retweeted"
+                }
+            ],
+            "reply_settings": "everyone",
+            "text": "RT @mtgreenee: STOP THE STEAL! https://t.co/Cb31qUMRXc"
+        },
+        {
+            "author_id": "1292869166295322624",
+            "context_annotations": [
+                {
+                    "domain": {
+                        "description": "A taxonomy of user interests. ",
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy"
+                    },
+                    "entity": {
+                        "description": "US National News",
+                        "id": "1003932601839579136",
+                        "name": "US national news"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A taxonomy of user interests. ",
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy"
+                    },
+                    "entity": {
+                        "description": "News",
+                        "id": "1046545033657081857",
+                        "name": "News"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A taxonomy of user interests. ",
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy"
+                    },
+                    "entity": {
+                        "id": "1286379401228124160",
+                        "name": "Americas"
+                    }
+                }
+            ],
+            "conversation_id": "1325282190024994818",
+            "created_at": "2020-11-08T03:41:11.000Z",
+            "edit_history_tweet_ids": [
+                "1325282190024994818"
+            ],
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 74,
+                        "normalized_text": "SC",
+                        "probability": 0.4114,
+                        "start": 73,
+                        "type": "Organization"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 17,
+                        "id": "52338305",
+                        "start": 3,
+                        "username": "BrandonStraka"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "pic.twitter.com/KVeDPcAlAN",
+                        "end": 105,
+                        "expanded_url": "https://twitter.com/BrandonStraka/status/1325210390842793984/video/1",
+                        "media_key": "7_1325210249247281152",
+                        "start": 82,
+                        "url": "https://t.co/KVeDPcAlAN"
+                    }
+                ]
+            },
+            "id": "1325282190024994818",
+            "lang": "en",
+            "public_metrics": {
+                "impression_count": 0,
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 1601
+            },
+            "referenced_tweets": [
+                {
+                    "id": "1325210390842793984",
+                    "type": "retweeted"
+                }
+            ],
+            "reply_settings": "everyone",
+            "text": "RT @BrandonStraka: Irish American immigrant speaks out at Stop the Steal SC rally https://t.co/KVeDPcAlAN"
+        },
+        {
+            "author_id": "180903709",
+            "context_annotations": [
+                {
+                    "domain": {
+                        "description": "Named people in the world like Nelson Mandela",
+                        "id": "10",
+                        "name": "Person"
+                    },
+                    "entity": {
+                        "description": "Shannon Bream",
+                        "id": "1054524671662518272",
+                        "name": "Shannon Bream"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A journalist like 'Anderson Cooper'",
+                        "id": "94",
+                        "name": "Journalist"
+                    },
+                    "entity": {
+                        "description": "Shannon Bream",
+                        "id": "1054524671662518272",
+                        "name": "Shannon Bream"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A taxonomy of user interests. ",
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy"
+                    },
+                    "entity": {
+                        "description": "News",
+                        "id": "1046545033657081857",
+                        "name": "News"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A taxonomy of user interests. ",
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy"
+                    },
+                    "entity": {
+                        "description": "Shannon Bream",
+                        "id": "1054524671662518272",
+                        "name": "Shannon Bream"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A taxonomy of user interests. ",
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy"
+                    },
+                    "entity": {
+                        "description": "Journalism",
+                        "id": "1074755369530880001",
+                        "name": "Journalists"
+                    }
+                }
+            ],
+            "conversation_id": "1325282186736570369",
+            "created_at": "2020-11-08T03:41:10.000Z",
+            "edit_history_tweet_ids": [
+                "1325282186736570369"
+            ],
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 39,
+                        "normalized_text": "steal",
+                        "probability": 0.5683,
+                        "start": 35,
+                        "type": "Other"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 13,
+                        "id": "18983793",
+                        "start": 0,
+                        "username": "ShannonBream"
+                    }
+                ]
+            },
+            "id": "1325282186736570369",
+            "in_reply_to_user_id": "18983793",
+            "lang": "en",
+            "public_metrics": {
+                "impression_count": 0,
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "reply_settings": "everyone",
+            "text": "@ShannonBream channeling \"stop the steal\", you're disgusting"
+        },
+        {
+            "author_id": "999362785187250177",
+            "conversation_id": "1325282174157819905",
+            "created_at": "2020-11-08T03:41:07.000Z",
+            "edit_history_tweet_ids": [
+                "1325282174157819905"
+            ],
+            "entities": {
+                "mentions": [
+                    {
+                        "end": 13,
+                        "id": "826065164504006657",
+                        "start": 3,
+                        "username": "mtgreenee"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "newstalk1130.iheart.com/featured/commo\u2026",
+                        "end": 54,
+                        "expanded_url": "https://newstalk1130.iheart.com/featured/common-sense-central/content/2020-11-07-wisconsin-clerks-may-have-unlawfully-altered-thousands-of-absentee-ballots/",
+                        "start": 31,
+                        "url": "https://t.co/Cb31qUMRXc"
+                    }
+                ]
+            },
+            "id": "1325282174157819905",
+            "lang": "en",
+            "public_metrics": {
+                "impression_count": 0,
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 944
+            },
+            "referenced_tweets": [
+                {
+                    "id": "1325277624084664320",
+                    "type": "retweeted"
+                }
+            ],
+            "reply_settings": "everyone",
+            "text": "RT @mtgreenee: STOP THE STEAL! https://t.co/Cb31qUMRXc"
+        },
+        {
+            "author_id": "1065421472590716930",
+            "conversation_id": "1325282167312830464",
+            "created_at": "2020-11-08T03:41:05.000Z",
+            "edit_history_tweet_ids": [
+                "1325282167312830464"
+            ],
+            "entities": {
+                "mentions": [
+                    {
+                        "end": 13,
+                        "id": "826065164504006657",
+                        "start": 3,
+                        "username": "mtgreenee"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "newstalk1130.iheart.com/featured/commo\u2026",
+                        "end": 54,
+                        "expanded_url": "https://newstalk1130.iheart.com/featured/common-sense-central/content/2020-11-07-wisconsin-clerks-may-have-unlawfully-altered-thousands-of-absentee-ballots/",
+                        "start": 31,
+                        "url": "https://t.co/Cb31qUMRXc"
+                    }
+                ]
+            },
+            "id": "1325282167312830464",
+            "lang": "en",
+            "public_metrics": {
+                "impression_count": 0,
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 944
+            },
+            "referenced_tweets": [
+                {
+                    "id": "1325277624084664320",
+                    "type": "retweeted"
+                }
+            ],
+            "reply_settings": "everyone",
+            "text": "RT @mtgreenee: STOP THE STEAL! https://t.co/Cb31qUMRXc"
+        },
+        {
+            "author_id": "18919214",
+            "conversation_id": "1325282165135847425",
+            "created_at": "2020-11-08T03:41:05.000Z",
+            "edit_history_tweet_ids": [
+                "1325282165135847425"
+            ],
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 29,
+                        "normalized_text": "Salem",
+                        "probability": 0.5409,
+                        "start": 25,
+                        "type": "Place"
+                    },
+                    {
+                        "end": 37,
+                        "normalized_text": "Oregon",
+                        "probability": 0.9484,
+                        "start": 32,
+                        "type": "Place"
+                    },
+                    {
+                        "end": 111,
+                        "normalized_text": "Antifa",
+                        "probability": 0.4733,
+                        "start": 106,
+                        "type": "Organization"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 13,
+                        "id": "16106584",
+                        "start": 3,
+                        "username": "stillgray"
+                    }
+                ]
+            },
+            "id": "1325282165135847425",
+            "lang": "en",
+            "public_metrics": {
+                "impression_count": 0,
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 202
+            },
+            "referenced_tweets": [
+                {
+                    "id": "1325245895697297408",
+                    "type": "retweeted"
+                }
+            ],
+            "reply_settings": "everyone",
+            "text": "RT @stillgray: Police in Salem, Oregon have declared an unlawful assembly at a Stop the Steal rally after Antifa showed up to break up the\u2026"
+        },
+        {
+            "author_id": "377147374",
+            "conversation_id": "1325282154918633474",
+            "created_at": "2020-11-08T03:41:02.000Z",
+            "edit_history_tweet_ids": [
+                "1325282154918633474"
+            ],
+            "entities": {
+                "mentions": [
+                    {
+                        "end": 13,
+                        "id": "826065164504006657",
+                        "start": 3,
+                        "username": "mtgreenee"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "newstalk1130.iheart.com/featured/commo\u2026",
+                        "end": 54,
+                        "expanded_url": "https://newstalk1130.iheart.com/featured/common-sense-central/content/2020-11-07-wisconsin-clerks-may-have-unlawfully-altered-thousands-of-absentee-ballots/",
+                        "start": 31,
+                        "url": "https://t.co/Cb31qUMRXc"
+                    }
+                ]
+            },
+            "id": "1325282154918633474",
+            "lang": "en",
+            "public_metrics": {
+                "impression_count": 0,
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 944
+            },
+            "referenced_tweets": [
+                {
+                    "id": "1325277624084664320",
+                    "type": "retweeted"
+                }
+            ],
+            "reply_settings": "everyone",
+            "text": "RT @mtgreenee: STOP THE STEAL! https://t.co/Cb31qUMRXc"
+        },
+        {
+            "author_id": "417764782",
+            "conversation_id": "1325282153475661825",
+            "created_at": "2020-11-08T03:41:02.000Z",
+            "edit_history_tweet_ids": [
+                "1325282153475661825"
+            ],
+            "entities": {
+                "mentions": [
+                    {
+                        "end": 12,
+                        "id": "56572394",
+                        "start": 3,
+                        "username": "dajiyuan"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "youtube.com/watch?v=VQKKIK\u2026",
+                        "end": 95,
+                        "expanded_url": "https://www.youtube.com/watch?v=VQKKIKKgyTM&feature=youtu.be",
+                        "start": 72,
+                        "url": "https://t.co/POBXEsSXFb"
+                    },
+                    {
+                        "display_url": "pic.twitter.com/iWJRfGd9qP",
+                        "end": 119,
+                        "expanded_url": "https://twitter.com/dajiyuan/status/1325277036940824582/video/1",
+                        "media_key": "7_1325276886633754625",
+                        "start": 96,
+                        "url": "https://t.co/iWJRfGd9qP"
+                    }
+                ]
+            },
+            "id": "1325282153475661825",
+            "lang": "zh",
+            "public_metrics": {
+                "impression_count": 0,
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 50
+            },
+            "referenced_tweets": [
+                {
+                    "id": "1325277036940824582",
+                    "type": "retweeted"
+                }
+            ],
+            "reply_settings": "everyone",
+            "text": "RT @dajiyuan: \u5ddd\u666e\u652f\u6301\u8005\u5185\u534e\u8fbe\u5dde\u9009\u52a1\u5904\u524dStop the Steal\u96c6\u4f1a\n\n\u7206\u6599\u7535\u8bdd\uff1a+1(201) 614-3989\n\u89c6\u9891\u94fe\u63a5\uff1ahttps://t.co/POBXEsSXFb https://t.co/iWJRfGd9qP"
+        },
+        {
+            "author_id": "585393963",
+            "conversation_id": "1325282135373193216",
+            "created_at": "2020-11-08T03:40:58.000Z",
+            "edit_history_tweet_ids": [
+                "1325282135373193216"
+            ],
+            "entities": {
+                "mentions": [
+                    {
+                        "end": 13,
+                        "id": "826065164504006657",
+                        "start": 3,
+                        "username": "mtgreenee"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "newstalk1130.iheart.com/featured/commo\u2026",
+                        "end": 54,
+                        "expanded_url": "https://newstalk1130.iheart.com/featured/common-sense-central/content/2020-11-07-wisconsin-clerks-may-have-unlawfully-altered-thousands-of-absentee-ballots/",
+                        "start": 31,
+                        "url": "https://t.co/Cb31qUMRXc"
+                    }
+                ]
+            },
+            "id": "1325282135373193216",
+            "lang": "en",
+            "public_metrics": {
+                "impression_count": 0,
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 944
+            },
+            "referenced_tweets": [
+                {
+                    "id": "1325277624084664320",
+                    "type": "retweeted"
+                }
+            ],
+            "reply_settings": "everyone",
+            "text": "RT @mtgreenee: STOP THE STEAL! https://t.co/Cb31qUMRXc"
+        },
+        {
+            "author_id": "475371561",
+            "conversation_id": "1325282106977738754",
+            "created_at": "2020-11-08T03:40:51.000Z",
+            "edit_history_tweet_ids": [
+                "1325282106977738754"
+            ],
+            "entities": {
+                "mentions": [
+                    {
+                        "end": 13,
+                        "id": "826065164504006657",
+                        "start": 3,
+                        "username": "mtgreenee"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "newstalk1130.iheart.com/featured/commo\u2026",
+                        "end": 54,
+                        "expanded_url": "https://newstalk1130.iheart.com/featured/common-sense-central/content/2020-11-07-wisconsin-clerks-may-have-unlawfully-altered-thousands-of-absentee-ballots/",
+                        "start": 31,
+                        "url": "https://t.co/Cb31qUMRXc"
+                    }
+                ]
+            },
+            "id": "1325282106977738754",
+            "lang": "en",
+            "public_metrics": {
+                "impression_count": 0,
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 944
+            },
+            "referenced_tweets": [
+                {
+                    "id": "1325277624084664320",
+                    "type": "retweeted"
+                }
+            ],
+            "reply_settings": "everyone",
+            "text": "RT @mtgreenee: STOP THE STEAL! https://t.co/Cb31qUMRXc"
+        },
+        {
+            "author_id": "1223116956745662465",
+            "conversation_id": "1325282100367536129",
+            "created_at": "2020-11-08T03:40:49.000Z",
+            "edit_history_tweet_ids": [
+                "1325282100367536129"
+            ],
+            "entities": {
+                "mentions": [
+                    {
+                        "end": 13,
+                        "id": "826065164504006657",
+                        "start": 3,
+                        "username": "mtgreenee"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "newstalk1130.iheart.com/featured/commo\u2026",
+                        "end": 54,
+                        "expanded_url": "https://newstalk1130.iheart.com/featured/common-sense-central/content/2020-11-07-wisconsin-clerks-may-have-unlawfully-altered-thousands-of-absentee-ballots/",
+                        "start": 31,
+                        "url": "https://t.co/Cb31qUMRXc"
+                    }
+                ]
+            },
+            "id": "1325282100367536129",
+            "lang": "en",
+            "public_metrics": {
+                "impression_count": 0,
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 944
+            },
+            "referenced_tweets": [
+                {
+                    "id": "1325277624084664320",
+                    "type": "retweeted"
+                }
+            ],
+            "reply_settings": "everyone",
+            "text": "RT @mtgreenee: STOP THE STEAL! https://t.co/Cb31qUMRXc"
+        },
+        {
+            "author_id": "4893329892",
+            "conversation_id": "1325282095439073280",
+            "created_at": "2020-11-08T03:40:48.000Z",
+            "edit_history_tweet_ids": [
+                "1325282095439073280"
+            ],
+            "entities": {
+                "mentions": [
+                    {
+                        "end": 13,
+                        "id": "826065164504006657",
+                        "start": 3,
+                        "username": "mtgreenee"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "newstalk1130.iheart.com/featured/commo\u2026",
+                        "end": 54,
+                        "expanded_url": "https://newstalk1130.iheart.com/featured/common-sense-central/content/2020-11-07-wisconsin-clerks-may-have-unlawfully-altered-thousands-of-absentee-ballots/",
+                        "start": 31,
+                        "url": "https://t.co/Cb31qUMRXc"
+                    }
+                ]
+            },
+            "id": "1325282095439073280",
+            "lang": "en",
+            "public_metrics": {
+                "impression_count": 0,
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 944
+            },
+            "referenced_tweets": [
+                {
+                    "id": "1325277624084664320",
+                    "type": "retweeted"
+                }
+            ],
+            "reply_settings": "everyone",
+            "text": "RT @mtgreenee: STOP THE STEAL! https://t.co/Cb31qUMRXc"
+        },
+        {
+            "author_id": "303503919",
+            "conversation_id": "1325282093727846400",
+            "created_at": "2020-11-08T03:40:48.000Z",
+            "edit_history_tweet_ids": [
+                "1325282093727846400"
+            ],
+            "entities": {
+                "mentions": [
+                    {
+                        "end": 13,
+                        "id": "826065164504006657",
+                        "start": 3,
+                        "username": "mtgreenee"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "newstalk1130.iheart.com/featured/commo\u2026",
+                        "end": 54,
+                        "expanded_url": "https://newstalk1130.iheart.com/featured/common-sense-central/content/2020-11-07-wisconsin-clerks-may-have-unlawfully-altered-thousands-of-absentee-ballots/",
+                        "start": 31,
+                        "url": "https://t.co/Cb31qUMRXc"
+                    }
+                ]
+            },
+            "id": "1325282093727846400",
+            "lang": "en",
+            "public_metrics": {
+                "impression_count": 0,
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 944
+            },
+            "referenced_tweets": [
+                {
+                    "id": "1325277624084664320",
+                    "type": "retweeted"
+                }
+            ],
+            "reply_settings": "everyone",
+            "text": "RT @mtgreenee: STOP THE STEAL! https://t.co/Cb31qUMRXc"
+        },
+        {
+            "author_id": "1220144020409610242",
+            "conversation_id": "1325282081761492993",
+            "created_at": "2020-11-08T03:40:45.000Z",
+            "edit_history_tweet_ids": [
+                "1325282081761492993"
+            ],
+            "entities": {
+                "mentions": [
+                    {
+                        "end": 12,
+                        "id": "56572394",
+                        "start": 3,
+                        "username": "dajiyuan"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "youtube.com/watch?v=VQKKIK\u2026",
+                        "end": 95,
+                        "expanded_url": "https://www.youtube.com/watch?v=VQKKIKKgyTM&feature=youtu.be",
+                        "start": 72,
+                        "url": "https://t.co/POBXEsSXFb"
+                    },
+                    {
+                        "display_url": "pic.twitter.com/iWJRfGd9qP",
+                        "end": 119,
+                        "expanded_url": "https://twitter.com/dajiyuan/status/1325277036940824582/video/1",
+                        "media_key": "7_1325276886633754625",
+                        "start": 96,
+                        "url": "https://t.co/iWJRfGd9qP"
+                    }
+                ]
+            },
+            "id": "1325282081761492993",
+            "lang": "zh",
+            "public_metrics": {
+                "impression_count": 0,
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 50
+            },
+            "referenced_tweets": [
+                {
+                    "id": "1325277036940824582",
+                    "type": "retweeted"
+                }
+            ],
+            "reply_settings": "everyone",
+            "text": "RT @dajiyuan: \u5ddd\u666e\u652f\u6301\u8005\u5185\u534e\u8fbe\u5dde\u9009\u52a1\u5904\u524dStop the Steal\u96c6\u4f1a\n\n\u7206\u6599\u7535\u8bdd\uff1a+1(201) 614-3989\n\u89c6\u9891\u94fe\u63a5\uff1ahttps://t.co/POBXEsSXFb https://t.co/iWJRfGd9qP"
+        },
+        {
+            "author_id": "1498443997",
+            "conversation_id": "1325282078183854083",
+            "created_at": "2020-11-08T03:40:44.000Z",
+            "edit_history_tweet_ids": [
+                "1325282078183854083"
+            ],
+            "entities": {
+                "mentions": [
+                    {
+                        "end": 19,
+                        "id": "898218643888197632",
+                        "start": 3,
+                        "username": "AmericaFirstPAC"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "pic.twitter.com/q8GaPtm3ut",
+                        "end": 60,
+                        "expanded_url": "https://twitter.com/AmericaFirstPAC/status/1325277299458138113/photo/1",
+                        "media_key": "3_1325277295247044609",
+                        "start": 37,
+                        "url": "https://t.co/q8GaPtm3ut"
+                    }
+                ]
+            },
+            "id": "1325282078183854083",
+            "lang": "en",
+            "public_metrics": {
+                "impression_count": 0,
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 58
+            },
+            "referenced_tweets": [
+                {
+                    "id": "1325277299458138113",
+                    "type": "retweeted"
+                }
+            ],
+            "reply_settings": "everyone",
+            "text": "RT @AmericaFirstPAC: STOP THE STEAL! https://t.co/q8GaPtm3ut"
+        },
+        {
+            "author_id": "1254273553345773570",
+            "conversation_id": "1325282073381384198",
+            "created_at": "2020-11-08T03:40:43.000Z",
+            "edit_history_tweet_ids": [
+                "1325282073381384198"
+            ],
+            "entities": {
+                "mentions": [
+                    {
+                        "end": 11,
+                        "id": "2657253543",
+                        "start": 3,
+                        "username": "xlmsnow"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "twitter.com/Scarlett202077\u2026",
+                        "end": 92,
+                        "expanded_url": "https://twitter.com/Scarlett202077/status/1325200010770722816/video/1",
+                        "start": 69,
+                        "url": "https://t.co/58dOucaPJd"
+                    }
+                ]
+            },
+            "id": "1325282073381384198",
+            "lang": "zh",
+            "public_metrics": {
+                "impression_count": 0,
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 399
+            },
+            "referenced_tweets": [
+                {
+                    "id": "1325240380498055174",
+                    "type": "retweeted"
+                }
+            ],
+            "reply_settings": "everyone",
+            "text": "RT @xlmsnow: \u52a0\u5dde\u4eba\u53d1\u51fa\u6297\u8bae\u7684\u58f0\u97f3\uff1a\nStop the steal! \u505c\u6b62\u5077\u7a83\uff01\n\u4e3b\u5a92\u662f\u4e0d\u4f1a\u62a5\u9053\u7684\uff0c\u53ea\u6709\u9760\u7f8e\u56fd\u4eba\u6c11\u81ea\u5df1\u8f6c\u53d1\u3002\nhttps://t.co/58dOucaPJd"
+        },
+        {
+            "author_id": "1293245495385653248",
+            "conversation_id": "1325282068608258054",
+            "created_at": "2020-11-08T03:40:42.000Z",
+            "edit_history_tweet_ids": [
+                "1325282068608258054"
+            ],
+            "entities": {
+                "mentions": [
+                    {
+                        "end": 13,
+                        "id": "826065164504006657",
+                        "start": 3,
+                        "username": "mtgreenee"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "newstalk1130.iheart.com/featured/commo\u2026",
+                        "end": 54,
+                        "expanded_url": "https://newstalk1130.iheart.com/featured/common-sense-central/content/2020-11-07-wisconsin-clerks-may-have-unlawfully-altered-thousands-of-absentee-ballots/",
+                        "start": 31,
+                        "url": "https://t.co/Cb31qUMRXc"
+                    }
+                ]
+            },
+            "id": "1325282068608258054",
+            "lang": "en",
+            "public_metrics": {
+                "impression_count": 0,
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 944
+            },
+            "referenced_tweets": [
+                {
+                    "id": "1325277624084664320",
+                    "type": "retweeted"
+                }
+            ],
+            "reply_settings": "everyone",
+            "text": "RT @mtgreenee: STOP THE STEAL! https://t.co/Cb31qUMRXc"
+        },
+        {
+            "author_id": "3692530168",
+            "conversation_id": "1325282066968289280",
+            "created_at": "2020-11-08T03:40:41.000Z",
+            "edit_history_tweet_ids": [
+                "1325282066968289280"
+            ],
+            "entities": {
+                "mentions": [
+                    {
+                        "end": 13,
+                        "id": "826065164504006657",
+                        "start": 3,
+                        "username": "mtgreenee"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "newstalk1130.iheart.com/featured/commo\u2026",
+                        "end": 54,
+                        "expanded_url": "https://newstalk1130.iheart.com/featured/common-sense-central/content/2020-11-07-wisconsin-clerks-may-have-unlawfully-altered-thousands-of-absentee-ballots/",
+                        "start": 31,
+                        "url": "https://t.co/Cb31qUMRXc"
+                    }
+                ]
+            },
+            "id": "1325282066968289280",
+            "lang": "en",
+            "public_metrics": {
+                "impression_count": 0,
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 944
+            },
+            "referenced_tweets": [
+                {
+                    "id": "1325277624084664320",
+                    "type": "retweeted"
+                }
+            ],
+            "reply_settings": "everyone",
+            "text": "RT @mtgreenee: STOP THE STEAL! https://t.co/Cb31qUMRXc"
+        },
+        {
+            "author_id": "67013524",
+            "conversation_id": "1325282058709704706",
+            "created_at": "2020-11-08T03:40:40.000Z",
+            "edit_history_tweet_ids": [
+                "1325282058709704706"
+            ],
+            "entities": {
+                "mentions": [
+                    {
+                        "end": 13,
+                        "id": "826065164504006657",
+                        "start": 3,
+                        "username": "mtgreenee"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "newstalk1130.iheart.com/featured/commo\u2026",
+                        "end": 54,
+                        "expanded_url": "https://newstalk1130.iheart.com/featured/common-sense-central/content/2020-11-07-wisconsin-clerks-may-have-unlawfully-altered-thousands-of-absentee-ballots/",
+                        "start": 31,
+                        "url": "https://t.co/Cb31qUMRXc"
+                    }
+                ]
+            },
+            "id": "1325282058709704706",
+            "lang": "en",
+            "public_metrics": {
+                "impression_count": 0,
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 944
+            },
+            "referenced_tweets": [
+                {
+                    "id": "1325277624084664320",
+                    "type": "retweeted"
+                }
+            ],
+            "reply_settings": "everyone",
+            "text": "RT @mtgreenee: STOP THE STEAL! https://t.co/Cb31qUMRXc"
+        },
+        {
+            "author_id": "837140922810920960",
+            "conversation_id": "1325282054297317376",
+            "created_at": "2020-11-08T03:40:38.000Z",
+            "edit_history_tweet_ids": [
+                "1325282054297317376"
+            ],
+            "entities": {
+                "mentions": [
+                    {
+                        "end": 13,
+                        "id": "826065164504006657",
+                        "start": 3,
+                        "username": "mtgreenee"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "newstalk1130.iheart.com/featured/commo\u2026",
+                        "end": 54,
+                        "expanded_url": "https://newstalk1130.iheart.com/featured/common-sense-central/content/2020-11-07-wisconsin-clerks-may-have-unlawfully-altered-thousands-of-absentee-ballots/",
+                        "start": 31,
+                        "url": "https://t.co/Cb31qUMRXc"
+                    }
+                ]
+            },
+            "id": "1325282054297317376",
+            "lang": "en",
+            "public_metrics": {
+                "impression_count": 0,
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 944
+            },
+            "referenced_tweets": [
+                {
+                    "id": "1325277624084664320",
+                    "type": "retweeted"
+                }
+            ],
+            "reply_settings": "everyone",
+            "text": "RT @mtgreenee: STOP THE STEAL! https://t.co/Cb31qUMRXc"
+        },
+        {
+            "author_id": "1137216538556096512",
+            "conversation_id": "1325282048852938753",
+            "created_at": "2020-11-08T03:40:37.000Z",
+            "edit_history_tweet_ids": [
+                "1325282048852938753"
+            ],
+            "entities": {
+                "mentions": [
+                    {
+                        "end": 12,
+                        "id": "56572394",
+                        "start": 3,
+                        "username": "dajiyuan"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "youtube.com/watch?v=VQKKIK\u2026",
+                        "end": 95,
+                        "expanded_url": "https://www.youtube.com/watch?v=VQKKIKKgyTM&feature=youtu.be",
+                        "start": 72,
+                        "url": "https://t.co/POBXEsSXFb"
+                    },
+                    {
+                        "display_url": "pic.twitter.com/iWJRfGd9qP",
+                        "end": 119,
+                        "expanded_url": "https://twitter.com/dajiyuan/status/1325277036940824582/video/1",
+                        "media_key": "7_1325276886633754625",
+                        "start": 96,
+                        "url": "https://t.co/iWJRfGd9qP"
+                    }
+                ]
+            },
+            "id": "1325282048852938753",
+            "lang": "zh",
+            "public_metrics": {
+                "impression_count": 0,
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 50
+            },
+            "referenced_tweets": [
+                {
+                    "id": "1325277036940824582",
+                    "type": "retweeted"
+                }
+            ],
+            "reply_settings": "everyone",
+            "text": "RT @dajiyuan: \u5ddd\u666e\u652f\u6301\u8005\u5185\u534e\u8fbe\u5dde\u9009\u52a1\u5904\u524dStop the Steal\u96c6\u4f1a\n\n\u7206\u6599\u7535\u8bdd\uff1a+1(201) 614-3989\n\u89c6\u9891\u94fe\u63a5\uff1ahttps://t.co/POBXEsSXFb https://t.co/iWJRfGd9qP"
+        },
+        {
+            "author_id": "224023264",
+            "conversation_id": "1325282035511025664",
+            "created_at": "2020-11-08T03:40:34.000Z",
+            "edit_history_tweet_ids": [
+                "1325282035511025664"
+            ],
+            "entities": {
+                "mentions": [
+                    {
+                        "end": 13,
+                        "id": "826065164504006657",
+                        "start": 3,
+                        "username": "mtgreenee"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "newstalk1130.iheart.com/featured/commo\u2026",
+                        "end": 54,
+                        "expanded_url": "https://newstalk1130.iheart.com/featured/common-sense-central/content/2020-11-07-wisconsin-clerks-may-have-unlawfully-altered-thousands-of-absentee-ballots/",
+                        "start": 31,
+                        "url": "https://t.co/Cb31qUMRXc"
+                    }
+                ]
+            },
+            "id": "1325282035511025664",
+            "lang": "en",
+            "public_metrics": {
+                "impression_count": 0,
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 944
+            },
+            "referenced_tweets": [
+                {
+                    "id": "1325277624084664320",
+                    "type": "retweeted"
+                }
+            ],
+            "reply_settings": "everyone",
+            "text": "RT @mtgreenee: STOP THE STEAL! https://t.co/Cb31qUMRXc"
+        },
+        {
+            "author_id": "798223411503894528",
+            "conversation_id": "1325282023079104521",
+            "created_at": "2020-11-08T03:40:31.000Z",
+            "edit_history_tweet_ids": [
+                "1325282023079104521"
+            ],
+            "entities": {
+                "mentions": [
+                    {
+                        "end": 13,
+                        "id": "826065164504006657",
+                        "start": 3,
+                        "username": "mtgreenee"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "newstalk1130.iheart.com/featured/commo\u2026",
+                        "end": 54,
+                        "expanded_url": "https://newstalk1130.iheart.com/featured/common-sense-central/content/2020-11-07-wisconsin-clerks-may-have-unlawfully-altered-thousands-of-absentee-ballots/",
+                        "start": 31,
+                        "url": "https://t.co/Cb31qUMRXc"
+                    }
+                ]
+            },
+            "id": "1325282023079104521",
+            "lang": "en",
+            "public_metrics": {
+                "impression_count": 0,
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 944
+            },
+            "referenced_tweets": [
+                {
+                    "id": "1325277624084664320",
+                    "type": "retweeted"
+                }
+            ],
+            "reply_settings": "everyone",
+            "text": "RT @mtgreenee: STOP THE STEAL! https://t.co/Cb31qUMRXc"
+        },
+        {
+            "author_id": "20215811",
+            "conversation_id": "1325282011427139588",
+            "created_at": "2020-11-08T03:40:28.000Z",
+            "edit_history_tweet_ids": [
+                "1325282011427139588"
+            ],
+            "entities": {
+                "mentions": [
+                    {
+                        "end": 13,
+                        "id": "826065164504006657",
+                        "start": 3,
+                        "username": "mtgreenee"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "newstalk1130.iheart.com/featured/commo\u2026",
+                        "end": 54,
+                        "expanded_url": "https://newstalk1130.iheart.com/featured/common-sense-central/content/2020-11-07-wisconsin-clerks-may-have-unlawfully-altered-thousands-of-absentee-ballots/",
+                        "start": 31,
+                        "url": "https://t.co/Cb31qUMRXc"
+                    }
+                ]
+            },
+            "id": "1325282011427139588",
+            "lang": "en",
+            "public_metrics": {
+                "impression_count": 0,
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 944
+            },
+            "referenced_tweets": [
+                {
+                    "id": "1325277624084664320",
+                    "type": "retweeted"
+                }
+            ],
+            "reply_settings": "everyone",
+            "text": "RT @mtgreenee: STOP THE STEAL! https://t.co/Cb31qUMRXc"
+        },
+        {
+            "author_id": "1188088804701364224",
+            "conversation_id": "1325282010735267842",
+            "created_at": "2020-11-08T03:40:28.000Z",
+            "edit_history_tweet_ids": [
+                "1325282010735267842"
+            ],
+            "entities": {
+                "mentions": [
+                    {
+                        "end": 13,
+                        "id": "826065164504006657",
+                        "start": 3,
+                        "username": "mtgreenee"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "newstalk1130.iheart.com/featured/commo\u2026",
+                        "end": 54,
+                        "expanded_url": "https://newstalk1130.iheart.com/featured/common-sense-central/content/2020-11-07-wisconsin-clerks-may-have-unlawfully-altered-thousands-of-absentee-ballots/",
+                        "start": 31,
+                        "url": "https://t.co/Cb31qUMRXc"
+                    }
+                ]
+            },
+            "id": "1325282010735267842",
+            "lang": "en",
+            "public_metrics": {
+                "impression_count": 0,
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 944
+            },
+            "referenced_tweets": [
+                {
+                    "id": "1325277624084664320",
+                    "type": "retweeted"
+                }
+            ],
+            "reply_settings": "everyone",
+            "text": "RT @mtgreenee: STOP THE STEAL! https://t.co/Cb31qUMRXc"
+        },
+        {
+            "author_id": "1073301554676097024",
+            "conversation_id": "1325282006629027840",
+            "created_at": "2020-11-08T03:40:27.000Z",
+            "edit_history_tweet_ids": [
+                "1325282006629027840"
+            ],
+            "entities": {
+                "mentions": [
+                    {
+                        "end": 19,
+                        "id": "898218643888197632",
+                        "start": 3,
+                        "username": "AmericaFirstPAC"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "pic.twitter.com/q8GaPtm3ut",
+                        "end": 60,
+                        "expanded_url": "https://twitter.com/AmericaFirstPAC/status/1325277299458138113/photo/1",
+                        "media_key": "3_1325277295247044609",
+                        "start": 37,
+                        "url": "https://t.co/q8GaPtm3ut"
+                    }
+                ]
+            },
+            "id": "1325282006629027840",
+            "lang": "en",
+            "public_metrics": {
+                "impression_count": 0,
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 58
+            },
+            "referenced_tweets": [
+                {
+                    "id": "1325277299458138113",
+                    "type": "retweeted"
+                }
+            ],
+            "reply_settings": "everyone",
+            "text": "RT @AmericaFirstPAC: STOP THE STEAL! https://t.co/q8GaPtm3ut"
+        },
+        {
+            "author_id": "1251343543114715136",
+            "conversation_id": "1325282002656927744",
+            "created_at": "2020-11-08T03:40:26.000Z",
+            "edit_history_tweet_ids": [
+                "1325282002656927744"
+            ],
+            "entities": {
+                "mentions": [
+                    {
+                        "end": 13,
+                        "id": "826065164504006657",
+                        "start": 3,
+                        "username": "mtgreenee"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "newstalk1130.iheart.com/featured/commo\u2026",
+                        "end": 54,
+                        "expanded_url": "https://newstalk1130.iheart.com/featured/common-sense-central/content/2020-11-07-wisconsin-clerks-may-have-unlawfully-altered-thousands-of-absentee-ballots/",
+                        "start": 31,
+                        "url": "https://t.co/Cb31qUMRXc"
+                    }
+                ]
+            },
+            "id": "1325282002656927744",
+            "lang": "en",
+            "public_metrics": {
+                "impression_count": 0,
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 944
+            },
+            "referenced_tweets": [
+                {
+                    "id": "1325277624084664320",
+                    "type": "retweeted"
+                }
+            ],
+            "reply_settings": "everyone",
+            "text": "RT @mtgreenee: STOP THE STEAL! https://t.co/Cb31qUMRXc"
+        },
+        {
+            "author_id": "995667818115936263",
+            "conversation_id": "1325282000824127489",
+            "created_at": "2020-11-08T03:40:26.000Z",
+            "edit_history_tweet_ids": [
+                "1325282000824127489"
+            ],
+            "entities": {
+                "mentions": [
+                    {
+                        "end": 13,
+                        "id": "826065164504006657",
+                        "start": 3,
+                        "username": "mtgreenee"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "newstalk1130.iheart.com/featured/commo\u2026",
+                        "end": 54,
+                        "expanded_url": "https://newstalk1130.iheart.com/featured/common-sense-central/content/2020-11-07-wisconsin-clerks-may-have-unlawfully-altered-thousands-of-absentee-ballots/",
+                        "start": 31,
+                        "url": "https://t.co/Cb31qUMRXc"
+                    }
+                ]
+            },
+            "id": "1325282000824127489",
+            "lang": "en",
+            "public_metrics": {
+                "impression_count": 0,
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 944
+            },
+            "referenced_tweets": [
+                {
+                    "id": "1325277624084664320",
+                    "type": "retweeted"
+                }
+            ],
+            "reply_settings": "everyone",
+            "text": "RT @mtgreenee: STOP THE STEAL! https://t.co/Cb31qUMRXc"
+        },
+        {
+            "author_id": "23140272",
+            "context_annotations": [
+                {
+                    "domain": {
+                        "description": "Real world events. ",
+                        "id": "29",
+                        "name": "Events [Entity Service]"
+                    },
+                    "entity": {
+                        "description": "2020 US Presidential Election",
+                        "id": "1029453725360775168",
+                        "name": "2020 US Presidential Election"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "Real world events. ",
+                        "id": "29",
+                        "name": "Events [Entity Service]"
+                    },
+                    "entity": {
+                        "description": "The latest:\n\n- Democrats capture the House as Republicans maintain grip on the Senate\n- House Democratic leader Nancy Pelosi said \"We have all had enough of division\"\n- Women, Muslims and other first-time candidates secured historic wins on Election Day",
+                        "id": "1058468742118572032",
+                        "name": "Women lead House gains for Democrats as Republicans hold the Senate"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A taxonomy of user interests. ",
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy"
+                    },
+                    "entity": {
+                        "description": "2020 US Presidential Election",
+                        "id": "1029453725360775168",
+                        "name": "2020 US Presidential Election"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "Real world events. ",
+                        "id": "29",
+                        "name": "Events [Entity Service]"
+                    },
+                    "entity": {
+                        "id": "1318573265820921857",
+                        "name": "2020 US Election Day"
+                    }
+                }
+            ],
+            "conversation_id": "1325281999859314688",
+            "created_at": "2020-11-08T03:40:25.000Z",
+            "edit_history_tweet_ids": [
+                "1325281999859314688"
+            ],
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 92,
+                        "normalized_text": "Democrats",
+                        "probability": 0.5641,
+                        "start": 84,
+                        "type": "Organization"
+                    },
+                    {
+                        "end": 136,
+                        "normalized_text": "Day",
+                        "probability": 0.485,
+                        "start": 134,
+                        "type": "Other"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 15,
+                        "id": "2894032402",
+                        "start": 3,
+                        "username": "Craftmastah"
+                    }
+                ]
+            },
+            "id": "1325281999859314688",
+            "lang": "en",
+            "public_metrics": {
+                "impression_count": 0,
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 34
+            },
+            "referenced_tweets": [
+                {
+                    "id": "1325255486325755905",
+                    "type": "retweeted"
+                }
+            ],
+            "reply_settings": "everyone",
+            "text": "RT @Craftmastah: How To Steal An Election\n\n-Find a swing state county controlled by Democrats\n\n-If its not going your way on Election Day S\u2026"
+        },
+        {
+            "author_id": "805471705997213696",
+            "conversation_id": "1325281973229776896",
+            "created_at": "2020-11-08T03:40:19.000Z",
+            "edit_history_tweet_ids": [
+                "1325281973229776896"
+            ],
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 31,
+                        "normalized_text": "Scott Presler",
+                        "probability": 0.9182,
+                        "start": 19,
+                        "type": "Person"
+                    },
+                    {
+                        "end": 62,
+                        "normalized_text": "PA",
+                        "probability": 0.9227,
+                        "start": 61,
+                        "type": "Place"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 17,
+                        "id": "52338305",
+                        "start": 3,
+                        "username": "BrandonStraka"
+                    }
+                ]
+            },
+            "id": "1325281973229776896",
+            "lang": "en",
+            "public_metrics": {
+                "impression_count": 0,
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 2294
+            },
+            "referenced_tweets": [
+                {
+                    "id": "1325151400955928584",
+                    "type": "retweeted"
+                }
+            ],
+            "reply_settings": "everyone",
+            "text": "RT @BrandonStraka: Scott Presler led Stop the Steal rally in PA today:"
+        },
+        {
+            "author_id": "1219967840",
+            "conversation_id": "1325281964635533313",
+            "created_at": "2020-11-08T03:40:17.000Z",
+            "edit_history_tweet_ids": [
+                "1325281964635533313"
+            ],
+            "entities": {
+                "mentions": [
+                    {
+                        "end": 13,
+                        "id": "826065164504006657",
+                        "start": 3,
+                        "username": "mtgreenee"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "newstalk1130.iheart.com/featured/commo\u2026",
+                        "end": 54,
+                        "expanded_url": "https://newstalk1130.iheart.com/featured/common-sense-central/content/2020-11-07-wisconsin-clerks-may-have-unlawfully-altered-thousands-of-absentee-ballots/",
+                        "start": 31,
+                        "url": "https://t.co/Cb31qUMRXc"
+                    }
+                ]
+            },
+            "id": "1325281964635533313",
+            "lang": "en",
+            "public_metrics": {
+                "impression_count": 0,
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 944
+            },
+            "referenced_tweets": [
+                {
+                    "id": "1325277624084664320",
+                    "type": "retweeted"
+                }
+            ],
+            "reply_settings": "everyone",
+            "text": "RT @mtgreenee: STOP THE STEAL! https://t.co/Cb31qUMRXc"
+        },
+        {
+            "author_id": "999042853564231681",
+            "conversation_id": "1325281957232697345",
+            "created_at": "2020-11-08T03:40:15.000Z",
+            "edit_history_tweet_ids": [
+                "1325281957232697345"
+            ],
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 76,
+                        "normalized_text": "Georgia State Capitol",
+                        "probability": 0.8358,
+                        "start": 56,
+                        "type": "Place"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 13,
+                        "id": "826065164504006657",
+                        "start": 3,
+                        "username": "mtgreenee"
+                    }
+                ]
+            },
+            "id": "1325281957232697345",
+            "lang": "en",
+            "public_metrics": {
+                "impression_count": 0,
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 170
+            },
+            "referenced_tweets": [
+                {
+                    "id": "1325129021441585152",
+                    "type": "retweeted"
+                }
+            ],
+            "reply_settings": "everyone",
+            "text": "RT @mtgreenee: WE WILL WIN THIS FIGHT!\n\nI\u2019m live at the Georgia State Capitol to STOP THE STEAL with my friend @RepVernonJones.\n\nJoin us: h\u2026"
+        },
+        {
+            "author_id": "2302379678",
+            "conversation_id": "1325281952967106560",
+            "created_at": "2020-11-08T03:40:14.000Z",
+            "edit_history_tweet_ids": [
+                "1325281952967106560"
+            ],
+            "entities": {
+                "mentions": [
+                    {
+                        "end": 13,
+                        "id": "826065164504006657",
+                        "start": 3,
+                        "username": "mtgreenee"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "newstalk1130.iheart.com/featured/commo\u2026",
+                        "end": 54,
+                        "expanded_url": "https://newstalk1130.iheart.com/featured/common-sense-central/content/2020-11-07-wisconsin-clerks-may-have-unlawfully-altered-thousands-of-absentee-ballots/",
+                        "start": 31,
+                        "url": "https://t.co/Cb31qUMRXc"
+                    }
+                ]
+            },
+            "id": "1325281952967106560",
+            "lang": "en",
+            "public_metrics": {
+                "impression_count": 0,
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 944
+            },
+            "referenced_tweets": [
+                {
+                    "id": "1325277624084664320",
+                    "type": "retweeted"
+                }
+            ],
+            "reply_settings": "everyone",
+            "text": "RT @mtgreenee: STOP THE STEAL! https://t.co/Cb31qUMRXc"
+        },
+        {
+            "author_id": "19736128",
+            "conversation_id": "1325281642647351297",
+            "created_at": "2020-11-08T03:40:14.000Z",
+            "edit_history_tweet_ids": [
+                "1325281950404386816"
+            ],
+            "entities": {
+                "mentions": [
+                    {
+                        "end": 10,
+                        "id": "50867381",
+                        "start": 0,
+                        "username": "DexHinton"
+                    }
+                ]
+            },
+            "id": "1325281950404386816",
+            "in_reply_to_user_id": "50867381",
+            "lang": "en",
+            "public_metrics": {
+                "impression_count": 0,
+                "like_count": 1,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "referenced_tweets": [
+                {
+                    "id": "1325281642647351297",
+                    "type": "replied_to"
+                }
+            ],
+            "reply_settings": "everyone",
+            "text": "@DexHinton STOP THE STEAL"
+        },
+        {
+            "author_id": "1055079759816937472",
+            "conversation_id": "1325079204577370112",
+            "created_at": "2020-11-08T03:40:13.000Z",
+            "edit_history_tweet_ids": [
+                "1325281948596461568"
+            ],
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 57,
+                        "normalized_text": "Patriots",
+                        "probability": 0.9159,
+                        "start": 50,
+                        "type": "Organization"
+                    },
+                    {
+                        "end": 123,
+                        "normalized_text": "Patriots",
+                        "probability": 0.7422,
+                        "start": 116,
+                        "type": "Organization"
+                    }
+                ]
+            },
+            "id": "1325281948596461568",
+            "in_reply_to_user_id": "860233232431939584",
+            "lang": "en",
+            "public_metrics": {
+                "impression_count": 0,
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "referenced_tweets": [
+                {
+                    "id": "1325251973994733568",
+                    "type": "replied_to"
+                }
+            ],
+            "reply_settings": "everyone",
+            "text": "@LindaHale8006 Oh lord it was awesome Nothing but Patriots...Loving Our President It was an Amazing Day And  lot of Patriots..Black White Hispanic Asian..We were all there for one Purpose..Stop The Steal\ud83d\udc4d\ud83c\uddfa\ud83c\uddf8\ud83c\uddfa\ud83c\uddf8\ud83c\uddfa\ud83c\uddf8\u2764\ud83d\udc99\u2764\ud83d\udc99\ud83c\uddfa\ud83c\uddf8\ud83c\uddfa\ud83c\uddf8\ud83d\ude4f\ud83d\ude4f\ud83d\ude4f"
+        },
+        {
+            "author_id": "169674516",
+            "conversation_id": "1325281923888017408",
+            "created_at": "2020-11-08T03:40:07.000Z",
+            "edit_history_tweet_ids": [
+                "1325281923888017408"
+            ],
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 31,
+                        "normalized_text": "Scott Presler",
+                        "probability": 0.9182,
+                        "start": 19,
+                        "type": "Person"
+                    },
+                    {
+                        "end": 62,
+                        "normalized_text": "PA",
+                        "probability": 0.9227,
+                        "start": 61,
+                        "type": "Place"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 17,
+                        "id": "52338305",
+                        "start": 3,
+                        "username": "BrandonStraka"
+                    }
+                ]
+            },
+            "id": "1325281923888017408",
+            "lang": "en",
+            "public_metrics": {
+                "impression_count": 0,
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 2294
+            },
+            "referenced_tweets": [
+                {
+                    "id": "1325151400955928584",
+                    "type": "retweeted"
+                }
+            ],
+            "reply_settings": "everyone",
+            "text": "RT @BrandonStraka: Scott Presler led Stop the Steal rally in PA today:"
+        },
+        {
+            "author_id": "112932179",
+            "conversation_id": "1325281922642137089",
+            "created_at": "2020-11-08T03:40:07.000Z",
+            "edit_history_tweet_ids": [
+                "1325281922642137089"
+            ],
+            "entities": {
+                "urls": [
+                    {
+                        "display_url": "twitter.com/ChooLucia/stat\u2026",
+                        "end": 68,
+                        "expanded_url": "https://twitter.com/ChooLucia/status/1325231599655514113",
+                        "start": 45,
+                        "url": "https://t.co/qk1ouB3Eie"
+                    }
+                ]
+            },
+            "id": "1325281922642137089",
+            "lang": "en",
+            "public_metrics": {
+                "impression_count": 0,
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "referenced_tweets": [
+                {
+                    "id": "1325231599655514113",
+                    "type": "quoted"
+                }
+            ],
+            "reply_settings": "everyone",
+            "text": "Stop the steal,\nListen to Americans' voices! https://t.co/qk1ouB3Eie"
+        },
+        {
+            "author_id": "84584935",
+            "conversation_id": "1325281918913449984",
+            "created_at": "2020-11-08T03:40:06.000Z",
+            "edit_history_tweet_ids": [
+                "1325281918913449984"
+            ],
+            "entities": {
+                "hashtags": [
+                    {
+                        "end": 125,
+                        "start": 111,
+                        "tag": "stopthestreal"
+                    },
+                    {
+                        "end": 137,
+                        "start": 126,
+                        "tag": "voterfraud"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 13,
+                        "id": "63335631",
+                        "start": 3,
+                        "username": "Joy_Villa"
+                    }
+                ]
+            },
+            "id": "1325281918913449984",
+            "lang": "en",
+            "public_metrics": {
+                "impression_count": 0,
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 230
+            },
+            "referenced_tweets": [
+                {
+                    "id": "1325222419288698881",
+                    "type": "retweeted"
+                }
+            ],
+            "reply_settings": "everyone",
+            "text": "RT @Joy_Villa: STOP THE STEAL RALLY Over 1000 patriots came out on 24 hrs notice! I LOVED MEETING YOU ALL! \ud83e\udd70\ud83e\udd70\ud83e\udd70 #stopthestreal #voterfraud #\u2026"
+        },
+        {
+            "author_id": "13111552",
+            "context_annotations": [
+                {
+                    "domain": {
+                        "description": "Named people in the world like Nelson Mandela",
+                        "id": "10",
+                        "name": "Person"
+                    },
+                    "entity": {
+                        "description": "45th US President, Donald Trump",
+                        "id": "799022225751871488",
+                        "name": "Donald Trump"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "Politicians in the world, like Joe Biden",
+                        "id": "35",
+                        "name": "Politician"
+                    },
+                    "entity": {
+                        "description": "45th US President, Donald Trump",
+                        "id": "799022225751871488",
+                        "name": "Donald Trump"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A taxonomy of user interests. ",
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy"
+                    },
+                    "entity": {
+                        "description": "45th US President, Donald Trump",
+                        "id": "799022225751871488",
+                        "name": "Donald Trump"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A taxonomy of user interests. ",
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy"
+                    },
+                    "entity": {
+                        "description": "Politics",
+                        "id": "847878884917886977",
+                        "name": "Politics"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A taxonomy of user interests. ",
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy"
+                    },
+                    "entity": {
+                        "description": "Politician",
+                        "id": "1070032753834438656",
+                        "name": "Political figures"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A taxonomy of user interests. ",
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy"
+                    },
+                    "entity": {
+                        "id": "1265375309311823872",
+                        "name": "Kansas"
+                    }
+                }
+            ],
+            "conversation_id": "1325281891893862401",
+            "created_at": "2020-11-08T03:40:00.000Z",
+            "edit_history_tweet_ids": [
+                "1325281891893862401"
+            ],
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 14,
+                        "normalized_text": "Trump",
+                        "probability": 0.9111,
+                        "start": 10,
+                        "type": "Person"
+                    },
+                    {
+                        "end": 170,
+                        "normalized_text": "State Capital",
+                        "probability": 0.4272,
+                        "start": 158,
+                        "type": "Place"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "wibw.com/2020/11/08/pre\u2026",
+                        "end": 205,
+                        "expanded_url": "https://www.wibw.com/2020/11/08/president-trump-supporters-rally-at-the-statehouse/",
+                        "start": 182,
+                        "status": 200,
+                        "unwound_url": "https://www.wibw.com/2020/11/08/president-trump-supporters-rally-at-the-statehouse/",
+                        "url": "https://t.co/6HbP9OPbME"
+                    }
+                ]
+            },
+            "id": "1325281891893862401",
+            "lang": "en",
+            "public_metrics": {
+                "impression_count": 0,
+                "like_count": 15,
+                "quote_count": 0,
+                "reply_count": 5,
+                "retweet_count": 1
+            },
+            "reply_settings": "everyone",
+            "text": "President Trump supporters joined in on the nationwide, \u201cStop the Steal\u201d rally by gathering outside, waving flags, bringing signs and praying together at the State Capital Saturday. https://t.co/6HbP9OPbME"
+        },
+        {
+            "author_id": "867448792592904193",
+            "conversation_id": "1325281858515578880",
+            "created_at": "2020-11-08T03:39:52.000Z",
+            "edit_history_tweet_ids": [
+                "1325281858515578880"
+            ],
+            "entities": {
+                "mentions": [
+                    {
+                        "end": 14,
+                        "id": "466864852",
+                        "start": 3,
+                        "username": "BoSnerdley"
+                    }
+                ]
+            },
+            "id": "1325281858515578880",
+            "lang": "en",
+            "public_metrics": {
+                "impression_count": 0,
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 35
+            },
+            "referenced_tweets": [
+                {
+                    "id": "1325280673754722305",
+                    "type": "retweeted"
+                }
+            ],
+            "reply_settings": "everyone",
+            "text": "RT @BoSnerdley: With all due respect who  the HELL said anything about LETTING them steal anything. WTF. I am saying fight at every step. A\u2026"
+        },
+        {
+            "author_id": "1186104633607016449",
+            "conversation_id": "1325281854279327744",
+            "created_at": "2020-11-08T03:39:51.000Z",
+            "edit_history_tweet_ids": [
+                "1325281854279327744"
+            ],
+            "entities": {
+                "mentions": [
+                    {
+                        "end": 13,
+                        "id": "826065164504006657",
+                        "start": 3,
+                        "username": "mtgreenee"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "newstalk1130.iheart.com/featured/commo\u2026",
+                        "end": 54,
+                        "expanded_url": "https://newstalk1130.iheart.com/featured/common-sense-central/content/2020-11-07-wisconsin-clerks-may-have-unlawfully-altered-thousands-of-absentee-ballots/",
+                        "start": 31,
+                        "url": "https://t.co/Cb31qUMRXc"
+                    }
+                ]
+            },
+            "id": "1325281854279327744",
+            "lang": "en",
+            "public_metrics": {
+                "impression_count": 0,
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 944
+            },
+            "referenced_tweets": [
+                {
+                    "id": "1325277624084664320",
+                    "type": "retweeted"
+                }
+            ],
+            "reply_settings": "everyone",
+            "text": "RT @mtgreenee: STOP THE STEAL! https://t.co/Cb31qUMRXc"
+        },
+        {
+            "author_id": "1068267611912204289",
+            "conversation_id": "1325281843168636931",
+            "created_at": "2020-11-08T03:39:48.000Z",
+            "edit_history_tweet_ids": [
+                "1325281843168636931"
+            ],
+            "entities": {
+                "mentions": [
+                    {
+                        "end": 11,
+                        "id": "2657253543",
+                        "start": 3,
+                        "username": "xlmsnow"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "twitter.com/Scarlett202077\u2026",
+                        "end": 92,
+                        "expanded_url": "https://twitter.com/Scarlett202077/status/1325200010770722816/video/1",
+                        "start": 69,
+                        "url": "https://t.co/58dOucaPJd"
+                    }
+                ]
+            },
+            "id": "1325281843168636931",
+            "lang": "zh",
+            "public_metrics": {
+                "impression_count": 0,
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 399
+            },
+            "referenced_tweets": [
+                {
+                    "id": "1325240380498055174",
+                    "type": "retweeted"
+                }
+            ],
+            "reply_settings": "everyone",
+            "text": "RT @xlmsnow: \u52a0\u5dde\u4eba\u53d1\u51fa\u6297\u8bae\u7684\u58f0\u97f3\uff1a\nStop the steal! \u505c\u6b62\u5077\u7a83\uff01\n\u4e3b\u5a92\u662f\u4e0d\u4f1a\u62a5\u9053\u7684\uff0c\u53ea\u6709\u9760\u7f8e\u56fd\u4eba\u6c11\u81ea\u5df1\u8f6c\u53d1\u3002\nhttps://t.co/58dOucaPJd"
+        },
+        {
+            "author_id": "949609039943446528",
+            "conversation_id": "1325281821253267457",
+            "created_at": "2020-11-08T03:39:43.000Z",
+            "edit_history_tweet_ids": [
+                "1325281821253267457"
+            ],
+            "entities": {
+                "mentions": [
+                    {
+                        "end": 13,
+                        "id": "826065164504006657",
+                        "start": 3,
+                        "username": "mtgreenee"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "newstalk1130.iheart.com/featured/commo\u2026",
+                        "end": 54,
+                        "expanded_url": "https://newstalk1130.iheart.com/featured/common-sense-central/content/2020-11-07-wisconsin-clerks-may-have-unlawfully-altered-thousands-of-absentee-ballots/",
+                        "start": 31,
+                        "url": "https://t.co/Cb31qUMRXc"
+                    }
+                ]
+            },
+            "id": "1325281821253267457",
+            "lang": "en",
+            "public_metrics": {
+                "impression_count": 0,
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 944
+            },
+            "referenced_tweets": [
+                {
+                    "id": "1325277624084664320",
+                    "type": "retweeted"
+                }
+            ],
+            "reply_settings": "everyone",
+            "text": "RT @mtgreenee: STOP THE STEAL! https://t.co/Cb31qUMRXc"
+        },
+        {
+            "author_id": "1313271727376523264",
+            "conversation_id": "1325281819894419456",
+            "created_at": "2020-11-08T03:39:43.000Z",
+            "edit_history_tweet_ids": [
+                "1325281819894419456"
+            ],
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 65,
+                        "normalized_text": "Arizona",
+                        "probability": 0.9769,
+                        "start": 59,
+                        "type": "Place"
+                    },
+                    {
+                        "end": 81,
+                        "normalized_text": "Arizona",
+                        "probability": 0.9644,
+                        "start": 75,
+                        "type": "Place"
+                    }
+                ]
+            },
+            "id": "1325281819894419456",
+            "lang": "en",
+            "public_metrics": {
+                "impression_count": 0,
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "reply_settings": "everyone",
+            "text": "Still laughing at how that one Stop the Steal protester in Arizona (was it Arizona?) was wearing a fucking ancap flag. \ud83d\ude06"
+        },
+        {
+            "author_id": "1191836058968887297",
+            "context_annotations": [
+                {
+                    "domain": {
+                        "description": "Real world events. ",
+                        "id": "29",
+                        "name": "Events [Entity Service]"
+                    },
+                    "entity": {
+                        "description": "2020 US Presidential Election",
+                        "id": "1029453725360775168",
+                        "name": "2020 US Presidential Election"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A taxonomy of user interests. ",
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy"
+                    },
+                    "entity": {
+                        "description": "2020 US Presidential Election",
+                        "id": "1029453725360775168",
+                        "name": "2020 US Presidential Election"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "Named people in the world like Nelson Mandela",
+                        "id": "10",
+                        "name": "Person"
+                    },
+                    "entity": {
+                        "description": "US President Joe Biden",
+                        "id": "10040395078",
+                        "name": "Joe Biden"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "Politicians in the world, like Joe Biden",
+                        "id": "35",
+                        "name": "Politician"
+                    },
+                    "entity": {
+                        "description": "US President Joe Biden",
+                        "id": "10040395078",
+                        "name": "Joe Biden"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A taxonomy of user interests. ",
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy"
+                    },
+                    "entity": {
+                        "description": "US President Joe Biden",
+                        "id": "10040395078",
+                        "name": "Joe Biden"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A taxonomy of user interests. ",
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy"
+                    },
+                    "entity": {
+                        "description": "Politics",
+                        "id": "847878884917886977",
+                        "name": "Politics"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A taxonomy of user interests. ",
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy"
+                    },
+                    "entity": {
+                        "description": "Politician",
+                        "id": "1070032753834438656",
+                        "name": "Political figures"
+                    }
+                }
+            ],
+            "conversation_id": "1325281807756111872",
+            "created_at": "2020-11-08T03:39:40.000Z",
+            "edit_history_tweet_ids": [
+                "1325281807756111872"
+            ],
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 85,
+                        "normalized_text": "BIDEN",
+                        "probability": 0.4162,
+                        "start": 81,
+                        "type": "Person"
+                    }
+                ]
+            },
+            "id": "1325281807756111872",
+            "lang": "en",
+            "public_metrics": {
+                "impression_count": 0,
+                "like_count": 1,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "reply_settings": "everyone",
+            "text": "THEY ARE TRYING TO STEAL THE ELECTION PLEASE DON'T LET THEM STOP THEIR LYING AND BIDEN IS A SECURITY RISK."
+        },
+        {
+            "author_id": "1215828991548043269",
+            "conversation_id": "1325281800512397313",
+            "created_at": "2020-11-08T03:39:38.000Z",
+            "edit_history_tweet_ids": [
+                "1325281800512397313"
+            ],
+            "entities": {
+                "mentions": [
+                    {
+                        "end": 14,
+                        "id": "466864852",
+                        "start": 3,
+                        "username": "BoSnerdley"
+                    }
+                ]
+            },
+            "id": "1325281800512397313",
+            "lang": "en",
+            "public_metrics": {
+                "impression_count": 0,
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 35
+            },
+            "referenced_tweets": [
+                {
+                    "id": "1325280673754722305",
+                    "type": "retweeted"
+                }
+            ],
+            "reply_settings": "everyone",
+            "text": "RT @BoSnerdley: With all due respect who  the HELL said anything about LETTING them steal anything. WTF. I am saying fight at every step. A\u2026"
+        },
+        {
+            "author_id": "1912137259",
+            "conversation_id": "1325281769852112896",
+            "created_at": "2020-11-08T03:39:31.000Z",
+            "edit_history_tweet_ids": [
+                "1325281769852112896"
+            ],
+            "entities": {
+                "mentions": [
+                    {
+                        "end": 19,
+                        "id": "898218643888197632",
+                        "start": 3,
+                        "username": "AmericaFirstPAC"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "pic.twitter.com/q8GaPtm3ut",
+                        "end": 60,
+                        "expanded_url": "https://twitter.com/AmericaFirstPAC/status/1325277299458138113/photo/1",
+                        "media_key": "3_1325277295247044609",
+                        "start": 37,
+                        "url": "https://t.co/q8GaPtm3ut"
+                    }
+                ]
+            },
+            "id": "1325281769852112896",
+            "lang": "en",
+            "public_metrics": {
+                "impression_count": 0,
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 58
+            },
+            "referenced_tweets": [
+                {
+                    "id": "1325277299458138113",
+                    "type": "retweeted"
+                }
+            ],
+            "reply_settings": "everyone",
+            "text": "RT @AmericaFirstPAC: STOP THE STEAL! https://t.co/q8GaPtm3ut"
+        },
+        {
+            "author_id": "1135815042262327296",
+            "context_annotations": [
+                {
+                    "domain": {
+                        "description": "Named people in the world like Nelson Mandela",
+                        "id": "10",
+                        "name": "Person"
+                    },
+                    "entity": {
+                        "id": "1161294453560098822",
+                        "name": "Andy Ngo"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A taxonomy of user interests. ",
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy"
+                    },
+                    "entity": {
+                        "description": "News",
+                        "id": "1046545033657081857",
+                        "name": "News"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A taxonomy of user interests. ",
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy"
+                    },
+                    "entity": {
+                        "description": "Journalism",
+                        "id": "1074755369530880001",
+                        "name": "Journalists"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A taxonomy of user interests. ",
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy"
+                    },
+                    "entity": {
+                        "id": "1161294453560098822",
+                        "name": "Andy Ngo"
+                    }
+                }
+            ],
+            "conversation_id": "1325281749241393154",
+            "created_at": "2020-11-08T03:39:26.000Z",
+            "edit_history_tweet_ids": [
+                "1325281749241393154"
+            ],
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 80,
+                        "normalized_text": "Trump",
+                        "probability": 0.514,
+                        "start": 76,
+                        "type": "Person"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 13,
+                        "id": "2835451658",
+                        "start": 3,
+                        "username": "MrAndyNgo"
+                    }
+                ]
+            },
+            "id": "1325281749241393154",
+            "lang": "en",
+            "public_metrics": {
+                "impression_count": 0,
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 1699
+            },
+            "referenced_tweets": [
+                {
+                    "id": "1325147298553229313",
+                    "type": "retweeted"
+                }
+            ],
+            "reply_settings": "everyone",
+            "text": "RT @MrAndyNgo: Far-left protesters carrying shields fight people at the pro-Trump Lansing, Mich. \u201cStop the Steal\u201d protest. https://t.co/5hE\u2026"
+        },
+        {
+            "author_id": "1057602871703810049",
+            "conversation_id": "1325281741574184960",
+            "created_at": "2020-11-08T03:39:24.000Z",
+            "edit_history_tweet_ids": [
+                "1325281741574184960"
+            ],
+            "entities": {
+                "urls": [
+                    {
+                        "display_url": "huffpost.com/entry/pro-trum\u2026",
+                        "end": 23,
+                        "expanded_url": "https://www.huffpost.com/entry/pro-trump-stop-the-steal-facebook-groups-civil-war_n_5fa5e426c5b66009569a1d20",
+                        "start": 0,
+                        "url": "https://t.co/4RIuXmY5Sk"
+                    }
+                ]
+            },
+            "id": "1325281741574184960",
+            "lang": "zxx",
+            "public_metrics": {
+                "impression_count": 0,
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "reply_settings": "everyone",
+            "text": "https://t.co/4RIuXmY5Sk"
+        },
+        {
+            "author_id": "1131655183400882176",
+            "conversation_id": "1325281728177561600",
+            "created_at": "2020-11-08T03:39:21.000Z",
+            "edit_history_tweet_ids": [
+                "1325281728177561600"
+            ],
+            "entities": {
+                "mentions": [
+                    {
+                        "end": 13,
+                        "id": "826065164504006657",
+                        "start": 3,
+                        "username": "mtgreenee"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "newstalk1130.iheart.com/featured/commo\u2026",
+                        "end": 54,
+                        "expanded_url": "https://newstalk1130.iheart.com/featured/common-sense-central/content/2020-11-07-wisconsin-clerks-may-have-unlawfully-altered-thousands-of-absentee-ballots/",
+                        "start": 31,
+                        "url": "https://t.co/Cb31qUMRXc"
+                    }
+                ]
+            },
+            "id": "1325281728177561600",
+            "lang": "en",
+            "public_metrics": {
+                "impression_count": 0,
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 944
+            },
+            "referenced_tweets": [
+                {
+                    "id": "1325277624084664320",
+                    "type": "retweeted"
+                }
+            ],
+            "reply_settings": "everyone",
+            "text": "RT @mtgreenee: STOP THE STEAL! https://t.co/Cb31qUMRXc"
+        },
+        {
+            "author_id": "1296620655069114368",
+            "context_annotations": [
+                {
+                    "domain": {
+                        "description": "Named people in the world like Nelson Mandela",
+                        "id": "10",
+                        "name": "Person"
+                    },
+                    "entity": {
+                        "description": "45th US President, Donald Trump",
+                        "id": "799022225751871488",
+                        "name": "Donald Trump"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "Politicians in the world, like Joe Biden",
+                        "id": "35",
+                        "name": "Politician"
+                    },
+                    "entity": {
+                        "description": "45th US President, Donald Trump",
+                        "id": "799022225751871488",
+                        "name": "Donald Trump"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A taxonomy of user interests. ",
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy"
+                    },
+                    "entity": {
+                        "description": "45th US President, Donald Trump",
+                        "id": "799022225751871488",
+                        "name": "Donald Trump"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A taxonomy of user interests. ",
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy"
+                    },
+                    "entity": {
+                        "description": "Politics",
+                        "id": "847878884917886977",
+                        "name": "Politics"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A taxonomy of user interests. ",
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy"
+                    },
+                    "entity": {
+                        "description": "Politician",
+                        "id": "1070032753834438656",
+                        "name": "Political figures"
+                    }
+                }
+            ],
+            "conversation_id": "1325281716261416960",
+            "created_at": "2020-11-08T03:39:18.000Z",
+            "edit_history_tweet_ids": [
+                "1325281716261416960"
+            ],
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 28,
+                        "normalized_text": "Joey Gibson",
+                        "probability": 0.9546,
+                        "start": 18,
+                        "type": "Person"
+                    },
+                    {
+                        "end": 54,
+                        "normalized_text": "Prayer",
+                        "probability": 0.3863,
+                        "start": 49,
+                        "type": "Other"
+                    },
+                    {
+                        "end": 100,
+                        "normalized_text": "Donald Trump",
+                        "probability": 0.969,
+                        "start": 89,
+                        "type": "Person"
+                    },
+                    {
+                        "end": 113,
+                        "normalized_text": "Vancouver",
+                        "probability": 0.9286,
+                        "start": 105,
+                        "type": "Place"
+                    },
+                    {
+                        "end": 126,
+                        "normalized_text": "Stop",
+                        "probability": 0.7215,
+                        "start": 123,
+                        "type": "Other"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 16,
+                        "id": "1299939006080192514",
+                        "start": 3,
+                        "username": "NDpendentPDX"
+                    }
+                ]
+            },
+            "id": "1325281716261416960",
+            "lang": "en",
+            "public_metrics": {
+                "impression_count": 0,
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 5
+            },
+            "referenced_tweets": [
+                {
+                    "id": "1325276995379326977",
+                    "type": "retweeted"
+                }
+            ],
+            "reply_settings": "everyone",
+            "text": "RT @NDpendentPDX: Joey Gibson, leader of Patriot Prayer speaking in support of President Donald Trump in Vancouver at the \u201cStop The Steal\u201d\u2026"
+        },
+        {
+            "author_id": "1014748692358881280",
+            "context_annotations": [
+                {
+                    "domain": {
+                        "description": "Named people in the world like Nelson Mandela",
+                        "id": "10",
+                        "name": "Person"
+                    },
+                    "entity": {
+                        "id": "1161294453560098822",
+                        "name": "Andy Ngo"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A taxonomy of user interests. ",
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy"
+                    },
+                    "entity": {
+                        "description": "News",
+                        "id": "1046545033657081857",
+                        "name": "News"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A taxonomy of user interests. ",
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy"
+                    },
+                    "entity": {
+                        "description": "Journalism",
+                        "id": "1074755369530880001",
+                        "name": "Journalists"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A taxonomy of user interests. ",
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy"
+                    },
+                    "entity": {
+                        "id": "1161294453560098822",
+                        "name": "Andy Ngo"
+                    }
+                }
+            ],
+            "conversation_id": "1325281705121419265",
+            "created_at": "2020-11-08T03:39:15.000Z",
+            "edit_history_tweet_ids": [
+                "1325281705121419265"
+            ],
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 80,
+                        "normalized_text": "Trump",
+                        "probability": 0.514,
+                        "start": 76,
+                        "type": "Person"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 13,
+                        "id": "2835451658",
+                        "start": 3,
+                        "username": "MrAndyNgo"
+                    }
+                ]
+            },
+            "id": "1325281705121419265",
+            "lang": "en",
+            "public_metrics": {
+                "impression_count": 0,
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 1699
+            },
+            "referenced_tweets": [
+                {
+                    "id": "1325147298553229313",
+                    "type": "retweeted"
+                }
+            ],
+            "reply_settings": "everyone",
+            "text": "RT @MrAndyNgo: Far-left protesters carrying shields fight people at the pro-Trump Lansing, Mich. \u201cStop the Steal\u201d protest. https://t.co/5hE\u2026"
+        },
+        {
+            "author_id": "381303408",
+            "conversation_id": "1325281694493118464",
+            "created_at": "2020-11-08T03:39:13.000Z",
+            "edit_history_tweet_ids": [
+                "1325281694493118464"
+            ],
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 31,
+                        "normalized_text": "Scott Presler",
+                        "probability": 0.9182,
+                        "start": 19,
+                        "type": "Person"
+                    },
+                    {
+                        "end": 62,
+                        "normalized_text": "PA",
+                        "probability": 0.9227,
+                        "start": 61,
+                        "type": "Place"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 17,
+                        "id": "52338305",
+                        "start": 3,
+                        "username": "BrandonStraka"
+                    }
+                ]
+            },
+            "id": "1325281694493118464",
+            "lang": "en",
+            "public_metrics": {
+                "impression_count": 0,
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 2294
+            },
+            "referenced_tweets": [
+                {
+                    "id": "1325151400955928584",
+                    "type": "retweeted"
+                }
+            ],
+            "reply_settings": "everyone",
+            "text": "RT @BrandonStraka: Scott Presler led Stop the Steal rally in PA today:"
+        },
+        {
+            "author_id": "821386387475853316",
+            "context_annotations": [
+                {
+                    "domain": {
+                        "description": "Named people in the world like Nelson Mandela",
+                        "id": "10",
+                        "name": "Person"
+                    },
+                    "entity": {
+                        "description": "45th US President, Donald Trump",
+                        "id": "799022225751871488",
+                        "name": "Donald Trump"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "Real world events. ",
+                        "id": "29",
+                        "name": "Events [Entity Service]"
+                    },
+                    "entity": {
+                        "description": "2020 US Presidential Election",
+                        "id": "1029453725360775168",
+                        "name": "2020 US Presidential Election"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "Politicians in the world, like Joe Biden",
+                        "id": "35",
+                        "name": "Politician"
+                    },
+                    "entity": {
+                        "description": "45th US President, Donald Trump",
+                        "id": "799022225751871488",
+                        "name": "Donald Trump"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A taxonomy of user interests. ",
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy"
+                    },
+                    "entity": {
+                        "description": "45th US President, Donald Trump",
+                        "id": "799022225751871488",
+                        "name": "Donald Trump"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A taxonomy of user interests. ",
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy"
+                    },
+                    "entity": {
+                        "description": "Politics",
+                        "id": "847878884917886977",
+                        "name": "Politics"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A taxonomy of user interests. ",
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy"
+                    },
+                    "entity": {
+                        "description": "2020 US Presidential Election",
+                        "id": "1029453725360775168",
+                        "name": "2020 US Presidential Election"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A taxonomy of user interests. ",
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy"
+                    },
+                    "entity": {
+                        "description": "Politician",
+                        "id": "1070032753834438656",
+                        "name": "Political figures"
+                    }
+                }
+            ],
+            "conversation_id": "1325158575644188672",
+            "created_at": "2020-11-08T03:39:09.000Z",
+            "edit_history_tweet_ids": [
+                "1325281677929811969"
+            ],
+            "entities": {
+                "mentions": [
+                    {
+                        "end": 14,
+                        "id": "2874102076",
+                        "start": 0,
+                        "username": "stclairashley"
+                    },
+                    {
+                        "end": 29,
+                        "id": "988068354",
+                        "start": 15,
+                        "username": "yoakumgirl923"
+                    }
+                ]
+            },
+            "id": "1325281677929811969",
+            "in_reply_to_user_id": "2874102076",
+            "lang": "en",
+            "public_metrics": {
+                "impression_count": 0,
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "referenced_tweets": [
+                {
+                    "id": "1325158575644188672",
+                    "type": "replied_to"
+                }
+            ],
+            "reply_settings": "everyone",
+            "text": "@stclairashley @yoakumgirl923 STOP THE STEAL! \nTRUMP 2020!"
+        },
+        {
+            "author_id": "17843715",
+            "conversation_id": "1325281674100346881",
+            "created_at": "2020-11-08T03:39:08.000Z",
+            "edit_history_tweet_ids": [
+                "1325281674100346881"
+            ],
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 31,
+                        "normalized_text": "Scott Presler",
+                        "probability": 0.9182,
+                        "start": 19,
+                        "type": "Person"
+                    },
+                    {
+                        "end": 62,
+                        "normalized_text": "PA",
+                        "probability": 0.9227,
+                        "start": 61,
+                        "type": "Place"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 17,
+                        "id": "52338305",
+                        "start": 3,
+                        "username": "BrandonStraka"
+                    }
+                ]
+            },
+            "id": "1325281674100346881",
+            "lang": "en",
+            "public_metrics": {
+                "impression_count": 0,
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 2294
+            },
+            "referenced_tweets": [
+                {
+                    "id": "1325151400955928584",
+                    "type": "retweeted"
+                }
+            ],
+            "reply_settings": "everyone",
+            "text": "RT @BrandonStraka: Scott Presler led Stop the Steal rally in PA today:"
+        },
+        {
+            "author_id": "1095577982947782657",
+            "conversation_id": "1325281635881918466",
+            "created_at": "2020-11-08T03:38:59.000Z",
+            "edit_history_tweet_ids": [
+                "1325281635881918466"
+            ],
+            "entities": {
+                "mentions": [
+                    {
+                        "end": 14,
+                        "id": "466864852",
+                        "start": 3,
+                        "username": "BoSnerdley"
+                    }
+                ]
+            },
+            "id": "1325281635881918466",
+            "lang": "en",
+            "public_metrics": {
+                "impression_count": 0,
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 35
+            },
+            "referenced_tweets": [
+                {
+                    "id": "1325280673754722305",
+                    "type": "retweeted"
+                }
+            ],
+            "reply_settings": "everyone",
+            "text": "RT @BoSnerdley: With all due respect who  the HELL said anything about LETTING them steal anything. WTF. I am saying fight at every step. A\u2026"
+        },
+        {
+            "author_id": "2957555017",
+            "context_annotations": [
+                {
+                    "domain": {
+                        "description": "Named people in the world like Nelson Mandela",
+                        "id": "10",
+                        "name": "Person"
+                    },
+                    "entity": {
+                        "description": "Senator Lindsey Graham (SC)",
+                        "id": "10038636953",
+                        "name": "Lindsey Graham"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "Politicians in the world, like Joe Biden",
+                        "id": "35",
+                        "name": "Politician"
+                    },
+                    "entity": {
+                        "description": "Senator Lindsey Graham (SC)",
+                        "id": "10038636953",
+                        "name": "Lindsey Graham"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+                        "id": "30",
+                        "name": "Entities [Entity Service]"
+                    },
+                    "entity": {
+                        "id": "781974596752842752",
+                        "name": "Services"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "Brands and Companies",
+                        "id": "47",
+                        "name": "Brand"
+                    },
+                    "entity": {
+                        "id": "10026467878",
+                        "name": "United States Postal Service"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A section of a government, like The Supreme Court",
+                        "id": "88",
+                        "name": "Political Body"
+                    },
+                    "entity": {
+                        "id": "10026467878",
+                        "name": "United States Postal Service"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A taxonomy of user interests. ",
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy"
+                    },
+                    "entity": {
+                        "id": "10026467878",
+                        "name": "United States Postal Service"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A taxonomy of user interests. ",
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy"
+                    },
+                    "entity": {
+                        "description": "Senator Lindsey Graham (SC)",
+                        "id": "10038636953",
+                        "name": "Lindsey Graham"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A taxonomy of user interests. ",
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy"
+                    },
+                    "entity": {
+                        "description": "Politics",
+                        "id": "847878884917886977",
+                        "name": "Politics"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A taxonomy of user interests. ",
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy"
+                    },
+                    "entity": {
+                        "description": "Political Body",
+                        "id": "1068583660914266113",
+                        "name": "Government institutions"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A taxonomy of user interests. ",
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy"
+                    },
+                    "entity": {
+                        "description": "Politician",
+                        "id": "1070032753834438656",
+                        "name": "Political figures"
+                    }
+                }
+            ],
+            "conversation_id": "1325281602386030593",
+            "created_at": "2020-11-08T03:38:51.000Z",
+            "edit_history_tweet_ids": [
+                "1325281602386030593"
+            ],
+            "entities": {
+                "urls": [
+                    {
+                        "display_url": "twitter.com/JamesOKeefeIII\u2026",
+                        "end": 38,
+                        "expanded_url": "https://twitter.com/JamesOKeefeIII/status/1325268253241913346",
+                        "start": 15,
+                        "url": "https://t.co/zirq9qDoX1"
+                    }
+                ]
+            },
+            "id": "1325281602386030593",
+            "lang": "en",
+            "public_metrics": {
+                "impression_count": 0,
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "referenced_tweets": [
+                {
+                    "id": "1325268253241913346",
+                    "type": "quoted"
+                }
+            ],
+            "reply_settings": "everyone",
+            "text": "Stop the steal https://t.co/zirq9qDoX1"
+        },
+        {
+            "author_id": "1165748373476917248",
+            "conversation_id": "1325281591476695040",
+            "created_at": "2020-11-08T03:38:48.000Z",
+            "edit_history_tweet_ids": [
+                "1325281591476695040"
+            ],
+            "entities": {
+                "mentions": [
+                    {
+                        "end": 12,
+                        "id": "56572394",
+                        "start": 3,
+                        "username": "dajiyuan"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "youtube.com/watch?v=VQKKIK\u2026",
+                        "end": 95,
+                        "expanded_url": "https://www.youtube.com/watch?v=VQKKIKKgyTM&feature=youtu.be",
+                        "start": 72,
+                        "url": "https://t.co/POBXEsSXFb"
+                    },
+                    {
+                        "display_url": "pic.twitter.com/iWJRfGd9qP",
+                        "end": 119,
+                        "expanded_url": "https://twitter.com/dajiyuan/status/1325277036940824582/video/1",
+                        "media_key": "7_1325276886633754625",
+                        "start": 96,
+                        "url": "https://t.co/iWJRfGd9qP"
+                    }
+                ]
+            },
+            "id": "1325281591476695040",
+            "lang": "zh",
+            "public_metrics": {
+                "impression_count": 0,
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 50
+            },
+            "referenced_tweets": [
+                {
+                    "id": "1325277036940824582",
+                    "type": "retweeted"
+                }
+            ],
+            "reply_settings": "everyone",
+            "text": "RT @dajiyuan: \u5ddd\u666e\u652f\u6301\u8005\u5185\u534e\u8fbe\u5dde\u9009\u52a1\u5904\u524dStop the Steal\u96c6\u4f1a\n\n\u7206\u6599\u7535\u8bdd\uff1a+1(201) 614-3989\n\u89c6\u9891\u94fe\u63a5\uff1ahttps://t.co/POBXEsSXFb https://t.co/iWJRfGd9qP"
+        },
+        {
+            "author_id": "3365854053",
+            "context_annotations": [
+                {
+                    "domain": {
+                        "description": "Named people in the world like Nelson Mandela",
+                        "id": "10",
+                        "name": "Person"
+                    },
+                    "entity": {
+                        "description": "US President Joe Biden",
+                        "id": "10040395078",
+                        "name": "Joe Biden"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "Politicians in the world, like Joe Biden",
+                        "id": "35",
+                        "name": "Politician"
+                    },
+                    "entity": {
+                        "description": "US President Joe Biden",
+                        "id": "10040395078",
+                        "name": "Joe Biden"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A taxonomy of user interests. ",
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy"
+                    },
+                    "entity": {
+                        "description": "US President Joe Biden",
+                        "id": "10040395078",
+                        "name": "Joe Biden"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A taxonomy of user interests. ",
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy"
+                    },
+                    "entity": {
+                        "description": "Politics",
+                        "id": "847878884917886977",
+                        "name": "Politics"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A taxonomy of user interests. ",
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy"
+                    },
+                    "entity": {
+                        "description": "Politician",
+                        "id": "1070032753834438656",
+                        "name": "Political figures"
+                    }
+                }
+            ],
+            "conversation_id": "1325281583440531456",
+            "created_at": "2020-11-08T03:38:46.000Z",
+            "edit_history_tweet_ids": [
+                "1325281583440531456"
+            ],
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 78,
+                        "normalized_text": "BIDEN",
+                        "probability": 0.3918,
+                        "start": 74,
+                        "type": "Person"
+                    }
+                ]
+            },
+            "id": "1325281583440531456",
+            "lang": "en",
+            "public_metrics": {
+                "impression_count": 0,
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 540
+            },
+            "referenced_tweets": [
+                {
+                    "id": "1324889140404477952",
+                    "type": "retweeted"
+                }
+            ],
+            "reply_settings": "everyone",
+            "text": "RT @SaladinoShow: Every single \u201cerror\u201d in the system favors the same guy, BIDEN!\n\nSTOP THE STEAL!"
+        },
+        {
+            "author_id": "1148855377536196609",
+            "context_annotations": [
+                {
+                    "domain": {
+                        "description": "Named people in the world like Nelson Mandela",
+                        "id": "10",
+                        "name": "Person"
+                    },
+                    "entity": {
+                        "description": "45th US President, Donald Trump",
+                        "id": "799022225751871488",
+                        "name": "Donald Trump"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "Real world events. ",
+                        "id": "29",
+                        "name": "Events [Entity Service]"
+                    },
+                    "entity": {
+                        "description": "2020 US Presidential Election",
+                        "id": "1029453725360775168",
+                        "name": "2020 US Presidential Election"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "Politicians in the world, like Joe Biden",
+                        "id": "35",
+                        "name": "Politician"
+                    },
+                    "entity": {
+                        "description": "45th US President, Donald Trump",
+                        "id": "799022225751871488",
+                        "name": "Donald Trump"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "Ongoing News Stories like 'Brexit'",
+                        "id": "123",
+                        "name": "Ongoing News Story"
+                    },
+                    "entity": {
+                        "id": "1220701888179359745",
+                        "name": "COVID-19"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A taxonomy of user interests. ",
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy"
+                    },
+                    "entity": {
+                        "description": "45th US President, Donald Trump",
+                        "id": "799022225751871488",
+                        "name": "Donald Trump"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A taxonomy of user interests. ",
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy"
+                    },
+                    "entity": {
+                        "description": "Politics",
+                        "id": "847878884917886977",
+                        "name": "Politics"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A taxonomy of user interests. ",
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy"
+                    },
+                    "entity": {
+                        "description": "2020 US Presidential Election",
+                        "id": "1029453725360775168",
+                        "name": "2020 US Presidential Election"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A taxonomy of user interests. ",
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy"
+                    },
+                    "entity": {
+                        "description": "Politician",
+                        "id": "1070032753834438656",
+                        "name": "Political figures"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A taxonomy of user interests. ",
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy"
+                    },
+                    "entity": {
+                        "id": "1220701888179359745",
+                        "name": "COVID-19"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "Named people in the world like Nelson Mandela",
+                        "id": "10",
+                        "name": "Person"
+                    },
+                    "entity": {
+                        "description": "US President Joe Biden",
+                        "id": "10040395078",
+                        "name": "Joe Biden"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "Politicians in the world, like Joe Biden",
+                        "id": "35",
+                        "name": "Politician"
+                    },
+                    "entity": {
+                        "description": "US President Joe Biden",
+                        "id": "10040395078",
+                        "name": "Joe Biden"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A taxonomy of user interests. ",
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy"
+                    },
+                    "entity": {
+                        "description": "US President Joe Biden",
+                        "id": "10040395078",
+                        "name": "Joe Biden"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A taxonomy of user interests. ",
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy"
+                    },
+                    "entity": {
+                        "description": "Politics",
+                        "id": "847878884917886977",
+                        "name": "Politics"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A taxonomy of user interests. ",
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy"
+                    },
+                    "entity": {
+                        "description": "Politician",
+                        "id": "1070032753834438656",
+                        "name": "Political figures"
+                    }
+                }
+            ],
+            "conversation_id": "1325281569066594305",
+            "created_at": "2020-11-08T03:38:43.000Z",
+            "edit_history_tweet_ids": [
+                "1325281569066594305"
+            ],
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 67,
+                        "normalized_text": "coronavirus",
+                        "probability": 0.9006,
+                        "start": 57,
+                        "type": "Other"
+                    },
+                    {
+                        "end": 113,
+                        "normalized_text": "Donald Trump",
+                        "probability": 0.9597,
+                        "start": 102,
+                        "type": "Person"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 18,
+                        "id": "3075856310",
+                        "start": 3,
+                        "username": "HumanistReport"
+                    }
+                ]
+            },
+            "id": "1325281569066594305",
+            "lang": "en",
+            "public_metrics": {
+                "impression_count": 0,
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 87
+            },
+            "referenced_tweets": [
+                {
+                    "id": "1325167391026806785",
+                    "type": "retweeted"
+                }
+            ],
+            "reply_settings": "everyone",
+            "text": "RT @HumanistReport: Hahaha you fucking idiot. We made up coronavirus to steal this election away from Donald Trump. Now that the election i\u2026"
+        },
+        {
+            "author_id": "1267546956844298241",
+            "conversation_id": "1325281564888952833",
+            "created_at": "2020-11-08T03:38:42.000Z",
+            "edit_history_tweet_ids": [
+                "1325281564888952833"
+            ],
+            "entities": {
+                "mentions": [
+                    {
+                        "end": 13,
+                        "id": "826065164504006657",
+                        "start": 3,
+                        "username": "mtgreenee"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "newstalk1130.iheart.com/featured/commo\u2026",
+                        "end": 54,
+                        "expanded_url": "https://newstalk1130.iheart.com/featured/common-sense-central/content/2020-11-07-wisconsin-clerks-may-have-unlawfully-altered-thousands-of-absentee-ballots/",
+                        "start": 31,
+                        "url": "https://t.co/Cb31qUMRXc"
+                    }
+                ]
+            },
+            "id": "1325281564888952833",
+            "lang": "en",
+            "public_metrics": {
+                "impression_count": 0,
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 944
+            },
+            "referenced_tweets": [
+                {
+                    "id": "1325277624084664320",
+                    "type": "retweeted"
+                }
+            ],
+            "reply_settings": "everyone",
+            "text": "RT @mtgreenee: STOP THE STEAL! https://t.co/Cb31qUMRXc"
+        },
+        {
+            "author_id": "387394888",
+            "conversation_id": "1325281563689541632",
+            "created_at": "2020-11-08T03:38:41.000Z",
+            "edit_history_tweet_ids": [
+                "1325281563689541632"
+            ],
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 31,
+                        "normalized_text": "Scott Presler",
+                        "probability": 0.9182,
+                        "start": 19,
+                        "type": "Person"
+                    },
+                    {
+                        "end": 62,
+                        "normalized_text": "PA",
+                        "probability": 0.9227,
+                        "start": 61,
+                        "type": "Place"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 17,
+                        "id": "52338305",
+                        "start": 3,
+                        "username": "BrandonStraka"
+                    }
+                ]
+            },
+            "id": "1325281563689541632",
+            "lang": "en",
+            "public_metrics": {
+                "impression_count": 0,
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 2294
+            },
+            "referenced_tweets": [
+                {
+                    "id": "1325151400955928584",
+                    "type": "retweeted"
+                }
+            ],
+            "reply_settings": "everyone",
+            "text": "RT @BrandonStraka: Scott Presler led Stop the Steal rally in PA today:"
+        },
+        {
+            "author_id": "37907293",
+            "conversation_id": "1325281514091896833",
+            "created_at": "2020-11-08T03:38:30.000Z",
+            "edit_history_tweet_ids": [
+                "1325281514091896833"
+            ],
+            "entities": {
+                "mentions": [
+                    {
+                        "end": 14,
+                        "id": "466864852",
+                        "start": 3,
+                        "username": "BoSnerdley"
+                    }
+                ]
+            },
+            "id": "1325281514091896833",
+            "lang": "en",
+            "public_metrics": {
+                "impression_count": 0,
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 35
+            },
+            "referenced_tweets": [
+                {
+                    "id": "1325280673754722305",
+                    "type": "retweeted"
+                }
+            ],
+            "reply_settings": "everyone",
+            "text": "RT @BoSnerdley: With all due respect who  the HELL said anything about LETTING them steal anything. WTF. I am saying fight at every step. A\u2026"
+        },
+        {
+            "author_id": "816979609916993536",
+            "conversation_id": "1325281501857116162",
+            "created_at": "2020-11-08T03:38:27.000Z",
+            "edit_history_tweet_ids": [
+                "1325281501857116162"
+            ],
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 31,
+                        "normalized_text": "Scott Presler",
+                        "probability": 0.9182,
+                        "start": 19,
+                        "type": "Person"
+                    },
+                    {
+                        "end": 62,
+                        "normalized_text": "PA",
+                        "probability": 0.9227,
+                        "start": 61,
+                        "type": "Place"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 17,
+                        "id": "52338305",
+                        "start": 3,
+                        "username": "BrandonStraka"
+                    }
+                ]
+            },
+            "id": "1325281501857116162",
+            "lang": "en",
+            "public_metrics": {
+                "impression_count": 0,
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 2294
+            },
+            "referenced_tweets": [
+                {
+                    "id": "1325151400955928584",
+                    "type": "retweeted"
+                }
+            ],
+            "reply_settings": "everyone",
+            "text": "RT @BrandonStraka: Scott Presler led Stop the Steal rally in PA today:"
+        },
+        {
+            "author_id": "84365463",
+            "conversation_id": "1325281498014969856",
+            "created_at": "2020-11-08T03:38:26.000Z",
+            "edit_history_tweet_ids": [
+                "1325281498014969856"
+            ],
+            "entities": {
+                "mentions": [
+                    {
+                        "end": 12,
+                        "id": "56572394",
+                        "start": 3,
+                        "username": "dajiyuan"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "youtube.com/watch?v=VQKKIK\u2026",
+                        "end": 95,
+                        "expanded_url": "https://www.youtube.com/watch?v=VQKKIKKgyTM&feature=youtu.be",
+                        "start": 72,
+                        "url": "https://t.co/POBXEsSXFb"
+                    },
+                    {
+                        "display_url": "pic.twitter.com/iWJRfGd9qP",
+                        "end": 119,
+                        "expanded_url": "https://twitter.com/dajiyuan/status/1325277036940824582/video/1",
+                        "media_key": "7_1325276886633754625",
+                        "start": 96,
+                        "url": "https://t.co/iWJRfGd9qP"
+                    }
+                ]
+            },
+            "id": "1325281498014969856",
+            "lang": "zh",
+            "public_metrics": {
+                "impression_count": 0,
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 50
+            },
+            "referenced_tweets": [
+                {
+                    "id": "1325277036940824582",
+                    "type": "retweeted"
+                }
+            ],
+            "reply_settings": "everyone",
+            "text": "RT @dajiyuan: \u5ddd\u666e\u652f\u6301\u8005\u5185\u534e\u8fbe\u5dde\u9009\u52a1\u5904\u524dStop the Steal\u96c6\u4f1a\n\n\u7206\u6599\u7535\u8bdd\uff1a+1(201) 614-3989\n\u89c6\u9891\u94fe\u63a5\uff1ahttps://t.co/POBXEsSXFb https://t.co/iWJRfGd9qP"
+        },
+        {
+            "author_id": "935321324905361408",
+            "context_annotations": [
+                {
+                    "domain": {
+                        "description": "Named people in the world like Nelson Mandela",
+                        "id": "10",
+                        "name": "Person"
+                    },
+                    "entity": {
+                        "description": "US President Joe Biden",
+                        "id": "10040395078",
+                        "name": "Joe Biden"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "Politicians in the world, like Joe Biden",
+                        "id": "35",
+                        "name": "Politician"
+                    },
+                    "entity": {
+                        "description": "US President Joe Biden",
+                        "id": "10040395078",
+                        "name": "Joe Biden"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A taxonomy of user interests. ",
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy"
+                    },
+                    "entity": {
+                        "description": "US President Joe Biden",
+                        "id": "10040395078",
+                        "name": "Joe Biden"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A taxonomy of user interests. ",
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy"
+                    },
+                    "entity": {
+                        "description": "Politics",
+                        "id": "847878884917886977",
+                        "name": "Politics"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A taxonomy of user interests. ",
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy"
+                    },
+                    "entity": {
+                        "description": "Politician",
+                        "id": "1070032753834438656",
+                        "name": "Political figures"
+                    }
+                }
+            ],
+            "conversation_id": "1325281491069231104",
+            "created_at": "2020-11-08T03:38:24.000Z",
+            "edit_history_tweet_ids": [
+                "1325281491069231104"
+            ],
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 78,
+                        "normalized_text": "BIDEN",
+                        "probability": 0.3918,
+                        "start": 74,
+                        "type": "Person"
+                    }
+                ]
+            },
+            "id": "1325281491069231104",
+            "lang": "en",
+            "public_metrics": {
+                "impression_count": 0,
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 540
+            },
+            "referenced_tweets": [
+                {
+                    "id": "1324889140404477952",
+                    "type": "retweeted"
+                }
+            ],
+            "reply_settings": "everyone",
+            "text": "RT @SaladinoShow: Every single \u201cerror\u201d in the system favors the same guy, BIDEN!\n\nSTOP THE STEAL!"
+        },
+        {
+            "author_id": "1264005019558268932",
+            "conversation_id": "1325281489236291584",
+            "created_at": "2020-11-08T03:38:24.000Z",
+            "edit_history_tweet_ids": [
+                "1325281489236291584"
+            ],
+            "entities": {
+                "urls": [
+                    {
+                        "display_url": "twitter.com/Guan_PhD/statu\u2026",
+                        "end": 38,
+                        "expanded_url": "https://twitter.com/Guan_PhD/status/1325093198386114560",
+                        "start": 15,
+                        "url": "https://t.co/ZWR5jvqZs3"
+                    }
+                ]
+            },
+            "id": "1325281489236291584",
+            "lang": "en",
+            "public_metrics": {
+                "impression_count": 0,
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "referenced_tweets": [
+                {
+                    "id": "1325093198386114560",
+                    "type": "quoted"
+                }
+            ],
+            "reply_settings": "everyone",
+            "text": "Stop the steal https://t.co/ZWR5jvqZs3"
+        },
+        {
+            "author_id": "3689055797",
+            "conversation_id": "1325281484421345280",
+            "created_at": "2020-11-08T03:38:23.000Z",
+            "edit_history_tweet_ids": [
+                "1325281484421345280"
+            ],
+            "entities": {
+                "mentions": [
+                    {
+                        "end": 13,
+                        "id": "826065164504006657",
+                        "start": 3,
+                        "username": "mtgreenee"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "newstalk1130.iheart.com/featured/commo\u2026",
+                        "end": 54,
+                        "expanded_url": "https://newstalk1130.iheart.com/featured/common-sense-central/content/2020-11-07-wisconsin-clerks-may-have-unlawfully-altered-thousands-of-absentee-ballots/",
+                        "start": 31,
+                        "url": "https://t.co/Cb31qUMRXc"
+                    }
+                ]
+            },
+            "id": "1325281484421345280",
+            "lang": "en",
+            "public_metrics": {
+                "impression_count": 0,
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 944
+            },
+            "referenced_tweets": [
+                {
+                    "id": "1325277624084664320",
+                    "type": "retweeted"
+                }
+            ],
+            "reply_settings": "everyone",
+            "text": "RT @mtgreenee: STOP THE STEAL! https://t.co/Cb31qUMRXc"
+        },
+        {
+            "author_id": "62591181",
+            "conversation_id": "1325281465152598018",
+            "created_at": "2020-11-08T03:38:18.000Z",
+            "edit_history_tweet_ids": [
+                "1325281465152598018"
+            ],
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 51,
+                        "normalized_text": "Oregon",
+                        "probability": 0.8866,
+                        "start": 46,
+                        "type": "Place"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 11,
+                        "id": "66931497",
+                        "start": 3,
+                        "username": "MrOlmos"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "pic.twitter.com/bT3vZVl66Y",
+                        "end": 76,
+                        "expanded_url": "https://twitter.com/MrOlmos/status/1325178945289953281/video/1",
+                        "media_key": "7_1325178905376944128",
+                        "start": 53,
+                        "url": "https://t.co/bT3vZVl66Y"
+                    }
+                ]
+            },
+            "id": "1325281465152598018",
+            "lang": "en",
+            "public_metrics": {
+                "impression_count": 0,
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 272
+            },
+            "referenced_tweets": [
+                {
+                    "id": "1325178945289953281",
+                    "type": "retweeted"
+                }
+            ],
+            "reply_settings": "everyone",
+            "text": "RT @MrOlmos: \u201cStop the steal\u201d rally in Salem, Oregon https://t.co/bT3vZVl66Y"
+        },
+        {
+            "author_id": "194838449",
+            "conversation_id": "1325281415454482433",
+            "created_at": "2020-11-08T03:38:06.000Z",
+            "edit_history_tweet_ids": [
+                "1325281415454482433"
+            ],
+            "entities": {
+                "mentions": [
+                    {
+                        "end": 14,
+                        "id": "466864852",
+                        "start": 3,
+                        "username": "BoSnerdley"
+                    }
+                ]
+            },
+            "id": "1325281415454482433",
+            "lang": "en",
+            "public_metrics": {
+                "impression_count": 0,
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 35
+            },
+            "referenced_tweets": [
+                {
+                    "id": "1325280673754722305",
+                    "type": "retweeted"
+                }
+            ],
+            "reply_settings": "everyone",
+            "text": "RT @BoSnerdley: With all due respect who  the HELL said anything about LETTING them steal anything. WTF. I am saying fight at every step. A\u2026"
+        },
+        {
+            "author_id": "922584141471793152",
+            "context_annotations": [
+                {
+                    "domain": {
+                        "description": "Named people in the world like Nelson Mandela",
+                        "id": "10",
+                        "name": "Person"
+                    },
+                    "entity": {
+                        "description": "45th US President, Donald Trump",
+                        "id": "799022225751871488",
+                        "name": "Donald Trump"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "Politicians in the world, like Joe Biden",
+                        "id": "35",
+                        "name": "Politician"
+                    },
+                    "entity": {
+                        "description": "45th US President, Donald Trump",
+                        "id": "799022225751871488",
+                        "name": "Donald Trump"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A taxonomy of user interests. ",
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy"
+                    },
+                    "entity": {
+                        "description": "45th US President, Donald Trump",
+                        "id": "799022225751871488",
+                        "name": "Donald Trump"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A taxonomy of user interests. ",
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy"
+                    },
+                    "entity": {
+                        "description": "Politics",
+                        "id": "847878884917886977",
+                        "name": "Politics"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A taxonomy of user interests. ",
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy"
+                    },
+                    "entity": {
+                        "description": "Politician",
+                        "id": "1070032753834438656",
+                        "name": "Political figures"
+                    }
+                }
+            ],
+            "conversation_id": "1325281412107309056",
+            "created_at": "2020-11-08T03:38:05.000Z",
+            "edit_history_tweet_ids": [
+                "1325281412107309056"
+            ],
+            "entities": {
+                "mentions": [
+                    {
+                        "end": 13,
+                        "id": "826065164504006657",
+                        "start": 3,
+                        "username": "mtgreenee"
+                    },
+                    {
+                        "end": 55,
+                        "id": "25073877",
+                        "start": 39,
+                        "username": "realDonaldTrump"
+                    }
+                ]
+            },
+            "id": "1325281412107309056",
+            "lang": "en",
+            "public_metrics": {
+                "impression_count": 0,
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 167
+            },
+            "referenced_tweets": [
+                {
+                    "id": "1325244875764346881",
+                    "type": "retweeted"
+                }
+            ],
+            "reply_settings": "everyone",
+            "text": "RT @mtgreenee: I will always fight for @realDonaldTrump.\n\nI will always fight for you.\n\nBut I couldn\u2019t do it without you having my back.\n\nJ\u2026"
+        },
+        {
+            "author_id": "4799702183",
+            "conversation_id": "1325281375755395072",
+            "created_at": "2020-11-08T03:37:57.000Z",
+            "edit_history_tweet_ids": [
+                "1325281375755395072"
+            ],
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 31,
+                        "normalized_text": "Scott Presler",
+                        "probability": 0.9182,
+                        "start": 19,
+                        "type": "Person"
+                    },
+                    {
+                        "end": 62,
+                        "normalized_text": "PA",
+                        "probability": 0.9227,
+                        "start": 61,
+                        "type": "Place"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 17,
+                        "id": "52338305",
+                        "start": 3,
+                        "username": "BrandonStraka"
+                    }
+                ]
+            },
+            "id": "1325281375755395072",
+            "lang": "en",
+            "public_metrics": {
+                "impression_count": 0,
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 2294
+            },
+            "referenced_tweets": [
+                {
+                    "id": "1325151400955928584",
+                    "type": "retweeted"
+                }
+            ],
+            "reply_settings": "everyone",
+            "text": "RT @BrandonStraka: Scott Presler led Stop the Steal rally in PA today:"
+        },
+        {
+            "author_id": "1070423775865380867",
+            "conversation_id": "1325281354297257984",
+            "created_at": "2020-11-08T03:37:52.000Z",
+            "edit_history_tweet_ids": [
+                "1325281354297257984"
+            ],
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 31,
+                        "normalized_text": "Scott Presler",
+                        "probability": 0.9182,
+                        "start": 19,
+                        "type": "Person"
+                    },
+                    {
+                        "end": 62,
+                        "normalized_text": "PA",
+                        "probability": 0.9227,
+                        "start": 61,
+                        "type": "Place"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 17,
+                        "id": "52338305",
+                        "start": 3,
+                        "username": "BrandonStraka"
+                    }
+                ]
+            },
+            "id": "1325281354297257984",
+            "lang": "en",
+            "public_metrics": {
+                "impression_count": 0,
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 2294
+            },
+            "referenced_tweets": [
+                {
+                    "id": "1325151400955928584",
+                    "type": "retweeted"
+                }
+            ],
+            "reply_settings": "everyone",
+            "text": "RT @BrandonStraka: Scott Presler led Stop the Steal rally in PA today:"
+        },
+        {
+            "author_id": "903358747929591808",
+            "conversation_id": "1325281325473886210",
+            "created_at": "2020-11-08T03:37:45.000Z",
+            "edit_history_tweet_ids": [
+                "1325281325473886210"
+            ],
+            "entities": {
+                "mentions": [
+                    {
+                        "end": 12,
+                        "id": "56572394",
+                        "start": 3,
+                        "username": "dajiyuan"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "youtube.com/watch?v=VQKKIK\u2026",
+                        "end": 95,
+                        "expanded_url": "https://www.youtube.com/watch?v=VQKKIKKgyTM&feature=youtu.be",
+                        "start": 72,
+                        "url": "https://t.co/POBXEsSXFb"
+                    },
+                    {
+                        "display_url": "pic.twitter.com/iWJRfGd9qP",
+                        "end": 119,
+                        "expanded_url": "https://twitter.com/dajiyuan/status/1325277036940824582/video/1",
+                        "media_key": "7_1325276886633754625",
+                        "start": 96,
+                        "url": "https://t.co/iWJRfGd9qP"
+                    }
+                ]
+            },
+            "id": "1325281325473886210",
+            "lang": "zh",
+            "public_metrics": {
+                "impression_count": 0,
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 50
+            },
+            "referenced_tweets": [
+                {
+                    "id": "1325277036940824582",
+                    "type": "retweeted"
+                }
+            ],
+            "reply_settings": "everyone",
+            "text": "RT @dajiyuan: \u5ddd\u666e\u652f\u6301\u8005\u5185\u534e\u8fbe\u5dde\u9009\u52a1\u5904\u524dStop the Steal\u96c6\u4f1a\n\n\u7206\u6599\u7535\u8bdd\uff1a+1(201) 614-3989\n\u89c6\u9891\u94fe\u63a5\uff1ahttps://t.co/POBXEsSXFb https://t.co/iWJRfGd9qP"
+        },
+        {
+            "author_id": "752475870",
+            "conversation_id": "1325281313352343553",
+            "created_at": "2020-11-08T03:37:42.000Z",
+            "edit_history_tweet_ids": [
+                "1325281313352343553"
+            ],
+            "entities": {
+                "hashtags": [
+                    {
+                        "end": 125,
+                        "start": 111,
+                        "tag": "stopthestreal"
+                    },
+                    {
+                        "end": 137,
+                        "start": 126,
+                        "tag": "voterfraud"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 13,
+                        "id": "63335631",
+                        "start": 3,
+                        "username": "Joy_Villa"
+                    }
+                ]
+            },
+            "id": "1325281313352343553",
+            "lang": "en",
+            "public_metrics": {
+                "impression_count": 0,
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 230
+            },
+            "referenced_tweets": [
+                {
+                    "id": "1325222419288698881",
+                    "type": "retweeted"
+                }
+            ],
+            "reply_settings": "everyone",
+            "text": "RT @Joy_Villa: STOP THE STEAL RALLY Over 1000 patriots came out on 24 hrs notice! I LOVED MEETING YOU ALL! \ud83e\udd70\ud83e\udd70\ud83e\udd70 #stopthestreal #voterfraud #\u2026"
+        },
+        {
+            "author_id": "3570802702",
+            "conversation_id": "1325281311636992001",
+            "created_at": "2020-11-08T03:37:41.000Z",
+            "edit_history_tweet_ids": [
+                "1325281311636992001"
+            ],
+            "entities": {
+                "mentions": [
+                    {
+                        "end": 13,
+                        "id": "826065164504006657",
+                        "start": 3,
+                        "username": "mtgreenee"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "newstalk1130.iheart.com/featured/commo\u2026",
+                        "end": 54,
+                        "expanded_url": "https://newstalk1130.iheart.com/featured/common-sense-central/content/2020-11-07-wisconsin-clerks-may-have-unlawfully-altered-thousands-of-absentee-ballots/",
+                        "start": 31,
+                        "url": "https://t.co/Cb31qUMRXc"
+                    }
+                ]
+            },
+            "id": "1325281311636992001",
+            "lang": "en",
+            "public_metrics": {
+                "impression_count": 0,
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 944
+            },
+            "referenced_tweets": [
+                {
+                    "id": "1325277624084664320",
+                    "type": "retweeted"
+                }
+            ],
+            "reply_settings": "everyone",
+            "text": "RT @mtgreenee: STOP THE STEAL! https://t.co/Cb31qUMRXc"
+        },
+        {
+            "author_id": "224300030",
+            "conversation_id": "1325281278405472257",
+            "created_at": "2020-11-08T03:37:33.000Z",
+            "edit_history_tweet_ids": [
+                "1325281278405472257"
+            ],
+            "entities": {
+                "mentions": [
+                    {
+                        "end": 13,
+                        "id": "826065164504006657",
+                        "start": 3,
+                        "username": "mtgreenee"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "newstalk1130.iheart.com/featured/commo\u2026",
+                        "end": 54,
+                        "expanded_url": "https://newstalk1130.iheart.com/featured/common-sense-central/content/2020-11-07-wisconsin-clerks-may-have-unlawfully-altered-thousands-of-absentee-ballots/",
+                        "start": 31,
+                        "url": "https://t.co/Cb31qUMRXc"
+                    }
+                ]
+            },
+            "id": "1325281278405472257",
+            "lang": "en",
+            "public_metrics": {
+                "impression_count": 0,
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 944
+            },
+            "referenced_tweets": [
+                {
+                    "id": "1325277624084664320",
+                    "type": "retweeted"
+                }
+            ],
+            "reply_settings": "everyone",
+            "text": "RT @mtgreenee: STOP THE STEAL! https://t.co/Cb31qUMRXc"
+        },
+        {
+            "author_id": "141570444",
+            "conversation_id": "1325281274689433600",
+            "created_at": "2020-11-08T03:37:33.000Z",
+            "edit_history_tweet_ids": [
+                "1325281274689433600"
+            ],
+            "entities": {
+                "mentions": [
+                    {
+                        "end": 13,
+                        "id": "826065164504006657",
+                        "start": 3,
+                        "username": "mtgreenee"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "newstalk1130.iheart.com/featured/commo\u2026",
+                        "end": 54,
+                        "expanded_url": "https://newstalk1130.iheart.com/featured/common-sense-central/content/2020-11-07-wisconsin-clerks-may-have-unlawfully-altered-thousands-of-absentee-ballots/",
+                        "start": 31,
+                        "url": "https://t.co/Cb31qUMRXc"
+                    }
+                ]
+            },
+            "id": "1325281274689433600",
+            "lang": "en",
+            "public_metrics": {
+                "impression_count": 0,
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 944
+            },
+            "referenced_tweets": [
+                {
+                    "id": "1325277624084664320",
+                    "type": "retweeted"
+                }
+            ],
+            "reply_settings": "everyone",
+            "text": "RT @mtgreenee: STOP THE STEAL! https://t.co/Cb31qUMRXc"
+        },
+        {
+            "author_id": "2767246984",
+            "conversation_id": "1325281265440919552",
+            "created_at": "2020-11-08T03:37:30.000Z",
+            "edit_history_tweet_ids": [
+                "1325281265440919552"
+            ],
+            "entities": {
+                "mentions": [
+                    {
+                        "end": 13,
+                        "id": "826065164504006657",
+                        "start": 3,
+                        "username": "mtgreenee"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "newstalk1130.iheart.com/featured/commo\u2026",
+                        "end": 54,
+                        "expanded_url": "https://newstalk1130.iheart.com/featured/common-sense-central/content/2020-11-07-wisconsin-clerks-may-have-unlawfully-altered-thousands-of-absentee-ballots/",
+                        "start": 31,
+                        "url": "https://t.co/Cb31qUMRXc"
+                    }
+                ]
+            },
+            "id": "1325281265440919552",
+            "lang": "en",
+            "public_metrics": {
+                "impression_count": 0,
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 944
+            },
+            "referenced_tweets": [
+                {
+                    "id": "1325277624084664320",
+                    "type": "retweeted"
+                }
+            ],
+            "reply_settings": "everyone",
+            "text": "RT @mtgreenee: STOP THE STEAL! https://t.co/Cb31qUMRXc"
+        }
+    ],
+    "meta": {
+        "newest_id": "1325282233981276160",
+        "next_token": "b26v89c19zqg8o3fosbu8po3wsydon4tv84b6kkgjavst",
+        "oldest_id": "1325281265440919552",
+        "result_count": 83
+    }
+}

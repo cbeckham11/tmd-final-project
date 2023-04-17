@@ -1,0 +1,3985 @@
+{
+    "data": [
+        {
+            "author_id": "749680519789613056",
+            "conversation_id": "1324044033740722177",
+            "created_at": "2020-11-04T17:41:11.000Z",
+            "edit_history_tweet_ids": [
+                "1324044033740722177"
+            ],
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 26,
+                        "normalized_text": "greenlights",
+                        "probability": 0.7005,
+                        "start": 16,
+                        "type": "Organization"
+                    },
+                    {
+                        "end": 98,
+                        "normalized_text": "mirai",
+                        "probability": 0.3202,
+                        "start": 94,
+                        "type": "Other"
+                    }
+                ]
+            },
+            "id": "1324044033740722177",
+            "lang": "es",
+            "public_metrics": {
+                "impression_count": 0,
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "reply_settings": "everyone",
+            "text": "porque me gusta greenlights serenade hasta ahora?\n\nsera por el hORRENDO outfit de ese magical mirai? puede ser \ud83d\ude42"
+        },
+        {
+            "author_id": "56267926",
+            "context_annotations": [
+                {
+                    "domain": {
+                        "description": "Top level entities that describe a Brands industry",
+                        "id": "45",
+                        "name": "Brand Vertical"
+                    },
+                    "entity": {
+                        "id": "781974596706635776",
+                        "name": "Retail industry"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+                        "id": "30",
+                        "name": "Entities [Entity Service]"
+                    },
+                    "entity": {
+                        "id": "783335558466506752",
+                        "name": "Online - Retail"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "Brands and Companies",
+                        "id": "47",
+                        "name": "Brand"
+                    },
+                    "entity": {
+                        "id": "10026792024",
+                        "name": "Amazon"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+                        "id": "48",
+                        "name": "Product"
+                    },
+                    "entity": {
+                        "id": "10040276627",
+                        "name": "Amazon Studios"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A taxonomy of user interests. ",
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy"
+                    },
+                    "entity": {
+                        "id": "10026792024",
+                        "name": "Amazon"
+                    }
+                }
+            ],
+            "conversation_id": "1324043262349447168",
+            "created_at": "2020-11-04T17:38:07.000Z",
+            "edit_history_tweet_ids": [
+                "1324043262349447168"
+            ],
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 32,
+                        "normalized_text": "Amazon Studios",
+                        "probability": 0.8772,
+                        "start": 19,
+                        "type": "Organization"
+                    },
+                    {
+                        "end": 75,
+                        "normalized_text": "The Rig",
+                        "probability": 0.6143,
+                        "start": 69,
+                        "type": "Other"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 17,
+                        "id": "62454048",
+                        "start": 3,
+                        "username": "comingsoonnet"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "comingsoon.net/tv/news/115393\u2026",
+                        "end": 100,
+                        "expanded_url": "https://www.comingsoon.net/tv/news/1153933-amazon-studios-greenlights-horror-thriller-series-the-rig",
+                        "start": 77,
+                        "status": 200,
+                        "unwound_url": "https://www.comingsoon.net/tv/news/1153933-amazon-studios-greenlights-horror-thriller-series-the-rig",
+                        "url": "https://t.co/gbBTCDPP5k"
+                    }
+                ]
+            },
+            "id": "1324043262349447168",
+            "lang": "en",
+            "public_metrics": {
+                "impression_count": 0,
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 3
+            },
+            "referenced_tweets": [
+                {
+                    "id": "1324042737390215168",
+                    "type": "retweeted"
+                }
+            ],
+            "reply_settings": "everyone",
+            "text": "RT @comingsoonnet: Amazon Studios Greenlights Horror-Thriller Series The Rig https://t.co/gbBTCDPP5k"
+        },
+        {
+            "author_id": "1163014695189696512",
+            "context_annotations": [
+                {
+                    "domain": {
+                        "description": "Top level entities that describe a Brands industry",
+                        "id": "45",
+                        "name": "Brand Vertical"
+                    },
+                    "entity": {
+                        "id": "781974596706635776",
+                        "name": "Retail industry"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+                        "id": "30",
+                        "name": "Entities [Entity Service]"
+                    },
+                    "entity": {
+                        "id": "783335558466506752",
+                        "name": "Online - Retail"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "Brands and Companies",
+                        "id": "47",
+                        "name": "Brand"
+                    },
+                    "entity": {
+                        "id": "10026792024",
+                        "name": "Amazon"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+                        "id": "48",
+                        "name": "Product"
+                    },
+                    "entity": {
+                        "id": "10040276627",
+                        "name": "Amazon Studios"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A taxonomy of user interests. ",
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy"
+                    },
+                    "entity": {
+                        "id": "10026792024",
+                        "name": "Amazon"
+                    }
+                }
+            ],
+            "conversation_id": "1324043053368266753",
+            "created_at": "2020-11-04T17:37:18.000Z",
+            "edit_history_tweet_ids": [
+                "1324043053368266753"
+            ],
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 13,
+                        "normalized_text": "Amazon Studios",
+                        "probability": 0.9344,
+                        "start": 0,
+                        "type": "Organization"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "hollywoodfact.com/amazon-studios\u2026",
+                        "end": 81,
+                        "expanded_url": "https://hollywoodfact.com/amazon-studios-greenlights-horror-thriller-series-the-rig/",
+                        "start": 58,
+                        "url": "https://t.co/Caj70CU2GM"
+                    }
+                ]
+            },
+            "id": "1324043053368266753",
+            "lang": "en",
+            "public_metrics": {
+                "impression_count": 0,
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "reply_settings": "everyone",
+            "text": "Amazon Studios Greenlights Horror-Thriller Series The\u00a0Rig https://t.co/Caj70CU2GM"
+        },
+        {
+            "author_id": "19491908",
+            "context_annotations": [
+                {
+                    "domain": {
+                        "description": "Top level entities that describe a Brands industry",
+                        "id": "45",
+                        "name": "Brand Vertical"
+                    },
+                    "entity": {
+                        "id": "781974596706635776",
+                        "name": "Retail industry"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+                        "id": "30",
+                        "name": "Entities [Entity Service]"
+                    },
+                    "entity": {
+                        "id": "783335558466506752",
+                        "name": "Online - Retail"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "Brands and Companies",
+                        "id": "47",
+                        "name": "Brand"
+                    },
+                    "entity": {
+                        "id": "10026792024",
+                        "name": "Amazon"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+                        "id": "48",
+                        "name": "Product"
+                    },
+                    "entity": {
+                        "id": "10040276627",
+                        "name": "Amazon Studios"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A taxonomy of user interests. ",
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy"
+                    },
+                    "entity": {
+                        "id": "10026792024",
+                        "name": "Amazon"
+                    }
+                }
+            ],
+            "conversation_id": "1324042955179528192",
+            "created_at": "2020-11-04T17:36:54.000Z",
+            "edit_history_tweet_ids": [
+                "1324042955179528192"
+            ],
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 32,
+                        "normalized_text": "Amazon Studios",
+                        "probability": 0.8772,
+                        "start": 19,
+                        "type": "Organization"
+                    },
+                    {
+                        "end": 75,
+                        "normalized_text": "The Rig",
+                        "probability": 0.6143,
+                        "start": 69,
+                        "type": "Other"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 17,
+                        "id": "62454048",
+                        "start": 3,
+                        "username": "comingsoonnet"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "comingsoon.net/tv/news/115393\u2026",
+                        "end": 100,
+                        "expanded_url": "https://www.comingsoon.net/tv/news/1153933-amazon-studios-greenlights-horror-thriller-series-the-rig",
+                        "start": 77,
+                        "status": 200,
+                        "unwound_url": "https://www.comingsoon.net/tv/news/1153933-amazon-studios-greenlights-horror-thriller-series-the-rig",
+                        "url": "https://t.co/gbBTCDPP5k"
+                    }
+                ]
+            },
+            "id": "1324042955179528192",
+            "lang": "en",
+            "public_metrics": {
+                "impression_count": 0,
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 3
+            },
+            "referenced_tweets": [
+                {
+                    "id": "1324042737390215168",
+                    "type": "retweeted"
+                }
+            ],
+            "reply_settings": "everyone",
+            "text": "RT @comingsoonnet: Amazon Studios Greenlights Horror-Thriller Series The Rig https://t.co/gbBTCDPP5k"
+        },
+        {
+            "author_id": "19352135",
+            "context_annotations": [
+                {
+                    "domain": {
+                        "description": "Top level entities that describe a Brands industry",
+                        "id": "45",
+                        "name": "Brand Vertical"
+                    },
+                    "entity": {
+                        "id": "781974596706635776",
+                        "name": "Retail industry"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+                        "id": "30",
+                        "name": "Entities [Entity Service]"
+                    },
+                    "entity": {
+                        "id": "783335558466506752",
+                        "name": "Online - Retail"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "Brands and Companies",
+                        "id": "47",
+                        "name": "Brand"
+                    },
+                    "entity": {
+                        "id": "10026792024",
+                        "name": "Amazon"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+                        "id": "48",
+                        "name": "Product"
+                    },
+                    "entity": {
+                        "id": "10040276627",
+                        "name": "Amazon Studios"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A taxonomy of user interests. ",
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy"
+                    },
+                    "entity": {
+                        "id": "10026792024",
+                        "name": "Amazon"
+                    }
+                }
+            ],
+            "conversation_id": "1324042819955167232",
+            "created_at": "2020-11-04T17:36:22.000Z",
+            "edit_history_tweet_ids": [
+                "1324042819955167232"
+            ],
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 13,
+                        "normalized_text": "Amazon Studios",
+                        "probability": 0.9462,
+                        "start": 0,
+                        "type": "Organization"
+                    },
+                    {
+                        "end": 56,
+                        "normalized_text": "The Rig",
+                        "probability": 0.654,
+                        "start": 50,
+                        "type": "Other"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "comingsoon.net/tv/news/115393\u2026",
+                        "end": 81,
+                        "expanded_url": "https://www.comingsoon.net/tv/news/1153933-amazon-studios-greenlights-horror-thriller-series-the-rig",
+                        "start": 58,
+                        "status": 200,
+                        "unwound_url": "https://www.comingsoon.net/tv/news/1153933-amazon-studios-greenlights-horror-thriller-series-the-rig",
+                        "url": "https://t.co/6n1qvylgBL"
+                    }
+                ]
+            },
+            "id": "1324042819955167232",
+            "lang": "en",
+            "public_metrics": {
+                "impression_count": 0,
+                "like_count": 3,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "reply_settings": "everyone",
+            "text": "Amazon Studios Greenlights Horror-Thriller Series The Rig https://t.co/6n1qvylgBL"
+        },
+        {
+            "author_id": "62454048",
+            "context_annotations": [
+                {
+                    "domain": {
+                        "description": "Top level entities that describe a Brands industry",
+                        "id": "45",
+                        "name": "Brand Vertical"
+                    },
+                    "entity": {
+                        "id": "781974596706635776",
+                        "name": "Retail industry"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+                        "id": "30",
+                        "name": "Entities [Entity Service]"
+                    },
+                    "entity": {
+                        "id": "783335558466506752",
+                        "name": "Online - Retail"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "Brands and Companies",
+                        "id": "47",
+                        "name": "Brand"
+                    },
+                    "entity": {
+                        "id": "10026792024",
+                        "name": "Amazon"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+                        "id": "48",
+                        "name": "Product"
+                    },
+                    "entity": {
+                        "id": "10040276627",
+                        "name": "Amazon Studios"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A taxonomy of user interests. ",
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy"
+                    },
+                    "entity": {
+                        "id": "10026792024",
+                        "name": "Amazon"
+                    }
+                }
+            ],
+            "conversation_id": "1324042737390215168",
+            "created_at": "2020-11-04T17:36:02.000Z",
+            "edit_history_tweet_ids": [
+                "1324042737390215168"
+            ],
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 13,
+                        "normalized_text": "Amazon Studios",
+                        "probability": 0.9462,
+                        "start": 0,
+                        "type": "Organization"
+                    },
+                    {
+                        "end": 56,
+                        "normalized_text": "The Rig",
+                        "probability": 0.654,
+                        "start": 50,
+                        "type": "Other"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "comingsoon.net/tv/news/115393\u2026",
+                        "end": 81,
+                        "expanded_url": "https://www.comingsoon.net/tv/news/1153933-amazon-studios-greenlights-horror-thriller-series-the-rig",
+                        "start": 58,
+                        "status": 200,
+                        "unwound_url": "https://www.comingsoon.net/tv/news/1153933-amazon-studios-greenlights-horror-thriller-series-the-rig",
+                        "url": "https://t.co/gbBTCDPP5k"
+                    }
+                ]
+            },
+            "id": "1324042737390215168",
+            "lang": "en",
+            "public_metrics": {
+                "impression_count": 0,
+                "like_count": 15,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 3
+            },
+            "reply_settings": "everyone",
+            "text": "Amazon Studios Greenlights Horror-Thriller Series The Rig https://t.co/gbBTCDPP5k"
+        },
+        {
+            "author_id": "2856136412",
+            "conversation_id": "1324041871946059777",
+            "created_at": "2020-11-04T17:32:36.000Z",
+            "edit_history_tweet_ids": [
+                "1324041871946059777"
+            ],
+            "entities": {
+                "mentions": [
+                    {
+                        "end": 17,
+                        "id": "880189282790637568",
+                        "start": 3,
+                        "username": "FonteShawnBRA"
+                    }
+                ]
+            },
+            "id": "1324041871946059777",
+            "lang": "pt",
+            "public_metrics": {
+                "impression_count": 0,
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 11
+            },
+            "referenced_tweets": [
+                {
+                    "id": "1323993686842236929",
+                    "type": "retweeted"
+                }
+            ],
+            "reply_settings": "everyone",
+            "text": "RT @FonteShawnBRA: \"Ele \u00e9 um bom rapaz, e ele me chamou um tempo atr\u00e1s e n\u00f3s ficamos em contato e ainda estamos, ent\u00e3o isso \u00e9 muito legal!\"\u2026"
+        },
+        {
+            "author_id": "3413798921",
+            "conversation_id": "1324041387323629574",
+            "created_at": "2020-11-04T17:30:40.000Z",
+            "edit_history_tweet_ids": [
+                "1324041387323629574"
+            ],
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 22,
+                        "normalized_text": "Philippine",
+                        "probability": 0.4924,
+                        "start": 13,
+                        "type": "Place"
+                    },
+                    {
+                        "end": 52,
+                        "normalized_text": "Alfonso Cusi",
+                        "probability": 0.775,
+                        "start": 41,
+                        "type": "Person"
+                    },
+                    {
+                        "end": 73,
+                        "normalized_text": "PXP Energy Corp",
+                        "probability": 0.595,
+                        "start": 59,
+                        "type": "Organization"
+                    },
+                    {
+                        "end": 95,
+                        "normalized_text": "Reed Bank",
+                        "probability": 0.7199,
+                        "start": 87,
+                        "type": "Organization"
+                    },
+                    {
+                        "end": 125,
+                        "normalized_text": "China",
+                        "probability": 0.9612,
+                        "start": 121,
+                        "type": "Place"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 11,
+                        "id": "2843747076",
+                        "start": 3,
+                        "username": "AsiaMTI"
+                    }
+                ]
+            },
+            "id": "1324041387323629574",
+            "lang": "en",
+            "public_metrics": {
+                "impression_count": 0,
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 1
+            },
+            "referenced_tweets": [
+                {
+                    "id": "1324041218792157184",
+                    "type": "retweeted"
+                }
+            ],
+            "reply_settings": "everyone",
+            "text": "RT @AsiaMTI: Philippine energy secretary Alfonso Cusi says PXP Energy Corp. can survey Reed Bank without partnering with China. \u201cIf they ca\u2026"
+        },
+        {
+            "author_id": "2843747076",
+            "context_annotations": [
+                {
+                    "domain": {
+                        "description": "Brands and Companies",
+                        "id": "47",
+                        "name": "Brand"
+                    },
+                    "entity": {
+                        "id": "1139108298584518656",
+                        "name": "Bloomberg"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A taxonomy of user interests. ",
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy"
+                    },
+                    "entity": {
+                        "id": "1139108298584518656",
+                        "name": "Bloomberg"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "Real world events. ",
+                        "id": "29",
+                        "name": "Events [Entity Service]"
+                    },
+                    "entity": {
+                        "description": "Bloomberg Daybreak",
+                        "id": "831513975363756034",
+                        "name": "Bloomberg Daybreak"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "News Categories like Entertainment or Technology",
+                        "id": "69",
+                        "name": "News Vertical"
+                    },
+                    "entity": {
+                        "description": "Business & Finance News",
+                        "id": "840161214890106880",
+                        "name": "Business news"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A taxonomy of user interests. ",
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy"
+                    },
+                    "entity": {
+                        "description": "Business & Finance News",
+                        "id": "840161214890106880",
+                        "name": "Business news"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A taxonomy of user interests. ",
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy"
+                    },
+                    "entity": {
+                        "description": "News",
+                        "id": "1046545033657081857",
+                        "name": "News"
+                    }
+                }
+            ],
+            "conversation_id": "1324041218792157184",
+            "created_at": "2020-11-04T17:30:00.000Z",
+            "edit_history_tweet_ids": [
+                "1324041218792157184"
+            ],
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 9,
+                        "normalized_text": "Philippine",
+                        "probability": 0.7005,
+                        "start": 0,
+                        "type": "Place"
+                    },
+                    {
+                        "end": 39,
+                        "normalized_text": "Alfonso Cusi",
+                        "probability": 0.7934,
+                        "start": 28,
+                        "type": "Person"
+                    },
+                    {
+                        "end": 60,
+                        "normalized_text": "PXP Energy Corp",
+                        "probability": 0.564,
+                        "start": 46,
+                        "type": "Organization"
+                    },
+                    {
+                        "end": 82,
+                        "normalized_text": "Reed Bank",
+                        "probability": 0.7188,
+                        "start": 74,
+                        "type": "Organization"
+                    },
+                    {
+                        "end": 112,
+                        "normalized_text": "China",
+                        "probability": 0.9609,
+                        "start": 108,
+                        "type": "Place"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 178,
+                        "id": "34713362",
+                        "start": 169,
+                        "username": "business"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "cs.is/2HX8OH8",
+                        "end": 202,
+                        "expanded_url": "https://cs.is/2HX8OH8",
+                        "start": 179,
+                        "url": "https://t.co/wcc6sbUbHw"
+                    },
+                    {
+                        "display_url": "pic.twitter.com/DHuwyQfsSs",
+                        "end": 226,
+                        "expanded_url": "https://twitter.com/AsiaMTI/status/1324041218792157184/photo/1",
+                        "media_key": "3_1324030823050391552",
+                        "start": 203,
+                        "url": "https://t.co/DHuwyQfsSs"
+                    }
+                ]
+            },
+            "id": "1324041218792157184",
+            "lang": "en",
+            "public_metrics": {
+                "impression_count": 0,
+                "like_count": 1,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 1
+            },
+            "reply_settings": "everyone",
+            "text": "Philippine energy secretary Alfonso Cusi says PXP Energy Corp. can survey Reed Bank without partnering with China. \u201cIf they can do it by themselves, go ahead,\u201d he says. @business https://t.co/wcc6sbUbHw https://t.co/DHuwyQfsSs"
+        },
+        {
+            "author_id": "1226670480993681410",
+            "context_annotations": [
+                {
+                    "domain": {
+                        "description": "Top level entities that describe a Brands industry",
+                        "id": "45",
+                        "name": "Brand Vertical"
+                    },
+                    "entity": {
+                        "id": "781974596148793345",
+                        "name": "Business & finance"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+                        "id": "30",
+                        "name": "Entities [Entity Service]"
+                    },
+                    "entity": {
+                        "id": "781974596794716162",
+                        "name": "Financial services"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "Brands and Companies",
+                        "id": "47",
+                        "name": "Brand"
+                    },
+                    "entity": {
+                        "description": "News from Bloomberg LP (not Mike Bloomberg)",
+                        "id": "10044802072",
+                        "name": "Bloomberg"
+                    }
+                }
+            ],
+            "conversation_id": "1324038948746874881",
+            "created_at": "2020-11-04T17:20:59.000Z",
+            "edit_history_tweet_ids": [
+                "1324038948746874881"
+            ],
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 10,
+                        "normalized_text": "Philippines",
+                        "probability": 0.9226,
+                        "start": 0,
+                        "type": "Place"
+                    },
+                    {
+                        "end": 63,
+                        "normalized_text": "China",
+                        "probability": 0.8847,
+                        "start": 59,
+                        "type": "Place"
+                    },
+                    {
+                        "end": 75,
+                        "normalized_text": "Bloomberg",
+                        "probability": 0.9866,
+                        "start": 67,
+                        "type": "Organization"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 116,
+                        "id": "33584794",
+                        "start": 105,
+                        "username": "googlenews"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "bloomberg.com/news/articles/\u2026",
+                        "end": 100,
+                        "expanded_url": "https://www.bloomberg.com/news/articles/2020-11-04/philippines-greenlights-oil-drills-in-disputed-sea-without-china",
+                        "start": 77,
+                        "url": "https://t.co/2L43QedjNw"
+                    }
+                ]
+            },
+            "id": "1324038948746874881",
+            "lang": "en",
+            "public_metrics": {
+                "impression_count": 0,
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "reply_settings": "everyone",
+            "text": "Philippines Greenlights Oil Drills in Disputed Sea Without China - Bloomberg https://t.co/2L43QedjNw via @GoogleNews"
+        },
+        {
+            "author_id": "302189775",
+            "context_annotations": [
+                {
+                    "domain": {
+                        "description": "Top level entities that describe a Brands industry",
+                        "id": "45",
+                        "name": "Brand Vertical"
+                    },
+                    "entity": {
+                        "id": "781974596148793345",
+                        "name": "Business & finance"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+                        "id": "30",
+                        "name": "Entities [Entity Service]"
+                    },
+                    "entity": {
+                        "id": "781974596794716162",
+                        "name": "Financial services"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "Brands and Companies",
+                        "id": "47",
+                        "name": "Brand"
+                    },
+                    "entity": {
+                        "description": "News from Bloomberg LP (not Mike Bloomberg)",
+                        "id": "10044802072",
+                        "name": "Bloomberg"
+                    }
+                }
+            ],
+            "conversation_id": "1324034935108169728",
+            "created_at": "2020-11-04T17:05:02.000Z",
+            "edit_history_tweet_ids": [
+                "1324034935108169728"
+            ],
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 10,
+                        "normalized_text": "Philippines",
+                        "probability": 0.9246,
+                        "start": 0,
+                        "type": "Place"
+                    },
+                    {
+                        "end": 63,
+                        "normalized_text": "China",
+                        "probability": 0.8822,
+                        "start": 59,
+                        "type": "Place"
+                    },
+                    {
+                        "end": 75,
+                        "normalized_text": "Bloomberg",
+                        "probability": 0.985,
+                        "start": 67,
+                        "type": "Organization"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "dlvr.it/Rl04R9",
+                        "end": 100,
+                        "expanded_url": "http://dlvr.it/Rl04R9",
+                        "start": 77,
+                        "url": "https://t.co/6wiDOVlWbZ"
+                    }
+                ]
+            },
+            "id": "1324034935108169728",
+            "lang": "en",
+            "public_metrics": {
+                "impression_count": 0,
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "reply_settings": "everyone",
+            "text": "Philippines Greenlights Oil Drills in Disputed Sea Without China - Bloomberg https://t.co/6wiDOVlWbZ"
+        },
+        {
+            "author_id": "283604227",
+            "context_annotations": [
+                {
+                    "domain": {
+                        "description": "Top level entities that describe a Brands industry",
+                        "id": "45",
+                        "name": "Brand Vertical"
+                    },
+                    "entity": {
+                        "id": "781974596148793345",
+                        "name": "Business & finance"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+                        "id": "30",
+                        "name": "Entities [Entity Service]"
+                    },
+                    "entity": {
+                        "id": "781974596794716162",
+                        "name": "Financial services"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "Brands and Companies",
+                        "id": "47",
+                        "name": "Brand"
+                    },
+                    "entity": {
+                        "description": "News from Bloomberg LP (not Mike Bloomberg)",
+                        "id": "10044802072",
+                        "name": "Bloomberg"
+                    }
+                }
+            ],
+            "conversation_id": "1324033814562131968",
+            "created_at": "2020-11-04T17:00:35.000Z",
+            "edit_history_tweet_ids": [
+                "1324033814562131968"
+            ],
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 10,
+                        "normalized_text": "Philippines",
+                        "probability": 0.9246,
+                        "start": 0,
+                        "type": "Place"
+                    },
+                    {
+                        "end": 63,
+                        "normalized_text": "China",
+                        "probability": 0.8822,
+                        "start": 59,
+                        "type": "Place"
+                    },
+                    {
+                        "end": 75,
+                        "normalized_text": "Bloomberg",
+                        "probability": 0.985,
+                        "start": 67,
+                        "type": "Organization"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "news.google.com/__i/rss/rd/art\u2026",
+                        "end": 100,
+                        "expanded_url": "https://news.google.com/__i/rss/rd/articles/CBMic2h0dHBzOi8vd3d3LmJsb29tYmVyZy5jb20vbmV3cy9hcnRpY2xlcy8yMDIwLTExLTA0L3BoaWxpcHBpbmVzLWdyZWVubGlnaHRzLW9pbC1kcmlsbHMtaW4tZGlzcHV0ZWQtc2VhLXdpdGhvdXQtY2hpbmHSAQA?oc=5&utm_source=dlvr.it&utm_medium=twitter",
+                        "start": 77,
+                        "url": "https://t.co/qZOMxWxTU3"
+                    }
+                ]
+            },
+            "id": "1324033814562131968",
+            "lang": "en",
+            "public_metrics": {
+                "impression_count": 0,
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "reply_settings": "everyone",
+            "text": "Philippines Greenlights Oil Drills in Disputed Sea Without China - Bloomberg https://t.co/qZOMxWxTU3"
+        },
+        {
+            "author_id": "1279707556445855744",
+            "conversation_id": "1324032859909378049",
+            "created_at": "2020-11-04T16:56:47.000Z",
+            "edit_history_tweet_ids": [
+                "1324032859909378049"
+            ],
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 10,
+                        "normalized_text": "Greenlights",
+                        "probability": 0.6548,
+                        "start": 0,
+                        "type": "Other"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "ift.tt/2HVqxyI",
+                        "end": 44,
+                        "expanded_url": "https://ift.tt/2HVqxyI",
+                        "start": 21,
+                        "url": "https://t.co/zbPMi4uRhU"
+                    }
+                ]
+            },
+            "id": "1324032859909378049",
+            "lang": "en",
+            "public_metrics": {
+                "impression_count": 0,
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "reply_settings": "everyone",
+            "text": "Greenlights\n         https://t.co/zbPMi4uRhU"
+        },
+        {
+            "author_id": "90000886",
+            "conversation_id": "1324031159546728448",
+            "created_at": "2020-11-04T16:50:02.000Z",
+            "edit_history_tweet_ids": [
+                "1324031159546728448"
+            ],
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 14,
+                        "normalized_text": "Litchfield Park",
+                        "probability": 0.8881,
+                        "start": 0,
+                        "type": "Place"
+                    },
+                    {
+                        "end": 41,
+                        "normalized_text": "La Loma Campus",
+                        "probability": 0.5342,
+                        "start": 28,
+                        "type": "Other"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "roselawgroupreporter.com/2020/11/litchf\u2026",
+                        "end": 76,
+                        "expanded_url": "https://roselawgroupreporter.com/2020/11/litchfield-park-greenlights-la-loma-campus-expansion/",
+                        "start": 53,
+                        "status": 200,
+                        "unwound_url": "https://roselawgroupreporter.com/2020/11/litchfield-park-greenlights-la-loma-campus-expansion/",
+                        "url": "https://t.co/emAlBjnPLR"
+                    }
+                ]
+            },
+            "id": "1324031159546728448",
+            "lang": "en",
+            "public_metrics": {
+                "impression_count": 0,
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "reply_settings": "everyone",
+            "text": "Litchfield Park greenlights La Loma Campus expansion https://t.co/emAlBjnPLR"
+        },
+        {
+            "author_id": "1172173676155944965",
+            "context_annotations": [
+                {
+                    "domain": {
+                        "description": "Named people in the world like Nelson Mandela",
+                        "id": "10",
+                        "name": "Person"
+                    },
+                    "entity": {
+                        "description": "Matthew McConaughey",
+                        "id": "819992381206298625",
+                        "name": "Matthew McConaughey"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "An actor or actress in the world, like Kate Winslet or Leonardo DiCaprio",
+                        "id": "56",
+                        "name": "Actor"
+                    },
+                    "entity": {
+                        "description": "Matthew McConaughey",
+                        "id": "819992381206298625",
+                        "name": "Matthew McConaughey"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A taxonomy of user interests. ",
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy"
+                    },
+                    "entity": {
+                        "description": "Matthew McConaughey",
+                        "id": "819992381206298625",
+                        "name": "Matthew McConaughey"
+                    }
+                }
+            ],
+            "conversation_id": "1324030487774470146",
+            "created_at": "2020-11-04T16:47:22.000Z",
+            "edit_history_tweet_ids": [
+                "1324030487774470146"
+            ],
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 35,
+                        "normalized_text": "GreenlightsBook",
+                        "probability": 0.6539,
+                        "start": 21,
+                        "type": "Other"
+                    },
+                    {
+                        "end": 93,
+                        "normalized_text": "Greenlights",
+                        "probability": 0.5373,
+                        "start": 83,
+                        "type": "Other"
+                    },
+                    {
+                        "end": 116,
+                        "normalized_text": "Matthew McConaughey",
+                        "probability": 0.9642,
+                        "start": 98,
+                        "type": "Person"
+                    }
+                ],
+                "hashtags": [
+                    {
+                        "end": 36,
+                        "start": 20,
+                        "tag": "GreenlightsBook"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 18,
+                        "id": "1172173676155944965",
+                        "start": 3,
+                        "username": "support_author"
+                    }
+                ]
+            },
+            "id": "1324030487774470146",
+            "lang": "en",
+            "public_metrics": {
+                "impression_count": 0,
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 2
+            },
+            "referenced_tweets": [
+                {
+                    "id": "1324028636945551360",
+                    "type": "retweeted"
+                }
+            ],
+            "reply_settings": "everyone",
+            "text": "RT @support_author: #GreenlightsBook \n\u201cUnflinchingly honest and remarkably candid\"\nGreenlights by Matthew McConaughey https://t.co/ZfvfQWYq\u2026"
+        },
+        {
+            "author_id": "1172173676155944965",
+            "context_annotations": [
+                {
+                    "domain": {
+                        "description": "Named people in the world like Nelson Mandela",
+                        "id": "10",
+                        "name": "Person"
+                    },
+                    "entity": {
+                        "description": "Matthew McConaughey",
+                        "id": "819992381206298625",
+                        "name": "Matthew McConaughey"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "An actor or actress in the world, like Kate Winslet or Leonardo DiCaprio",
+                        "id": "56",
+                        "name": "Actor"
+                    },
+                    "entity": {
+                        "description": "Matthew McConaughey",
+                        "id": "819992381206298625",
+                        "name": "Matthew McConaughey"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A taxonomy of user interests. ",
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy"
+                    },
+                    "entity": {
+                        "description": "Matthew McConaughey",
+                        "id": "819992381206298625",
+                        "name": "Matthew McConaughey"
+                    }
+                }
+            ],
+            "conversation_id": "1324028636945551360",
+            "created_at": "2020-11-04T16:40:00.000Z",
+            "edit_history_tweet_ids": [
+                "1324028636945551360"
+            ],
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 15,
+                        "normalized_text": "GreenlightsBook",
+                        "probability": 0.6262,
+                        "start": 1,
+                        "type": "Other"
+                    },
+                    {
+                        "end": 73,
+                        "normalized_text": "Greenlights",
+                        "probability": 0.6748,
+                        "start": 63,
+                        "type": "Other"
+                    },
+                    {
+                        "end": 96,
+                        "normalized_text": "Matthew McConaughey",
+                        "probability": 0.9672,
+                        "start": 78,
+                        "type": "Person"
+                    }
+                ],
+                "hashtags": [
+                    {
+                        "end": 16,
+                        "start": 0,
+                        "tag": "GreenlightsBook"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "amzn.to/2I2TiZE",
+                        "end": 121,
+                        "expanded_url": "https://amzn.to/2I2TiZE",
+                        "start": 98,
+                        "url": "https://t.co/ZfvfQWYq8R"
+                    }
+                ]
+            },
+            "id": "1324028636945551360",
+            "lang": "en",
+            "public_metrics": {
+                "impression_count": 0,
+                "like_count": 2,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 2
+            },
+            "reply_settings": "everyone",
+            "text": "#GreenlightsBook \n\u201cUnflinchingly honest and remarkably candid\"\nGreenlights by Matthew McConaughey https://t.co/ZfvfQWYq8R"
+        },
+        {
+            "author_id": "762833384",
+            "context_annotations": [
+                {
+                    "domain": {
+                        "description": "Named people in the world like Nelson Mandela",
+                        "id": "10",
+                        "name": "Person"
+                    },
+                    "entity": {
+                        "description": "Matthew McConaughey",
+                        "id": "819992381206298625",
+                        "name": "Matthew McConaughey"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "An actor or actress in the world, like Kate Winslet or Leonardo DiCaprio",
+                        "id": "56",
+                        "name": "Actor"
+                    },
+                    "entity": {
+                        "description": "Matthew McConaughey",
+                        "id": "819992381206298625",
+                        "name": "Matthew McConaughey"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A taxonomy of user interests. ",
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy"
+                    },
+                    "entity": {
+                        "description": "Matthew McConaughey",
+                        "id": "819992381206298625",
+                        "name": "Matthew McConaughey"
+                    }
+                }
+            ],
+            "conversation_id": "1324027521688621065",
+            "created_at": "2020-11-04T16:35:35.000Z",
+            "edit_history_tweet_ids": [
+                "1324027521688621065"
+            ],
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 10,
+                        "normalized_text": "Greenlights",
+                        "probability": 0.6437,
+                        "start": 0,
+                        "type": "Other"
+                    },
+                    {
+                        "end": 68,
+                        "normalized_text": "greenlight",
+                        "probability": 0.4711,
+                        "start": 59,
+                        "type": "Other"
+                    }
+                ],
+                "hashtags": [
+                    {
+                        "end": 69,
+                        "start": 58,
+                        "tag": "greenlight"
+                    },
+                    {
+                        "end": 80,
+                        "start": 70,
+                        "tag": "audiobook"
+                    },
+                    {
+                        "end": 94,
+                        "start": 81,
+                        "tag": "lovehisvoice"
+                    },
+                    {
+                        "end": 107,
+                        "start": 95,
+                        "tag": "storyteller"
+                    },
+                    {
+                        "end": 119,
+                        "start": 108,
+                        "tag": "bestseller"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 57,
+                        "id": "57097104",
+                        "start": 45,
+                        "username": "McConaughey"
+                    }
+                ]
+            },
+            "id": "1324027521688621065",
+            "lang": "en",
+            "public_metrics": {
+                "impression_count": 0,
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "reply_settings": "everyone",
+            "text": "Greenlights. Best audio book ever recorded!! @McConaughey #greenlight #audiobook #lovehisvoice #storyteller #bestseller"
+        },
+        {
+            "author_id": "104190332",
+            "conversation_id": "1324026178701824000",
+            "created_at": "2020-11-04T16:30:14.000Z",
+            "edit_history_tweet_ids": [
+                "1324026178701824000"
+            ],
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 53,
+                        "normalized_text": "Project Origin",
+                        "probability": 0.4454,
+                        "start": 40,
+                        "type": "Other"
+                    },
+                    {
+                        "end": 69,
+                        "normalized_text": "WFA",
+                        "probability": 0.5109,
+                        "start": 67,
+                        "type": "Organization"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 38,
+                        "id": "121719772",
+                        "start": 29,
+                        "username": "ISBAsays"
+                    }
+                ]
+            },
+            "id": "1324026178701824000",
+            "lang": "en",
+            "public_metrics": {
+                "impression_count": 0,
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 3
+            },
+            "referenced_tweets": [
+                {
+                    "id": "1323925218088407042",
+                    "type": "retweeted"
+                }
+            ],
+            "reply_settings": "everyone",
+            "text": "RT @MediatelNews: Exclusive: @ISBAsays' Project Origin greenlights WFA's cross media measurement blueprint for development\n\nRead the story:\u2026"
+        },
+        {
+            "author_id": "1241720714",
+            "context_annotations": [
+                {
+                    "domain": {
+                        "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+                        "id": "67",
+                        "name": "Interests and Hobbies"
+                    },
+                    "entity": {
+                        "id": "1242509106230878208",
+                        "name": "Filmmaking"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "Ongoing News Stories like 'Brexit'",
+                        "id": "123",
+                        "name": "Ongoing News Story"
+                    },
+                    "entity": {
+                        "id": "1220701888179359745",
+                        "name": "COVID-19"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A taxonomy of user interests. ",
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy"
+                    },
+                    "entity": {
+                        "id": "1220701888179359745",
+                        "name": "COVID-19"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A taxonomy of user interests. ",
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy"
+                    },
+                    "entity": {
+                        "id": "1242509106230878208",
+                        "name": "Filmmaking"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A taxonomy of user interests. ",
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy"
+                    },
+                    "entity": {
+                        "id": "1285699311972446209",
+                        "name": "Behind the scenes"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "Named people in the world like Nelson Mandela",
+                        "id": "10",
+                        "name": "Person"
+                    },
+                    "entity": {
+                        "description": "Matthew McConaughey",
+                        "id": "819992381206298625",
+                        "name": "Matthew McConaughey"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "An actor or actress in the world, like Kate Winslet or Leonardo DiCaprio",
+                        "id": "56",
+                        "name": "Actor"
+                    },
+                    "entity": {
+                        "description": "Matthew McConaughey",
+                        "id": "819992381206298625",
+                        "name": "Matthew McConaughey"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A taxonomy of user interests. ",
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy"
+                    },
+                    "entity": {
+                        "description": "Matthew McConaughey",
+                        "id": "819992381206298625",
+                        "name": "Matthew McConaughey"
+                    }
+                }
+            ],
+            "conversation_id": "1324025270525960195",
+            "created_at": "2020-11-04T16:26:38.000Z",
+            "edit_history_tweet_ids": [
+                "1324025270525960195"
+            ],
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 31,
+                        "normalized_text": "Greenlights",
+                        "probability": 0.9469,
+                        "start": 21,
+                        "type": "Other"
+                    },
+                    {
+                        "end": 184,
+                        "normalized_text": "GreenlightsBook",
+                        "probability": 0.8101,
+                        "start": 170,
+                        "type": "Other"
+                    }
+                ],
+                "hashtags": [
+                    {
+                        "end": 185,
+                        "start": 169,
+                        "tag": "GreenlightsBook"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "twitter.com/ReeseW/status/\u2026",
+                        "end": 209,
+                        "expanded_url": "https://twitter.com/ReeseW/status/1321507332157833217",
+                        "start": 186,
+                        "url": "https://t.co/99FoIx6azh"
+                    }
+                ]
+            },
+            "id": "1324025270525960195",
+            "lang": "en",
+            "public_metrics": {
+                "impression_count": 0,
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 1,
+                "retweet_count": 0
+            },
+            "referenced_tweets": [
+                {
+                    "id": "1321507332157833217",
+                    "type": "quoted"
+                }
+            ],
+            "reply_settings": "everyone",
+            "text": "Just started reading Greenlights now, loving every word of this great playbook, the energy in it is all that we need during these anxiety induced pandemic election days.#GreenlightsBook https://t.co/99FoIx6azh"
+        },
+        {
+            "author_id": "480881323",
+            "context_annotations": [
+                {
+                    "domain": {
+                        "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+                        "id": "30",
+                        "name": "Entities [Entity Service]"
+                    },
+                    "entity": {
+                        "id": "781974596752842752",
+                        "name": "Services"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "Brands and Companies",
+                        "id": "47",
+                        "name": "Brand"
+                    },
+                    "entity": {
+                        "id": "10027474933",
+                        "name": "Yahoo!"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A taxonomy of user interests. ",
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy"
+                    },
+                    "entity": {
+                        "id": "10027474933",
+                        "name": "Yahoo!"
+                    }
+                }
+            ],
+            "conversation_id": "1324025224476659712",
+            "created_at": "2020-11-04T16:26:27.000Z",
+            "edit_history_tweet_ids": [
+                "1324025224476659712"
+            ],
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 10,
+                        "normalized_text": "Philippines",
+                        "probability": 0.8516,
+                        "start": 0,
+                        "type": "Place"
+                    },
+                    {
+                        "end": 63,
+                        "normalized_text": "China",
+                        "probability": 0.9332,
+                        "start": 59,
+                        "type": "Place"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 99,
+                        "id": "19380829",
+                        "start": 93,
+                        "username": "Yahoo"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "finance.yahoo.com/news/philippin\u2026",
+                        "end": 88,
+                        "expanded_url": "https://finance.yahoo.com/news/philippines-greenlights-oil-drills-disputed-062811146.html?soc_src=social-sh&soc_trk=tw&tsrc=twtr",
+                        "start": 65,
+                        "url": "https://t.co/7r6pvuQHfW"
+                    }
+                ]
+            },
+            "id": "1324025224476659712",
+            "lang": "en",
+            "public_metrics": {
+                "impression_count": 0,
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "reply_settings": "everyone",
+            "text": "Philippines Greenlights Oil Drills in Disputed Sea Without China https://t.co/7r6pvuQHfW via @Yahoo We should support their effort in every way possible."
+        },
+        {
+            "author_id": "3148700956",
+            "context_annotations": [
+                {
+                    "domain": {
+                        "description": "Named people in the world like Nelson Mandela",
+                        "id": "10",
+                        "name": "Person"
+                    },
+                    "entity": {
+                        "description": "Matthew McConaughey",
+                        "id": "819992381206298625",
+                        "name": "Matthew McConaughey"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "An actor or actress in the world, like Kate Winslet or Leonardo DiCaprio",
+                        "id": "56",
+                        "name": "Actor"
+                    },
+                    "entity": {
+                        "description": "Matthew McConaughey",
+                        "id": "819992381206298625",
+                        "name": "Matthew McConaughey"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A taxonomy of user interests. ",
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy"
+                    },
+                    "entity": {
+                        "description": "Matthew McConaughey",
+                        "id": "819992381206298625",
+                        "name": "Matthew McConaughey"
+                    }
+                }
+            ],
+            "conversation_id": "1324024345174355979",
+            "created_at": "2020-11-04T16:22:57.000Z",
+            "edit_history_tweet_ids": [
+                "1324024345174355979"
+            ],
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 10,
+                        "normalized_text": "Mcconaughey",
+                        "probability": 0.7952,
+                        "start": 0,
+                        "type": "Person"
+                    },
+                    {
+                        "end": 102,
+                        "normalized_text": "Greenlights",
+                        "probability": 0.8208,
+                        "start": 92,
+                        "type": "Other"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "pic.twitter.com/uq5T5TiJq8",
+                        "end": 149,
+                        "expanded_url": "https://twitter.com/ArchaicRages/status/1324024345174355979/photo/1",
+                        "media_key": "16_1324024339222724609",
+                        "start": 126,
+                        "url": "https://t.co/uq5T5TiJq8"
+                    }
+                ]
+            },
+            "id": "1324024345174355979",
+            "lang": "en",
+            "public_metrics": {
+                "impression_count": 0,
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 1,
+                "retweet_count": 0
+            },
+            "reply_settings": "everyone",
+            "text": "Mcconaughey says to kiss the fire and walk away whistling. \nI like this sentiment. His book Greenlights is an excellent read. https://t.co/uq5T5TiJq8"
+        },
+        {
+            "author_id": "1142706428",
+            "context_annotations": [
+                {
+                    "domain": {
+                        "description": "Named people in the world like Nelson Mandela",
+                        "id": "10",
+                        "name": "Person"
+                    },
+                    "entity": {
+                        "description": "Matthew McConaughey",
+                        "id": "819992381206298625",
+                        "name": "Matthew McConaughey"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "An actor or actress in the world, like Kate Winslet or Leonardo DiCaprio",
+                        "id": "56",
+                        "name": "Actor"
+                    },
+                    "entity": {
+                        "description": "Matthew McConaughey",
+                        "id": "819992381206298625",
+                        "name": "Matthew McConaughey"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A taxonomy of user interests. ",
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy"
+                    },
+                    "entity": {
+                        "description": "Matthew McConaughey",
+                        "id": "819992381206298625",
+                        "name": "Matthew McConaughey"
+                    }
+                }
+            ],
+            "conversation_id": "1324022880410230784",
+            "created_at": "2020-11-04T16:17:08.000Z",
+            "edit_history_tweet_ids": [
+                "1324022880410230784"
+            ],
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 119,
+                        "normalized_text": "Greenlights",
+                        "probability": 0.7833,
+                        "start": 109,
+                        "type": "Other"
+                    }
+                ],
+                "hashtags": [
+                    {
+                        "end": 120,
+                        "start": 108,
+                        "tag": "Greenlights"
+                    },
+                    {
+                        "end": 245,
+                        "start": 224,
+                        "tag": "happybirthdayMatthew"
+                    },
+                    {
+                        "end": 276,
+                        "start": 246,
+                        "tag": "felicidadesMatthewMcConaughey"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 80,
+                        "id": "57097104",
+                        "start": 68,
+                        "username": "McConaughey"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "pic.twitter.com/FsSbD7o1rQ",
+                        "end": 300,
+                        "expanded_url": "https://twitter.com/ViBETVmx/status/1324022880410230784/photo/1",
+                        "media_key": "3_1324022878350856194",
+                        "start": 277,
+                        "url": "https://t.co/FsSbD7o1rQ"
+                    }
+                ]
+            },
+            "id": "1324022880410230784",
+            "lang": "es",
+            "public_metrics": {
+                "impression_count": 0,
+                "like_count": 2,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "reply_settings": "everyone",
+            "text": "Dolor, p\u00e9rdida y falta de confianza han formado parte de la vida de @McConaughey, lo que cuenta en su libro #Greenlights. Hoy celebramos a este actor y productor en su cumplea\u00f1os.\n\nToday is tour birthday. Congratulations! \n\n#happybirthdayMatthew #felicidadesMatthewMcConaughey https://t.co/FsSbD7o1rQ"
+        },
+        {
+            "author_id": "618535302",
+            "conversation_id": "1324019384097099776",
+            "created_at": "2020-11-04T16:03:14.000Z",
+            "edit_history_tweet_ids": [
+                "1324019384097099776"
+            ],
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 22,
+                        "normalized_text": "Greenlights",
+                        "probability": 0.7887,
+                        "start": 12,
+                        "type": "Other"
+                    },
+                    {
+                        "end": 36,
+                        "normalized_text": "Single",
+                        "probability": 0.7148,
+                        "start": 31,
+                        "type": "Other"
+                    },
+                    {
+                        "end": 60,
+                        "normalized_text": "Krewella",
+                        "probability": 0.596,
+                        "start": 53,
+                        "type": "Person"
+                    }
+                ],
+                "hashtags": [
+                    {
+                        "end": 11,
+                        "start": 0,
+                        "tag": "nowplaying"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "megashuffle.com/all-hit-remixes",
+                        "end": 95,
+                        "expanded_url": "https://megashuffle.com/all-hit-remixes",
+                        "start": 72,
+                        "unwound_url": "https://megashuffle.com/all-hit-remixes",
+                        "url": "https://t.co/8CUPHjNs0E"
+                    },
+                    {
+                        "display_url": "pic.twitter.com/nJxEjH6vU0",
+                        "end": 119,
+                        "expanded_url": "https://twitter.com/AllHitRemixes/status/1324019384097099776/photo/1",
+                        "media_key": "3_1324019375888863232",
+                        "start": 96,
+                        "url": "https://t.co/nJxEjH6vU0"
+                    }
+                ]
+            },
+            "id": "1324019384097099776",
+            "lang": "en",
+            "public_metrics": {
+                "impression_count": 0,
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "reply_settings": "everyone",
+            "text": "#nowplaying Greenlights | mix: Single | performed by Krewella | Listen: https://t.co/8CUPHjNs0E https://t.co/nJxEjH6vU0"
+        },
+        {
+            "author_id": "107498054",
+            "context_annotations": [
+                {
+                    "domain": {
+                        "description": "Named people in the world like Nelson Mandela",
+                        "id": "10",
+                        "name": "Person"
+                    },
+                    "entity": {
+                        "description": "Rascal Flatts",
+                        "id": "928363148637192192",
+                        "name": "Rascal Flatts"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A musician in the world, like Adele or Bob Dylan",
+                        "id": "54",
+                        "name": "Musician"
+                    },
+                    "entity": {
+                        "description": "Rascal Flatts",
+                        "id": "928363148637192192",
+                        "name": "Rascal Flatts"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A category for a musical style, like Pop, Rock, or Rap",
+                        "id": "55",
+                        "name": "Music Genre"
+                    },
+                    "entity": {
+                        "description": "Country",
+                        "id": "810937781996253185",
+                        "name": "Country music"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+                        "id": "66",
+                        "name": "Interests and Hobbies Category"
+                    },
+                    "entity": {
+                        "id": "1237451423790403584",
+                        "name": "Libraries"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A taxonomy of user interests. ",
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy"
+                    },
+                    "entity": {
+                        "description": "Country",
+                        "id": "810937781996253185",
+                        "name": "Country music"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A taxonomy of user interests. ",
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy"
+                    },
+                    "entity": {
+                        "description": "Music and radio",
+                        "id": "847524658970636288",
+                        "name": "Music"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A taxonomy of user interests. ",
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy"
+                    },
+                    "entity": {
+                        "description": "Rascal Flatts",
+                        "id": "928363148637192192",
+                        "name": "Rascal Flatts"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A taxonomy of user interests. ",
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy"
+                    },
+                    "entity": {
+                        "id": "1237451423790403584",
+                        "name": "Libraries"
+                    }
+                }
+            ],
+            "conversation_id": "1324019064168042496",
+            "created_at": "2020-11-04T16:01:58.000Z",
+            "edit_history_tweet_ids": [
+                "1324019064168042496"
+            ],
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 42,
+                        "normalized_text": "South Hadley Public Libraries",
+                        "probability": 0.5662,
+                        "start": 14,
+                        "type": "Other"
+                    },
+                    {
+                        "end": 130,
+                        "normalized_text": "Greenlights",
+                        "probability": 0.7594,
+                        "start": 120,
+                        "type": "Other"
+                    },
+                    {
+                        "end": 144,
+                        "normalized_text": "The Sentinel",
+                        "probability": 0.9105,
+                        "start": 133,
+                        "type": "Other"
+                    },
+                    {
+                        "end": 175,
+                        "normalized_text": "Twenty Years of Rascal Flatts",
+                        "probability": 0.9643,
+                        "start": 147,
+                        "type": "Other"
+                    },
+                    {
+                        "end": 181,
+                        "normalized_text": "Rage",
+                        "probability": 0.6615,
+                        "start": 178,
+                        "type": "Other"
+                    },
+                    {
+                        "end": 231,
+                        "normalized_text": "The Last Kids on Earth and the Skeleton Road",
+                        "probability": 0.8818,
+                        "start": 188,
+                        "type": "Other"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "wowbrary.org/nu.aspx?p=6649\u2026",
+                        "end": 257,
+                        "expanded_url": "http://wowbrary.org/nu.aspx?p=6649-512&tw",
+                        "start": 234,
+                        "url": "https://t.co/PGWLcm6SF4"
+                    },
+                    {
+                        "display_url": "pic.twitter.com/cTxMx7G08D",
+                        "end": 281,
+                        "expanded_url": "https://twitter.com/SHPLibrary/status/1324019064168042496/photo/1",
+                        "media_key": "3_1324019060988731392",
+                        "start": 258,
+                        "url": "https://t.co/cTxMx7G08D"
+                    }
+                ]
+            },
+            "id": "1324019064168042496",
+            "lang": "en",
+            "public_metrics": {
+                "impression_count": 0,
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "reply_settings": "everyone",
+            "text": "This week the South Hadley Public Libraries has 175 new books, ten new movies, and one new music CD.  New items include Greenlights, The Sentinel, Twenty Years of Rascal Flatts, Rage, and The Last Kids on Earth and the Skeleton Road. https://t.co/PGWLcm6SF4 https://t.co/cTxMx7G08D"
+        },
+        {
+            "author_id": "1197310672196890624",
+            "context_annotations": [
+                {
+                    "domain": {
+                        "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+                        "id": "66",
+                        "name": "Interests and Hobbies Category"
+                    },
+                    "entity": {
+                        "id": "1237451423790403584",
+                        "name": "Libraries"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A genre for books, like Fiction",
+                        "id": "85",
+                        "name": "Book Genre"
+                    },
+                    "entity": {
+                        "description": "Food",
+                        "id": "859532072813158400",
+                        "name": "Food inspiration"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A taxonomy of user interests. ",
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy"
+                    },
+                    "entity": {
+                        "description": "Food",
+                        "id": "859532072813158400",
+                        "name": "Food inspiration"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A taxonomy of user interests. ",
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy"
+                    },
+                    "entity": {
+                        "id": "1237451423790403584",
+                        "name": "Libraries"
+                    }
+                }
+            ],
+            "conversation_id": "1324018980869136384",
+            "created_at": "2020-11-04T16:01:38.000Z",
+            "edit_history_tweet_ids": [
+                "1324018980869136384"
+            ],
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 34,
+                        "normalized_text": "Cook Memorial Library",
+                        "probability": 0.5636,
+                        "start": 14,
+                        "type": "Other"
+                    },
+                    {
+                        "end": 93,
+                        "normalized_text": "Diary of a Wimpy Kid",
+                        "probability": 0.941,
+                        "start": 74,
+                        "type": "Other"
+                    },
+                    {
+                        "end": 106,
+                        "normalized_text": "Greenlights",
+                        "probability": 0.6775,
+                        "start": 96,
+                        "type": "Other"
+                    },
+                    {
+                        "end": 127,
+                        "normalized_text": "Modern Comfort Food",
+                        "probability": 0.9438,
+                        "start": 109,
+                        "type": "Other"
+                    },
+                    {
+                        "end": 145,
+                        "normalized_text": "A Time for Mercy",
+                        "probability": 0.9653,
+                        "start": 130,
+                        "type": "Other"
+                    },
+                    {
+                        "end": 155,
+                        "normalized_text": "Blackout",
+                        "probability": 0.8494,
+                        "start": 148,
+                        "type": "Other"
+                    },
+                    {
+                        "end": 164,
+                        "normalized_text": "Eleanor",
+                        "probability": 0.771,
+                        "start": 158,
+                        "type": "Other"
+                    },
+                    {
+                        "end": 188,
+                        "normalized_text": "Leave the World Behind",
+                        "probability": 0.9624,
+                        "start": 167,
+                        "type": "Other"
+                    },
+                    {
+                        "end": 211,
+                        "normalized_text": "I Am Every Good Thing",
+                        "probability": 0.9489,
+                        "start": 191,
+                        "type": "Other"
+                    },
+                    {
+                        "end": 219,
+                        "normalized_text": "Humans",
+                        "probability": 0.439,
+                        "start": 214,
+                        "type": "Other"
+                    },
+                    {
+                        "end": 254,
+                        "normalized_text": "Didn't See That Coming",
+                        "probability": 0.7802,
+                        "start": 233,
+                        "type": "Other"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "wowbrary.org/nu.aspx?p=1095\u2026",
+                        "end": 280,
+                        "expanded_url": "http://wowbrary.org/nu.aspx?p=10953-47&tw",
+                        "start": 257,
+                        "url": "https://t.co/wDFHOKqE3T"
+                    },
+                    {
+                        "display_url": "pic.twitter.com/7o0qm2a4fn",
+                        "end": 304,
+                        "expanded_url": "https://twitter.com/CookMemorial/status/1324018980869136384/photo/1",
+                        "media_key": "3_1324018977366945792",
+                        "start": 281,
+                        "url": "https://t.co/7o0qm2a4fn"
+                    }
+                ]
+            },
+            "id": "1324018980869136384",
+            "lang": "en",
+            "public_metrics": {
+                "impression_count": 0,
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "reply_settings": "everyone",
+            "text": "This week the Cook Memorial Library has 583 new books.  New items include Diary of a Wimpy Kid, Greenlights, Modern Comfort Food, A Time for Mercy, Blackout, Eleanor, Leave the World Behind, I Am Every Good Thing, Humans, Group, and Didn't See That Coming. https://t.co/wDFHOKqE3T https://t.co/7o0qm2a4fn"
+        },
+        {
+            "author_id": "1617958591",
+            "context_annotations": [
+                {
+                    "domain": {
+                        "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+                        "id": "66",
+                        "name": "Interests and Hobbies Category"
+                    },
+                    "entity": {
+                        "id": "1237451423790403584",
+                        "name": "Libraries"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A taxonomy of user interests. ",
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy"
+                    },
+                    "entity": {
+                        "id": "1237451423790403584",
+                        "name": "Libraries"
+                    }
+                }
+            ],
+            "conversation_id": "1324018688102592513",
+            "created_at": "2020-11-04T16:00:28.000Z",
+            "edit_history_tweet_ids": [
+                "1324018688102592513"
+            ],
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 43,
+                        "normalized_text": "Camden County Library District",
+                        "probability": 0.4915,
+                        "start": 14,
+                        "type": "Place"
+                    },
+                    {
+                        "end": 130,
+                        "normalized_text": "Greenlights",
+                        "probability": 0.7735,
+                        "start": 120,
+                        "type": "Other"
+                    },
+                    {
+                        "end": 162,
+                        "normalized_text": "Leave the World Behind, Humans",
+                        "probability": 0.8609,
+                        "start": 133,
+                        "type": "Other"
+                    },
+                    {
+                        "end": 169,
+                        "normalized_text": "Group",
+                        "probability": 0.4346,
+                        "start": 165,
+                        "type": "Other"
+                    },
+                    {
+                        "end": 177,
+                        "normalized_text": "Casper",
+                        "probability": 0.8805,
+                        "start": 172,
+                        "type": "Other"
+                    },
+                    {
+                        "end": 195,
+                        "normalized_text": "The Couch Potato",
+                        "probability": 0.9515,
+                        "start": 180,
+                        "type": "Other"
+                    },
+                    {
+                        "end": 209,
+                        "normalized_text": "Little Women",
+                        "probability": 0.9239,
+                        "start": 198,
+                        "type": "Other"
+                    },
+                    {
+                        "end": 228,
+                        "normalized_text": "The Cold Millions",
+                        "probability": 0.9552,
+                        "start": 212,
+                        "type": "Other"
+                    },
+                    {
+                        "end": 252,
+                        "normalized_text": "From Blood and Ash",
+                        "probability": 0.8546,
+                        "start": 235,
+                        "type": "Other"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "wowbrary.org/nu.aspx?p=5873\u2026",
+                        "end": 278,
+                        "expanded_url": "http://wowbrary.org/nu.aspx?p=5873-240&tw",
+                        "start": 255,
+                        "url": "https://t.co/aXbqHmiS8M"
+                    },
+                    {
+                        "display_url": "pic.twitter.com/BD8LHY11Bw",
+                        "end": 302,
+                        "expanded_url": "https://twitter.com/ColiCreach/status/1324018688102592513/photo/1",
+                        "media_key": "3_1324018684575113218",
+                        "start": 279,
+                        "url": "https://t.co/BD8LHY11Bw"
+                    }
+                ]
+            },
+            "id": "1324018688102592513",
+            "lang": "en",
+            "public_metrics": {
+                "impression_count": 0,
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "reply_settings": "everyone",
+            "text": "This week the Camden County Library District has 694 new books, 16 new movies, and one new music CD.  New items include Greenlights, Leave the World Behind, Humans, Group, Casper, The Couch Potato, Little Women, The Cold Millions, and From Blood and Ash. https://t.co/aXbqHmiS8M https://t.co/BD8LHY11Bw"
+        },
+        {
+            "author_id": "43596967",
+            "context_annotations": [
+                {
+                    "domain": {
+                        "description": "Named people in the world like Nelson Mandela",
+                        "id": "10",
+                        "name": "Person"
+                    },
+                    "entity": {
+                        "description": "Matthew McConaughey",
+                        "id": "819992381206298625",
+                        "name": "Matthew McConaughey"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "An actor or actress in the world, like Kate Winslet or Leonardo DiCaprio",
+                        "id": "56",
+                        "name": "Actor"
+                    },
+                    "entity": {
+                        "description": "Matthew McConaughey",
+                        "id": "819992381206298625",
+                        "name": "Matthew McConaughey"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A taxonomy of user interests. ",
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy"
+                    },
+                    "entity": {
+                        "description": "Matthew McConaughey",
+                        "id": "819992381206298625",
+                        "name": "Matthew McConaughey"
+                    }
+                }
+            ],
+            "conversation_id": "1324018025767477249",
+            "created_at": "2020-11-04T15:57:51.000Z",
+            "edit_history_tweet_ids": [
+                "1324018025767477249"
+            ],
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 11,
+                        "normalized_text": "Greenlights",
+                        "probability": 0.7855,
+                        "start": 1,
+                        "type": "Other"
+                    },
+                    {
+                        "end": 117,
+                        "normalized_text": "Texas",
+                        "probability": 0.9492,
+                        "start": 113,
+                        "type": "Place"
+                    }
+                ],
+                "hashtags": [
+                    {
+                        "end": 12,
+                        "start": 0,
+                        "tag": "Greenlights"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 112,
+                        "id": "57097104",
+                        "start": 100,
+                        "username": "McConaughey"
+                    },
+                    {
+                        "end": 153,
+                        "id": "21001534",
+                        "start": 141,
+                        "username": "audible_com"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "pic.twitter.com/HXLxJtGAQQ",
+                        "end": 177,
+                        "expanded_url": "https://twitter.com/dgajsek/status/1324018025767477249/photo/1",
+                        "media_key": "16_1324018007190827008",
+                        "start": 154,
+                        "url": "https://t.co/HXLxJtGAQQ"
+                    }
+                ]
+            },
+            "id": "1324018025767477249",
+            "lang": "en",
+            "public_metrics": {
+                "impression_count": 0,
+                "like_count": 1,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "reply_settings": "everyone",
+            "text": "#Greenlights is the prime example why audiobooks should be read by their authors. Thoroughly enjoy  @McConaughey Texas logic and his story. \n@audible_com https://t.co/HXLxJtGAQQ"
+        },
+        {
+            "author_id": "1279707556445855744",
+            "conversation_id": "1324017753246863362",
+            "created_at": "2020-11-04T15:56:46.000Z",
+            "edit_history_tweet_ids": [
+                "1324017753246863362"
+            ],
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 10,
+                        "normalized_text": "Greenlights",
+                        "probability": 0.6548,
+                        "start": 0,
+                        "type": "Other"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "ift.tt/34WR6fx",
+                        "end": 44,
+                        "expanded_url": "https://ift.tt/34WR6fx",
+                        "start": 21,
+                        "url": "https://t.co/swjKct9ydQ"
+                    }
+                ]
+            },
+            "id": "1324017753246863362",
+            "lang": "en",
+            "public_metrics": {
+                "impression_count": 0,
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "reply_settings": "everyone",
+            "text": "Greenlights\n         https://t.co/swjKct9ydQ"
+        },
+        {
+            "author_id": "1069817798078148609",
+            "context_annotations": [
+                {
+                    "domain": {
+                        "description": "Named people in the world like Nelson Mandela",
+                        "id": "10",
+                        "name": "Person"
+                    },
+                    "entity": {
+                        "description": "Matthew McConaughey",
+                        "id": "819992381206298625",
+                        "name": "Matthew McConaughey"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "An actor or actress in the world, like Kate Winslet or Leonardo DiCaprio",
+                        "id": "56",
+                        "name": "Actor"
+                    },
+                    "entity": {
+                        "description": "Matthew McConaughey",
+                        "id": "819992381206298625",
+                        "name": "Matthew McConaughey"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A taxonomy of user interests. ",
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy"
+                    },
+                    "entity": {
+                        "description": "Matthew McConaughey",
+                        "id": "819992381206298625",
+                        "name": "Matthew McConaughey"
+                    }
+                }
+            ],
+            "conversation_id": "1324014835303141376",
+            "created_at": "2020-11-04T15:45:10.000Z",
+            "edit_history_tweet_ids": [
+                "1324014835303141376"
+            ],
+            "entities": {
+                "urls": [
+                    {
+                        "display_url": "512.soccer/review-greenli\u2026",
+                        "end": 66,
+                        "expanded_url": "https://512.soccer/review-greenlights-by-matthew-mcconaughey/",
+                        "start": 43,
+                        "status": 200,
+                        "unwound_url": "https://512.soccer/review-greenlights-by-matthew-mcconaughey/",
+                        "url": "https://t.co/93Lxyd7E6I"
+                    }
+                ]
+            },
+            "id": "1324014835303141376",
+            "lang": "en",
+            "public_metrics": {
+                "impression_count": 0,
+                "like_count": 5,
+                "quote_count": 1,
+                "reply_count": 0,
+                "retweet_count": 1
+            },
+            "reply_settings": "everyone",
+            "text": "REVIEW: Greenlights by Matthew\u00a0McConaughey https://t.co/93Lxyd7E6I"
+        },
+        {
+            "author_id": "440062484",
+            "context_annotations": [
+                {
+                    "domain": {
+                        "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+                        "id": "67",
+                        "name": "Interests and Hobbies"
+                    },
+                    "entity": {
+                        "id": "1242509106230878208",
+                        "name": "Filmmaking"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A taxonomy of user interests. ",
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy"
+                    },
+                    "entity": {
+                        "id": "1242509106230878208",
+                        "name": "Filmmaking"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A taxonomy of user interests. ",
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy"
+                    },
+                    "entity": {
+                        "id": "1285699311972446209",
+                        "name": "Behind the scenes"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "Named people in the world like Nelson Mandela",
+                        "id": "10",
+                        "name": "Person"
+                    },
+                    "entity": {
+                        "description": "Matthew McConaughey",
+                        "id": "819992381206298625",
+                        "name": "Matthew McConaughey"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "Named people in the world like Nelson Mandela",
+                        "id": "10",
+                        "name": "Person"
+                    },
+                    "entity": {
+                        "description": "Reese Witherspoon",
+                        "id": "898615281735487488",
+                        "name": "Reese Witherspoon"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "An actor or actress in the world, like Kate Winslet or Leonardo DiCaprio",
+                        "id": "56",
+                        "name": "Actor"
+                    },
+                    "entity": {
+                        "description": "Matthew McConaughey",
+                        "id": "819992381206298625",
+                        "name": "Matthew McConaughey"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "An actor or actress in the world, like Kate Winslet or Leonardo DiCaprio",
+                        "id": "56",
+                        "name": "Actor"
+                    },
+                    "entity": {
+                        "description": "Reese Witherspoon",
+                        "id": "898615281735487488",
+                        "name": "Reese Witherspoon"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A taxonomy of user interests. ",
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy"
+                    },
+                    "entity": {
+                        "description": "Matthew McConaughey",
+                        "id": "819992381206298625",
+                        "name": "Matthew McConaughey"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A taxonomy of user interests. ",
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy"
+                    },
+                    "entity": {
+                        "description": "Reese Witherspoon",
+                        "id": "898615281735487488",
+                        "name": "Reese Witherspoon"
+                    }
+                }
+            ],
+            "conversation_id": "1324013632716460034",
+            "created_at": "2020-11-04T15:40:23.000Z",
+            "edit_history_tweet_ids": [
+                "1324013632716460034"
+            ],
+            "entities": {
+                "mentions": [
+                    {
+                        "end": 10,
+                        "id": "1198406491",
+                        "start": 3,
+                        "username": "ReeseW"
+                    },
+                    {
+                        "end": 42,
+                        "id": "57097104",
+                        "start": 30,
+                        "username": "McConaughey"
+                    }
+                ]
+            },
+            "id": "1324013632716460034",
+            "lang": "en",
+            "public_metrics": {
+                "impression_count": 0,
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 210
+            },
+            "referenced_tweets": [
+                {
+                    "id": "1321507332157833217",
+                    "type": "retweeted"
+                }
+            ],
+            "reply_settings": "everyone",
+            "text": "RT @ReeseW: Proud of my buddy @McConaughey who just wrote a great book about his journey to become an actor, filmmaker, husband and father.\u2026"
+        },
+        {
+            "author_id": "1062865414693289986",
+            "context_annotations": [
+                {
+                    "domain": {
+                        "description": "Named people in the world like Nelson Mandela",
+                        "id": "10",
+                        "name": "Person"
+                    },
+                    "entity": {
+                        "description": "Shawn Mendes",
+                        "id": "807282830870876160",
+                        "name": "Shawn Mendes"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "Named people in the world like Nelson Mandela",
+                        "id": "10",
+                        "name": "Person"
+                    },
+                    "entity": {
+                        "description": "Matthew McConaughey",
+                        "id": "819992381206298625",
+                        "name": "Matthew McConaughey"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A musician in the world, like Adele or Bob Dylan",
+                        "id": "54",
+                        "name": "Musician"
+                    },
+                    "entity": {
+                        "description": "Shawn Mendes",
+                        "id": "807282830870876160",
+                        "name": "Shawn Mendes"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A category for a musical style, like Pop, Rock, or Rap",
+                        "id": "55",
+                        "name": "Music Genre"
+                    },
+                    "entity": {
+                        "description": "Pop",
+                        "id": "810938279801470977",
+                        "name": "Pop"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "An actor or actress in the world, like Kate Winslet or Leonardo DiCaprio",
+                        "id": "56",
+                        "name": "Actor"
+                    },
+                    "entity": {
+                        "description": "Matthew McConaughey",
+                        "id": "819992381206298625",
+                        "name": "Matthew McConaughey"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A taxonomy of user interests. ",
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy"
+                    },
+                    "entity": {
+                        "description": "Shawn Mendes",
+                        "id": "807282830870876160",
+                        "name": "Shawn Mendes"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A taxonomy of user interests. ",
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy"
+                    },
+                    "entity": {
+                        "description": "Pop",
+                        "id": "810938279801470977",
+                        "name": "Pop"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A taxonomy of user interests. ",
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy"
+                    },
+                    "entity": {
+                        "description": "Matthew McConaughey",
+                        "id": "819992381206298625",
+                        "name": "Matthew McConaughey"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A taxonomy of user interests. ",
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy"
+                    },
+                    "entity": {
+                        "description": "Music and radio",
+                        "id": "847524658970636288",
+                        "name": "Music"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A taxonomy of user interests. ",
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy"
+                    },
+                    "entity": {
+                        "id": "1303720684732907520",
+                        "name": "Heartthrobs"
+                    }
+                }
+            ],
+            "conversation_id": "1324012310873210885",
+            "created_at": "2020-11-04T15:35:08.000Z",
+            "edit_history_tweet_ids": [
+                "1324012310873210885"
+            ],
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 48,
+                        "normalized_text": "Matthew McConaughey",
+                        "probability": 0.9462,
+                        "start": 30,
+                        "type": "Person"
+                    },
+                    {
+                        "end": 67,
+                        "normalized_text": "Shawn Mendes",
+                        "probability": 0.9743,
+                        "start": 56,
+                        "type": "Person"
+                    },
+                    {
+                        "end": 112,
+                        "normalized_text": "Greenlights",
+                        "probability": 0.628,
+                        "start": 102,
+                        "type": "Other"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 17,
+                        "id": "880189282790637568",
+                        "start": 3,
+                        "username": "FonteShawnBRA"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "pic.twitter.com/c5BisVo7vW",
+                        "end": 138,
+                        "expanded_url": "https://twitter.com/FonteShawnBRA/status/1323994202385113091/photo/1",
+                        "media_key": "3_1323994187419844609",
+                        "start": 115,
+                        "url": "https://t.co/c5BisVo7vW"
+                    },
+                    {
+                        "display_url": "pic.twitter.com/c5BisVo7vW",
+                        "end": 138,
+                        "expanded_url": "https://twitter.com/FonteShawnBRA/status/1323994202385113091/photo/1",
+                        "media_key": "3_1323994199239413760",
+                        "start": 115,
+                        "url": "https://t.co/c5BisVo7vW"
+                    }
+                ]
+            },
+            "id": "1324012310873210885",
+            "lang": "pt",
+            "public_metrics": {
+                "impression_count": 0,
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 8
+            },
+            "referenced_tweets": [
+                {
+                    "id": "1323994202385113091",
+                    "type": "retweeted"
+                }
+            ],
+            "reply_settings": "everyone",
+            "text": "RT @FonteShawnBRA: TRADU\u00c7\u00c3O:  Matthew McConaughey sobre Shawn Mendes ser fotografado lendo seu livro, Greenlights. https://t.co/c5BisVo7vW"
+        },
+        {
+            "author_id": "38900793",
+            "conversation_id": "1324007656827293697",
+            "created_at": "2020-11-04T15:16:38.000Z",
+            "edit_history_tweet_ids": [
+                "1324007656827293697"
+            ],
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 10,
+                        "normalized_text": "Philippines",
+                        "probability": 0.9148,
+                        "start": 0,
+                        "type": "Place"
+                    },
+                    {
+                        "end": 63,
+                        "normalized_text": "China",
+                        "probability": 0.9346,
+                        "start": 59,
+                        "type": "Place"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "finance.yahoo.com/news/philippin\u2026",
+                        "end": 88,
+                        "expanded_url": "https://finance.yahoo.com/news/philippines-greenlights-oil-drills-disputed-062811146.html?soc_src=social-sh&soc_trk=tw&tsrc=twtr",
+                        "start": 65,
+                        "url": "https://t.co/xQ3JIjk2Mb"
+                    }
+                ]
+            },
+            "id": "1324007656827293697",
+            "lang": "en",
+            "public_metrics": {
+                "impression_count": 0,
+                "like_count": 1,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "reply_settings": "everyone",
+            "text": "Philippines Greenlights Oil Drills in Disputed Sea Without China https://t.co/xQ3JIjk2Mb"
+        },
+        {
+            "author_id": "1026801534137458688",
+            "conversation_id": "1324007512421457920",
+            "created_at": "2020-11-04T15:16:04.000Z",
+            "edit_history_tweet_ids": [
+                "1324007512421457920"
+            ],
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 10,
+                        "normalized_text": "Philippines",
+                        "probability": 0.9271,
+                        "start": 0,
+                        "type": "Place"
+                    },
+                    {
+                        "end": 68,
+                        "normalized_text": "China",
+                        "probability": 0.9232,
+                        "start": 64,
+                        "type": "Place"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "dlvr.it/RkzjHS",
+                        "end": 93,
+                        "expanded_url": "http://dlvr.it/RkzjHS",
+                        "start": 70,
+                        "url": "https://t.co/XlqNrvz4nR"
+                    },
+                    {
+                        "display_url": "pic.twitter.com/I6tUqXS1SL",
+                        "end": 117,
+                        "expanded_url": "https://twitter.com/EazyCadet/status/1324007512421457920/photo/1",
+                        "media_key": "3_1324007510739578880",
+                        "start": 94,
+                        "url": "https://t.co/I6tUqXS1SL"
+                    }
+                ]
+            },
+            "id": "1324007512421457920",
+            "lang": "en",
+            "public_metrics": {
+                "impression_count": 0,
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "reply_settings": "everyone",
+            "text": "Philippines Greenlights Oil Exploration in Disputed Sea Without China https://t.co/XlqNrvz4nR https://t.co/I6tUqXS1SL"
+        },
+        {
+            "author_id": "5988592",
+            "conversation_id": "1324005977230921728",
+            "created_at": "2020-11-04T15:09:58.000Z",
+            "edit_history_tweet_ids": [
+                "1324005977230921728"
+            ],
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 10,
+                        "normalized_text": "Philippines",
+                        "probability": 0.9286,
+                        "start": 0,
+                        "type": "Place"
+                    },
+                    {
+                        "end": 68,
+                        "normalized_text": "China",
+                        "probability": 0.919,
+                        "start": 64,
+                        "type": "Place"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "gcaptain.com/philippines-gr\u2026",
+                        "end": 93,
+                        "expanded_url": "https://gcaptain.com/philippines-greenlights-oil-exploration-in-disputed-south-china-sea/?utm_campaign=twitter&utm_medium=twitter&utm_source=twitter",
+                        "start": 70,
+                        "status": 200,
+                        "unwound_url": "https://gcaptain.com/philippines-greenlights-oil-exploration-in-disputed-south-china-sea/?utm_campaign=twitter&utm_medium=twitter&utm_source=twitter",
+                        "url": "https://t.co/QAErjJPdzH"
+                    }
+                ]
+            },
+            "id": "1324005977230921728",
+            "lang": "en",
+            "public_metrics": {
+                "impression_count": 0,
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "reply_settings": "everyone",
+            "text": "Philippines Greenlights Oil Exploration in Disputed Sea Without China https://t.co/QAErjJPdzH"
+        },
+        {
+            "author_id": "89020515",
+            "context_annotations": [
+                {
+                    "domain": {
+                        "description": "Named people in the world like Nelson Mandela",
+                        "id": "10",
+                        "name": "Person"
+                    },
+                    "entity": {
+                        "description": "Matthew McConaughey",
+                        "id": "819992381206298625",
+                        "name": "Matthew McConaughey"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "An actor or actress in the world, like Kate Winslet or Leonardo DiCaprio",
+                        "id": "56",
+                        "name": "Actor"
+                    },
+                    "entity": {
+                        "description": "Matthew McConaughey",
+                        "id": "819992381206298625",
+                        "name": "Matthew McConaughey"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A taxonomy of user interests. ",
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy"
+                    },
+                    "entity": {
+                        "description": "Matthew McConaughey",
+                        "id": "819992381206298625",
+                        "name": "Matthew McConaughey"
+                    }
+                }
+            ],
+            "conversation_id": "1324003755570958336",
+            "created_at": "2020-11-04T15:01:08.000Z",
+            "edit_history_tweet_ids": [
+                "1324003755570958336"
+            ],
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 26,
+                        "normalized_text": "Greenlights",
+                        "probability": 0.7348,
+                        "start": 16,
+                        "type": "Other"
+                    },
+                    {
+                        "end": 49,
+                        "normalized_text": "Matthew McConaughey",
+                        "probability": 0.9643,
+                        "start": 31,
+                        "type": "Person"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "goodreads.com/review/show/36\u2026",
+                        "end": 74,
+                        "expanded_url": "https://goodreads.com/review/show/3628597195",
+                        "start": 51,
+                        "url": "https://t.co/PUx8qWg2hB"
+                    }
+                ]
+            },
+            "id": "1324003755570958336",
+            "lang": "en",
+            "public_metrics": {
+                "impression_count": 0,
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "reply_settings": "everyone",
+            "text": "3 of 5 stars to Greenlights by Matthew McConaughey https://t.co/PUx8qWg2hB"
+        },
+        {
+            "author_id": "1596153732",
+            "context_annotations": [
+                {
+                    "domain": {
+                        "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+                        "id": "66",
+                        "name": "Interests and Hobbies Category"
+                    },
+                    "entity": {
+                        "id": "1237451423790403584",
+                        "name": "Libraries"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A taxonomy of user interests. ",
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy"
+                    },
+                    "entity": {
+                        "id": "1237451423790403584",
+                        "name": "Libraries"
+                    }
+                }
+            ],
+            "conversation_id": "1324003728467271680",
+            "created_at": "2020-11-04T15:01:02.000Z",
+            "edit_history_tweet_ids": [
+                "1324003728467271680"
+            ],
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 35,
+                        "normalized_text": "Grafton Public Library",
+                        "probability": 0.5019,
+                        "start": 14,
+                        "type": "Organization"
+                    },
+                    {
+                        "end": 109,
+                        "normalized_text": "Greenlights",
+                        "probability": 0.4821,
+                        "start": 99,
+                        "type": "Other"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "wowbrary.org/nu.aspx?p=2842\u2026",
+                        "end": 135,
+                        "expanded_url": "http://wowbrary.org/nu.aspx?p=2842-61&tw",
+                        "start": 112,
+                        "url": "https://t.co/dJuS9RE2pN"
+                    }
+                ]
+            },
+            "id": "1324003728467271680",
+            "lang": "en",
+            "public_metrics": {
+                "impression_count": 0,
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "reply_settings": "everyone",
+            "text": "This week the Grafton Public Library has 131 new books and three new music CDs.  New items include Greenlights. https://t.co/dJuS9RE2pN"
+        },
+        {
+            "author_id": "3307066535",
+            "context_annotations": [
+                {
+                    "domain": {
+                        "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+                        "id": "66",
+                        "name": "Interests and Hobbies Category"
+                    },
+                    "entity": {
+                        "id": "1237451423790403584",
+                        "name": "Libraries"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A taxonomy of user interests. ",
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy"
+                    },
+                    "entity": {
+                        "id": "1237451423790403584",
+                        "name": "Libraries"
+                    }
+                }
+            ],
+            "conversation_id": "1324003650331529217",
+            "created_at": "2020-11-04T15:00:43.000Z",
+            "edit_history_tweet_ids": [
+                "1324003650331529217"
+            ],
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 43,
+                        "normalized_text": "Simon Fairfield Public Library",
+                        "probability": 0.7724,
+                        "start": 14,
+                        "type": "Organization"
+                    },
+                    {
+                        "end": 112,
+                        "normalized_text": "Greenlights",
+                        "probability": 0.6706,
+                        "start": 102,
+                        "type": "Other"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "wowbrary.org/nu.aspx?p=6074\u2026",
+                        "end": 138,
+                        "expanded_url": "http://wowbrary.org/nu.aspx?p=6074-459&tw",
+                        "start": 115,
+                        "url": "https://t.co/E1hvePOMMW"
+                    }
+                ]
+            },
+            "id": "1324003650331529217",
+            "lang": "en",
+            "public_metrics": {
+                "impression_count": 0,
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "reply_settings": "everyone",
+            "text": "This week the Simon Fairfield Public Library has 547 new books and ten new movies.  New items include Greenlights. https://t.co/E1hvePOMMW"
+        },
+        {
+            "author_id": "525735734",
+            "context_annotations": [
+                {
+                    "domain": {
+                        "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+                        "id": "66",
+                        "name": "Interests and Hobbies Category"
+                    },
+                    "entity": {
+                        "id": "1237451423790403584",
+                        "name": "Libraries"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A taxonomy of user interests. ",
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy"
+                    },
+                    "entity": {
+                        "id": "1237451423790403584",
+                        "name": "Libraries"
+                    }
+                }
+            ],
+            "conversation_id": "1324003557373218816",
+            "created_at": "2020-11-04T15:00:21.000Z",
+            "edit_history_tweet_ids": [
+                "1324003557373218816"
+            ],
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 37,
+                        "normalized_text": "Mansfield Public Library",
+                        "probability": 0.8506,
+                        "start": 14,
+                        "type": "Organization"
+                    },
+                    {
+                        "end": 105,
+                        "normalized_text": "Greenlights",
+                        "probability": 0.695,
+                        "start": 95,
+                        "type": "Other"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "wowbrary.org/nu.aspx?p=3249\u2026",
+                        "end": 131,
+                        "expanded_url": "http://wowbrary.org/nu.aspx?p=3249-658&tw",
+                        "start": 108,
+                        "url": "https://t.co/ufIQOEHnhw"
+                    }
+                ]
+            },
+            "id": "1324003557373218816",
+            "lang": "en",
+            "public_metrics": {
+                "impression_count": 0,
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "reply_settings": "everyone",
+            "text": "This week the Mansfield Public Library has 144 new books and 28 new movies.  New items include Greenlights. https://t.co/ufIQOEHnhw"
+        },
+        {
+            "author_id": "119172646",
+            "context_annotations": [
+                {
+                    "domain": {
+                        "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+                        "id": "66",
+                        "name": "Interests and Hobbies Category"
+                    },
+                    "entity": {
+                        "id": "1237451423790403584",
+                        "name": "Libraries"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A taxonomy of user interests. ",
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy"
+                    },
+                    "entity": {
+                        "id": "1237451423790403584",
+                        "name": "Libraries"
+                    }
+                }
+            ],
+            "conversation_id": "1324003553598345218",
+            "created_at": "2020-11-04T15:00:20.000Z",
+            "edit_history_tweet_ids": [
+                "1324003553598345218"
+            ],
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 38,
+                        "normalized_text": "Brownsburg Public Library",
+                        "probability": 0.6669,
+                        "start": 14,
+                        "type": "Organization"
+                    },
+                    {
+                        "end": 108,
+                        "normalized_text": "Greenlights",
+                        "probability": 0.7005,
+                        "start": 98,
+                        "type": "Other"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "wowbrary.org/nu.aspx?p=2174\u2026",
+                        "end": 134,
+                        "expanded_url": "http://wowbrary.org/nu.aspx?p=2174-481&tw",
+                        "start": 111,
+                        "url": "https://t.co/YbgaPyvCXi"
+                    }
+                ]
+            },
+            "id": "1324003553598345218",
+            "lang": "en",
+            "public_metrics": {
+                "impression_count": 0,
+                "like_count": 2,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "reply_settings": "everyone",
+            "text": "This week the Brownsburg Public Library has 75 new books and seven new movies.  New items include Greenlights. https://t.co/YbgaPyvCXi"
+        },
+        {
+            "author_id": "1419468180",
+            "context_annotations": [
+                {
+                    "domain": {
+                        "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+                        "id": "66",
+                        "name": "Interests and Hobbies Category"
+                    },
+                    "entity": {
+                        "id": "1237451423790403584",
+                        "name": "Libraries"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A taxonomy of user interests. ",
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy"
+                    },
+                    "entity": {
+                        "id": "1237451423790403584",
+                        "name": "Libraries"
+                    }
+                }
+            ],
+            "conversation_id": "1324003502583029760",
+            "created_at": "2020-11-04T15:00:08.000Z",
+            "edit_history_tweet_ids": [
+                "1324003502583029760"
+            ],
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 35,
+                        "normalized_text": "Abilene Public Library",
+                        "probability": 0.6928,
+                        "start": 14,
+                        "type": "Organization"
+                    },
+                    {
+                        "end": 106,
+                        "normalized_text": "Greenlights",
+                        "probability": 0.7122,
+                        "start": 96,
+                        "type": "Other"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "wowbrary.org/nu.aspx?p=3777\u2026",
+                        "end": 132,
+                        "expanded_url": "http://wowbrary.org/nu.aspx?p=3777-372&tw",
+                        "start": 109,
+                        "url": "https://t.co/GLk0lIGM19"
+                    }
+                ]
+            },
+            "id": "1324003502583029760",
+            "lang": "en",
+            "public_metrics": {
+                "impression_count": 0,
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "reply_settings": "everyone",
+            "text": "This week the Abilene Public Library has 198 new books and three new movies.  New items include Greenlights. https://t.co/GLk0lIGM19"
+        },
+        {
+            "author_id": "4833145305",
+            "context_annotations": [
+                {
+                    "domain": {
+                        "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+                        "id": "66",
+                        "name": "Interests and Hobbies Category"
+                    },
+                    "entity": {
+                        "id": "1237451423790403584",
+                        "name": "Libraries"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A taxonomy of user interests. ",
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy"
+                    },
+                    "entity": {
+                        "id": "1237451423790403584",
+                        "name": "Libraries"
+                    }
+                }
+            ],
+            "conversation_id": "1324003488439783426",
+            "created_at": "2020-11-04T15:00:05.000Z",
+            "edit_history_tweet_ids": [
+                "1324003488439783426"
+            ],
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 39,
+                        "normalized_text": "Sutton Free Public Library",
+                        "probability": 0.5318,
+                        "start": 14,
+                        "type": "Organization"
+                    },
+                    {
+                        "end": 89,
+                        "normalized_text": "Greenlights",
+                        "probability": 0.6969,
+                        "start": 79,
+                        "type": "Other"
+                    },
+                    {
+                        "end": 106,
+                        "normalized_text": "The Sentinel",
+                        "probability": 0.8464,
+                        "start": 95,
+                        "type": "Other"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "wowbrary.org/nu.aspx?p=2844\u2026",
+                        "end": 132,
+                        "expanded_url": "http://wowbrary.org/nu.aspx?p=2844-512&tw",
+                        "start": 109,
+                        "url": "https://t.co/y5Q2oi3qVH"
+                    }
+                ]
+            },
+            "id": "1324003488439783426",
+            "lang": "en",
+            "public_metrics": {
+                "impression_count": 0,
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "reply_settings": "everyone",
+            "text": "This week the Sutton Free Public Library has 135 new books.  New items include Greenlights and The Sentinel. https://t.co/y5Q2oi3qVH"
+        },
+        {
+            "author_id": "263778273",
+            "context_annotations": [
+                {
+                    "domain": {
+                        "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+                        "id": "66",
+                        "name": "Interests and Hobbies Category"
+                    },
+                    "entity": {
+                        "id": "1237451423790403584",
+                        "name": "Libraries"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A taxonomy of user interests. ",
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy"
+                    },
+                    "entity": {
+                        "id": "1237451423790403584",
+                        "name": "Libraries"
+                    }
+                }
+            ],
+            "conversation_id": "1324003482144137216",
+            "created_at": "2020-11-04T15:00:03.000Z",
+            "edit_history_tweet_ids": [
+                "1324003482144137216"
+            ],
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 37,
+                        "normalized_text": "Hopkinton Public Library",
+                        "probability": 0.6691,
+                        "start": 14,
+                        "type": "Other"
+                    },
+                    {
+                        "end": 105,
+                        "normalized_text": "Greenlights",
+                        "probability": 0.6551,
+                        "start": 95,
+                        "type": "Other"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "wowbrary.org/nu.aspx?p=9189\u2026",
+                        "end": 131,
+                        "expanded_url": "http://wowbrary.org/nu.aspx?p=9189-196&tw",
+                        "start": 108,
+                        "url": "https://t.co/OkvXG4kI02"
+                    }
+                ]
+            },
+            "id": "1324003482144137216",
+            "lang": "en",
+            "public_metrics": {
+                "impression_count": 0,
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "reply_settings": "everyone",
+            "text": "This week the Hopkinton Public Library has 227 new books and one new movie.  New items include Greenlights. https://t.co/OkvXG4kI02"
+        },
+        {
+            "author_id": "2985349899",
+            "context_annotations": [
+                {
+                    "domain": {
+                        "description": "Named people in the world like Nelson Mandela",
+                        "id": "10",
+                        "name": "Person"
+                    },
+                    "entity": {
+                        "description": "Matthew McConaughey",
+                        "id": "819992381206298625",
+                        "name": "Matthew McConaughey"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "An actor or actress in the world, like Kate Winslet or Leonardo DiCaprio",
+                        "id": "56",
+                        "name": "Actor"
+                    },
+                    "entity": {
+                        "description": "Matthew McConaughey",
+                        "id": "819992381206298625",
+                        "name": "Matthew McConaughey"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A taxonomy of user interests. ",
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy"
+                    },
+                    "entity": {
+                        "description": "Matthew McConaughey",
+                        "id": "819992381206298625",
+                        "name": "Matthew McConaughey"
+                    }
+                }
+            ],
+            "conversation_id": "1324003473093001217",
+            "created_at": "2020-11-04T15:00:01.000Z",
+            "edit_history_tweet_ids": [
+                "1324003473093001217"
+            ],
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 15,
+                        "normalized_text": "Matthew",
+                        "probability": 0.822,
+                        "start": 9,
+                        "type": "Person"
+                    },
+                    {
+                        "end": 73,
+                        "normalized_text": "Greenlights",
+                        "probability": 0.9441,
+                        "start": 63,
+                        "type": "Other"
+                    },
+                    {
+                        "end": 209,
+                        "normalized_text": "ChrisEvansBreakfastShow",
+                        "probability": 0.8617,
+                        "start": 187,
+                        "type": "Person"
+                    }
+                ],
+                "hashtags": [
+                    {
+                        "end": 210,
+                        "start": 186,
+                        "tag": "ChrisEvansBreakfastShow"
+                    },
+                    {
+                        "end": 222,
+                        "start": 211,
+                        "tag": "Motivation"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 29,
+                        "id": "57097104",
+                        "start": 17,
+                        "username": "McConaughey"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "pic.twitter.com/kXxS1dy8fu",
+                        "end": 246,
+                        "expanded_url": "https://twitter.com/VirginRadioUK/status/1324003473093001217/video/1",
+                        "media_key": "13_1323970120532791301",
+                        "start": 223,
+                        "url": "https://t.co/kXxS1dy8fu"
+                    }
+                ]
+            },
+            "id": "1324003473093001217",
+            "lang": "en",
+            "public_metrics": {
+                "impression_count": 0,
+                "like_count": 7,
+                "quote_count": 2,
+                "reply_count": 1,
+                "retweet_count": 0
+            },
+            "reply_settings": "everyone",
+            "text": "How does Matthew @McConaughey view the world? \ud83d\udcad\n\nHis new book 'Greenlights' is out now, and he's here to tell us his stories, adventures and life-lessons that he learned the hard way. \n\n#ChrisEvansBreakfastShow #Motivation https://t.co/kXxS1dy8fu"
+        },
+        {
+            "author_id": "1279707556445855744",
+            "conversation_id": "1324002571707654145",
+            "created_at": "2020-11-04T14:56:26.000Z",
+            "edit_history_tweet_ids": [
+                "1324002571707654145"
+            ],
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 10,
+                        "normalized_text": "Greenlights",
+                        "probability": 0.6548,
+                        "start": 0,
+                        "type": "Other"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "ift.tt/367BxkB",
+                        "end": 44,
+                        "expanded_url": "https://ift.tt/367BxkB",
+                        "start": 21,
+                        "url": "https://t.co/Tm9PpDWeb4"
+                    }
+                ]
+            },
+            "id": "1324002571707654145",
+            "lang": "en",
+            "public_metrics": {
+                "impression_count": 0,
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "reply_settings": "everyone",
+            "text": "Greenlights\n         https://t.co/Tm9PpDWeb4"
+        }
+    ],
+    "meta": {
+        "newest_id": "1324044033740722177",
+        "next_token": "b26v89c19zqg8o3fosbttfqbf6vcqatku6f8ub383v919",
+        "oldest_id": "1324002571707654145",
+        "result_count": 44
+    }
+}

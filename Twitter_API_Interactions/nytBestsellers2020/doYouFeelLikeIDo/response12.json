@@ -1,0 +1,155 @@
+{
+    "data": [
+        {
+            "author_id": "418997550",
+            "context_annotations": [
+                {
+                    "domain": {
+                        "description": "Named people in the world like Nelson Mandela",
+                        "id": "10",
+                        "name": "Person"
+                    },
+                    "entity": {
+                        "description": "45th US President, Donald Trump",
+                        "id": "799022225751871488",
+                        "name": "Donald Trump"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "Politicians in the world, like Joe Biden",
+                        "id": "35",
+                        "name": "Politician"
+                    },
+                    "entity": {
+                        "description": "45th US President, Donald Trump",
+                        "id": "799022225751871488",
+                        "name": "Donald Trump"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A taxonomy of user interests. ",
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy"
+                    },
+                    "entity": {
+                        "description": "45th US President, Donald Trump",
+                        "id": "799022225751871488",
+                        "name": "Donald Trump"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A taxonomy of user interests. ",
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy"
+                    },
+                    "entity": {
+                        "description": "Politics",
+                        "id": "847878884917886977",
+                        "name": "Politics"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A taxonomy of user interests. ",
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy"
+                    },
+                    "entity": {
+                        "description": "Politician",
+                        "id": "1070032753834438656",
+                        "name": "Political figures"
+                    }
+                }
+            ],
+            "conversation_id": "1323981932947001344",
+            "created_at": "2020-11-04T13:46:33.000Z",
+            "edit_history_tweet_ids": [
+                "1323984986781945858"
+            ],
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 93,
+                        "normalized_text": "Trump",
+                        "probability": 0.9744,
+                        "start": 89,
+                        "type": "Person"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 12,
+                        "id": "74296486",
+                        "start": 0,
+                        "username": "erikastruth"
+                    }
+                ]
+            },
+            "geo": {
+                "place_id": "55f894104157687c"
+            },
+            "id": "1323984986781945858",
+            "in_reply_to_user_id": "74296486",
+            "lang": "en",
+            "public_metrics": {
+                "impression_count": 0,
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 1,
+                "retweet_count": 0
+            },
+            "referenced_tweets": [
+                {
+                    "id": "1323981932947001344",
+                    "type": "replied_to"
+                }
+            ],
+            "reply_settings": "everyone",
+            "text": "@erikastruth Do you feel, like I do, that white people are unwilling to say they support Trump in these polls? And that's why the numbers are wonky?"
+        },
+        {
+            "author_id": "575290097",
+            "conversation_id": "1323689488007258118",
+            "created_at": "2020-11-04T00:29:40.000Z",
+            "edit_history_tweet_ids": [
+                "1323784440678653958"
+            ],
+            "entities": {
+                "mentions": [
+                    {
+                        "end": 14,
+                        "id": "44164244",
+                        "start": 0,
+                        "username": "peterframpton"
+                    }
+                ]
+            },
+            "id": "1323784440678653958",
+            "in_reply_to_user_id": "44164244",
+            "lang": "en",
+            "public_metrics": {
+                "impression_count": 0,
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "referenced_tweets": [
+                {
+                    "id": "1323689488007258118",
+                    "type": "replied_to"
+                }
+            ],
+            "reply_settings": "everyone",
+            "text": "@peterframpton Do you feel like I do. Noooooo. That\u2019s true!!"
+        }
+    ],
+    "meta": {
+        "newest_id": "1323984986781945858",
+        "oldest_id": "1323784440678653958",
+        "result_count": 2
+    }
+}

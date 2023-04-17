@@ -1,0 +1,82 @@
+{
+    "data": [
+        {
+            "author_id": "844910488786030592",
+            "conversation_id": "1325566573277548546",
+            "created_at": "2020-11-08T23:49:11.000Z",
+            "edit_history_tweet_ids": [
+                "1325586195636686848"
+            ],
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 85,
+                        "normalized_text": "Frampton",
+                        "probability": 0.4953,
+                        "start": 78,
+                        "type": "Other"
+                    },
+                    {
+                        "end": 99,
+                        "normalized_text": "duration",
+                        "probability": 0.5767,
+                        "start": 92,
+                        "type": "Other"
+                    },
+                    {
+                        "end": 125,
+                        "normalized_text": "Do you feel like I do",
+                        "probability": 0.8334,
+                        "start": 105,
+                        "type": "Other"
+                    },
+                    {
+                        "end": 151,
+                        "normalized_text": "Frampton Comes Alive",
+                        "probability": 0.935,
+                        "start": 132,
+                        "type": "Other"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 12,
+                        "id": "786381879414960128",
+                        "start": 0,
+                        "username": "Squatch_XXL"
+                    },
+                    {
+                        "end": 23,
+                        "id": "1175811207175004160",
+                        "start": 13,
+                        "username": "MikeXacha"
+                    }
+                ]
+            },
+            "id": "1325586195636686848",
+            "in_reply_to_user_id": "786381879414960128",
+            "lang": "en",
+            "public_metrics": {
+                "impression_count": 0,
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "referenced_tweets": [
+                {
+                    "id": "1325585680777555968",
+                    "type": "replied_to"
+                }
+            ],
+            "reply_settings": "everyone",
+            "text": "@Squatch_XXL @mikexacha I've proposed a new and more useful unit of time: the Frampton: The duration of \"Do you feel like I do\" on 'Frampton Comes Alive'\n\nUsage: Honey, I'll be home in 2 Framptons."
+        }
+    ],
+    "meta": {
+        "newest_id": "1325586195636686848",
+        "next_token": "b26v89c19zqg8o3fosbu8w1zthevofjw2gxxbak1ewby5",
+        "oldest_id": "1325586195636686848",
+        "result_count": 1
+    }
+}

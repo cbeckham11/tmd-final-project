@@ -1,0 +1,4367 @@
+{
+    "data": [
+        {
+            "author_id": "29052154",
+            "context_annotations": [
+                {
+                    "domain": {
+                        "description": "Named people in the world like Nelson Mandela",
+                        "id": "10",
+                        "name": "Person"
+                    },
+                    "entity": {
+                        "description": "Kanye West",
+                        "id": "806561823407239169",
+                        "name": "Kanye West"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A musician in the world, like Adele or Bob Dylan",
+                        "id": "54",
+                        "name": "Musician"
+                    },
+                    "entity": {
+                        "description": "Kanye West",
+                        "id": "806561823407239169",
+                        "name": "Kanye West"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A category for a musical style, like Pop, Rock, or Rap",
+                        "id": "55",
+                        "name": "Music Genre"
+                    },
+                    "entity": {
+                        "description": "Hip-Hop/Rap",
+                        "id": "810937888334487552",
+                        "name": "Rap"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A taxonomy of user interests. ",
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy"
+                    },
+                    "entity": {
+                        "description": "Kanye West",
+                        "id": "806561823407239169",
+                        "name": "Kanye West"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A taxonomy of user interests. ",
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy"
+                    },
+                    "entity": {
+                        "description": "Hip-Hop/Rap",
+                        "id": "810937888334487552",
+                        "name": "Rap"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A taxonomy of user interests. ",
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy"
+                    },
+                    "entity": {
+                        "description": "Music and radio",
+                        "id": "847524658970636288",
+                        "name": "Music"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A taxonomy of user interests. ",
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy"
+                    },
+                    "entity": {
+                        "id": "1291184917221535744",
+                        "name": "Hip hop"
+                    }
+                }
+            ],
+            "conversation_id": "1323786913514508288",
+            "created_at": "2020-11-04T01:27:53.000Z",
+            "edit_history_tweet_ids": [
+                "1323799095308357633"
+            ],
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 51,
+                        "normalized_text": "Kanye",
+                        "probability": 0.9727,
+                        "start": 47,
+                        "type": "Person"
+                    },
+                    {
+                        "end": 58,
+                        "normalized_text": "Jo",
+                        "probability": 0.8219,
+                        "start": 57,
+                        "type": "Person"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 16,
+                        "id": "2409440058",
+                        "start": 0,
+                        "username": "morganisawizard"
+                    }
+                ]
+            },
+            "id": "1323799095308357633",
+            "in_reply_to_user_id": "2409440058",
+            "lang": "en",
+            "public_metrics": {
+                "impression_count": 0,
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 1,
+                "retweet_count": 0
+            },
+            "referenced_tweets": [
+                {
+                    "id": "1323786913514508288",
+                    "type": "replied_to"
+                }
+            ],
+            "reply_settings": "everyone",
+            "text": "@morganisawizard I was torn between voting for Kanye and Jo. One you are throwing away your vote and the other you are literally saying this election is a joke."
+        },
+        {
+            "author_id": "972002136639901696",
+            "conversation_id": "1323799025368313856",
+            "created_at": "2020-11-04T01:27:37.000Z",
+            "edit_history_tweet_ids": [
+                "1323799025368313856"
+            ],
+            "id": "1323799025368313856",
+            "lang": "en",
+            "public_metrics": {
+                "impression_count": 0,
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 386
+            },
+            "referenced_tweets": [
+                {
+                    "id": "1323784922725781505",
+                    "type": "retweeted"
+                }
+            ],
+            "reply_settings": "everyone",
+            "text": "RT @valsmantis: just another reminder... if you are IN LINE by the time poling places close, you are still legally allowed to vote! DO NOT\u2026"
+        },
+        {
+            "author_id": "1125291224544555008",
+            "context_annotations": [
+                {
+                    "domain": {
+                        "description": "Named people in the world like Nelson Mandela",
+                        "id": "10",
+                        "name": "Person"
+                    },
+                    "entity": {
+                        "description": "Kanye West",
+                        "id": "806561823407239169",
+                        "name": "Kanye West"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "Real world events. ",
+                        "id": "29",
+                        "name": "Events [Entity Service]"
+                    },
+                    "entity": {
+                        "description": "2020 US Presidential Election",
+                        "id": "1029453725360775168",
+                        "name": "2020 US Presidential Election"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A musician in the world, like Adele or Bob Dylan",
+                        "id": "54",
+                        "name": "Musician"
+                    },
+                    "entity": {
+                        "description": "Kanye West",
+                        "id": "806561823407239169",
+                        "name": "Kanye West"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A category for a musical style, like Pop, Rock, or Rap",
+                        "id": "55",
+                        "name": "Music Genre"
+                    },
+                    "entity": {
+                        "description": "Hip-Hop/Rap",
+                        "id": "810937888334487552",
+                        "name": "Rap"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A taxonomy of user interests. ",
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy"
+                    },
+                    "entity": {
+                        "description": "Kanye West",
+                        "id": "806561823407239169",
+                        "name": "Kanye West"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A taxonomy of user interests. ",
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy"
+                    },
+                    "entity": {
+                        "description": "Hip-Hop/Rap",
+                        "id": "810937888334487552",
+                        "name": "Rap"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A taxonomy of user interests. ",
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy"
+                    },
+                    "entity": {
+                        "description": "Music and radio",
+                        "id": "847524658970636288",
+                        "name": "Music"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A taxonomy of user interests. ",
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy"
+                    },
+                    "entity": {
+                        "description": "2020 US Presidential Election",
+                        "id": "1029453725360775168",
+                        "name": "2020 US Presidential Election"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A taxonomy of user interests. ",
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy"
+                    },
+                    "entity": {
+                        "id": "1291184917221535744",
+                        "name": "Hip hop"
+                    }
+                }
+            ],
+            "conversation_id": "1323798898926866438",
+            "created_at": "2020-11-04T01:27:07.000Z",
+            "edit_history_tweet_ids": [
+                "1323798898926866438"
+            ],
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 21,
+                        "normalized_text": "Kanye",
+                        "probability": 0.9636,
+                        "start": 17,
+                        "type": "Person"
+                    }
+                ]
+            },
+            "id": "1323798898926866438",
+            "lang": "en",
+            "public_metrics": {
+                "impression_count": 0,
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "reply_settings": "everyone",
+            "text": "If you voted for Kanye you not the brightest lightbulb cause you legit just threw your vote away during one of the most important presidential election"
+        },
+        {
+            "author_id": "1046581945780641792",
+            "conversation_id": "1323798818899562496",
+            "created_at": "2020-11-04T01:26:48.000Z",
+            "edit_history_tweet_ids": [
+                "1323798818899562496"
+            ],
+            "id": "1323798818899562496",
+            "lang": "en",
+            "public_metrics": {
+                "impression_count": 0,
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 386
+            },
+            "referenced_tweets": [
+                {
+                    "id": "1323784922725781505",
+                    "type": "retweeted"
+                }
+            ],
+            "reply_settings": "everyone",
+            "text": "RT @valsmantis: just another reminder... if you are IN LINE by the time poling places close, you are still legally allowed to vote! DO NOT\u2026"
+        },
+        {
+            "author_id": "1089663169897861120",
+            "conversation_id": "1323798752163962880",
+            "created_at": "2020-11-04T01:26:32.000Z",
+            "edit_history_tweet_ids": [
+                "1323798752163962880"
+            ],
+            "id": "1323798752163962880",
+            "lang": "en",
+            "public_metrics": {
+                "impression_count": 0,
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 386
+            },
+            "referenced_tweets": [
+                {
+                    "id": "1323784922725781505",
+                    "type": "retweeted"
+                }
+            ],
+            "reply_settings": "everyone",
+            "text": "RT @valsmantis: just another reminder... if you are IN LINE by the time poling places close, you are still legally allowed to vote! DO NOT\u2026"
+        },
+        {
+            "author_id": "1119040729052061696",
+            "conversation_id": "1323798586962956288",
+            "created_at": "2020-11-04T01:25:52.000Z",
+            "edit_history_tweet_ids": [
+                "1323798586962956288"
+            ],
+            "id": "1323798586962956288",
+            "lang": "en",
+            "public_metrics": {
+                "impression_count": 0,
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 386
+            },
+            "referenced_tweets": [
+                {
+                    "id": "1323784922725781505",
+                    "type": "retweeted"
+                }
+            ],
+            "reply_settings": "everyone",
+            "text": "RT @valsmantis: just another reminder... if you are IN LINE by the time poling places close, you are still legally allowed to vote! DO NOT\u2026"
+        },
+        {
+            "author_id": "775132375261085696",
+            "conversation_id": "1323798419035639817",
+            "created_at": "2020-11-04T01:25:12.000Z",
+            "edit_history_tweet_ids": [
+                "1323798419035639817"
+            ],
+            "id": "1323798419035639817",
+            "lang": "en",
+            "public_metrics": {
+                "impression_count": 0,
+                "like_count": 35,
+                "quote_count": 1,
+                "reply_count": 1,
+                "retweet_count": 1
+            },
+            "reply_settings": "everyone",
+            "text": "If we can't do away with the electoral college, could we at least do away with the \"all or nothing\" way of voting? \n\nI've never understood why all of a state's electoral votes have to go to one candidate. Why can't it be proportionate to the popular vote?"
+        },
+        {
+            "author_id": "852447222016884736",
+            "conversation_id": "1323798274193592323",
+            "created_at": "2020-11-04T01:24:38.000Z",
+            "edit_history_tweet_ids": [
+                "1323798274193592323"
+            ],
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 67,
+                        "normalized_text": "Colorado",
+                        "probability": 0.8079,
+                        "start": 60,
+                        "type": "Place"
+                    },
+                    {
+                        "end": 78,
+                        "normalized_text": "Minnesota",
+                        "probability": 0.8411,
+                        "start": 70,
+                        "type": "Place"
+                    },
+                    {
+                        "end": 94,
+                        "normalized_text": "Wisconsin",
+                        "probability": 0.9486,
+                        "start": 86,
+                        "type": "Place"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 7,
+                        "id": "19608297",
+                        "start": 3,
+                        "username": "HRC"
+                    }
+                ]
+            },
+            "id": "1323798274193592323",
+            "lang": "en",
+            "public_metrics": {
+                "impression_count": 0,
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 25
+            },
+            "referenced_tweets": [
+                {
+                    "id": "1323792136354103303",
+                    "type": "retweeted"
+                }
+            ],
+            "reply_settings": "everyone",
+            "text": "RT @HRC: We\u2019re ONE HOUR away from polls closing in Arizona, Colorado, Minnesota &amp; Wisconsin at 9 PM (ET)/8 PM (CT)/7 PM (MT). Make your way\u2026"
+        },
+        {
+            "author_id": "1249906643359260672",
+            "conversation_id": "1323798259958120448",
+            "created_at": "2020-11-04T01:24:34.000Z",
+            "edit_history_tweet_ids": [
+                "1323798259958120448"
+            ],
+            "id": "1323798259958120448",
+            "lang": "en",
+            "public_metrics": {
+                "impression_count": 0,
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 386
+            },
+            "referenced_tweets": [
+                {
+                    "id": "1323784922725781505",
+                    "type": "retweeted"
+                }
+            ],
+            "reply_settings": "everyone",
+            "text": "RT @valsmantis: just another reminder... if you are IN LINE by the time poling places close, you are still legally allowed to vote! DO NOT\u2026"
+        },
+        {
+            "author_id": "964907576704970752",
+            "conversation_id": "1323798180807540737",
+            "created_at": "2020-11-04T01:24:15.000Z",
+            "edit_history_tweet_ids": [
+                "1323798180807540737"
+            ],
+            "id": "1323798180807540737",
+            "lang": "en",
+            "public_metrics": {
+                "impression_count": 0,
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 386
+            },
+            "referenced_tweets": [
+                {
+                    "id": "1323784922725781505",
+                    "type": "retweeted"
+                }
+            ],
+            "reply_settings": "everyone",
+            "text": "RT @valsmantis: just another reminder... if you are IN LINE by the time poling places close, you are still legally allowed to vote! DO NOT\u2026"
+        },
+        {
+            "author_id": "1121146018408620032",
+            "conversation_id": "1323798178446147585",
+            "created_at": "2020-11-04T01:24:15.000Z",
+            "edit_history_tweet_ids": [
+                "1323798178446147585"
+            ],
+            "id": "1323798178446147585",
+            "lang": "en",
+            "public_metrics": {
+                "impression_count": 0,
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 386
+            },
+            "referenced_tweets": [
+                {
+                    "id": "1323784922725781505",
+                    "type": "retweeted"
+                }
+            ],
+            "reply_settings": "everyone",
+            "text": "RT @valsmantis: just another reminder... if you are IN LINE by the time poling places close, you are still legally allowed to vote! DO NOT\u2026"
+        },
+        {
+            "author_id": "2440938153",
+            "conversation_id": "1323798137845227525",
+            "created_at": "2020-11-04T01:24:05.000Z",
+            "edit_history_tweet_ids": [
+                "1323798137845227525"
+            ],
+            "entities": {
+                "mentions": [
+                    {
+                        "end": 15,
+                        "id": "800942537083068416",
+                        "start": 3,
+                        "username": "womensmarch"
+                    }
+                ]
+            },
+            "id": "1323798137845227525",
+            "lang": "en",
+            "public_metrics": {
+                "impression_count": 0,
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 245
+            },
+            "referenced_tweets": [
+                {
+                    "id": "1323784777053265921",
+                    "type": "retweeted"
+                }
+            ],
+            "reply_settings": "everyone",
+            "text": "RT @womensmarch: Everyone in line to vote right now: stay right there unless you're under threat of violence. Even if polls are closed, you\u2026"
+        },
+        {
+            "author_id": "1099347139610710017",
+            "conversation_id": "1323779721159602177",
+            "created_at": "2020-11-04T01:23:31.000Z",
+            "edit_history_tweet_ids": [
+                "1323797993733136385"
+            ],
+            "entities": {
+                "mentions": [
+                    {
+                        "end": 15,
+                        "id": "1120713435216400384",
+                        "start": 0,
+                        "username": "Millerheighife"
+                    }
+                ]
+            },
+            "id": "1323797993733136385",
+            "in_reply_to_user_id": "1120713435216400384",
+            "lang": "en",
+            "public_metrics": {
+                "impression_count": 0,
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "referenced_tweets": [
+                {
+                    "id": "1323779721159602177",
+                    "type": "replied_to"
+                }
+            ],
+            "reply_settings": "everyone",
+            "text": "@Millerheighife I usually hate these girl power stories about how strong women are for doing things my grandma would have considered a hobby. This one is pretty fucking impressive . I work for a school so I got the day off and I still didn\u2019t vote til 12:30, 3 blocks away &amp; no line. Paid holiday."
+        },
+        {
+            "author_id": "38121475",
+            "conversation_id": "1323797898404851712",
+            "created_at": "2020-11-04T01:23:08.000Z",
+            "edit_history_tweet_ids": [
+                "1323797898404851712"
+            ],
+            "entities": {
+                "mentions": [
+                    {
+                        "end": 15,
+                        "id": "800942537083068416",
+                        "start": 3,
+                        "username": "womensmarch"
+                    }
+                ]
+            },
+            "id": "1323797898404851712",
+            "lang": "en",
+            "public_metrics": {
+                "impression_count": 0,
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 245
+            },
+            "referenced_tweets": [
+                {
+                    "id": "1323784777053265921",
+                    "type": "retweeted"
+                }
+            ],
+            "reply_settings": "everyone",
+            "text": "RT @womensmarch: Everyone in line to vote right now: stay right there unless you're under threat of violence. Even if polls are closed, you\u2026"
+        },
+        {
+            "author_id": "1372739856",
+            "conversation_id": "1323797860995919877",
+            "created_at": "2020-11-04T01:22:59.000Z",
+            "edit_history_tweet_ids": [
+                "1323797860995919877"
+            ],
+            "entities": {
+                "mentions": [
+                    {
+                        "end": 16,
+                        "id": "2558060828",
+                        "start": 3,
+                        "username": "adrianalbaca"
+                    }
+                ]
+            },
+            "id": "1323797860995919877",
+            "lang": "en",
+            "public_metrics": {
+                "impression_count": 0,
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 2
+            },
+            "referenced_tweets": [
+                {
+                    "id": "1323795179451502593",
+                    "type": "retweeted"
+                }
+            ],
+            "reply_settings": "everyone",
+            "text": "RT @adrianalbaca: women gained the right to vote 100 years ago this year. don\u2019t let this election be the one that starts taking away those\u2026"
+        },
+        {
+            "author_id": "44894112",
+            "context_annotations": [
+                {
+                    "domain": {
+                        "description": "Named people in the world like Nelson Mandela",
+                        "id": "10",
+                        "name": "Person"
+                    },
+                    "entity": {
+                        "description": "45th US President, Donald Trump",
+                        "id": "799022225751871488",
+                        "name": "Donald Trump"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "Politicians in the world, like Joe Biden",
+                        "id": "35",
+                        "name": "Politician"
+                    },
+                    "entity": {
+                        "description": "45th US President, Donald Trump",
+                        "id": "799022225751871488",
+                        "name": "Donald Trump"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A taxonomy of user interests. ",
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy"
+                    },
+                    "entity": {
+                        "description": "45th US President, Donald Trump",
+                        "id": "799022225751871488",
+                        "name": "Donald Trump"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A taxonomy of user interests. ",
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy"
+                    },
+                    "entity": {
+                        "description": "Politics",
+                        "id": "847878884917886977",
+                        "name": "Politics"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A taxonomy of user interests. ",
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy"
+                    },
+                    "entity": {
+                        "description": "Politician",
+                        "id": "1070032753834438656",
+                        "name": "Political figures"
+                    }
+                }
+            ],
+            "conversation_id": "1323797830042066945",
+            "created_at": "2020-11-04T01:22:52.000Z",
+            "edit_history_tweet_ids": [
+                "1323797830042066945"
+            ],
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 36,
+                        "normalized_text": "Trump",
+                        "probability": 0.9832,
+                        "start": 32,
+                        "type": "Person"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 11,
+                        "id": "156410899",
+                        "start": 3,
+                        "username": "JayB418"
+                    }
+                ]
+            },
+            "id": "1323797830042066945",
+            "lang": "en",
+            "public_metrics": {
+                "impression_count": 0,
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 31
+            },
+            "referenced_tweets": [
+                {
+                    "id": "1323442650607996928",
+                    "type": "retweeted"
+                }
+            ],
+            "reply_settings": "everyone",
+            "text": "RT @JayB418: If for some reason Trump loses, honestly the country loses its because he\u2019s not a polished politician but a real man that owes\u2026"
+        },
+        {
+            "author_id": "1138401426877685762",
+            "conversation_id": "1323797808965652480",
+            "created_at": "2020-11-04T01:22:47.000Z",
+            "edit_history_tweet_ids": [
+                "1323797808965652480"
+            ],
+            "id": "1323797808965652480",
+            "lang": "en",
+            "public_metrics": {
+                "impression_count": 0,
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 386
+            },
+            "referenced_tweets": [
+                {
+                    "id": "1323784922725781505",
+                    "type": "retweeted"
+                }
+            ],
+            "reply_settings": "everyone",
+            "text": "RT @valsmantis: just another reminder... if you are IN LINE by the time poling places close, you are still legally allowed to vote! DO NOT\u2026"
+        },
+        {
+            "author_id": "1286049874673315842",
+            "conversation_id": "1323797764074070016",
+            "created_at": "2020-11-04T01:22:36.000Z",
+            "edit_history_tweet_ids": [
+                "1323797764074070016"
+            ],
+            "id": "1323797764074070016",
+            "lang": "en",
+            "public_metrics": {
+                "impression_count": 0,
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 386
+            },
+            "referenced_tweets": [
+                {
+                    "id": "1323784922725781505",
+                    "type": "retweeted"
+                }
+            ],
+            "reply_settings": "everyone",
+            "text": "RT @valsmantis: just another reminder... if you are IN LINE by the time poling places close, you are still legally allowed to vote! DO NOT\u2026"
+        },
+        {
+            "author_id": "900015967522213889",
+            "conversation_id": "1323797715814416390",
+            "created_at": "2020-11-04T01:22:25.000Z",
+            "edit_history_tweet_ids": [
+                "1323797715814416390"
+            ],
+            "id": "1323797715814416390",
+            "lang": "en",
+            "public_metrics": {
+                "impression_count": 0,
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 386
+            },
+            "referenced_tweets": [
+                {
+                    "id": "1323784922725781505",
+                    "type": "retweeted"
+                }
+            ],
+            "reply_settings": "everyone",
+            "text": "RT @valsmantis: just another reminder... if you are IN LINE by the time poling places close, you are still legally allowed to vote! DO NOT\u2026"
+        },
+        {
+            "author_id": "15517411",
+            "conversation_id": "1323797695308484608",
+            "created_at": "2020-11-04T01:22:20.000Z",
+            "edit_history_tweet_ids": [
+                "1323797695308484608"
+            ],
+            "entities": {
+                "mentions": [
+                    {
+                        "end": 15,
+                        "id": "800942537083068416",
+                        "start": 3,
+                        "username": "womensmarch"
+                    }
+                ]
+            },
+            "id": "1323797695308484608",
+            "lang": "en",
+            "public_metrics": {
+                "impression_count": 0,
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 245
+            },
+            "referenced_tweets": [
+                {
+                    "id": "1323784777053265921",
+                    "type": "retweeted"
+                }
+            ],
+            "reply_settings": "everyone",
+            "text": "RT @womensmarch: Everyone in line to vote right now: stay right there unless you're under threat of violence. Even if polls are closed, you\u2026"
+        },
+        {
+            "author_id": "715026858702729218",
+            "conversation_id": "1323797689222443009",
+            "created_at": "2020-11-04T01:22:18.000Z",
+            "edit_history_tweet_ids": [
+                "1323797689222443009"
+            ],
+            "id": "1323797689222443009",
+            "lang": "en",
+            "public_metrics": {
+                "impression_count": 0,
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 386
+            },
+            "referenced_tweets": [
+                {
+                    "id": "1323784922725781505",
+                    "type": "retweeted"
+                }
+            ],
+            "reply_settings": "everyone",
+            "text": "RT @valsmantis: just another reminder... if you are IN LINE by the time poling places close, you are still legally allowed to vote! DO NOT\u2026"
+        },
+        {
+            "author_id": "3118727094",
+            "context_annotations": [
+                {
+                    "domain": {
+                        "description": "Named people in the world like Nelson Mandela",
+                        "id": "10",
+                        "name": "Person"
+                    },
+                    "entity": {
+                        "description": "45th US President, Donald Trump",
+                        "id": "799022225751871488",
+                        "name": "Donald Trump"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "Real world events. ",
+                        "id": "29",
+                        "name": "Events [Entity Service]"
+                    },
+                    "entity": {
+                        "description": "2020 US Presidential Election",
+                        "id": "1029453725360775168",
+                        "name": "2020 US Presidential Election"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "Politicians in the world, like Joe Biden",
+                        "id": "35",
+                        "name": "Politician"
+                    },
+                    "entity": {
+                        "description": "45th US President, Donald Trump",
+                        "id": "799022225751871488",
+                        "name": "Donald Trump"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A taxonomy of user interests. ",
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy"
+                    },
+                    "entity": {
+                        "description": "45th US President, Donald Trump",
+                        "id": "799022225751871488",
+                        "name": "Donald Trump"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A taxonomy of user interests. ",
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy"
+                    },
+                    "entity": {
+                        "description": "Politics",
+                        "id": "847878884917886977",
+                        "name": "Politics"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A taxonomy of user interests. ",
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy"
+                    },
+                    "entity": {
+                        "description": "2020 US Presidential Election",
+                        "id": "1029453725360775168",
+                        "name": "2020 US Presidential Election"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A taxonomy of user interests. ",
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy"
+                    },
+                    "entity": {
+                        "description": "Politician",
+                        "id": "1070032753834438656",
+                        "name": "Political figures"
+                    }
+                }
+            ],
+            "conversation_id": "1323797653227003907",
+            "created_at": "2020-11-04T01:22:10.000Z",
+            "edit_history_tweet_ids": [
+                "1323797653227003907"
+            ],
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 55,
+                        "normalized_text": "Trump",
+                        "probability": 0.9712,
+                        "start": 51,
+                        "type": "Person"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 18,
+                        "id": "791736570617339905",
+                        "start": 3,
+                        "username": "kailastephenss"
+                    }
+                ]
+            },
+            "id": "1323797653227003907",
+            "lang": "en",
+            "public_metrics": {
+                "impression_count": 0,
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 23
+            },
+            "referenced_tweets": [
+                {
+                    "id": "1323725120909824003",
+                    "type": "retweeted"
+                }
+            ],
+            "reply_settings": "everyone",
+            "text": "RT @kailastephenss: remember this: if you vote for Trump you\u2019re voting for a man whose taking away YOUR rights not just the rights of women\u2026"
+        },
+        {
+            "author_id": "1188932094694739968",
+            "conversation_id": "1323797641273266176",
+            "created_at": "2020-11-04T01:22:07.000Z",
+            "edit_history_tweet_ids": [
+                "1323797641273266176"
+            ],
+            "entities": {
+                "mentions": [
+                    {
+                        "end": 15,
+                        "id": "800942537083068416",
+                        "start": 3,
+                        "username": "womensmarch"
+                    }
+                ]
+            },
+            "id": "1323797641273266176",
+            "lang": "en",
+            "public_metrics": {
+                "impression_count": 0,
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 245
+            },
+            "referenced_tweets": [
+                {
+                    "id": "1323784777053265921",
+                    "type": "retweeted"
+                }
+            ],
+            "reply_settings": "everyone",
+            "text": "RT @womensmarch: Everyone in line to vote right now: stay right there unless you're under threat of violence. Even if polls are closed, you\u2026"
+        },
+        {
+            "author_id": "1081036463679160321",
+            "conversation_id": "1323797590752808967",
+            "created_at": "2020-11-04T01:21:55.000Z",
+            "edit_history_tweet_ids": [
+                "1323797590752808967"
+            ],
+            "id": "1323797590752808967",
+            "lang": "en",
+            "public_metrics": {
+                "impression_count": 0,
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 386
+            },
+            "referenced_tweets": [
+                {
+                    "id": "1323784922725781505",
+                    "type": "retweeted"
+                }
+            ],
+            "reply_settings": "everyone",
+            "text": "RT @valsmantis: just another reminder... if you are IN LINE by the time poling places close, you are still legally allowed to vote! DO NOT\u2026"
+        },
+        {
+            "author_id": "1272706401220132864",
+            "conversation_id": "1323797576097894400",
+            "created_at": "2020-11-04T01:21:51.000Z",
+            "edit_history_tweet_ids": [
+                "1323797576097894400"
+            ],
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 67,
+                        "normalized_text": "Colorado",
+                        "probability": 0.8079,
+                        "start": 60,
+                        "type": "Place"
+                    },
+                    {
+                        "end": 78,
+                        "normalized_text": "Minnesota",
+                        "probability": 0.8411,
+                        "start": 70,
+                        "type": "Place"
+                    },
+                    {
+                        "end": 94,
+                        "normalized_text": "Wisconsin",
+                        "probability": 0.9486,
+                        "start": 86,
+                        "type": "Place"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 7,
+                        "id": "19608297",
+                        "start": 3,
+                        "username": "HRC"
+                    }
+                ]
+            },
+            "id": "1323797576097894400",
+            "lang": "en",
+            "public_metrics": {
+                "impression_count": 0,
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 25
+            },
+            "referenced_tweets": [
+                {
+                    "id": "1323792136354103303",
+                    "type": "retweeted"
+                }
+            ],
+            "reply_settings": "everyone",
+            "text": "RT @HRC: We\u2019re ONE HOUR away from polls closing in Arizona, Colorado, Minnesota &amp; Wisconsin at 9 PM (ET)/8 PM (CT)/7 PM (MT). Make your way\u2026"
+        },
+        {
+            "author_id": "981288885127995398",
+            "conversation_id": "1323797519076331522",
+            "created_at": "2020-11-04T01:21:38.000Z",
+            "edit_history_tweet_ids": [
+                "1323797519076331522"
+            ],
+            "id": "1323797519076331522",
+            "lang": "en",
+            "public_metrics": {
+                "impression_count": 0,
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 386
+            },
+            "referenced_tweets": [
+                {
+                    "id": "1323784922725781505",
+                    "type": "retweeted"
+                }
+            ],
+            "reply_settings": "everyone",
+            "text": "RT @valsmantis: just another reminder... if you are IN LINE by the time poling places close, you are still legally allowed to vote! DO NOT\u2026"
+        },
+        {
+            "author_id": "2480779104",
+            "conversation_id": "1323796622409687040",
+            "created_at": "2020-11-04T01:20:56.000Z",
+            "edit_history_tweet_ids": [
+                "1323797342999498755"
+            ],
+            "id": "1323797342999498755",
+            "in_reply_to_user_id": "2480779104",
+            "lang": "en",
+            "public_metrics": {
+                "impression_count": 0,
+                "like_count": 22,
+                "quote_count": 0,
+                "reply_count": 1,
+                "retweet_count": 0
+            },
+            "referenced_tweets": [
+                {
+                    "id": "1323796622409687040",
+                    "type": "replied_to"
+                }
+            ],
+            "reply_settings": "everyone",
+            "text": "ONE of them HAS to win - why wouldn\u2019t you try to get him out?? even if that means to vote for someone you don\u2019t fully support,, why wouldn\u2019t you rather that than total destruction?\n\nNot voting for either is NOT upholding your own morals, it\u2019s THROWING your vote away/ENABLING evil"
+        },
+        {
+            "author_id": "1281481745704136707",
+            "context_annotations": [
+                {
+                    "domain": {
+                        "description": "Named people in the world like Nelson Mandela",
+                        "id": "10",
+                        "name": "Person"
+                    },
+                    "entity": {
+                        "description": "American singer-songwriter and musician",
+                        "id": "1070731928121180160",
+                        "name": "Axl Rose"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A musician in the world, like Adele or Bob Dylan",
+                        "id": "54",
+                        "name": "Musician"
+                    },
+                    "entity": {
+                        "description": "American singer-songwriter and musician",
+                        "id": "1070731928121180160",
+                        "name": "Axl Rose"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A category for a musical style, like Pop, Rock, or Rap",
+                        "id": "55",
+                        "name": "Music Genre"
+                    },
+                    "entity": {
+                        "description": "Rock",
+                        "id": "806571747730341888",
+                        "name": "Rock"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A taxonomy of user interests. ",
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy"
+                    },
+                    "entity": {
+                        "description": "Rock",
+                        "id": "806571747730341888",
+                        "name": "Rock"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A taxonomy of user interests. ",
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy"
+                    },
+                    "entity": {
+                        "description": "Music and radio",
+                        "id": "847524658970636288",
+                        "name": "Music"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A taxonomy of user interests. ",
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy"
+                    },
+                    "entity": {
+                        "description": "American singer-songwriter and musician",
+                        "id": "1070731928121180160",
+                        "name": "Axl Rose"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A taxonomy of user interests. ",
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy"
+                    },
+                    "entity": {
+                        "id": "1291812963314098176",
+                        "name": "Hard rock"
+                    }
+                }
+            ],
+            "conversation_id": "1323797195070595080",
+            "created_at": "2020-11-04T01:20:20.000Z",
+            "edit_history_tweet_ids": [
+                "1323797195070595080"
+            ],
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 138,
+                        "normalized_text": "\u2019 Coun",
+                        "probability": 0.5586,
+                        "start": 133,
+                        "type": "Person"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 11,
+                        "id": "95956928",
+                        "start": 3,
+                        "username": "axlrose"
+                    }
+                ]
+            },
+            "id": "1323797195070595080",
+            "lang": "en",
+            "public_metrics": {
+                "impression_count": 0,
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 808
+            },
+            "referenced_tweets": [
+                {
+                    "id": "1323463205880934402",
+                    "type": "retweeted"
+                }
+            ],
+            "reply_settings": "everyone",
+            "text": "RT @axlrose: VOTE\nFor Loved Ones\nFor You\nAnd For US\nTogether As One\nAnd If It Helps...\nVote Knowing There Are Those\nHoping, Praying N\u2019 Coun\u2026"
+        },
+        {
+            "author_id": "1122655011534778370",
+            "conversation_id": "1323797095355195397",
+            "created_at": "2020-11-04T01:19:57.000Z",
+            "edit_history_tweet_ids": [
+                "1323797095355195397"
+            ],
+            "id": "1323797095355195397",
+            "lang": "en",
+            "public_metrics": {
+                "impression_count": 0,
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 386
+            },
+            "referenced_tweets": [
+                {
+                    "id": "1323784922725781505",
+                    "type": "retweeted"
+                }
+            ],
+            "reply_settings": "everyone",
+            "text": "RT @valsmantis: just another reminder... if you are IN LINE by the time poling places close, you are still legally allowed to vote! DO NOT\u2026"
+        },
+        {
+            "author_id": "1150619011874480128",
+            "conversation_id": "1323797015160147968",
+            "created_at": "2020-11-04T01:19:38.000Z",
+            "edit_history_tweet_ids": [
+                "1323797015160147968"
+            ],
+            "entities": {
+                "mentions": [
+                    {
+                        "end": 17,
+                        "id": "266145912",
+                        "start": 3,
+                        "username": "ucancallmesis"
+                    }
+                ]
+            },
+            "id": "1323797015160147968",
+            "lang": "en",
+            "public_metrics": {
+                "impression_count": 0,
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 20
+            },
+            "referenced_tweets": [
+                {
+                    "id": "1323654266788155393",
+                    "type": "retweeted"
+                }
+            ],
+            "reply_settings": "everyone",
+            "text": "RT @ucancallmesis: show me you voted in this election in the replies and I\u2019ll send you a blm tshirt. only giving away 3 and I\u2019ll put it in\u2026"
+        },
+        {
+            "author_id": "1285620149056225281",
+            "conversation_id": "1323796541954351104",
+            "created_at": "2020-11-04T01:17:45.000Z",
+            "edit_history_tweet_ids": [
+                "1323796541954351104"
+            ],
+            "entities": {
+                "mentions": [
+                    {
+                        "end": 15,
+                        "id": "800942537083068416",
+                        "start": 3,
+                        "username": "womensmarch"
+                    }
+                ]
+            },
+            "id": "1323796541954351104",
+            "lang": "en",
+            "public_metrics": {
+                "impression_count": 0,
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 245
+            },
+            "referenced_tweets": [
+                {
+                    "id": "1323784777053265921",
+                    "type": "retweeted"
+                }
+            ],
+            "reply_settings": "everyone",
+            "text": "RT @womensmarch: Everyone in line to vote right now: stay right there unless you're under threat of violence. Even if polls are closed, you\u2026"
+        },
+        {
+            "author_id": "1183476457",
+            "context_annotations": [
+                {
+                    "domain": {
+                        "description": "Real world events. ",
+                        "id": "29",
+                        "name": "Events [Entity Service]"
+                    },
+                    "entity": {
+                        "description": "2020 US Presidential Election",
+                        "id": "1029453725360775168",
+                        "name": "2020 US Presidential Election"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "Real world events. ",
+                        "id": "29",
+                        "name": "Events [Entity Service]"
+                    },
+                    "entity": {
+                        "id": "1318573265820921857",
+                        "name": "2020 US Election Day"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A taxonomy of user interests. ",
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy"
+                    },
+                    "entity": {
+                        "description": "2020 US Presidential Election",
+                        "id": "1029453725360775168",
+                        "name": "2020 US Presidential Election"
+                    }
+                }
+            ],
+            "conversation_id": "1323796466650013699",
+            "created_at": "2020-11-04T01:17:27.000Z",
+            "edit_history_tweet_ids": [
+                "1323796466650013699"
+            ],
+            "entities": {
+                "hashtags": [
+                    {
+                        "end": 202,
+                        "start": 185,
+                        "tag": "thankapollworker"
+                    },
+                    {
+                        "end": 208,
+                        "start": 203,
+                        "tag": "vote"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "twitter.com/DanRather/stat\u2026",
+                        "end": 232,
+                        "expanded_url": "https://twitter.com/DanRather/status/1323776642175561728",
+                        "start": 209,
+                        "url": "https://t.co/U658Klt4Bk"
+                    }
+                ]
+            },
+            "id": "1323796466650013699",
+            "lang": "en",
+            "public_metrics": {
+                "impression_count": 0,
+                "like_count": 1,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "referenced_tweets": [
+                {
+                    "id": "1323776642175561728",
+                    "type": "quoted"
+                }
+            ],
+            "reply_settings": "everyone",
+            "text": "If my father was still around (he passed away 3 years ago) he would be one of those poll workers. He loved doing it, it gave him so much pride to help and be there for his community. \ud83d\udc9a #thankapollworker #vote https://t.co/U658Klt4Bk"
+        },
+        {
+            "author_id": "1317641686416314368",
+            "context_annotations": [
+                {
+                    "domain": {
+                        "description": "Named people in the world like Nelson Mandela",
+                        "id": "10",
+                        "name": "Person"
+                    },
+                    "entity": {
+                        "description": "American singer-songwriter and musician",
+                        "id": "1070731928121180160",
+                        "name": "Axl Rose"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A musician in the world, like Adele or Bob Dylan",
+                        "id": "54",
+                        "name": "Musician"
+                    },
+                    "entity": {
+                        "description": "American singer-songwriter and musician",
+                        "id": "1070731928121180160",
+                        "name": "Axl Rose"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A category for a musical style, like Pop, Rock, or Rap",
+                        "id": "55",
+                        "name": "Music Genre"
+                    },
+                    "entity": {
+                        "description": "Rock",
+                        "id": "806571747730341888",
+                        "name": "Rock"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A taxonomy of user interests. ",
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy"
+                    },
+                    "entity": {
+                        "description": "Rock",
+                        "id": "806571747730341888",
+                        "name": "Rock"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A taxonomy of user interests. ",
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy"
+                    },
+                    "entity": {
+                        "description": "Music and radio",
+                        "id": "847524658970636288",
+                        "name": "Music"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A taxonomy of user interests. ",
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy"
+                    },
+                    "entity": {
+                        "description": "American singer-songwriter and musician",
+                        "id": "1070731928121180160",
+                        "name": "Axl Rose"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A taxonomy of user interests. ",
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy"
+                    },
+                    "entity": {
+                        "id": "1291812963314098176",
+                        "name": "Hard rock"
+                    }
+                }
+            ],
+            "conversation_id": "1323796341248675841",
+            "created_at": "2020-11-04T01:16:57.000Z",
+            "edit_history_tweet_ids": [
+                "1323796341248675841"
+            ],
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 138,
+                        "normalized_text": "\u2019 Coun",
+                        "probability": 0.5586,
+                        "start": 133,
+                        "type": "Person"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 11,
+                        "id": "95956928",
+                        "start": 3,
+                        "username": "axlrose"
+                    }
+                ]
+            },
+            "id": "1323796341248675841",
+            "lang": "en",
+            "public_metrics": {
+                "impression_count": 0,
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 808
+            },
+            "referenced_tweets": [
+                {
+                    "id": "1323463205880934402",
+                    "type": "retweeted"
+                }
+            ],
+            "reply_settings": "everyone",
+            "text": "RT @axlrose: VOTE\nFor Loved Ones\nFor You\nAnd For US\nTogether As One\nAnd If It Helps...\nVote Knowing There Are Those\nHoping, Praying N\u2019 Coun\u2026"
+        },
+        {
+            "author_id": "1592344676",
+            "context_annotations": [
+                {
+                    "domain": {
+                        "description": "Named people in the world like Nelson Mandela",
+                        "id": "10",
+                        "name": "Person"
+                    },
+                    "entity": {
+                        "description": "45th US President, Donald Trump",
+                        "id": "799022225751871488",
+                        "name": "Donald Trump"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "Real world events. ",
+                        "id": "29",
+                        "name": "Events [Entity Service]"
+                    },
+                    "entity": {
+                        "description": "2020 US Presidential Election",
+                        "id": "1029453725360775168",
+                        "name": "2020 US Presidential Election"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "Politicians in the world, like Joe Biden",
+                        "id": "35",
+                        "name": "Politician"
+                    },
+                    "entity": {
+                        "description": "45th US President, Donald Trump",
+                        "id": "799022225751871488",
+                        "name": "Donald Trump"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A taxonomy of user interests. ",
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy"
+                    },
+                    "entity": {
+                        "description": "45th US President, Donald Trump",
+                        "id": "799022225751871488",
+                        "name": "Donald Trump"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A taxonomy of user interests. ",
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy"
+                    },
+                    "entity": {
+                        "description": "Politics",
+                        "id": "847878884917886977",
+                        "name": "Politics"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A taxonomy of user interests. ",
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy"
+                    },
+                    "entity": {
+                        "description": "2020 US Presidential Election",
+                        "id": "1029453725360775168",
+                        "name": "2020 US Presidential Election"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A taxonomy of user interests. ",
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy"
+                    },
+                    "entity": {
+                        "description": "Politician",
+                        "id": "1070032753834438656",
+                        "name": "Political figures"
+                    }
+                }
+            ],
+            "conversation_id": "1323794685501050880",
+            "created_at": "2020-11-04T01:16:31.000Z",
+            "edit_history_tweet_ids": [
+                "1323796233811562496"
+            ],
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 34,
+                        "normalized_text": "NY",
+                        "probability": 0.9752,
+                        "start": 33,
+                        "type": "Place"
+                    },
+                    {
+                        "end": 47,
+                        "normalized_text": "Trump",
+                        "probability": 0.9775,
+                        "start": 43,
+                        "type": "Person"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 8,
+                        "id": "25360591",
+                        "start": 0,
+                        "username": "reubing"
+                    },
+                    {
+                        "end": 22,
+                        "id": "82616432",
+                        "start": 9,
+                        "username": "jhjulian1956"
+                    }
+                ]
+            },
+            "id": "1323796233811562496",
+            "in_reply_to_user_id": "25360591",
+            "lang": "en",
+            "public_metrics": {
+                "impression_count": 0,
+                "like_count": 3,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "referenced_tweets": [
+                {
+                    "id": "1323794685501050880",
+                    "type": "replied_to"
+                }
+            ],
+            "reply_settings": "everyone",
+            "text": "@reubing @jhjulian1956 I live in NY, where Trump has very little chance, and I voted.  No vote is wasted.  We want both an electoral and popular vote victory (the latter to take away one of the left's favorite whines)."
+        },
+        {
+            "author_id": "2799025967",
+            "conversation_id": "1323796224668012546",
+            "created_at": "2020-11-04T01:16:29.000Z",
+            "edit_history_tweet_ids": [
+                "1323796224668012546"
+            ],
+            "id": "1323796224668012546",
+            "lang": "en",
+            "public_metrics": {
+                "impression_count": 0,
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 386
+            },
+            "referenced_tweets": [
+                {
+                    "id": "1323784922725781505",
+                    "type": "retweeted"
+                }
+            ],
+            "reply_settings": "everyone",
+            "text": "RT @valsmantis: just another reminder... if you are IN LINE by the time poling places close, you are still legally allowed to vote! DO NOT\u2026"
+        },
+        {
+            "author_id": "1257768822838157317",
+            "conversation_id": "1323796181646938112",
+            "created_at": "2020-11-04T01:16:19.000Z",
+            "edit_history_tweet_ids": [
+                "1323796181646938112"
+            ],
+            "id": "1323796181646938112",
+            "lang": "en",
+            "public_metrics": {
+                "impression_count": 0,
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 386
+            },
+            "referenced_tweets": [
+                {
+                    "id": "1323784922725781505",
+                    "type": "retweeted"
+                }
+            ],
+            "reply_settings": "everyone",
+            "text": "RT @valsmantis: just another reminder... if you are IN LINE by the time poling places close, you are still legally allowed to vote! DO NOT\u2026"
+        },
+        {
+            "author_id": "480070613",
+            "context_annotations": [
+                {
+                    "domain": {
+                        "description": "A taxonomy of user interests. ",
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy"
+                    },
+                    "entity": {
+                        "id": "1196446161223028736",
+                        "name": "Social media"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+                        "id": "30",
+                        "name": "Entities [Entity Service]"
+                    },
+                    "entity": {
+                        "id": "781974596752842752",
+                        "name": "Services"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "Brands and Companies",
+                        "id": "47",
+                        "name": "Brand"
+                    },
+                    "entity": {
+                        "id": "10041893684",
+                        "name": "Instagram"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A taxonomy of user interests. ",
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy"
+                    },
+                    "entity": {
+                        "id": "10041893684",
+                        "name": "Instagram"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A taxonomy of user interests. ",
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy"
+                    },
+                    "entity": {
+                        "id": "1196446161223028736",
+                        "name": "Social media"
+                    }
+                }
+            ],
+            "conversation_id": "1323796176265621505",
+            "created_at": "2020-11-04T01:16:18.000Z",
+            "edit_history_tweet_ids": [
+                "1323796176265621505"
+            ],
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 17,
+                        "normalized_text": "Instagram",
+                        "probability": 0.9662,
+                        "start": 9,
+                        "type": "Other"
+                    }
+                ]
+            },
+            "id": "1323796176265621505",
+            "lang": "en",
+            "public_metrics": {
+                "impression_count": 0,
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "reply_settings": "everyone",
+            "text": "So on my Instagram stories I seen someone ranting about people only talking about voting &amp; encouraging people to vote and he's getting annoyed about it. All I'm saying is if you one of this people just stay away from social media, simple as that."
+        },
+        {
+            "author_id": "849448663546040320",
+            "conversation_id": "1323796059605377025",
+            "created_at": "2020-11-04T01:15:50.000Z",
+            "edit_history_tweet_ids": [
+                "1323796059605377025"
+            ],
+            "entities": {
+                "mentions": [
+                    {
+                        "end": 15,
+                        "id": "800942537083068416",
+                        "start": 3,
+                        "username": "womensmarch"
+                    }
+                ]
+            },
+            "id": "1323796059605377025",
+            "lang": "en",
+            "public_metrics": {
+                "impression_count": 0,
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 245
+            },
+            "referenced_tweets": [
+                {
+                    "id": "1323784777053265921",
+                    "type": "retweeted"
+                }
+            ],
+            "reply_settings": "everyone",
+            "text": "RT @womensmarch: Everyone in line to vote right now: stay right there unless you're under threat of violence. Even if polls are closed, you\u2026"
+        },
+        {
+            "author_id": "1288773686988742657",
+            "conversation_id": "1323796031838986240",
+            "created_at": "2020-11-04T01:15:43.000Z",
+            "edit_history_tweet_ids": [
+                "1323796031838986240"
+            ],
+            "id": "1323796031838986240",
+            "lang": "en",
+            "public_metrics": {
+                "impression_count": 0,
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 386
+            },
+            "referenced_tweets": [
+                {
+                    "id": "1323784922725781505",
+                    "type": "retweeted"
+                }
+            ],
+            "reply_settings": "everyone",
+            "text": "RT @valsmantis: just another reminder... if you are IN LINE by the time poling places close, you are still legally allowed to vote! DO NOT\u2026"
+        },
+        {
+            "author_id": "3328427099",
+            "conversation_id": "1323795945167998982",
+            "created_at": "2020-11-04T01:15:22.000Z",
+            "edit_history_tweet_ids": [
+                "1323795945167998982"
+            ],
+            "entities": {
+                "mentions": [
+                    {
+                        "end": 15,
+                        "id": "800942537083068416",
+                        "start": 3,
+                        "username": "womensmarch"
+                    }
+                ]
+            },
+            "id": "1323795945167998982",
+            "lang": "en",
+            "public_metrics": {
+                "impression_count": 0,
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 245
+            },
+            "referenced_tweets": [
+                {
+                    "id": "1323784777053265921",
+                    "type": "retweeted"
+                }
+            ],
+            "reply_settings": "everyone",
+            "text": "RT @womensmarch: Everyone in line to vote right now: stay right there unless you're under threat of violence. Even if polls are closed, you\u2026"
+        },
+        {
+            "author_id": "1226741919058927616",
+            "conversation_id": "1323795927535149059",
+            "created_at": "2020-11-04T01:15:18.000Z",
+            "edit_history_tweet_ids": [
+                "1323795927535149059"
+            ],
+            "entities": {
+                "mentions": [
+                    {
+                        "end": 13,
+                        "id": "1464574147229622277",
+                        "start": 3,
+                        "username": "JamieBadu"
+                    }
+                ]
+            },
+            "id": "1323795927535149059",
+            "lang": "en",
+            "public_metrics": {
+                "impression_count": 0,
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 1004
+            },
+            "referenced_tweets": [
+                {
+                    "id": "1323602268143366144",
+                    "type": "retweeted"
+                }
+            ],
+            "reply_settings": "everyone",
+            "text": "RT @jamiebadu: One more thing, they cannot turn you away at the polls. You have the right to ask \u201cI\u2019d like to vote provisionally\u201d. They HAV\u2026"
+        },
+        {
+            "author_id": "1059595730791383042",
+            "conversation_id": "1323795886640664578",
+            "created_at": "2020-11-04T01:15:08.000Z",
+            "edit_history_tweet_ids": [
+                "1323795886640664578"
+            ],
+            "id": "1323795886640664578",
+            "lang": "en",
+            "public_metrics": {
+                "impression_count": 0,
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 386
+            },
+            "referenced_tweets": [
+                {
+                    "id": "1323784922725781505",
+                    "type": "retweeted"
+                }
+            ],
+            "reply_settings": "everyone",
+            "text": "RT @valsmantis: just another reminder... if you are IN LINE by the time poling places close, you are still legally allowed to vote! DO NOT\u2026"
+        },
+        {
+            "author_id": "2735255862",
+            "conversation_id": "1323795687771955201",
+            "created_at": "2020-11-04T01:14:21.000Z",
+            "edit_history_tweet_ids": [
+                "1323795687771955201"
+            ],
+            "entities": {
+                "mentions": [
+                    {
+                        "end": 13,
+                        "id": "1464574147229622277",
+                        "start": 3,
+                        "username": "JamieBadu"
+                    }
+                ]
+            },
+            "id": "1323795687771955201",
+            "lang": "en",
+            "public_metrics": {
+                "impression_count": 0,
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 1004
+            },
+            "referenced_tweets": [
+                {
+                    "id": "1323602268143366144",
+                    "type": "retweeted"
+                }
+            ],
+            "reply_settings": "everyone",
+            "text": "RT @jamiebadu: One more thing, they cannot turn you away at the polls. You have the right to ask \u201cI\u2019d like to vote provisionally\u201d. They HAV\u2026"
+        },
+        {
+            "author_id": "3236429792",
+            "conversation_id": "1323791123387715585",
+            "created_at": "2020-11-04T01:13:58.000Z",
+            "edit_history_tweet_ids": [
+                "1323795589126082560"
+            ],
+            "entities": {
+                "mentions": [
+                    {
+                        "end": 11,
+                        "id": "2939269919",
+                        "start": 0,
+                        "username": "kiddwikked"
+                    },
+                    {
+                        "end": 26,
+                        "id": "27740155",
+                        "start": 12,
+                        "username": "ShaneHelmsCom"
+                    }
+                ]
+            },
+            "id": "1323795589126082560",
+            "in_reply_to_user_id": "2939269919",
+            "lang": "en",
+            "public_metrics": {
+                "impression_count": 0,
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 1,
+                "retweet_count": 0
+            },
+            "referenced_tweets": [
+                {
+                    "id": "1323794787598696452",
+                    "type": "replied_to"
+                }
+            ],
+            "reply_settings": "everyone",
+            "text": "@kiddwikked @ShaneHelmsCom It's not, and I notice you didn't respond to the very simple point I made which undercuts your premise.\n\nThe idea that people owe their vote to one of the major parties is quite literally the only way to derange yourself into thinking 3rd party votes \"took away\" from Rs or Ds."
+        },
+        {
+            "author_id": "132173312",
+            "context_annotations": [
+                {
+                    "domain": {
+                        "description": "Real world events. ",
+                        "id": "29",
+                        "name": "Events [Entity Service]"
+                    },
+                    "entity": {
+                        "description": "2020 US Presidential Election",
+                        "id": "1029453725360775168",
+                        "name": "2020 US Presidential Election"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "Real world events. ",
+                        "id": "29",
+                        "name": "Events [Entity Service]"
+                    },
+                    "entity": {
+                        "id": "1318573265820921857",
+                        "name": "2020 US Election Day"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+                        "id": "30",
+                        "name": "Entities [Entity Service]"
+                    },
+                    "entity": {
+                        "id": "781974596752842752",
+                        "name": "Services"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "Brands and Companies",
+                        "id": "47",
+                        "name": "Brand"
+                    },
+                    "entity": {
+                        "id": "10045225402",
+                        "name": "Twitter"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A taxonomy of user interests. ",
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy"
+                    },
+                    "entity": {
+                        "id": "10045225402",
+                        "name": "Twitter"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A taxonomy of user interests. ",
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy"
+                    },
+                    "entity": {
+                        "description": "2020 US Presidential Election",
+                        "id": "1029453725360775168",
+                        "name": "2020 US Presidential Election"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A taxonomy of user interests. ",
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy"
+                    },
+                    "entity": {
+                        "id": "1196446161223028736",
+                        "name": "Social media"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "Top level entities that describe a Brands industry",
+                        "id": "45",
+                        "name": "Brand Vertical"
+                    },
+                    "entity": {
+                        "id": "781974597310615553",
+                        "name": "Entertainment"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+                        "id": "30",
+                        "name": "Entities [Entity Service]"
+                    },
+                    "entity": {
+                        "id": "781974597105094656",
+                        "name": "TV/Movies Related - Entertainment"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "Brands and Companies",
+                        "id": "47",
+                        "name": "Brand"
+                    },
+                    "entity": {
+                        "id": "10026367762",
+                        "name": "Netflix"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A taxonomy of user interests. ",
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy"
+                    },
+                    "entity": {
+                        "id": "10026367762",
+                        "name": "Netflix"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "Real world events. ",
+                        "id": "29",
+                        "name": "Events [Entity Service]"
+                    },
+                    "entity": {
+                        "id": "1318573265820921857",
+                        "name": "2020 US Election Day"
+                    }
+                }
+            ],
+            "conversation_id": "1323795492891815942",
+            "created_at": "2020-11-04T01:13:35.000Z",
+            "edit_history_tweet_ids": [
+                "1323795492891815942"
+            ],
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 83,
+                        "normalized_text": "Twitter",
+                        "probability": 0.9825,
+                        "start": 77,
+                        "type": "Other"
+                    },
+                    {
+                        "end": 134,
+                        "normalized_text": "Netflix",
+                        "probability": 0.9249,
+                        "start": 128,
+                        "type": "Organization"
+                    }
+                ],
+                "hashtags": [
+                    {
+                        "end": 174,
+                        "start": 165,
+                        "tag": "Vote2020"
+                    },
+                    {
+                        "end": 180,
+                        "start": 175,
+                        "tag": "VOTE"
+                    }
+                ]
+            },
+            "id": "1323795492891815942",
+            "lang": "en",
+            "public_metrics": {
+                "impression_count": 0,
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "reply_settings": "everyone",
+            "text": "The only civil war that's going to happen in the states. Is going to be over Twitter... No one is going to step away from their Netflix show to fight in a war \ud83e\udd26\u200d\u2642\ufe0f\n\n#Vote2020 #VOTE"
+        },
+        {
+            "author_id": "504990810",
+            "conversation_id": "1323795460511821824",
+            "created_at": "2020-11-04T01:13:27.000Z",
+            "edit_history_tweet_ids": [
+                "1323795460511821824"
+            ],
+            "id": "1323795460511821824",
+            "lang": "en",
+            "public_metrics": {
+                "impression_count": 0,
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "reply_settings": "everyone",
+            "text": "If you're in line to vote, stay in line, as long as it takes. No one can legally shoo you away from voting."
+        },
+        {
+            "author_id": "949257748763566081",
+            "context_annotations": [
+                {
+                    "domain": {
+                        "description": "Named people in the world like Nelson Mandela",
+                        "id": "10",
+                        "name": "Person"
+                    },
+                    "entity": {
+                        "description": "President, Judicial Watch",
+                        "id": "1138051477761536000",
+                        "name": "Tom Fitton"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "Real world events. ",
+                        "id": "29",
+                        "name": "Events [Entity Service]"
+                    },
+                    "entity": {
+                        "description": "2020 US Presidential Election",
+                        "id": "1029453725360775168",
+                        "name": "2020 US Presidential Election"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A taxonomy of user interests. ",
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy"
+                    },
+                    "entity": {
+                        "description": "Politics",
+                        "id": "847878884917886977",
+                        "name": "Politics"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A taxonomy of user interests. ",
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy"
+                    },
+                    "entity": {
+                        "description": "2020 US Presidential Election",
+                        "id": "1029453725360775168",
+                        "name": "2020 US Presidential Election"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A taxonomy of user interests. ",
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy"
+                    },
+                    "entity": {
+                        "description": "Politician",
+                        "id": "1070032753834438656",
+                        "name": "Political figures"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A taxonomy of user interests. ",
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy"
+                    },
+                    "entity": {
+                        "description": "President, Judicial Watch",
+                        "id": "1138051477761536000",
+                        "name": "Tom Fitton"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "Named people in the world like Nelson Mandela",
+                        "id": "10",
+                        "name": "Person"
+                    },
+                    "entity": {
+                        "description": "US President Joe Biden",
+                        "id": "10040395078",
+                        "name": "Joe Biden"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "Politicians in the world, like Joe Biden",
+                        "id": "35",
+                        "name": "Politician"
+                    },
+                    "entity": {
+                        "description": "US President Joe Biden",
+                        "id": "10040395078",
+                        "name": "Joe Biden"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A taxonomy of user interests. ",
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy"
+                    },
+                    "entity": {
+                        "description": "US President Joe Biden",
+                        "id": "10040395078",
+                        "name": "Joe Biden"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A taxonomy of user interests. ",
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy"
+                    },
+                    "entity": {
+                        "description": "Politics",
+                        "id": "847878884917886977",
+                        "name": "Politics"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A taxonomy of user interests. ",
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy"
+                    },
+                    "entity": {
+                        "description": "Politician",
+                        "id": "1070032753834438656",
+                        "name": "Political figures"
+                    }
+                }
+            ],
+            "conversation_id": "1323795283713675273",
+            "created_at": "2020-11-04T01:12:45.000Z",
+            "edit_history_tweet_ids": [
+                "1323795283713675273"
+            ],
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 72,
+                        "normalized_text": "Biden",
+                        "probability": 0.9622,
+                        "start": 68,
+                        "type": "Person"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 11,
+                        "id": "959898365113778176",
+                        "start": 3,
+                        "username": "TEG1982"
+                    },
+                    {
+                        "end": 23,
+                        "id": "18266688",
+                        "start": 13,
+                        "username": "TomFitton"
+                    }
+                ]
+            },
+            "id": "1323795283713675273",
+            "lang": "en",
+            "public_metrics": {
+                "impression_count": 0,
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 1
+            },
+            "referenced_tweets": [
+                {
+                    "id": "1323723986757279744",
+                    "type": "retweeted"
+                }
+            ],
+            "reply_settings": "everyone",
+            "text": "RT @TEG1982: @TomFitton For what it\u2019s worth. Subtract one vote from Biden\u2019s total, I accidentally pressed it when trying to scroll up to ge\u2026"
+        },
+        {
+            "author_id": "2558060828",
+            "conversation_id": "1323795179451502593",
+            "created_at": "2020-11-04T01:12:20.000Z",
+            "edit_history_tweet_ids": [
+                "1323795179451502593"
+            ],
+            "id": "1323795179451502593",
+            "lang": "en",
+            "public_metrics": {
+                "impression_count": 0,
+                "like_count": 8,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 2
+            },
+            "reply_settings": "everyone",
+            "text": "women gained the right to vote 100 years ago this year. don\u2019t let this election be the one that starts taking away those rights."
+        },
+        {
+            "author_id": "758557366656851968",
+            "conversation_id": "1323795168416464896",
+            "created_at": "2020-11-04T01:12:17.000Z",
+            "edit_history_tweet_ids": [
+                "1323795168416464896"
+            ],
+            "id": "1323795168416464896",
+            "lang": "en",
+            "public_metrics": {
+                "impression_count": 0,
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 386
+            },
+            "referenced_tweets": [
+                {
+                    "id": "1323784922725781505",
+                    "type": "retweeted"
+                }
+            ],
+            "reply_settings": "everyone",
+            "text": "RT @valsmantis: just another reminder... if you are IN LINE by the time poling places close, you are still legally allowed to vote! DO NOT\u2026"
+        },
+        {
+            "author_id": "4776250009",
+            "context_annotations": [
+                {
+                    "domain": {
+                        "description": "Named people in the world like Nelson Mandela",
+                        "id": "10",
+                        "name": "Person"
+                    },
+                    "entity": {
+                        "description": "45th US President, Donald Trump",
+                        "id": "799022225751871488",
+                        "name": "Donald Trump"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "Real world events. ",
+                        "id": "29",
+                        "name": "Events [Entity Service]"
+                    },
+                    "entity": {
+                        "description": "2020 US Presidential Election",
+                        "id": "1029453725360775168",
+                        "name": "2020 US Presidential Election"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "Politicians in the world, like Joe Biden",
+                        "id": "35",
+                        "name": "Politician"
+                    },
+                    "entity": {
+                        "description": "45th US President, Donald Trump",
+                        "id": "799022225751871488",
+                        "name": "Donald Trump"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A section of a government, like The Supreme Court",
+                        "id": "88",
+                        "name": "Political Body"
+                    },
+                    "entity": {
+                        "description": "United States Congress",
+                        "id": "961705302700654593",
+                        "name": "United States Congress"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A taxonomy of user interests. ",
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy"
+                    },
+                    "entity": {
+                        "description": "45th US President, Donald Trump",
+                        "id": "799022225751871488",
+                        "name": "Donald Trump"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A taxonomy of user interests. ",
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy"
+                    },
+                    "entity": {
+                        "description": "Politics",
+                        "id": "847878884917886977",
+                        "name": "Politics"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A taxonomy of user interests. ",
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy"
+                    },
+                    "entity": {
+                        "description": "United States Congress",
+                        "id": "961705302700654593",
+                        "name": "United States Congress"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A taxonomy of user interests. ",
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy"
+                    },
+                    "entity": {
+                        "description": "2020 US Presidential Election",
+                        "id": "1029453725360775168",
+                        "name": "2020 US Presidential Election"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A taxonomy of user interests. ",
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy"
+                    },
+                    "entity": {
+                        "description": "Political Body",
+                        "id": "1068583660914266113",
+                        "name": "Government institutions"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A taxonomy of user interests. ",
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy"
+                    },
+                    "entity": {
+                        "description": "Politician",
+                        "id": "1070032753834438656",
+                        "name": "Political figures"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A section of a government, like The Supreme Court",
+                        "id": "88",
+                        "name": "Political Body"
+                    },
+                    "entity": {
+                        "description": "United States Senate",
+                        "id": "877326946253684737",
+                        "name": "United States Senate"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A section of a government, like The Supreme Court",
+                        "id": "88",
+                        "name": "Political Body"
+                    },
+                    "entity": {
+                        "description": "United States Congress",
+                        "id": "961705302700654593",
+                        "name": "United States Congress"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A taxonomy of user interests. ",
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy"
+                    },
+                    "entity": {
+                        "description": "Politics",
+                        "id": "847878884917886977",
+                        "name": "Politics"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A taxonomy of user interests. ",
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy"
+                    },
+                    "entity": {
+                        "description": "United States Senate",
+                        "id": "877326946253684737",
+                        "name": "United States Senate"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A taxonomy of user interests. ",
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy"
+                    },
+                    "entity": {
+                        "description": "Political Body",
+                        "id": "1068583660914266113",
+                        "name": "Government institutions"
+                    }
+                }
+            ],
+            "conversation_id": "1323795149948964864",
+            "created_at": "2020-11-04T01:12:13.000Z",
+            "edit_history_tweet_ids": [
+                "1323795149948964864"
+            ],
+            "entities": {
+                "urls": [
+                    {
+                        "display_url": "twitter.com/ltwombly93/sta\u2026",
+                        "end": 215,
+                        "expanded_url": "https://twitter.com/ltwombly93/status/1323721269880172551",
+                        "start": 192,
+                        "url": "https://t.co/UqCqJWqaQ0"
+                    }
+                ]
+            },
+            "id": "1323795149948964864",
+            "lang": "en",
+            "public_metrics": {
+                "impression_count": 0,
+                "like_count": 16,
+                "quote_count": 0,
+                "reply_count": 2,
+                "retweet_count": 0
+            },
+            "referenced_tweets": [
+                {
+                    "id": "1323721269880172551",
+                    "type": "quoted"
+                }
+            ],
+            "reply_settings": "everyone",
+            "text": "i hope one day there will be a law for a cap age to vote or to be in senate because she looks like she is gonna pass away any second and she decides a future she has no part in.... wrap it up https://t.co/UqCqJWqaQ0"
+        },
+        {
+            "author_id": "833913854891433984",
+            "conversation_id": "1323795124002844672",
+            "created_at": "2020-11-04T01:12:07.000Z",
+            "edit_history_tweet_ids": [
+                "1323795124002844672"
+            ],
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 67,
+                        "normalized_text": "Colorado",
+                        "probability": 0.8079,
+                        "start": 60,
+                        "type": "Place"
+                    },
+                    {
+                        "end": 78,
+                        "normalized_text": "Minnesota",
+                        "probability": 0.8411,
+                        "start": 70,
+                        "type": "Place"
+                    },
+                    {
+                        "end": 94,
+                        "normalized_text": "Wisconsin",
+                        "probability": 0.9486,
+                        "start": 86,
+                        "type": "Place"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 7,
+                        "id": "19608297",
+                        "start": 3,
+                        "username": "HRC"
+                    }
+                ]
+            },
+            "id": "1323795124002844672",
+            "lang": "en",
+            "public_metrics": {
+                "impression_count": 0,
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 25
+            },
+            "referenced_tweets": [
+                {
+                    "id": "1323792136354103303",
+                    "type": "retweeted"
+                }
+            ],
+            "reply_settings": "everyone",
+            "text": "RT @HRC: We\u2019re ONE HOUR away from polls closing in Arizona, Colorado, Minnesota &amp; Wisconsin at 9 PM (ET)/8 PM (CT)/7 PM (MT). Make your way\u2026"
+        },
+        {
+            "author_id": "957987037449158657",
+            "conversation_id": "1323795037751267330",
+            "created_at": "2020-11-04T01:11:46.000Z",
+            "edit_history_tweet_ids": [
+                "1323795037751267330"
+            ],
+            "id": "1323795037751267330",
+            "lang": "en",
+            "public_metrics": {
+                "impression_count": 0,
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 386
+            },
+            "referenced_tweets": [
+                {
+                    "id": "1323784922725781505",
+                    "type": "retweeted"
+                }
+            ],
+            "reply_settings": "everyone",
+            "text": "RT @valsmantis: just another reminder... if you are IN LINE by the time poling places close, you are still legally allowed to vote! DO NOT\u2026"
+        },
+        {
+            "author_id": "288071734",
+            "conversation_id": "1323795024602017792",
+            "created_at": "2020-11-04T01:11:43.000Z",
+            "edit_history_tweet_ids": [
+                "1323795024602017792"
+            ],
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 189,
+                        "normalized_text": "NiallLiveAtAlbertHall",
+                        "probability": 0.8126,
+                        "start": 169,
+                        "type": "Person"
+                    }
+                ],
+                "hashtags": [
+                    {
+                        "end": 190,
+                        "start": 168,
+                        "tag": "NiallLiveAtAlbertHall"
+                    }
+                ]
+            },
+            "id": "1323795024602017792",
+            "lang": "en",
+            "public_metrics": {
+                "impression_count": 0,
+                "like_count": 1,
+                "quote_count": 1,
+                "reply_count": 2,
+                "retweet_count": 0
+            },
+            "reply_settings": "everyone",
+            "text": "Hiiiii guys! I still have one ticket available because the last winner never contacted me.... trying to decide how I should give it away. \n\nPlease vote in the poll \u263a\ufe0f\n\n#NiallLiveAtAlbertHall"
+        },
+        {
+            "author_id": "76423765",
+            "conversation_id": "1323794953257029634",
+            "created_at": "2020-11-04T01:11:26.000Z",
+            "edit_history_tweet_ids": [
+                "1323794953257029634"
+            ],
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 25,
+                        "normalized_text": "Michigan",
+                        "probability": 0.9701,
+                        "start": 18,
+                        "type": "Place"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 16,
+                        "id": "172408544",
+                        "start": 3,
+                        "username": "GradEmpUnion"
+                    }
+                ]
+            },
+            "id": "1323794953257029634",
+            "lang": "en",
+            "public_metrics": {
+                "impression_count": 0,
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 8
+            },
+            "referenced_tweets": [
+                {
+                    "id": "1323777274416668672",
+                    "type": "retweeted"
+                }
+            ],
+            "reply_settings": "everyone",
+            "text": "RT @GradEmpUnion: Michigan polls will close in one hour at 8:00pm. If you are in line to vote when the polls close, stay in line! You are s\u2026"
+        },
+        {
+            "author_id": "1152565667209580544",
+            "conversation_id": "1323794921980108802",
+            "created_at": "2020-11-04T01:11:18.000Z",
+            "edit_history_tweet_ids": [
+                "1323794921980108802"
+            ],
+            "entities": {
+                "mentions": [
+                    {
+                        "end": 15,
+                        "id": "800942537083068416",
+                        "start": 3,
+                        "username": "womensmarch"
+                    }
+                ]
+            },
+            "id": "1323794921980108802",
+            "lang": "en",
+            "public_metrics": {
+                "impression_count": 0,
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 245
+            },
+            "referenced_tweets": [
+                {
+                    "id": "1323784777053265921",
+                    "type": "retweeted"
+                }
+            ],
+            "reply_settings": "everyone",
+            "text": "RT @womensmarch: Everyone in line to vote right now: stay right there unless you're under threat of violence. Even if polls are closed, you\u2026"
+        },
+        {
+            "author_id": "1202625491833892866",
+            "conversation_id": "1323794912773611520",
+            "created_at": "2020-11-04T01:11:16.000Z",
+            "edit_history_tweet_ids": [
+                "1323794912773611520"
+            ],
+            "id": "1323794912773611520",
+            "lang": "en",
+            "public_metrics": {
+                "impression_count": 0,
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 386
+            },
+            "referenced_tweets": [
+                {
+                    "id": "1323784922725781505",
+                    "type": "retweeted"
+                }
+            ],
+            "reply_settings": "everyone",
+            "text": "RT @valsmantis: just another reminder... if you are IN LINE by the time poling places close, you are still legally allowed to vote! DO NOT\u2026"
+        },
+        {
+            "author_id": "247023613",
+            "conversation_id": "1323794812181643265",
+            "created_at": "2020-11-04T01:10:52.000Z",
+            "edit_history_tweet_ids": [
+                "1323794812181643265"
+            ],
+            "entities": {
+                "mentions": [
+                    {
+                        "end": 13,
+                        "id": "1464574147229622277",
+                        "start": 3,
+                        "username": "JamieBadu"
+                    }
+                ]
+            },
+            "id": "1323794812181643265",
+            "lang": "en",
+            "public_metrics": {
+                "impression_count": 0,
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 1004
+            },
+            "referenced_tweets": [
+                {
+                    "id": "1323602268143366144",
+                    "type": "retweeted"
+                }
+            ],
+            "reply_settings": "everyone",
+            "text": "RT @jamiebadu: One more thing, they cannot turn you away at the polls. You have the right to ask \u201cI\u2019d like to vote provisionally\u201d. They HAV\u2026"
+        },
+        {
+            "author_id": "1236142787222859776",
+            "conversation_id": "1323794652122673154",
+            "created_at": "2020-11-04T01:10:14.000Z",
+            "edit_history_tweet_ids": [
+                "1323794652122673154"
+            ],
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 67,
+                        "normalized_text": "Colorado",
+                        "probability": 0.8079,
+                        "start": 60,
+                        "type": "Place"
+                    },
+                    {
+                        "end": 78,
+                        "normalized_text": "Minnesota",
+                        "probability": 0.8411,
+                        "start": 70,
+                        "type": "Place"
+                    },
+                    {
+                        "end": 94,
+                        "normalized_text": "Wisconsin",
+                        "probability": 0.9486,
+                        "start": 86,
+                        "type": "Place"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 7,
+                        "id": "19608297",
+                        "start": 3,
+                        "username": "HRC"
+                    }
+                ]
+            },
+            "id": "1323794652122673154",
+            "lang": "en",
+            "public_metrics": {
+                "impression_count": 0,
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 25
+            },
+            "referenced_tweets": [
+                {
+                    "id": "1323792136354103303",
+                    "type": "retweeted"
+                }
+            ],
+            "reply_settings": "everyone",
+            "text": "RT @HRC: We\u2019re ONE HOUR away from polls closing in Arizona, Colorado, Minnesota &amp; Wisconsin at 9 PM (ET)/8 PM (CT)/7 PM (MT). Make your way\u2026"
+        },
+        {
+            "author_id": "1309144460601839622",
+            "conversation_id": "1323794553497821184",
+            "created_at": "2020-11-04T01:09:51.000Z",
+            "edit_history_tweet_ids": [
+                "1323794553497821184"
+            ],
+            "id": "1323794553497821184",
+            "lang": "en",
+            "public_metrics": {
+                "impression_count": 0,
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 386
+            },
+            "referenced_tweets": [
+                {
+                    "id": "1323784922725781505",
+                    "type": "retweeted"
+                }
+            ],
+            "reply_settings": "everyone",
+            "text": "RT @valsmantis: just another reminder... if you are IN LINE by the time poling places close, you are still legally allowed to vote! DO NOT\u2026"
+        },
+        {
+            "author_id": "1277105393072844800",
+            "conversation_id": "1323794507184414723",
+            "created_at": "2020-11-04T01:09:40.000Z",
+            "edit_history_tweet_ids": [
+                "1323794507184414723"
+            ],
+            "id": "1323794507184414723",
+            "lang": "en",
+            "public_metrics": {
+                "impression_count": 0,
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 386
+            },
+            "referenced_tweets": [
+                {
+                    "id": "1323784922725781505",
+                    "type": "retweeted"
+                }
+            ],
+            "reply_settings": "everyone",
+            "text": "RT @valsmantis: just another reminder... if you are IN LINE by the time poling places close, you are still legally allowed to vote! DO NOT\u2026"
+        },
+        {
+            "author_id": "3327669647",
+            "conversation_id": "1323794429526814720",
+            "created_at": "2020-11-04T01:09:21.000Z",
+            "edit_history_tweet_ids": [
+                "1323794429526814720"
+            ],
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 67,
+                        "normalized_text": "Colorado",
+                        "probability": 0.8079,
+                        "start": 60,
+                        "type": "Place"
+                    },
+                    {
+                        "end": 78,
+                        "normalized_text": "Minnesota",
+                        "probability": 0.8411,
+                        "start": 70,
+                        "type": "Place"
+                    },
+                    {
+                        "end": 94,
+                        "normalized_text": "Wisconsin",
+                        "probability": 0.9486,
+                        "start": 86,
+                        "type": "Place"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 7,
+                        "id": "19608297",
+                        "start": 3,
+                        "username": "HRC"
+                    }
+                ]
+            },
+            "id": "1323794429526814720",
+            "lang": "en",
+            "public_metrics": {
+                "impression_count": 0,
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 25
+            },
+            "referenced_tweets": [
+                {
+                    "id": "1323792136354103303",
+                    "type": "retweeted"
+                }
+            ],
+            "reply_settings": "everyone",
+            "text": "RT @HRC: We\u2019re ONE HOUR away from polls closing in Arizona, Colorado, Minnesota &amp; Wisconsin at 9 PM (ET)/8 PM (CT)/7 PM (MT). Make your way\u2026"
+        },
+        {
+            "author_id": "948422329402580993",
+            "conversation_id": "1323794371611938816",
+            "created_at": "2020-11-04T01:09:07.000Z",
+            "edit_history_tweet_ids": [
+                "1323794371611938816"
+            ],
+            "id": "1323794371611938816",
+            "lang": "en",
+            "public_metrics": {
+                "impression_count": 0,
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 386
+            },
+            "referenced_tweets": [
+                {
+                    "id": "1323784922725781505",
+                    "type": "retweeted"
+                }
+            ],
+            "reply_settings": "everyone",
+            "text": "RT @valsmantis: just another reminder... if you are IN LINE by the time poling places close, you are still legally allowed to vote! DO NOT\u2026"
+        },
+        {
+            "author_id": "3108983286",
+            "conversation_id": "1323794338942394368",
+            "created_at": "2020-11-04T01:08:59.000Z",
+            "edit_history_tweet_ids": [
+                "1323794338942394368"
+            ],
+            "entities": {
+                "mentions": [
+                    {
+                        "end": 15,
+                        "id": "800942537083068416",
+                        "start": 3,
+                        "username": "womensmarch"
+                    }
+                ]
+            },
+            "id": "1323794338942394368",
+            "lang": "en",
+            "public_metrics": {
+                "impression_count": 0,
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 245
+            },
+            "referenced_tweets": [
+                {
+                    "id": "1323784777053265921",
+                    "type": "retweeted"
+                }
+            ],
+            "reply_settings": "everyone",
+            "text": "RT @womensmarch: Everyone in line to vote right now: stay right there unless you're under threat of violence. Even if polls are closed, you\u2026"
+        },
+        {
+            "author_id": "1138215698600275968",
+            "conversation_id": "1323794265496002561",
+            "created_at": "2020-11-04T01:08:42.000Z",
+            "edit_history_tweet_ids": [
+                "1323794265496002561"
+            ],
+            "id": "1323794265496002561",
+            "lang": "en",
+            "public_metrics": {
+                "impression_count": 0,
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 386
+            },
+            "referenced_tweets": [
+                {
+                    "id": "1323784922725781505",
+                    "type": "retweeted"
+                }
+            ],
+            "reply_settings": "everyone",
+            "text": "RT @valsmantis: just another reminder... if you are IN LINE by the time poling places close, you are still legally allowed to vote! DO NOT\u2026"
+        },
+        {
+            "author_id": "1233729262886277120",
+            "conversation_id": "1323794245598220288",
+            "created_at": "2020-11-04T01:08:37.000Z",
+            "edit_history_tweet_ids": [
+                "1323794245598220288"
+            ],
+            "entities": {
+                "mentions": [
+                    {
+                        "end": 15,
+                        "id": "800942537083068416",
+                        "start": 3,
+                        "username": "womensmarch"
+                    }
+                ]
+            },
+            "id": "1323794245598220288",
+            "lang": "en",
+            "public_metrics": {
+                "impression_count": 0,
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 245
+            },
+            "referenced_tweets": [
+                {
+                    "id": "1323784777053265921",
+                    "type": "retweeted"
+                }
+            ],
+            "reply_settings": "everyone",
+            "text": "RT @womensmarch: Everyone in line to vote right now: stay right there unless you're under threat of violence. Even if polls are closed, you\u2026"
+        },
+        {
+            "author_id": "854560279191056384",
+            "conversation_id": "1323794206905815040",
+            "created_at": "2020-11-04T01:08:28.000Z",
+            "edit_history_tweet_ids": [
+                "1323794206905815040"
+            ],
+            "id": "1323794206905815040",
+            "lang": "en",
+            "public_metrics": {
+                "impression_count": 0,
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 386
+            },
+            "referenced_tweets": [
+                {
+                    "id": "1323784922725781505",
+                    "type": "retweeted"
+                }
+            ],
+            "reply_settings": "everyone",
+            "text": "RT @valsmantis: just another reminder... if you are IN LINE by the time poling places close, you are still legally allowed to vote! DO NOT\u2026"
+        },
+        {
+            "author_id": "1183110613528186881",
+            "conversation_id": "1323794202531188738",
+            "created_at": "2020-11-04T01:08:27.000Z",
+            "edit_history_tweet_ids": [
+                "1323794202531188738"
+            ],
+            "id": "1323794202531188738",
+            "lang": "en",
+            "public_metrics": {
+                "impression_count": 0,
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 386
+            },
+            "referenced_tweets": [
+                {
+                    "id": "1323784922725781505",
+                    "type": "retweeted"
+                }
+            ],
+            "reply_settings": "everyone",
+            "text": "RT @valsmantis: just another reminder... if you are IN LINE by the time poling places close, you are still legally allowed to vote! DO NOT\u2026"
+        },
+        {
+            "author_id": "1047950790088937473",
+            "conversation_id": "1323794175075229696",
+            "created_at": "2020-11-04T01:08:20.000Z",
+            "edit_history_tweet_ids": [
+                "1323794175075229696"
+            ],
+            "id": "1323794175075229696",
+            "lang": "en",
+            "public_metrics": {
+                "impression_count": 0,
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 386
+            },
+            "referenced_tweets": [
+                {
+                    "id": "1323784922725781505",
+                    "type": "retweeted"
+                }
+            ],
+            "reply_settings": "everyone",
+            "text": "RT @valsmantis: just another reminder... if you are IN LINE by the time poling places close, you are still legally allowed to vote! DO NOT\u2026"
+        },
+        {
+            "author_id": "1059172611035447296",
+            "conversation_id": "1323794157534674947",
+            "created_at": "2020-11-04T01:08:16.000Z",
+            "edit_history_tweet_ids": [
+                "1323794157534674947"
+            ],
+            "id": "1323794157534674947",
+            "lang": "en",
+            "public_metrics": {
+                "impression_count": 0,
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 386
+            },
+            "referenced_tweets": [
+                {
+                    "id": "1323784922725781505",
+                    "type": "retweeted"
+                }
+            ],
+            "reply_settings": "everyone",
+            "text": "RT @valsmantis: just another reminder... if you are IN LINE by the time poling places close, you are still legally allowed to vote! DO NOT\u2026"
+        },
+        {
+            "author_id": "1256300978460069895",
+            "conversation_id": "1323794146985914368",
+            "created_at": "2020-11-04T01:08:14.000Z",
+            "edit_history_tweet_ids": [
+                "1323794146985914368"
+            ],
+            "id": "1323794146985914368",
+            "lang": "en",
+            "public_metrics": {
+                "impression_count": 0,
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 386
+            },
+            "referenced_tweets": [
+                {
+                    "id": "1323784922725781505",
+                    "type": "retweeted"
+                }
+            ],
+            "reply_settings": "everyone",
+            "text": "RT @valsmantis: just another reminder... if you are IN LINE by the time poling places close, you are still legally allowed to vote! DO NOT\u2026"
+        },
+        {
+            "author_id": "444285566",
+            "conversation_id": "1323794044158431233",
+            "created_at": "2020-11-04T01:07:49.000Z",
+            "edit_history_tweet_ids": [
+                "1323794044158431233"
+            ],
+            "entities": {
+                "mentions": [
+                    {
+                        "end": 15,
+                        "id": "800942537083068416",
+                        "start": 3,
+                        "username": "womensmarch"
+                    }
+                ]
+            },
+            "id": "1323794044158431233",
+            "lang": "en",
+            "public_metrics": {
+                "impression_count": 0,
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 245
+            },
+            "referenced_tweets": [
+                {
+                    "id": "1323784777053265921",
+                    "type": "retweeted"
+                }
+            ],
+            "reply_settings": "everyone",
+            "text": "RT @womensmarch: Everyone in line to vote right now: stay right there unless you're under threat of violence. Even if polls are closed, you\u2026"
+        },
+        {
+            "author_id": "749022929648652288",
+            "conversation_id": "1323789988492795905",
+            "created_at": "2020-11-04T01:07:44.000Z",
+            "edit_history_tweet_ids": [
+                "1323794023870418944"
+            ],
+            "id": "1323794023870418944",
+            "in_reply_to_user_id": "892093237250445318",
+            "lang": "en",
+            "public_metrics": {
+                "impression_count": 0,
+                "like_count": 1,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "referenced_tweets": [
+                {
+                    "id": "1323790335751954434",
+                    "type": "replied_to"
+                }
+            ],
+            "reply_settings": "everyone",
+            "text": "@the_mf_boi If you can\u2019t that\u2019s one thing.\nBut throwing away your vote is another"
+        },
+        {
+            "author_id": "727521456750469121",
+            "conversation_id": "1323793960863731714",
+            "created_at": "2020-11-04T01:07:29.000Z",
+            "edit_history_tweet_ids": [
+                "1323793960863731714"
+            ],
+            "id": "1323793960863731714",
+            "lang": "en",
+            "public_metrics": {
+                "impression_count": 0,
+                "like_count": 2,
+                "quote_count": 0,
+                "reply_count": 1,
+                "retweet_count": 0
+            },
+            "reply_settings": "everyone",
+            "text": "you would think the state that has one of the most poc would easily vote for the person that\u2019s NOT trying to take away their rights."
+        },
+        {
+            "author_id": "798455440023621632",
+            "conversation_id": "1323793829959532547",
+            "created_at": "2020-11-04T01:06:58.000Z",
+            "edit_history_tweet_ids": [
+                "1323793829959532547"
+            ],
+            "id": "1323793829959532547",
+            "lang": "en",
+            "public_metrics": {
+                "impression_count": 0,
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 386
+            },
+            "referenced_tweets": [
+                {
+                    "id": "1323784922725781505",
+                    "type": "retweeted"
+                }
+            ],
+            "reply_settings": "everyone",
+            "text": "RT @valsmantis: just another reminder... if you are IN LINE by the time poling places close, you are still legally allowed to vote! DO NOT\u2026"
+        },
+        {
+            "author_id": "826562801443405824",
+            "conversation_id": "1323793809910697985",
+            "created_at": "2020-11-04T01:06:53.000Z",
+            "edit_history_tweet_ids": [
+                "1323793809910697985"
+            ],
+            "entities": {
+                "mentions": [
+                    {
+                        "end": 15,
+                        "id": "800942537083068416",
+                        "start": 3,
+                        "username": "womensmarch"
+                    }
+                ]
+            },
+            "id": "1323793809910697985",
+            "lang": "en",
+            "public_metrics": {
+                "impression_count": 0,
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 245
+            },
+            "referenced_tweets": [
+                {
+                    "id": "1323784777053265921",
+                    "type": "retweeted"
+                }
+            ],
+            "reply_settings": "everyone",
+            "text": "RT @womensmarch: Everyone in line to vote right now: stay right there unless you're under threat of violence. Even if polls are closed, you\u2026"
+        },
+        {
+            "author_id": "74825169",
+            "context_annotations": [
+                {
+                    "domain": {
+                        "description": "Named people in the world like Nelson Mandela",
+                        "id": "10",
+                        "name": "Person"
+                    },
+                    "entity": {
+                        "description": "US Representative French Hill (AR-2)",
+                        "id": "940666120817713152",
+                        "name": "French Hill"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "Politicians in the world, like Joe Biden",
+                        "id": "35",
+                        "name": "Politician"
+                    },
+                    "entity": {
+                        "description": "US Representative French Hill (AR-2)",
+                        "id": "940666120817713152",
+                        "name": "French Hill"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A taxonomy of user interests. ",
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy"
+                    },
+                    "entity": {
+                        "description": "Politics",
+                        "id": "847878884917886977",
+                        "name": "Politics"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A taxonomy of user interests. ",
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy"
+                    },
+                    "entity": {
+                        "description": "US Representative French Hill (AR-2)",
+                        "id": "940666120817713152",
+                        "name": "French Hill"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A taxonomy of user interests. ",
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy"
+                    },
+                    "entity": {
+                        "description": "Politician",
+                        "id": "1070032753834438656",
+                        "name": "Political figures"
+                    }
+                }
+            ],
+            "conversation_id": "1323793772728168448",
+            "created_at": "2020-11-04T01:06:44.000Z",
+            "edit_history_tweet_ids": [
+                "1323793772728168448"
+            ],
+            "entities": {
+                "hashtags": [
+                    {
+                        "end": 3,
+                        "start": 0,
+                        "tag": "RT"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 10,
+                        "id": "29063765",
+                        "start": 4,
+                        "username": "ARGOP"
+                    },
+                    {
+                        "end": 27,
+                        "id": "1740229652",
+                        "start": 15,
+                        "username": "ElectFrench"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "pic.twitter.com/N1O9BfpoAY",
+                        "end": 223,
+                        "expanded_url": "https://twitter.com/ElectFrench/status/1323785458783002629/photo/1",
+                        "media_key": "3_1323785456258080768",
+                        "start": 200,
+                        "url": "https://t.co/N1O9BfpoAY"
+                    }
+                ]
+            },
+            "id": "1323793772728168448",
+            "lang": "en",
+            "public_metrics": {
+                "impression_count": 0,
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "reply_settings": "everyone",
+            "text": "#RT @ARGOP: RT @ElectFrench: Polls close in less than one hour!\n\nIf you arrive to your polling place before 7:30 PM, you cannot be turned away. \n\nStay in line!\n\nDo not leave before casting your vote. https://t.co/N1O9BfpoAY"
+        },
+        {
+            "author_id": "1172998930683940865",
+            "context_annotations": [
+                {
+                    "domain": {
+                        "description": "Real world events. ",
+                        "id": "29",
+                        "name": "Events [Entity Service]"
+                    },
+                    "entity": {
+                        "id": "1318573265820921857",
+                        "name": "2020 US Election Day"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "Named people in the world like Nelson Mandela",
+                        "id": "10",
+                        "name": "Person"
+                    },
+                    "entity": {
+                        "description": "US Vice President Mike Pence",
+                        "id": "10045247245",
+                        "name": "Mike Pence"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "Politicians in the world, like Joe Biden",
+                        "id": "35",
+                        "name": "Politician"
+                    },
+                    "entity": {
+                        "description": "US Vice President Mike Pence",
+                        "id": "10045247245",
+                        "name": "Mike Pence"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A taxonomy of user interests. ",
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy"
+                    },
+                    "entity": {
+                        "description": "US Vice President Mike Pence",
+                        "id": "10045247245",
+                        "name": "Mike Pence"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A taxonomy of user interests. ",
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy"
+                    },
+                    "entity": {
+                        "description": "Politics",
+                        "id": "847878884917886977",
+                        "name": "Politics"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A taxonomy of user interests. ",
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy"
+                    },
+                    "entity": {
+                        "description": "Politician",
+                        "id": "1070032753834438656",
+                        "name": "Political figures"
+                    }
+                }
+            ],
+            "conversation_id": "1323793771096469504",
+            "created_at": "2020-11-04T01:06:44.000Z",
+            "edit_history_tweet_ids": [
+                "1323793771096469504"
+            ],
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 33,
+                        "normalized_text": "Pennsylvania",
+                        "probability": 0.9599,
+                        "start": 22,
+                        "type": "Place"
+                    }
+                ],
+                "hashtags": [
+                    {
+                        "end": 96,
+                        "start": 91,
+                        "tag": "VOTE"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 14,
+                        "id": "22203756",
+                        "start": 3,
+                        "username": "Mike_Pence"
+                    }
+                ]
+            },
+            "id": "1323793771096469504",
+            "lang": "en",
+            "public_metrics": {
+                "impression_count": 0,
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 2776
+            },
+            "referenced_tweets": [
+                {
+                    "id": "1323299852168519681",
+                    "type": "retweeted"
+                }
+            ],
+            "reply_settings": "everyone",
+            "text": "RT @Mike_Pence: Hello Pennsylvania! We\u2019re just ONE DAY away and we need you to get out and #VOTE!"
+        },
+        {
+            "author_id": "97014526",
+            "context_annotations": [
+                {
+                    "domain": {
+                        "description": "Real world events. ",
+                        "id": "29",
+                        "name": "Events [Entity Service]"
+                    },
+                    "entity": {
+                        "id": "1318573265820921857",
+                        "name": "2020 US Election Day"
+                    }
+                }
+            ],
+            "conversation_id": "1323793718214905856",
+            "created_at": "2020-11-04T01:06:31.000Z",
+            "edit_history_tweet_ids": [
+                "1323793718214905856"
+            ],
+            "entities": {
+                "hashtags": [
+                    {
+                        "end": 182,
+                        "start": 170,
+                        "tag": "Victory2020"
+                    },
+                    {
+                        "end": 277,
+                        "start": 272,
+                        "tag": "VOTE"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 169,
+                        "id": "2447468288",
+                        "start": 162,
+                        "username": "ecdems"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "pic.twitter.com/SqgUHhpaI7",
+                        "end": 301,
+                        "expanded_url": "https://twitter.com/Kennedy4Senate/status/1323793718214905856/photo/1",
+                        "media_key": "3_1323793714700029952",
+                        "start": 278,
+                        "url": "https://t.co/SqgUHhpaI7"
+                    }
+                ]
+            },
+            "id": "1323793718214905856",
+            "lang": "en",
+            "public_metrics": {
+                "impression_count": 0,
+                "like_count": 1,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "reply_settings": "everyone",
+            "text": "We\u2019re ONE HOUR away from polls closing. If you haven\u2019t voted yet, you still have time to make a difference. \n\nHead to your polling site NOW, and then join us for @ecdems #Victory2020 Virtual Election Night Party at 9pm. \n\nWe\u2019re in this together. Let\u2019s celebrate together. #VOTE https://t.co/SqgUHhpaI7"
+        },
+        {
+            "author_id": "1099737193638178816",
+            "conversation_id": "1323793687470624768",
+            "created_at": "2020-11-04T01:06:24.000Z",
+            "edit_history_tweet_ids": [
+                "1323793687470624768"
+            ],
+            "id": "1323793687470624768",
+            "lang": "en",
+            "public_metrics": {
+                "impression_count": 0,
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 386
+            },
+            "referenced_tweets": [
+                {
+                    "id": "1323784922725781505",
+                    "type": "retweeted"
+                }
+            ],
+            "reply_settings": "everyone",
+            "text": "RT @valsmantis: just another reminder... if you are IN LINE by the time poling places close, you are still legally allowed to vote! DO NOT\u2026"
+        },
+        {
+            "author_id": "860831084057120768",
+            "conversation_id": "1323793620101595137",
+            "created_at": "2020-11-04T01:06:08.000Z",
+            "edit_history_tweet_ids": [
+                "1323793620101595137"
+            ],
+            "id": "1323793620101595137",
+            "lang": "en",
+            "public_metrics": {
+                "impression_count": 0,
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 386
+            },
+            "referenced_tweets": [
+                {
+                    "id": "1323784922725781505",
+                    "type": "retweeted"
+                }
+            ],
+            "reply_settings": "everyone",
+            "text": "RT @valsmantis: just another reminder... if you are IN LINE by the time poling places close, you are still legally allowed to vote! DO NOT\u2026"
+        },
+        {
+            "author_id": "1337424146",
+            "conversation_id": "1323793557296189445",
+            "created_at": "2020-11-04T01:05:53.000Z",
+            "edit_history_tweet_ids": [
+                "1323793557296189445"
+            ],
+            "entities": {
+                "mentions": [
+                    {
+                        "end": 12,
+                        "id": "1337424146",
+                        "start": 3,
+                        "username": "EKamarck"
+                    },
+                    {
+                        "end": 81,
+                        "id": "631594179",
+                        "start": 70,
+                        "username": "JohnJHudak"
+                    }
+                ]
+            },
+            "id": "1323793557296189445",
+            "lang": "en",
+            "public_metrics": {
+                "impression_count": 0,
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 14
+            },
+            "referenced_tweets": [
+                {
+                    "id": "1323668763846316033",
+                    "type": "retweeted"
+                }
+            ],
+            "reply_settings": "everyone",
+            "text": "RT @EKamarck: If you take away one thing from this guide I wrote with @JohnJHudak, it's this: a wait for results means the system is workin\u2026"
+        },
+        {
+            "author_id": "798347718",
+            "conversation_id": "1323793443018088449",
+            "created_at": "2020-11-04T01:05:26.000Z",
+            "edit_history_tweet_ids": [
+                "1323793443018088449"
+            ],
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 67,
+                        "normalized_text": "Colorado",
+                        "probability": 0.8079,
+                        "start": 60,
+                        "type": "Place"
+                    },
+                    {
+                        "end": 78,
+                        "normalized_text": "Minnesota",
+                        "probability": 0.8411,
+                        "start": 70,
+                        "type": "Place"
+                    },
+                    {
+                        "end": 94,
+                        "normalized_text": "Wisconsin",
+                        "probability": 0.9486,
+                        "start": 86,
+                        "type": "Place"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 7,
+                        "id": "19608297",
+                        "start": 3,
+                        "username": "HRC"
+                    }
+                ]
+            },
+            "id": "1323793443018088449",
+            "lang": "en",
+            "public_metrics": {
+                "impression_count": 0,
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 25
+            },
+            "referenced_tweets": [
+                {
+                    "id": "1323792136354103303",
+                    "type": "retweeted"
+                }
+            ],
+            "reply_settings": "everyone",
+            "text": "RT @HRC: We\u2019re ONE HOUR away from polls closing in Arizona, Colorado, Minnesota &amp; Wisconsin at 9 PM (ET)/8 PM (CT)/7 PM (MT). Make your way\u2026"
+        },
+        {
+            "author_id": "315647900",
+            "conversation_id": "1323793388638892034",
+            "created_at": "2020-11-04T01:05:13.000Z",
+            "edit_history_tweet_ids": [
+                "1323793388638892034"
+            ],
+            "entities": {
+                "mentions": [
+                    {
+                        "end": 15,
+                        "id": "800942537083068416",
+                        "start": 3,
+                        "username": "womensmarch"
+                    }
+                ]
+            },
+            "id": "1323793388638892034",
+            "lang": "en",
+            "public_metrics": {
+                "impression_count": 0,
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 245
+            },
+            "referenced_tweets": [
+                {
+                    "id": "1323784777053265921",
+                    "type": "retweeted"
+                }
+            ],
+            "reply_settings": "everyone",
+            "text": "RT @womensmarch: Everyone in line to vote right now: stay right there unless you're under threat of violence. Even if polls are closed, you\u2026"
+        },
+        {
+            "author_id": "65493146",
+            "conversation_id": "1323793359719321605",
+            "created_at": "2020-11-04T01:05:06.000Z",
+            "edit_history_tweet_ids": [
+                "1323793359719321605"
+            ],
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 67,
+                        "normalized_text": "Colorado",
+                        "probability": 0.8079,
+                        "start": 60,
+                        "type": "Place"
+                    },
+                    {
+                        "end": 78,
+                        "normalized_text": "Minnesota",
+                        "probability": 0.8411,
+                        "start": 70,
+                        "type": "Place"
+                    },
+                    {
+                        "end": 94,
+                        "normalized_text": "Wisconsin",
+                        "probability": 0.9486,
+                        "start": 86,
+                        "type": "Place"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 7,
+                        "id": "19608297",
+                        "start": 3,
+                        "username": "HRC"
+                    }
+                ]
+            },
+            "id": "1323793359719321605",
+            "lang": "en",
+            "public_metrics": {
+                "impression_count": 0,
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 25
+            },
+            "referenced_tweets": [
+                {
+                    "id": "1323792136354103303",
+                    "type": "retweeted"
+                }
+            ],
+            "reply_settings": "everyone",
+            "text": "RT @HRC: We\u2019re ONE HOUR away from polls closing in Arizona, Colorado, Minnesota &amp; Wisconsin at 9 PM (ET)/8 PM (CT)/7 PM (MT). Make your way\u2026"
+        },
+        {
+            "author_id": "66739464",
+            "conversation_id": "1323793231763689473",
+            "created_at": "2020-11-04T01:04:35.000Z",
+            "edit_history_tweet_ids": [
+                "1323793231763689473"
+            ],
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 67,
+                        "normalized_text": "Colorado",
+                        "probability": 0.8079,
+                        "start": 60,
+                        "type": "Place"
+                    },
+                    {
+                        "end": 78,
+                        "normalized_text": "Minnesota",
+                        "probability": 0.8411,
+                        "start": 70,
+                        "type": "Place"
+                    },
+                    {
+                        "end": 94,
+                        "normalized_text": "Wisconsin",
+                        "probability": 0.9486,
+                        "start": 86,
+                        "type": "Place"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 7,
+                        "id": "19608297",
+                        "start": 3,
+                        "username": "HRC"
+                    }
+                ]
+            },
+            "id": "1323793231763689473",
+            "lang": "en",
+            "public_metrics": {
+                "impression_count": 0,
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 25
+            },
+            "referenced_tweets": [
+                {
+                    "id": "1323792136354103303",
+                    "type": "retweeted"
+                }
+            ],
+            "reply_settings": "everyone",
+            "text": "RT @HRC: We\u2019re ONE HOUR away from polls closing in Arizona, Colorado, Minnesota &amp; Wisconsin at 9 PM (ET)/8 PM (CT)/7 PM (MT). Make your way\u2026"
+        },
+        {
+            "author_id": "816147919",
+            "conversation_id": "1323793104898560000",
+            "created_at": "2020-11-04T01:04:05.000Z",
+            "edit_history_tweet_ids": [
+                "1323793104898560000"
+            ],
+            "id": "1323793104898560000",
+            "lang": "en",
+            "public_metrics": {
+                "impression_count": 0,
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 386
+            },
+            "referenced_tweets": [
+                {
+                    "id": "1323784922725781505",
+                    "type": "retweeted"
+                }
+            ],
+            "reply_settings": "everyone",
+            "text": "RT @valsmantis: just another reminder... if you are IN LINE by the time poling places close, you are still legally allowed to vote! DO NOT\u2026"
+        },
+        {
+            "author_id": "425480641",
+            "conversation_id": "1323793022388183041",
+            "created_at": "2020-11-04T01:03:46.000Z",
+            "edit_history_tweet_ids": [
+                "1323793022388183041"
+            ],
+            "id": "1323793022388183041",
+            "lang": "en",
+            "public_metrics": {
+                "impression_count": 0,
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 386
+            },
+            "referenced_tweets": [
+                {
+                    "id": "1323784922725781505",
+                    "type": "retweeted"
+                }
+            ],
+            "reply_settings": "everyone",
+            "text": "RT @valsmantis: just another reminder... if you are IN LINE by the time poling places close, you are still legally allowed to vote! DO NOT\u2026"
+        },
+        {
+            "author_id": "39596025",
+            "conversation_id": "1323792994554826755",
+            "created_at": "2020-11-04T01:03:39.000Z",
+            "edit_history_tweet_ids": [
+                "1323792994554826755"
+            ],
+            "entities": {
+                "mentions": [
+                    {
+                        "end": 15,
+                        "id": "800942537083068416",
+                        "start": 3,
+                        "username": "womensmarch"
+                    }
+                ]
+            },
+            "id": "1323792994554826755",
+            "lang": "en",
+            "public_metrics": {
+                "impression_count": 0,
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 245
+            },
+            "referenced_tweets": [
+                {
+                    "id": "1323784777053265921",
+                    "type": "retweeted"
+                }
+            ],
+            "reply_settings": "everyone",
+            "text": "RT @womensmarch: Everyone in line to vote right now: stay right there unless you're under threat of violence. Even if polls are closed, you\u2026"
+        },
+        {
+            "author_id": "1267689691920375808",
+            "conversation_id": "1323792975974072327",
+            "created_at": "2020-11-04T01:03:35.000Z",
+            "edit_history_tweet_ids": [
+                "1323792975974072327"
+            ],
+            "id": "1323792975974072327",
+            "lang": "en",
+            "public_metrics": {
+                "impression_count": 0,
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 386
+            },
+            "referenced_tweets": [
+                {
+                    "id": "1323784922725781505",
+                    "type": "retweeted"
+                }
+            ],
+            "reply_settings": "everyone",
+            "text": "RT @valsmantis: just another reminder... if you are IN LINE by the time poling places close, you are still legally allowed to vote! DO NOT\u2026"
+        },
+        {
+            "author_id": "842860805037072384",
+            "conversation_id": "1323792941941321730",
+            "created_at": "2020-11-04T01:03:26.000Z",
+            "edit_history_tweet_ids": [
+                "1323792941941321730"
+            ],
+            "id": "1323792941941321730",
+            "lang": "en",
+            "public_metrics": {
+                "impression_count": 0,
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 386
+            },
+            "referenced_tweets": [
+                {
+                    "id": "1323784922725781505",
+                    "type": "retweeted"
+                }
+            ],
+            "reply_settings": "everyone",
+            "text": "RT @valsmantis: just another reminder... if you are IN LINE by the time poling places close, you are still legally allowed to vote! DO NOT\u2026"
+        }
+    ],
+    "meta": {
+        "newest_id": "1323799095308357633",
+        "next_token": "b26v89c19zqg8o3fosbtep45nc90df7moccqj1izz7k3h",
+        "oldest_id": "1323792941941321730",
+        "result_count": 90
+    }
+}

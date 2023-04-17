@@ -1,0 +1,4993 @@
+{
+    "data": [
+        {
+            "author_id": "1142224857364611073",
+            "context_annotations": [
+                {
+                    "domain": {
+                        "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+                        "id": "30",
+                        "name": "Entities [Entity Service]"
+                    },
+                    "entity": {
+                        "id": "781974596752842752",
+                        "name": "Services"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "Brands and Companies",
+                        "id": "47",
+                        "name": "Brand"
+                    },
+                    "entity": {
+                        "id": "10029202045",
+                        "name": "Facebook"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A taxonomy of user interests. ",
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy"
+                    },
+                    "entity": {
+                        "id": "10029202045",
+                        "name": "Facebook"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A taxonomy of user interests. ",
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy"
+                    },
+                    "entity": {
+                        "id": "1196446161223028736",
+                        "name": "Social media"
+                    }
+                }
+            ],
+            "conversation_id": "1324567408602947585",
+            "created_at": "2020-11-06T04:20:54.000Z",
+            "edit_history_tweet_ids": [
+                "1324567408602947585"
+            ],
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 39,
+                        "normalized_text": "Stop the Steal",
+                        "probability": 0.5737,
+                        "start": 26,
+                        "type": "Other"
+                    },
+                    {
+                        "end": 107,
+                        "normalized_text": "Facebook",
+                        "probability": 0.9246,
+                        "start": 100,
+                        "type": "Other"
+                    },
+                    {
+                        "end": 138,
+                        "normalized_text": "Elections2",
+                        "probability": 0.6845,
+                        "start": 129,
+                        "type": "Other"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 15,
+                        "id": "3875797341",
+                        "start": 3,
+                        "username": "renovamidia"
+                    }
+                ]
+            },
+            "id": "1324567408602947585",
+            "lang": "pt",
+            "public_metrics": {
+                "impression_count": 0,
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 217
+            },
+            "referenced_tweets": [
+                {
+                    "id": "1324482761357512704",
+                    "type": "retweeted"
+                }
+            ],
+            "reply_settings": "everyone",
+            "text": "RT @RenovaMidia: O grupo \u201cStop the Steal\u201d (\u201cParem o roubo\u201d) tinha cerca de 350 mil membros quando o Facebook decidiu intervir.\n\n#Elections2\u2026"
+        },
+        {
+            "author_id": "1321309198366494723",
+            "conversation_id": "1324567397664129024",
+            "created_at": "2020-11-06T04:20:51.000Z",
+            "edit_history_tweet_ids": [
+                "1324567397664129024"
+            ],
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 96,
+                        "normalized_text": "Harrisburg Capitol Building",
+                        "probability": 0.5675,
+                        "start": 70,
+                        "type": "Place"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 16,
+                        "id": "931286316",
+                        "start": 3,
+                        "username": "ScottPresler"
+                    }
+                ]
+            },
+            "id": "1324567397664129024",
+            "lang": "en",
+            "public_metrics": {
+                "impression_count": 0,
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 2321
+            },
+            "referenced_tweets": [
+                {
+                    "id": "1324564085342642176",
+                    "type": "retweeted"
+                }
+            ],
+            "reply_settings": "everyone",
+            "text": "RT @ScottPresler: We will be out, again, in front of the steps of the Harrisburg Capitol Building\n\non Friday, November 6th, @ noon.\n\nBring\u2026"
+        },
+        {
+            "author_id": "1630108711",
+            "context_annotations": [
+                {
+                    "domain": {
+                        "description": "Named people in the world like Nelson Mandela",
+                        "id": "10",
+                        "name": "Person"
+                    },
+                    "entity": {
+                        "description": "45th US President, Donald Trump",
+                        "id": "799022225751871488",
+                        "name": "Donald Trump"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "Politicians in the world, like Joe Biden",
+                        "id": "35",
+                        "name": "Politician"
+                    },
+                    "entity": {
+                        "description": "45th US President, Donald Trump",
+                        "id": "799022225751871488",
+                        "name": "Donald Trump"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A taxonomy of user interests. ",
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy"
+                    },
+                    "entity": {
+                        "description": "45th US President, Donald Trump",
+                        "id": "799022225751871488",
+                        "name": "Donald Trump"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A taxonomy of user interests. ",
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy"
+                    },
+                    "entity": {
+                        "description": "Politics",
+                        "id": "847878884917886977",
+                        "name": "Politics"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A taxonomy of user interests. ",
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy"
+                    },
+                    "entity": {
+                        "description": "Politician",
+                        "id": "1070032753834438656",
+                        "name": "Political figures"
+                    }
+                }
+            ],
+            "conversation_id": "1324567397571977216",
+            "created_at": "2020-11-06T04:20:51.000Z",
+            "edit_history_tweet_ids": [
+                "1324567397571977216"
+            ],
+            "entities": {
+                "mentions": [
+                    {
+                        "end": 13,
+                        "id": "826065164504006657",
+                        "start": 3,
+                        "username": "mtgreenee"
+                    },
+                    {
+                        "end": 41,
+                        "id": "25073877",
+                        "start": 25,
+                        "username": "realDonaldTrump"
+                    }
+                ]
+            },
+            "id": "1324567397571977216",
+            "lang": "en",
+            "public_metrics": {
+                "impression_count": 0,
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 1278
+            },
+            "referenced_tweets": [
+                {
+                    "id": "1324514071799042048",
+                    "type": "retweeted"
+                }
+            ],
+            "reply_settings": "everyone",
+            "text": "RT @mtgreenee: President @realDonaldTrump taught Republicans not to be spineless hacks and FIGHT BACK. \n\nSome weak-kneed Republicans haven\u2019\u2026"
+        },
+        {
+            "author_id": "1322427390",
+            "conversation_id": "1324567391271989248",
+            "created_at": "2020-11-06T04:20:50.000Z",
+            "edit_history_tweet_ids": [
+                "1324567391271989248"
+            ],
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 96,
+                        "normalized_text": "Harrisburg Capitol Building",
+                        "probability": 0.5675,
+                        "start": 70,
+                        "type": "Place"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 16,
+                        "id": "931286316",
+                        "start": 3,
+                        "username": "ScottPresler"
+                    }
+                ]
+            },
+            "id": "1324567391271989248",
+            "lang": "en",
+            "public_metrics": {
+                "impression_count": 0,
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 2321
+            },
+            "referenced_tweets": [
+                {
+                    "id": "1324564085342642176",
+                    "type": "retweeted"
+                }
+            ],
+            "reply_settings": "everyone",
+            "text": "RT @ScottPresler: We will be out, again, in front of the steps of the Harrisburg Capitol Building\n\non Friday, November 6th, @ noon.\n\nBring\u2026"
+        },
+        {
+            "author_id": "1290274390202966017",
+            "context_annotations": [
+                {
+                    "domain": {
+                        "description": "Named people in the world like Nelson Mandela",
+                        "id": "10",
+                        "name": "Person"
+                    },
+                    "entity": {
+                        "description": "Donald Trump Jr.",
+                        "id": "884781076484202496",
+                        "name": "Donald Trump Jr."
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A taxonomy of user interests. ",
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy"
+                    },
+                    "entity": {
+                        "description": "Politics",
+                        "id": "847878884917886977",
+                        "name": "Politics"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A taxonomy of user interests. ",
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy"
+                    },
+                    "entity": {
+                        "description": "Donald Trump Jr.",
+                        "id": "884781076484202496",
+                        "name": "Donald Trump Jr."
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A taxonomy of user interests. ",
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy"
+                    },
+                    "entity": {
+                        "description": "Politician",
+                        "id": "1070032753834438656",
+                        "name": "Political figures"
+                    }
+                }
+            ],
+            "conversation_id": "1324567380815589377",
+            "created_at": "2020-11-06T04:20:47.000Z",
+            "edit_history_tweet_ids": [
+                "1324567380815589377"
+            ],
+            "entities": {
+                "mentions": [
+                    {
+                        "end": 13,
+                        "id": "826065164504006657",
+                        "start": 3,
+                        "username": "mtgreenee"
+                    }
+                ]
+            },
+            "id": "1324567380815589377",
+            "lang": "en",
+            "public_metrics": {
+                "impression_count": 0,
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 413
+            },
+            "referenced_tweets": [
+                {
+                    "id": "1324553584957116418",
+                    "type": "retweeted"
+                }
+            ],
+            "reply_settings": "everyone",
+            "text": "RT @mtgreenee: STOP THE STEAL!"
+        },
+        {
+            "author_id": "394270610",
+            "conversation_id": "1324567377800056833",
+            "created_at": "2020-11-06T04:20:46.000Z",
+            "edit_history_tweet_ids": [
+                "1324567377800056833"
+            ],
+            "entities": {
+                "mentions": [
+                    {
+                        "end": 17,
+                        "id": "976569885009485824",
+                        "start": 3,
+                        "username": "VenturaReport"
+                    }
+                ]
+            },
+            "id": "1324567377800056833",
+            "lang": "en",
+            "public_metrics": {
+                "impression_count": 0,
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 1121
+            },
+            "referenced_tweets": [
+                {
+                    "id": "1324448752573288448",
+                    "type": "retweeted"
+                }
+            ],
+            "reply_settings": "everyone",
+            "text": "RT @VenturaReport: \"Elected officials, Republicans have to stand up and say 'We're going to do our job and stop the steal' \" said @EagleEdM\u2026"
+        },
+        {
+            "author_id": "1186396906756296704",
+            "context_annotations": [
+                {
+                    "domain": {
+                        "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+                        "id": "30",
+                        "name": "Entities [Entity Service]"
+                    },
+                    "entity": {
+                        "id": "781974596752842752",
+                        "name": "Services"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "Brands and Companies",
+                        "id": "47",
+                        "name": "Brand"
+                    },
+                    "entity": {
+                        "id": "10029202045",
+                        "name": "Facebook"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A taxonomy of user interests. ",
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy"
+                    },
+                    "entity": {
+                        "id": "10029202045",
+                        "name": "Facebook"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A taxonomy of user interests. ",
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy"
+                    },
+                    "entity": {
+                        "id": "1196446161223028736",
+                        "name": "Social media"
+                    }
+                }
+            ],
+            "conversation_id": "1324567376763891718",
+            "created_at": "2020-11-06T04:20:46.000Z",
+            "edit_history_tweet_ids": [
+                "1324567376763891718"
+            ],
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 28,
+                        "normalized_text": "Facebook",
+                        "probability": 0.9523,
+                        "start": 21,
+                        "type": "Other"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 19,
+                        "id": "55060090",
+                        "start": 3,
+                        "username": "realTuckFrumper"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "huffpost.com/entry/facebook\u2026",
+                        "end": 132,
+                        "expanded_url": "https://www.huffpost.com/entry/facebook-stop-the-steal-biden-trump-election-violence_n_5fa49c72c5b623bfac4daa0a",
+                        "start": 109,
+                        "status": 200,
+                        "unwound_url": "https://www.huffpost.com/entry/facebook-stop-the-steal-biden-trump-election-violence_n_5fa49c72c5b623bfac4daa0a",
+                        "url": "https://t.co/lPYJH048R5"
+                    }
+                ]
+            },
+            "id": "1324567376763891718",
+            "lang": "en",
+            "public_metrics": {
+                "impression_count": 0,
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 33
+            },
+            "referenced_tweets": [
+                {
+                    "id": "1324560789353672706",
+                    "type": "retweeted"
+                }
+            ],
+            "reply_settings": "everyone",
+            "text": "RT @realTuckFrumper: Facebook Shuts Down \u2018Stop The Steal\u2019 Group Over Election Lies And \u2018Calls For Violence\u2019\n https://t.co/lPYJH048R5"
+        },
+        {
+            "author_id": "1283450167233044480",
+            "context_annotations": [
+                {
+                    "domain": {
+                        "description": "Real world events. ",
+                        "id": "29",
+                        "name": "Events [Entity Service]"
+                    },
+                    "entity": {
+                        "description": "2020 US Presidential Election",
+                        "id": "1029453725360775168",
+                        "name": "2020 US Presidential Election"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A taxonomy of user interests. ",
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy"
+                    },
+                    "entity": {
+                        "description": "2020 US Presidential Election",
+                        "id": "1029453725360775168",
+                        "name": "2020 US Presidential Election"
+                    }
+                }
+            ],
+            "conversation_id": "1324567363820363782",
+            "created_at": "2020-11-06T04:20:43.000Z",
+            "edit_history_tweet_ids": [
+                "1324567363820363782"
+            ],
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 80,
+                        "normalized_text": "Silicon Valley",
+                        "probability": 0.9737,
+                        "start": 67,
+                        "type": "Place"
+                    },
+                    {
+                        "end": 99,
+                        "normalized_text": "Democrats",
+                        "probability": 0.7533,
+                        "start": 91,
+                        "type": "Organization"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 10,
+                        "id": "954124423",
+                        "start": 3,
+                        "username": "AmyMek"
+                    }
+                ]
+            },
+            "id": "1324567363820363782",
+            "lang": "en",
+            "public_metrics": {
+                "impression_count": 0,
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 278
+            },
+            "referenced_tweets": [
+                {
+                    "id": "1324557111091552257",
+                    "type": "retweeted"
+                }
+            ],
+            "reply_settings": "everyone",
+            "text": "RT @AmyMek: Do not stop fighting! \n\nIf we let the left-wing media, Silicon Valley, and the Democrats steal this election, we will never win\u2026",
+            "withheld": {
+                "copyright": false,
+                "country_codes": [
+                    "DE",
+                    "FR"
+                ]
+            }
+        },
+        {
+            "author_id": "21684207",
+            "context_annotations": [
+                {
+                    "domain": {
+                        "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+                        "id": "30",
+                        "name": "Entities [Entity Service]"
+                    },
+                    "entity": {
+                        "id": "781974596752842752",
+                        "name": "Services"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "Brands and Companies",
+                        "id": "47",
+                        "name": "Brand"
+                    },
+                    "entity": {
+                        "id": "10029202045",
+                        "name": "Facebook"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A taxonomy of user interests. ",
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy"
+                    },
+                    "entity": {
+                        "id": "10029202045",
+                        "name": "Facebook"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A taxonomy of user interests. ",
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy"
+                    },
+                    "entity": {
+                        "id": "1196446161223028736",
+                        "name": "Social media"
+                    }
+                }
+            ],
+            "conversation_id": "1324566738663518210",
+            "created_at": "2020-11-06T04:20:43.000Z",
+            "edit_history_tweet_ids": [
+                "1324567362373341190"
+            ],
+            "entities": {
+                "urls": [
+                    {
+                        "display_url": "pic.twitter.com/U3diZrgG9P",
+                        "end": 292,
+                        "expanded_url": "https://twitter.com/Guglielminetti/status/1324567362373341190/photo/1",
+                        "media_key": "3_1324567342194528257",
+                        "start": 269,
+                        "url": "https://t.co/U3diZrgG9P"
+                    }
+                ]
+            },
+            "id": "1324567362373341190",
+            "in_reply_to_user_id": "21684207",
+            "lang": "fr",
+            "public_metrics": {
+                "impression_count": 0,
+                "like_count": 18,
+                "quote_count": 0,
+                "reply_count": 5,
+                "retweet_count": 13
+            },
+            "referenced_tweets": [
+                {
+                    "id": "1324566738663518210",
+                    "type": "replied_to"
+                }
+            ],
+            "reply_settings": "everyone",
+            "text": "Un exemple : le groupe Facebook \"Stop the Steal\" qui a rassembl\u00e9 plus de 360 000 membres en moins de 48 heures avant d'\u00eatre ferm\u00e9 par le r\u00e9seau social. Ses membres incitaient \u00e0 la violence et \u00e0 la d\u00e9sinformation sur le processus de d\u00e9pouillement des voix \u00e0 l'\u00e9lection. https://t.co/U3diZrgG9P"
+        },
+        {
+            "author_id": "1019571215277715456",
+            "context_annotations": [
+                {
+                    "domain": {
+                        "description": "Real world events. ",
+                        "id": "29",
+                        "name": "Events [Entity Service]"
+                    },
+                    "entity": {
+                        "description": "2020 US Presidential Election",
+                        "id": "1029453725360775168",
+                        "name": "2020 US Presidential Election"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A taxonomy of user interests. ",
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy"
+                    },
+                    "entity": {
+                        "description": "2020 US Presidential Election",
+                        "id": "1029453725360775168",
+                        "name": "2020 US Presidential Election"
+                    }
+                }
+            ],
+            "conversation_id": "1324567360414633986",
+            "created_at": "2020-11-06T04:20:42.000Z",
+            "edit_history_tweet_ids": [
+                "1324567360414633986"
+            ],
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 80,
+                        "normalized_text": "Silicon Valley",
+                        "probability": 0.9737,
+                        "start": 67,
+                        "type": "Place"
+                    },
+                    {
+                        "end": 99,
+                        "normalized_text": "Democrats",
+                        "probability": 0.7533,
+                        "start": 91,
+                        "type": "Organization"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 10,
+                        "id": "954124423",
+                        "start": 3,
+                        "username": "AmyMek"
+                    }
+                ]
+            },
+            "id": "1324567360414633986",
+            "lang": "en",
+            "public_metrics": {
+                "impression_count": 0,
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 278
+            },
+            "referenced_tweets": [
+                {
+                    "id": "1324557111091552257",
+                    "type": "retweeted"
+                }
+            ],
+            "reply_settings": "everyone",
+            "text": "RT @AmyMek: Do not stop fighting! \n\nIf we let the left-wing media, Silicon Valley, and the Democrats steal this election, we will never win\u2026",
+            "withheld": {
+                "copyright": false,
+                "country_codes": [
+                    "DE",
+                    "FR"
+                ]
+            }
+        },
+        {
+            "author_id": "565494061",
+            "context_annotations": [
+                {
+                    "domain": {
+                        "description": "Named people in the world like Nelson Mandela",
+                        "id": "10",
+                        "name": "Person"
+                    },
+                    "entity": {
+                        "description": "45th US President, Donald Trump",
+                        "id": "799022225751871488",
+                        "name": "Donald Trump"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "Politicians in the world, like Joe Biden",
+                        "id": "35",
+                        "name": "Politician"
+                    },
+                    "entity": {
+                        "description": "45th US President, Donald Trump",
+                        "id": "799022225751871488",
+                        "name": "Donald Trump"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A taxonomy of user interests. ",
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy"
+                    },
+                    "entity": {
+                        "description": "45th US President, Donald Trump",
+                        "id": "799022225751871488",
+                        "name": "Donald Trump"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A taxonomy of user interests. ",
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy"
+                    },
+                    "entity": {
+                        "description": "Politics",
+                        "id": "847878884917886977",
+                        "name": "Politics"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A taxonomy of user interests. ",
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy"
+                    },
+                    "entity": {
+                        "description": "Politician",
+                        "id": "1070032753834438656",
+                        "name": "Political figures"
+                    }
+                }
+            ],
+            "conversation_id": "1324567359093432320",
+            "created_at": "2020-11-06T04:20:42.000Z",
+            "edit_history_tweet_ids": [
+                "1324567359093432320"
+            ],
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 25,
+                        "normalized_text": "Trump",
+                        "probability": 0.8937,
+                        "start": 21,
+                        "type": "Person"
+                    },
+                    {
+                        "end": 56,
+                        "normalized_text": "Lake Eola",
+                        "probability": 0.9515,
+                        "start": 48,
+                        "type": "Place"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 19,
+                        "id": "1429761",
+                        "start": 3,
+                        "username": "orlandosentinel"
+                    }
+                ]
+            },
+            "id": "1324567359093432320",
+            "lang": "en",
+            "public_metrics": {
+                "impression_count": 0,
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 5
+            },
+            "referenced_tweets": [
+                {
+                    "id": "1324540218943414272",
+                    "type": "retweeted"
+                }
+            ],
+            "reply_settings": "everyone",
+            "text": "RT @orlandosentinel: Trump supporters gather at Lake Eola for \u2018Stop the Steal\u2019 rally as states continue to count votes https://t.co/4XpWYuv\u2026"
+        },
+        {
+            "author_id": "96772855",
+            "context_annotations": [
+                {
+                    "domain": {
+                        "description": "Named people in the world like Nelson Mandela",
+                        "id": "10",
+                        "name": "Person"
+                    },
+                    "entity": {
+                        "description": "45th US President, Donald Trump",
+                        "id": "799022225751871488",
+                        "name": "Donald Trump"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "Politicians in the world, like Joe Biden",
+                        "id": "35",
+                        "name": "Politician"
+                    },
+                    "entity": {
+                        "description": "45th US President, Donald Trump",
+                        "id": "799022225751871488",
+                        "name": "Donald Trump"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A taxonomy of user interests. ",
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy"
+                    },
+                    "entity": {
+                        "description": "Politics",
+                        "id": "847878884917886977",
+                        "name": "Politics"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A taxonomy of user interests. ",
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy"
+                    },
+                    "entity": {
+                        "description": "Politician",
+                        "id": "1070032753834438656",
+                        "name": "Political figures"
+                    }
+                }
+            ],
+            "conversation_id": "1324567354530029569",
+            "created_at": "2020-11-06T04:20:41.000Z",
+            "edit_history_tweet_ids": [
+                "1324567354530029569"
+            ],
+            "entities": {
+                "mentions": [
+                    {
+                        "end": 13,
+                        "id": "826065164504006657",
+                        "start": 3,
+                        "username": "mtgreenee"
+                    },
+                    {
+                        "end": 41,
+                        "id": "25073877",
+                        "start": 25,
+                        "username": "realDonaldTrump"
+                    }
+                ]
+            },
+            "id": "1324567354530029569",
+            "lang": "en",
+            "public_metrics": {
+                "impression_count": 0,
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 1278
+            },
+            "referenced_tweets": [
+                {
+                    "id": "1324514071799042048",
+                    "type": "retweeted"
+                }
+            ],
+            "reply_settings": "everyone",
+            "text": "RT @mtgreenee: President @realDonaldTrump taught Republicans not to be spineless hacks and FIGHT BACK. \n\nSome weak-kneed Republicans haven\u2019\u2026"
+        },
+        {
+            "author_id": "34974808",
+            "conversation_id": "1324567336406405122",
+            "created_at": "2020-11-06T04:20:36.000Z",
+            "edit_history_tweet_ids": [
+                "1324567336406405122"
+            ],
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 96,
+                        "normalized_text": "Harrisburg Capitol Building",
+                        "probability": 0.5675,
+                        "start": 70,
+                        "type": "Place"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 16,
+                        "id": "931286316",
+                        "start": 3,
+                        "username": "ScottPresler"
+                    }
+                ]
+            },
+            "id": "1324567336406405122",
+            "lang": "en",
+            "public_metrics": {
+                "impression_count": 0,
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 2321
+            },
+            "referenced_tweets": [
+                {
+                    "id": "1324564085342642176",
+                    "type": "retweeted"
+                }
+            ],
+            "reply_settings": "everyone",
+            "text": "RT @ScottPresler: We will be out, again, in front of the steps of the Harrisburg Capitol Building\n\non Friday, November 6th, @ noon.\n\nBring\u2026"
+        },
+        {
+            "author_id": "845719214",
+            "conversation_id": "1324567308359159808",
+            "created_at": "2020-11-06T04:20:30.000Z",
+            "edit_history_tweet_ids": [
+                "1324567308359159808"
+            ],
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 96,
+                        "normalized_text": "Harrisburg Capitol Building",
+                        "probability": 0.5675,
+                        "start": 70,
+                        "type": "Place"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 16,
+                        "id": "931286316",
+                        "start": 3,
+                        "username": "ScottPresler"
+                    }
+                ]
+            },
+            "id": "1324567308359159808",
+            "lang": "en",
+            "public_metrics": {
+                "impression_count": 0,
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 2321
+            },
+            "referenced_tweets": [
+                {
+                    "id": "1324564085342642176",
+                    "type": "retweeted"
+                }
+            ],
+            "reply_settings": "everyone",
+            "text": "RT @ScottPresler: We will be out, again, in front of the steps of the Harrisburg Capitol Building\n\non Friday, November 6th, @ noon.\n\nBring\u2026"
+        },
+        {
+            "author_id": "1280484094296633350",
+            "context_annotations": [
+                {
+                    "domain": {
+                        "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+                        "id": "30",
+                        "name": "Entities [Entity Service]"
+                    },
+                    "entity": {
+                        "id": "781974596752842752",
+                        "name": "Services"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "Brands and Companies",
+                        "id": "47",
+                        "name": "Brand"
+                    },
+                    "entity": {
+                        "id": "10029202045",
+                        "name": "Facebook"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A taxonomy of user interests. ",
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy"
+                    },
+                    "entity": {
+                        "id": "10029202045",
+                        "name": "Facebook"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A taxonomy of user interests. ",
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy"
+                    },
+                    "entity": {
+                        "id": "1196446161223028736",
+                        "name": "Social media"
+                    }
+                }
+            ],
+            "conversation_id": "1324567305943175168",
+            "created_at": "2020-11-06T04:20:29.000Z",
+            "edit_history_tweet_ids": [
+                "1324567305943175168"
+            ],
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 38,
+                        "normalized_text": "Facebook",
+                        "probability": 0.9534,
+                        "start": 31,
+                        "type": "Other"
+                    },
+                    {
+                        "end": 80,
+                        "normalized_text": "Facebook",
+                        "probability": 0.9562,
+                        "start": 73,
+                        "type": "Other"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 16,
+                        "id": "107433523",
+                        "start": 3,
+                        "username": "ChrisRBarron"
+                    }
+                ]
+            },
+            "id": "1324567305943175168",
+            "lang": "en",
+            "public_metrics": {
+                "impression_count": 0,
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 3985
+            },
+            "referenced_tweets": [
+                {
+                    "id": "1324421887204753410",
+                    "type": "retweeted"
+                }
+            ],
+            "reply_settings": "everyone",
+            "text": "RT @ChrisRBarron: \ud83d\udea8\ud83d\udea8BREAKING\ud83d\udea8\ud83d\udea8 Facebook has shut down the Stop the Steal Facebook group that had 365,000 members. Is this how social media\u2026"
+        },
+        {
+            "author_id": "36707503",
+            "conversation_id": "1324567302470160385",
+            "created_at": "2020-11-06T04:20:28.000Z",
+            "edit_history_tweet_ids": [
+                "1324567302470160385"
+            ],
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 96,
+                        "normalized_text": "Harrisburg Capitol Building",
+                        "probability": 0.5675,
+                        "start": 70,
+                        "type": "Place"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 16,
+                        "id": "931286316",
+                        "start": 3,
+                        "username": "ScottPresler"
+                    }
+                ]
+            },
+            "id": "1324567302470160385",
+            "lang": "en",
+            "public_metrics": {
+                "impression_count": 0,
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 2321
+            },
+            "referenced_tweets": [
+                {
+                    "id": "1324564085342642176",
+                    "type": "retweeted"
+                }
+            ],
+            "reply_settings": "everyone",
+            "text": "RT @ScottPresler: We will be out, again, in front of the steps of the Harrisburg Capitol Building\n\non Friday, November 6th, @ noon.\n\nBring\u2026"
+        },
+        {
+            "author_id": "532312527",
+            "context_annotations": [
+                {
+                    "domain": {
+                        "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+                        "id": "30",
+                        "name": "Entities [Entity Service]"
+                    },
+                    "entity": {
+                        "id": "781974596752842752",
+                        "name": "Services"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "Brands and Companies",
+                        "id": "47",
+                        "name": "Brand"
+                    },
+                    "entity": {
+                        "id": "10029202045",
+                        "name": "Facebook"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A taxonomy of user interests. ",
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy"
+                    },
+                    "entity": {
+                        "id": "10029202045",
+                        "name": "Facebook"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A taxonomy of user interests. ",
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy"
+                    },
+                    "entity": {
+                        "id": "1196446161223028736",
+                        "name": "Social media"
+                    }
+                }
+            ],
+            "conversation_id": "1324567295796994049",
+            "created_at": "2020-11-06T04:20:27.000Z",
+            "edit_history_tweet_ids": [
+                "1324567295796994049"
+            ],
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 59,
+                        "normalized_text": "Facebook",
+                        "probability": 0.9533,
+                        "start": 52,
+                        "type": "Other"
+                    },
+                    {
+                        "end": 92,
+                        "normalized_text": "Stop the Steal",
+                        "probability": 0.869,
+                        "start": 79,
+                        "type": "Other"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 17,
+                        "id": "601535938",
+                        "start": 3,
+                        "username": "RealMattCouch"
+                    }
+                ]
+            },
+            "id": "1324567295796994049",
+            "lang": "en",
+            "public_metrics": {
+                "impression_count": 0,
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 3734
+            },
+            "referenced_tweets": [
+                {
+                    "id": "1324431435734933505",
+                    "type": "retweeted"
+                }
+            ],
+            "reply_settings": "everyone",
+            "text": "RT @RealMattCouch: BREAKING: A group was created on Facebook yesterday called \"Stop the Steal\" it quickly garnered almost 300,000 members i\u2026"
+        },
+        {
+            "author_id": "1115626938",
+            "conversation_id": "1324567292068438016",
+            "created_at": "2020-11-06T04:20:26.000Z",
+            "edit_history_tweet_ids": [
+                "1324567292068438016"
+            ],
+            "entities": {
+                "hashtags": [
+                    {
+                        "end": 41,
+                        "start": 31,
+                        "tag": "freecarpe"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 13,
+                        "id": "997503485707943937",
+                        "start": 3,
+                        "username": "Solmemes1"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "twitter.com/Solmemes1/stat\u2026",
+                        "end": 65,
+                        "expanded_url": "https://twitter.com/Solmemes1/status/1324562238607425537/video/1",
+                        "start": 42,
+                        "url": "https://t.co/Mh9nZD3Mdf"
+                    }
+                ]
+            },
+            "id": "1324567292068438016",
+            "lang": "en",
+            "public_metrics": {
+                "impression_count": 0,
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 66
+            },
+            "referenced_tweets": [
+                {
+                    "id": "1324562238607425537",
+                    "type": "retweeted"
+                }
+            ],
+            "reply_settings": "everyone",
+            "text": "RT @Solmemes1: Stop the steal\n\n#freecarpe https://t.co/Mh9nZD3Mdf"
+        },
+        {
+            "author_id": "29770862",
+            "context_annotations": [
+                {
+                    "domain": {
+                        "description": "A taxonomy of user interests. ",
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy"
+                    },
+                    "entity": {
+                        "description": "Music and radio",
+                        "id": "847524658970636288",
+                        "name": "Music"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A taxonomy of user interests. ",
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy"
+                    },
+                    "entity": {
+                        "id": "1297717277677166593",
+                        "name": "Karaoke"
+                    }
+                }
+            ],
+            "conversation_id": "1324567291715964929",
+            "created_at": "2020-11-06T04:20:26.000Z",
+            "edit_history_tweet_ids": [
+                "1324567291715964929"
+            ],
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 69,
+                        "normalized_text": "Harrisburg",
+                        "probability": 0.9769,
+                        "start": 60,
+                        "type": "Place"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 17,
+                        "id": "127950286",
+                        "start": 3,
+                        "username": "letsgomathias"
+                    }
+                ]
+            },
+            "id": "1324567291715964929",
+            "lang": "en",
+            "public_metrics": {
+                "impression_count": 0,
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 212
+            },
+            "referenced_tweets": [
+                {
+                    "id": "1324461500128481280",
+                    "type": "retweeted"
+                }
+            ],
+            "reply_settings": "everyone",
+            "text": "RT @letsgomathias: So the \u201cstop the steal\u201d demonstration in Harrisburg has devolved into... a MAGA karaoke session with a a couple dozen pe\u2026"
+        },
+        {
+            "author_id": "839915725",
+            "conversation_id": "1324567287131787266",
+            "created_at": "2020-11-06T04:20:25.000Z",
+            "edit_history_tweet_ids": [
+                "1324567287131787266"
+            ],
+            "entities": {
+                "mentions": [
+                    {
+                        "end": 13,
+                        "id": "389318167",
+                        "start": 3,
+                        "username": "JoyFlick1"
+                    }
+                ]
+            },
+            "id": "1324567287131787266",
+            "lang": "en",
+            "public_metrics": {
+                "impression_count": 0,
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 2
+            },
+            "referenced_tweets": [
+                {
+                    "id": "1324566456449847297",
+                    "type": "retweeted"
+                }
+            ],
+            "reply_settings": "everyone",
+            "text": "RT @JoyFlick1: HOLY CRAP!!! For the love of God, somebody STOP THE STEAL!\nAre we to just sit by and watch our votes being nullified?\n https\u2026"
+        },
+        {
+            "author_id": "567554207",
+            "conversation_id": "1324567282815676416",
+            "created_at": "2020-11-06T04:20:24.000Z",
+            "edit_history_tweet_ids": [
+                "1324567282815676416"
+            ],
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 96,
+                        "normalized_text": "Harrisburg Capitol Building",
+                        "probability": 0.5675,
+                        "start": 70,
+                        "type": "Place"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 16,
+                        "id": "931286316",
+                        "start": 3,
+                        "username": "ScottPresler"
+                    }
+                ]
+            },
+            "id": "1324567282815676416",
+            "lang": "en",
+            "public_metrics": {
+                "impression_count": 0,
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 2321
+            },
+            "referenced_tweets": [
+                {
+                    "id": "1324564085342642176",
+                    "type": "retweeted"
+                }
+            ],
+            "reply_settings": "everyone",
+            "text": "RT @ScottPresler: We will be out, again, in front of the steps of the Harrisburg Capitol Building\n\non Friday, November 6th, @ noon.\n\nBring\u2026"
+        },
+        {
+            "author_id": "1272603531204329475",
+            "conversation_id": "1324567278927695872",
+            "created_at": "2020-11-06T04:20:23.000Z",
+            "edit_history_tweet_ids": [
+                "1324567278927695872"
+            ],
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 96,
+                        "normalized_text": "Harrisburg Capitol Building",
+                        "probability": 0.5675,
+                        "start": 70,
+                        "type": "Place"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 16,
+                        "id": "931286316",
+                        "start": 3,
+                        "username": "ScottPresler"
+                    }
+                ]
+            },
+            "id": "1324567278927695872",
+            "lang": "en",
+            "public_metrics": {
+                "impression_count": 0,
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 2321
+            },
+            "referenced_tweets": [
+                {
+                    "id": "1324564085342642176",
+                    "type": "retweeted"
+                }
+            ],
+            "reply_settings": "everyone",
+            "text": "RT @ScottPresler: We will be out, again, in front of the steps of the Harrisburg Capitol Building\n\non Friday, November 6th, @ noon.\n\nBring\u2026"
+        },
+        {
+            "author_id": "1168949004",
+            "conversation_id": "1324567276960518147",
+            "created_at": "2020-11-06T04:20:22.000Z",
+            "edit_history_tweet_ids": [
+                "1324567276960518147"
+            ],
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 96,
+                        "normalized_text": "Harrisburg Capitol Building",
+                        "probability": 0.5675,
+                        "start": 70,
+                        "type": "Place"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 16,
+                        "id": "931286316",
+                        "start": 3,
+                        "username": "ScottPresler"
+                    }
+                ]
+            },
+            "id": "1324567276960518147",
+            "lang": "en",
+            "public_metrics": {
+                "impression_count": 0,
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 2321
+            },
+            "referenced_tweets": [
+                {
+                    "id": "1324564085342642176",
+                    "type": "retweeted"
+                }
+            ],
+            "reply_settings": "everyone",
+            "text": "RT @ScottPresler: We will be out, again, in front of the steps of the Harrisburg Capitol Building\n\non Friday, November 6th, @ noon.\n\nBring\u2026"
+        },
+        {
+            "author_id": "444953078",
+            "conversation_id": "1324567276654194689",
+            "created_at": "2020-11-06T04:20:22.000Z",
+            "edit_history_tweet_ids": [
+                "1324567276654194689"
+            ],
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 96,
+                        "normalized_text": "Harrisburg Capitol Building",
+                        "probability": 0.5675,
+                        "start": 70,
+                        "type": "Place"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 16,
+                        "id": "931286316",
+                        "start": 3,
+                        "username": "ScottPresler"
+                    }
+                ]
+            },
+            "id": "1324567276654194689",
+            "lang": "en",
+            "public_metrics": {
+                "impression_count": 0,
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 2321
+            },
+            "referenced_tweets": [
+                {
+                    "id": "1324564085342642176",
+                    "type": "retweeted"
+                }
+            ],
+            "reply_settings": "everyone",
+            "text": "RT @ScottPresler: We will be out, again, in front of the steps of the Harrisburg Capitol Building\n\non Friday, November 6th, @ noon.\n\nBring\u2026"
+        },
+        {
+            "author_id": "1143329352047845382",
+            "conversation_id": "1324567260112035843",
+            "created_at": "2020-11-06T04:20:18.000Z",
+            "edit_history_tweet_ids": [
+                "1324567260112035843"
+            ],
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 96,
+                        "normalized_text": "Harrisburg Capitol Building",
+                        "probability": 0.5675,
+                        "start": 70,
+                        "type": "Place"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 16,
+                        "id": "931286316",
+                        "start": 3,
+                        "username": "ScottPresler"
+                    }
+                ]
+            },
+            "id": "1324567260112035843",
+            "lang": "en",
+            "public_metrics": {
+                "impression_count": 0,
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 2321
+            },
+            "referenced_tweets": [
+                {
+                    "id": "1324564085342642176",
+                    "type": "retweeted"
+                }
+            ],
+            "reply_settings": "everyone",
+            "text": "RT @ScottPresler: We will be out, again, in front of the steps of the Harrisburg Capitol Building\n\non Friday, November 6th, @ noon.\n\nBring\u2026"
+        },
+        {
+            "author_id": "26193351",
+            "conversation_id": "1324567259474546688",
+            "created_at": "2020-11-06T04:20:18.000Z",
+            "edit_history_tweet_ids": [
+                "1324567259474546688"
+            ],
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 96,
+                        "normalized_text": "Harrisburg Capitol Building",
+                        "probability": 0.5675,
+                        "start": 70,
+                        "type": "Place"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 16,
+                        "id": "931286316",
+                        "start": 3,
+                        "username": "ScottPresler"
+                    }
+                ]
+            },
+            "id": "1324567259474546688",
+            "lang": "en",
+            "public_metrics": {
+                "impression_count": 0,
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 2321
+            },
+            "referenced_tweets": [
+                {
+                    "id": "1324564085342642176",
+                    "type": "retweeted"
+                }
+            ],
+            "reply_settings": "everyone",
+            "text": "RT @ScottPresler: We will be out, again, in front of the steps of the Harrisburg Capitol Building\n\non Friday, November 6th, @ noon.\n\nBring\u2026"
+        },
+        {
+            "author_id": "2451612877",
+            "conversation_id": "1324567252478222336",
+            "created_at": "2020-11-06T04:20:16.000Z",
+            "edit_history_tweet_ids": [
+                "1324567252478222336"
+            ],
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 96,
+                        "normalized_text": "Harrisburg Capitol Building",
+                        "probability": 0.5675,
+                        "start": 70,
+                        "type": "Place"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 16,
+                        "id": "931286316",
+                        "start": 3,
+                        "username": "ScottPresler"
+                    }
+                ]
+            },
+            "id": "1324567252478222336",
+            "lang": "en",
+            "public_metrics": {
+                "impression_count": 0,
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 2321
+            },
+            "referenced_tweets": [
+                {
+                    "id": "1324564085342642176",
+                    "type": "retweeted"
+                }
+            ],
+            "reply_settings": "everyone",
+            "text": "RT @ScottPresler: We will be out, again, in front of the steps of the Harrisburg Capitol Building\n\non Friday, November 6th, @ noon.\n\nBring\u2026"
+        },
+        {
+            "author_id": "295452645",
+            "context_annotations": [
+                {
+                    "domain": {
+                        "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+                        "id": "30",
+                        "name": "Entities [Entity Service]"
+                    },
+                    "entity": {
+                        "id": "781974596752842752",
+                        "name": "Services"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "Brands and Companies",
+                        "id": "47",
+                        "name": "Brand"
+                    },
+                    "entity": {
+                        "id": "10029202045",
+                        "name": "Facebook"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "Brands and Companies",
+                        "id": "47",
+                        "name": "Brand"
+                    },
+                    "entity": {
+                        "description": "The Hill",
+                        "id": "1100053375620534275",
+                        "name": "The Hill"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A taxonomy of user interests. ",
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy"
+                    },
+                    "entity": {
+                        "id": "10029202045",
+                        "name": "Facebook"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A taxonomy of user interests. ",
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy"
+                    },
+                    "entity": {
+                        "description": "News",
+                        "id": "1046545033657081857",
+                        "name": "News"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A taxonomy of user interests. ",
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy"
+                    },
+                    "entity": {
+                        "description": "The Hill",
+                        "id": "1100053375620534275",
+                        "name": "The Hill"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A taxonomy of user interests. ",
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy"
+                    },
+                    "entity": {
+                        "id": "1196446161223028736",
+                        "name": "Social media"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A taxonomy of user interests. ",
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy"
+                    },
+                    "entity": {
+                        "id": "1196447117297905665",
+                        "name": "News outlets"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "Real world events. ",
+                        "id": "29",
+                        "name": "Events [Entity Service]"
+                    },
+                    "entity": {
+                        "id": "1260821905491152896",
+                        "name": "Misinformation, debunk entity"
+                    }
+                }
+            ],
+            "conversation_id": "1324567243338866688",
+            "created_at": "2020-11-06T04:20:14.000Z",
+            "edit_history_tweet_ids": [
+                "1324567243338866688"
+            ],
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 29,
+                        "normalized_text": "Facebook",
+                        "probability": 0.9542,
+                        "start": 22,
+                        "type": "Other"
+                    },
+                    {
+                        "end": 93,
+                        "normalized_text": "Trump",
+                        "probability": 0.8999,
+                        "start": 89,
+                        "type": "Person"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 11,
+                        "id": "1917731",
+                        "start": 3,
+                        "username": "thehill"
+                    }
+                ]
+            },
+            "id": "1324567243338866688",
+            "lang": "en",
+            "public_metrics": {
+                "impression_count": 0,
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 188
+            },
+            "referenced_tweets": [
+                {
+                    "id": "1324444646123200512",
+                    "type": "retweeted"
+                }
+            ],
+            "reply_settings": "everyone",
+            "text": "RT @thehill: JUST IN: Facebook takes down massive \"Stop the Steal\" group that spread pro-Trump election misinformation https://t.co/OGb6mgz\u2026"
+        },
+        {
+            "author_id": "1068317435600752640",
+            "conversation_id": "1324567239392169984",
+            "created_at": "2020-11-06T04:20:13.000Z",
+            "edit_history_tweet_ids": [
+                "1324567239392169984"
+            ],
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 96,
+                        "normalized_text": "Harrisburg Capitol Building",
+                        "probability": 0.5675,
+                        "start": 70,
+                        "type": "Place"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 16,
+                        "id": "931286316",
+                        "start": 3,
+                        "username": "ScottPresler"
+                    }
+                ]
+            },
+            "id": "1324567239392169984",
+            "lang": "en",
+            "public_metrics": {
+                "impression_count": 0,
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 2321
+            },
+            "referenced_tweets": [
+                {
+                    "id": "1324564085342642176",
+                    "type": "retweeted"
+                }
+            ],
+            "reply_settings": "everyone",
+            "text": "RT @ScottPresler: We will be out, again, in front of the steps of the Harrisburg Capitol Building\n\non Friday, November 6th, @ noon.\n\nBring\u2026"
+        },
+        {
+            "author_id": "4878077669",
+            "context_annotations": [
+                {
+                    "domain": {
+                        "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+                        "id": "30",
+                        "name": "Entities [Entity Service]"
+                    },
+                    "entity": {
+                        "id": "781974596752842752",
+                        "name": "Services"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "Brands and Companies",
+                        "id": "47",
+                        "name": "Brand"
+                    },
+                    "entity": {
+                        "id": "10029202045",
+                        "name": "Facebook"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A taxonomy of user interests. ",
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy"
+                    },
+                    "entity": {
+                        "id": "10029202045",
+                        "name": "Facebook"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A taxonomy of user interests. ",
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy"
+                    },
+                    "entity": {
+                        "id": "1196446161223028736",
+                        "name": "Social media"
+                    }
+                }
+            ],
+            "conversation_id": "1324567235097251841",
+            "created_at": "2020-11-06T04:20:12.000Z",
+            "edit_history_tweet_ids": [
+                "1324567235097251841"
+            ],
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 41,
+                        "normalized_text": "Facebook",
+                        "probability": 0.8996,
+                        "start": 34,
+                        "type": "Other"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 16,
+                        "id": "928093930624901122",
+                        "start": 3,
+                        "username": "novaeramidia"
+                    }
+                ]
+            },
+            "id": "1324567235097251841",
+            "lang": "pt",
+            "public_metrics": {
+                "impression_count": 0,
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 518
+            },
+            "referenced_tweets": [
+                {
+                    "id": "1324432190118203398",
+                    "type": "retweeted"
+                }
+            ],
+            "reply_settings": "everyone",
+            "text": "RT @novaeramidia: \ud83c\uddfa\ud83c\uddf8 | CENSURA: O Facebook fechou o grupo Stop the Steal que tinha 365.000 membros monitorando fraudes eleitorais."
+        },
+        {
+            "author_id": "1040074382729723905",
+            "conversation_id": "1324567225685127168",
+            "created_at": "2020-11-06T04:20:10.000Z",
+            "edit_history_tweet_ids": [
+                "1324567225685127168"
+            ],
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 96,
+                        "normalized_text": "Harrisburg Capitol Building",
+                        "probability": 0.5675,
+                        "start": 70,
+                        "type": "Place"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 16,
+                        "id": "931286316",
+                        "start": 3,
+                        "username": "ScottPresler"
+                    }
+                ]
+            },
+            "id": "1324567225685127168",
+            "lang": "en",
+            "public_metrics": {
+                "impression_count": 0,
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 2321
+            },
+            "referenced_tweets": [
+                {
+                    "id": "1324564085342642176",
+                    "type": "retweeted"
+                }
+            ],
+            "reply_settings": "everyone",
+            "text": "RT @ScottPresler: We will be out, again, in front of the steps of the Harrisburg Capitol Building\n\non Friday, November 6th, @ noon.\n\nBring\u2026"
+        },
+        {
+            "author_id": "1225994172546650112",
+            "conversation_id": "1324567224007462912",
+            "created_at": "2020-11-06T04:20:10.000Z",
+            "edit_history_tweet_ids": [
+                "1324567224007462912"
+            ],
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 96,
+                        "normalized_text": "Harrisburg Capitol Building",
+                        "probability": 0.5675,
+                        "start": 70,
+                        "type": "Place"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 16,
+                        "id": "931286316",
+                        "start": 3,
+                        "username": "ScottPresler"
+                    }
+                ]
+            },
+            "id": "1324567224007462912",
+            "lang": "en",
+            "public_metrics": {
+                "impression_count": 0,
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 2321
+            },
+            "referenced_tweets": [
+                {
+                    "id": "1324564085342642176",
+                    "type": "retweeted"
+                }
+            ],
+            "reply_settings": "everyone",
+            "text": "RT @ScottPresler: We will be out, again, in front of the steps of the Harrisburg Capitol Building\n\non Friday, November 6th, @ noon.\n\nBring\u2026"
+        },
+        {
+            "author_id": "229954866",
+            "context_annotations": [
+                {
+                    "domain": {
+                        "description": "Named people in the world like Nelson Mandela",
+                        "id": "10",
+                        "name": "Person"
+                    },
+                    "entity": {
+                        "description": "Donald Trump Jr.",
+                        "id": "884781076484202496",
+                        "name": "Donald Trump Jr."
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A taxonomy of user interests. ",
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy"
+                    },
+                    "entity": {
+                        "description": "Politics",
+                        "id": "847878884917886977",
+                        "name": "Politics"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A taxonomy of user interests. ",
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy"
+                    },
+                    "entity": {
+                        "description": "Donald Trump Jr.",
+                        "id": "884781076484202496",
+                        "name": "Donald Trump Jr."
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A taxonomy of user interests. ",
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy"
+                    },
+                    "entity": {
+                        "description": "Politician",
+                        "id": "1070032753834438656",
+                        "name": "Political figures"
+                    }
+                }
+            ],
+            "conversation_id": "1324567222837219328",
+            "created_at": "2020-11-06T04:20:09.000Z",
+            "edit_history_tweet_ids": [
+                "1324567222837219328"
+            ],
+            "entities": {
+                "mentions": [
+                    {
+                        "end": 13,
+                        "id": "826065164504006657",
+                        "start": 3,
+                        "username": "mtgreenee"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "twitter.com/TeamTrump/stat\u2026",
+                        "end": 54,
+                        "expanded_url": "https://twitter.com/TeamTrump/status/1324542022540283904",
+                        "start": 31,
+                        "url": "https://t.co/UJ1CUdg8QW"
+                    }
+                ]
+            },
+            "id": "1324567222837219328",
+            "lang": "en",
+            "public_metrics": {
+                "impression_count": 0,
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 413
+            },
+            "referenced_tweets": [
+                {
+                    "id": "1324553584957116418",
+                    "type": "retweeted"
+                }
+            ],
+            "reply_settings": "everyone",
+            "text": "RT @mtgreenee: STOP THE STEAL! https://t.co/UJ1CUdg8QW"
+        },
+        {
+            "author_id": "289424501",
+            "conversation_id": "1324567218231808000",
+            "created_at": "2020-11-06T04:20:08.000Z",
+            "edit_history_tweet_ids": [
+                "1324567218231808000"
+            ],
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 39,
+                        "normalized_text": "Michigan",
+                        "probability": 0.8902,
+                        "start": 32,
+                        "type": "Place"
+                    },
+                    {
+                        "end": 53,
+                        "normalized_text": "Wisconsin",
+                        "probability": 0.9656,
+                        "start": 45,
+                        "type": "Place"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "twitter.com/DrewBaye/statu\u2026",
+                        "end": 97,
+                        "expanded_url": "https://twitter.com/DrewBaye/status/1324537575189762050",
+                        "start": 74,
+                        "url": "https://t.co/DgCzhK8bFv"
+                    }
+                ]
+            },
+            "id": "1324567218231808000",
+            "lang": "en",
+            "public_metrics": {
+                "impression_count": 0,
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "reply_settings": "everyone",
+            "text": "Same curve, same cause for both Michigan and Wisconsin.\n\nSTOP THE STEAL ! https://t.co/DgCzhK8bFv"
+        },
+        {
+            "author_id": "270746819",
+            "conversation_id": "1324567200192032771",
+            "created_at": "2020-11-06T04:20:04.000Z",
+            "edit_history_tweet_ids": [
+                "1324567200192032771"
+            ],
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 96,
+                        "normalized_text": "Harrisburg Capitol Building",
+                        "probability": 0.5675,
+                        "start": 70,
+                        "type": "Place"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 16,
+                        "id": "931286316",
+                        "start": 3,
+                        "username": "ScottPresler"
+                    }
+                ]
+            },
+            "id": "1324567200192032771",
+            "lang": "en",
+            "public_metrics": {
+                "impression_count": 0,
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 2321
+            },
+            "referenced_tweets": [
+                {
+                    "id": "1324564085342642176",
+                    "type": "retweeted"
+                }
+            ],
+            "reply_settings": "everyone",
+            "text": "RT @ScottPresler: We will be out, again, in front of the steps of the Harrisburg Capitol Building\n\non Friday, November 6th, @ noon.\n\nBring\u2026"
+        },
+        {
+            "author_id": "952676404788830208",
+            "context_annotations": [
+                {
+                    "domain": {
+                        "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+                        "id": "30",
+                        "name": "Entities [Entity Service]"
+                    },
+                    "entity": {
+                        "id": "781974596752842752",
+                        "name": "Services"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "Brands and Companies",
+                        "id": "47",
+                        "name": "Brand"
+                    },
+                    "entity": {
+                        "id": "10029202045",
+                        "name": "Facebook"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A taxonomy of user interests. ",
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy"
+                    },
+                    "entity": {
+                        "id": "10029202045",
+                        "name": "Facebook"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A taxonomy of user interests. ",
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy"
+                    },
+                    "entity": {
+                        "id": "1196446161223028736",
+                        "name": "Social media"
+                    }
+                }
+            ],
+            "conversation_id": "1324567199156064257",
+            "created_at": "2020-11-06T04:20:04.000Z",
+            "edit_history_tweet_ids": [
+                "1324567199156064257"
+            ],
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 59,
+                        "normalized_text": "Facebook",
+                        "probability": 0.9533,
+                        "start": 52,
+                        "type": "Other"
+                    },
+                    {
+                        "end": 92,
+                        "normalized_text": "Stop the Steal",
+                        "probability": 0.869,
+                        "start": 79,
+                        "type": "Other"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 17,
+                        "id": "601535938",
+                        "start": 3,
+                        "username": "RealMattCouch"
+                    }
+                ]
+            },
+            "id": "1324567199156064257",
+            "lang": "en",
+            "public_metrics": {
+                "impression_count": 0,
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 3734
+            },
+            "referenced_tweets": [
+                {
+                    "id": "1324431435734933505",
+                    "type": "retweeted"
+                }
+            ],
+            "reply_settings": "everyone",
+            "text": "RT @RealMattCouch: BREAKING: A group was created on Facebook yesterday called \"Stop the Steal\" it quickly garnered almost 300,000 members i\u2026"
+        },
+        {
+            "author_id": "1073676020",
+            "context_annotations": [
+                {
+                    "domain": {
+                        "description": "Named people in the world like Nelson Mandela",
+                        "id": "10",
+                        "name": "Person"
+                    },
+                    "entity": {
+                        "description": "45th US President, Donald Trump",
+                        "id": "799022225751871488",
+                        "name": "Donald Trump"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "Real world events. ",
+                        "id": "29",
+                        "name": "Events [Entity Service]"
+                    },
+                    "entity": {
+                        "description": "2020 US Presidential Election",
+                        "id": "1029453725360775168",
+                        "name": "2020 US Presidential Election"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "Politicians in the world, like Joe Biden",
+                        "id": "35",
+                        "name": "Politician"
+                    },
+                    "entity": {
+                        "description": "45th US President, Donald Trump",
+                        "id": "799022225751871488",
+                        "name": "Donald Trump"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "Brands and Companies",
+                        "id": "47",
+                        "name": "Brand"
+                    },
+                    "entity": {
+                        "description": "India Today",
+                        "id": "1106568395376332801",
+                        "name": "India Today"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A taxonomy of user interests. ",
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy"
+                    },
+                    "entity": {
+                        "description": "45th US President, Donald Trump",
+                        "id": "799022225751871488",
+                        "name": "Donald Trump"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A taxonomy of user interests. ",
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy"
+                    },
+                    "entity": {
+                        "description": "Politics",
+                        "id": "847878884917886977",
+                        "name": "Politics"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A taxonomy of user interests. ",
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy"
+                    },
+                    "entity": {
+                        "description": "2020 US Presidential Election",
+                        "id": "1029453725360775168",
+                        "name": "2020 US Presidential Election"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A taxonomy of user interests. ",
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy"
+                    },
+                    "entity": {
+                        "description": "News",
+                        "id": "1046545033657081857",
+                        "name": "News"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A taxonomy of user interests. ",
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy"
+                    },
+                    "entity": {
+                        "description": "Politician",
+                        "id": "1070032753834438656",
+                        "name": "Political figures"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A taxonomy of user interests. ",
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy"
+                    },
+                    "entity": {
+                        "id": "1286381671713894402",
+                        "name": "Asia Pacific"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A taxonomy of user interests. ",
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy"
+                    },
+                    "entity": {
+                        "id": "1291717277021216769",
+                        "name": "India national news"
+                    }
+                }
+            ],
+            "conversation_id": "1324567193678274563",
+            "created_at": "2020-11-06T04:20:02.000Z",
+            "edit_history_tweet_ids": [
+                "1324567193678274563"
+            ],
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 48,
+                        "normalized_text": "Trump",
+                        "probability": 0.9748,
+                        "start": 44,
+                        "type": "Person"
+                    },
+                    {
+                        "end": 72,
+                        "normalized_text": "Democrats",
+                        "probability": 0.6932,
+                        "start": 64,
+                        "type": "Organization"
+                    },
+                    {
+                        "end": 138,
+                        "normalized_text": "USPr",
+                        "probability": 0.4662,
+                        "start": 135,
+                        "type": "Place"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 14,
+                        "id": "19897138",
+                        "start": 3,
+                        "username": "IndiaToday"
+                    }
+                ]
+            },
+            "id": "1324567193678274563",
+            "lang": "en",
+            "public_metrics": {
+                "impression_count": 0,
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 1
+            },
+            "referenced_tweets": [
+                {
+                    "id": "1324566948043137025",
+                    "type": "retweeted"
+                }
+            ],
+            "reply_settings": "everyone",
+            "text": "RT @IndiaToday: While addressing the media, Trump insisted that Democrats were using \"illegal votes\" to \"steal the election from us\".\n#USPr\u2026"
+        },
+        {
+            "author_id": "1691497362",
+            "context_annotations": [
+                {
+                    "domain": {
+                        "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+                        "id": "30",
+                        "name": "Entities [Entity Service]"
+                    },
+                    "entity": {
+                        "id": "781974596752842752",
+                        "name": "Services"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "Brands and Companies",
+                        "id": "47",
+                        "name": "Brand"
+                    },
+                    "entity": {
+                        "id": "10029202045",
+                        "name": "Facebook"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A taxonomy of user interests. ",
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy"
+                    },
+                    "entity": {
+                        "id": "10029202045",
+                        "name": "Facebook"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A taxonomy of user interests. ",
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy"
+                    },
+                    "entity": {
+                        "id": "1196446161223028736",
+                        "name": "Social media"
+                    }
+                }
+            ],
+            "conversation_id": "1324567186522968066",
+            "created_at": "2020-11-06T04:20:01.000Z",
+            "edit_history_tweet_ids": [
+                "1324567186522968066"
+            ],
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 24,
+                        "normalized_text": "Facebook",
+                        "probability": 0.9382,
+                        "start": 17,
+                        "type": "Other"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 15,
+                        "id": "469194846",
+                        "start": 3,
+                        "username": "TwitchyTeam"
+                    }
+                ]
+            },
+            "id": "1324567186522968066",
+            "lang": "en",
+            "public_metrics": {
+                "impression_count": 0,
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 22
+            },
+            "referenced_tweets": [
+                {
+                    "id": "1324479117841018880",
+                    "type": "retweeted"
+                }
+            ],
+            "reply_settings": "everyone",
+            "text": "RT @TwitchyTeam: Facebook takes down \u2018Stop the Steal\u2019 group that had added 365,000 members due to \u2018worrying calls for violence\u2019 https://t.c\u2026"
+        },
+        {
+            "author_id": "1231305603542372355",
+            "context_annotations": [
+                {
+                    "domain": {
+                        "description": "Real world events. ",
+                        "id": "29",
+                        "name": "Events [Entity Service]"
+                    },
+                    "entity": {
+                        "description": "2020 US Presidential Election",
+                        "id": "1029453725360775168",
+                        "name": "2020 US Presidential Election"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A taxonomy of user interests. ",
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy"
+                    },
+                    "entity": {
+                        "description": "2020 US Presidential Election",
+                        "id": "1029453725360775168",
+                        "name": "2020 US Presidential Election"
+                    }
+                }
+            ],
+            "conversation_id": "1324567184849424386",
+            "created_at": "2020-11-06T04:20:00.000Z",
+            "edit_history_tweet_ids": [
+                "1324567184849424386"
+            ],
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 80,
+                        "normalized_text": "Silicon Valley",
+                        "probability": 0.9737,
+                        "start": 67,
+                        "type": "Place"
+                    },
+                    {
+                        "end": 99,
+                        "normalized_text": "Democrats",
+                        "probability": 0.7533,
+                        "start": 91,
+                        "type": "Organization"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 10,
+                        "id": "954124423",
+                        "start": 3,
+                        "username": "AmyMek"
+                    }
+                ]
+            },
+            "id": "1324567184849424386",
+            "lang": "en",
+            "public_metrics": {
+                "impression_count": 0,
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 278
+            },
+            "referenced_tweets": [
+                {
+                    "id": "1324557111091552257",
+                    "type": "retweeted"
+                }
+            ],
+            "reply_settings": "everyone",
+            "text": "RT @AmyMek: Do not stop fighting! \n\nIf we let the left-wing media, Silicon Valley, and the Democrats steal this election, we will never win\u2026",
+            "withheld": {
+                "copyright": false,
+                "country_codes": [
+                    "DE",
+                    "FR"
+                ]
+            }
+        },
+        {
+            "author_id": "3016736289",
+            "context_annotations": [
+                {
+                    "domain": {
+                        "description": "Named people in the world like Nelson Mandela",
+                        "id": "10",
+                        "name": "Person"
+                    },
+                    "entity": {
+                        "description": "Donald Trump Jr.",
+                        "id": "884781076484202496",
+                        "name": "Donald Trump Jr."
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A taxonomy of user interests. ",
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy"
+                    },
+                    "entity": {
+                        "description": "Politics",
+                        "id": "847878884917886977",
+                        "name": "Politics"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A taxonomy of user interests. ",
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy"
+                    },
+                    "entity": {
+                        "description": "Donald Trump Jr.",
+                        "id": "884781076484202496",
+                        "name": "Donald Trump Jr."
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A taxonomy of user interests. ",
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy"
+                    },
+                    "entity": {
+                        "description": "Politician",
+                        "id": "1070032753834438656",
+                        "name": "Political figures"
+                    }
+                }
+            ],
+            "conversation_id": "1324567184551628802",
+            "created_at": "2020-11-06T04:20:00.000Z",
+            "edit_history_tweet_ids": [
+                "1324567184551628802"
+            ],
+            "entities": {
+                "mentions": [
+                    {
+                        "end": 13,
+                        "id": "826065164504006657",
+                        "start": 3,
+                        "username": "mtgreenee"
+                    }
+                ]
+            },
+            "id": "1324567184551628802",
+            "lang": "en",
+            "public_metrics": {
+                "impression_count": 0,
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 413
+            },
+            "referenced_tweets": [
+                {
+                    "id": "1324553584957116418",
+                    "type": "retweeted"
+                }
+            ],
+            "reply_settings": "everyone",
+            "text": "RT @mtgreenee: STOP THE STEAL!"
+        },
+        {
+            "author_id": "1400403541",
+            "conversation_id": "1324567176699879424",
+            "created_at": "2020-11-06T04:19:58.000Z",
+            "edit_history_tweet_ids": [
+                "1324567176699879424"
+            ],
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 96,
+                        "normalized_text": "Harrisburg Capitol Building",
+                        "probability": 0.5675,
+                        "start": 70,
+                        "type": "Place"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 16,
+                        "id": "931286316",
+                        "start": 3,
+                        "username": "ScottPresler"
+                    }
+                ]
+            },
+            "id": "1324567176699879424",
+            "lang": "en",
+            "public_metrics": {
+                "impression_count": 0,
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 2321
+            },
+            "referenced_tweets": [
+                {
+                    "id": "1324564085342642176",
+                    "type": "retweeted"
+                }
+            ],
+            "reply_settings": "everyone",
+            "text": "RT @ScottPresler: We will be out, again, in front of the steps of the Harrisburg Capitol Building\n\non Friday, November 6th, @ noon.\n\nBring\u2026"
+        },
+        {
+            "author_id": "373704315",
+            "conversation_id": "1324567176519413760",
+            "created_at": "2020-11-06T04:19:58.000Z",
+            "edit_history_tweet_ids": [
+                "1324567176519413760"
+            ],
+            "entities": {
+                "hashtags": [
+                    {
+                        "end": 41,
+                        "start": 31,
+                        "tag": "freecarpe"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 13,
+                        "id": "997503485707943937",
+                        "start": 3,
+                        "username": "Solmemes1"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "twitter.com/Solmemes1/stat\u2026",
+                        "end": 65,
+                        "expanded_url": "https://twitter.com/Solmemes1/status/1324562238607425537/video/1",
+                        "start": 42,
+                        "url": "https://t.co/Mh9nZD3Mdf"
+                    }
+                ]
+            },
+            "id": "1324567176519413760",
+            "lang": "en",
+            "public_metrics": {
+                "impression_count": 0,
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 66
+            },
+            "referenced_tweets": [
+                {
+                    "id": "1324562238607425537",
+                    "type": "retweeted"
+                }
+            ],
+            "reply_settings": "everyone",
+            "text": "RT @Solmemes1: Stop the steal\n\n#freecarpe https://t.co/Mh9nZD3Mdf"
+        },
+        {
+            "author_id": "742859028",
+            "context_annotations": [
+                {
+                    "domain": {
+                        "description": "Real world events. ",
+                        "id": "29",
+                        "name": "Events [Entity Service]"
+                    },
+                    "entity": {
+                        "id": "1318573265820921857",
+                        "name": "2020 US Election Day"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+                        "id": "30",
+                        "name": "Entities [Entity Service]"
+                    },
+                    "entity": {
+                        "id": "781974596752842752",
+                        "name": "Services"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "Brands and Companies",
+                        "id": "47",
+                        "name": "Brand"
+                    },
+                    "entity": {
+                        "id": "10029202045",
+                        "name": "Facebook"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A taxonomy of user interests. ",
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy"
+                    },
+                    "entity": {
+                        "id": "10029202045",
+                        "name": "Facebook"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A taxonomy of user interests. ",
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy"
+                    },
+                    "entity": {
+                        "id": "1196446161223028736",
+                        "name": "Social media"
+                    }
+                }
+            ],
+            "conversation_id": "1324567172203618304",
+            "created_at": "2020-11-06T04:19:57.000Z",
+            "edit_history_tweet_ids": [
+                "1324567172203618304"
+            ],
+            "entities": {
+                "hashtags": [
+                    {
+                        "end": 29,
+                        "start": 15,
+                        "tag": "Elections2020"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 13,
+                        "id": "24744541",
+                        "start": 3,
+                        "username": "lemondefr"
+                    }
+                ]
+            },
+            "id": "1324567172203618304",
+            "lang": "fr",
+            "public_metrics": {
+                "impression_count": 0,
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 180
+            },
+            "referenced_tweets": [
+                {
+                    "id": "1324474265798934529",
+                    "type": "retweeted"
+                }
+            ],
+            "reply_settings": "everyone",
+            "text": "RT @lemondefr: #Elections2020 : Facebook ferme un groupe pro-Trump de 300 000 membres pour avoir tent\u00e9 de d\u00e9cr\u00e9dibiliser le scrutin https:/\u2026"
+        },
+        {
+            "author_id": "586605529",
+            "conversation_id": "1324567170744016897",
+            "created_at": "2020-11-06T04:19:57.000Z",
+            "edit_history_tweet_ids": [
+                "1324567170744016897"
+            ],
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 96,
+                        "normalized_text": "Harrisburg Capitol Building",
+                        "probability": 0.5675,
+                        "start": 70,
+                        "type": "Place"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 16,
+                        "id": "931286316",
+                        "start": 3,
+                        "username": "ScottPresler"
+                    }
+                ]
+            },
+            "id": "1324567170744016897",
+            "lang": "en",
+            "public_metrics": {
+                "impression_count": 0,
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 2321
+            },
+            "referenced_tweets": [
+                {
+                    "id": "1324564085342642176",
+                    "type": "retweeted"
+                }
+            ],
+            "reply_settings": "everyone",
+            "text": "RT @ScottPresler: We will be out, again, in front of the steps of the Harrisburg Capitol Building\n\non Friday, November 6th, @ noon.\n\nBring\u2026"
+        },
+        {
+            "author_id": "735722362503499779",
+            "conversation_id": "1324567168340602881",
+            "created_at": "2020-11-06T04:19:56.000Z",
+            "edit_history_tweet_ids": [
+                "1324567168340602881"
+            ],
+            "entities": {
+                "mentions": [
+                    {
+                        "end": 19,
+                        "id": "55060090",
+                        "start": 3,
+                        "username": "realTuckFrumper"
+                    }
+                ],
+                "urls": [
+                    {
+                        "description": "Baseless claims of Democratic attempts to rig the election are mobilizing the president\u2019s supporters to rally in the streets.",
+                        "display_url": "huffpost.com/entry/stop-ste\u2026",
+                        "end": 135,
+                        "expanded_url": "https://www.huffpost.com/entry/stop-steal-protests-republican-operatives-far-right_n_5fa4a744c5b6600956983a3e",
+                        "start": 112,
+                        "status": 200,
+                        "title": "Nationwide \u2018Stop The Steal\u2019 Protests Are Being Pushed By GOP Operatives And The Far-Right",
+                        "unwound_url": "https://www.huffpost.com/entry/stop-steal-protests-republican-operatives-far-right_n_5fa4a744c5b6600956983a3e",
+                        "url": "https://t.co/wD4UUl4AYH"
+                    }
+                ]
+            },
+            "id": "1324567168340602881",
+            "lang": "en",
+            "public_metrics": {
+                "impression_count": 0,
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 8
+            },
+            "referenced_tweets": [
+                {
+                    "id": "1324553104956809216",
+                    "type": "retweeted"
+                }
+            ],
+            "reply_settings": "everyone",
+            "text": "RT @realTuckFrumper: Nationwide \u2018Stop The Steal\u2019 Protests Are Being Pushed By GOP Operatives And The Far-Right\n https://t.co/wD4UUl4AYH"
+        },
+        {
+            "author_id": "1083441797253267460",
+            "context_annotations": [
+                {
+                    "domain": {
+                        "description": "Real world events. ",
+                        "id": "29",
+                        "name": "Events [Entity Service]"
+                    },
+                    "entity": {
+                        "description": "2020 US Presidential Election",
+                        "id": "1029453725360775168",
+                        "name": "2020 US Presidential Election"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A taxonomy of user interests. ",
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy"
+                    },
+                    "entity": {
+                        "description": "2020 US Presidential Election",
+                        "id": "1029453725360775168",
+                        "name": "2020 US Presidential Election"
+                    }
+                }
+            ],
+            "conversation_id": "1324567140473671680",
+            "created_at": "2020-11-06T04:19:50.000Z",
+            "edit_history_tweet_ids": [
+                "1324567140473671680"
+            ],
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 80,
+                        "normalized_text": "Silicon Valley",
+                        "probability": 0.9737,
+                        "start": 67,
+                        "type": "Place"
+                    },
+                    {
+                        "end": 99,
+                        "normalized_text": "Democrats",
+                        "probability": 0.7533,
+                        "start": 91,
+                        "type": "Organization"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 10,
+                        "id": "954124423",
+                        "start": 3,
+                        "username": "AmyMek"
+                    }
+                ]
+            },
+            "id": "1324567140473671680",
+            "lang": "en",
+            "public_metrics": {
+                "impression_count": 0,
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 278
+            },
+            "referenced_tweets": [
+                {
+                    "id": "1324557111091552257",
+                    "type": "retweeted"
+                }
+            ],
+            "reply_settings": "everyone",
+            "text": "RT @AmyMek: Do not stop fighting! \n\nIf we let the left-wing media, Silicon Valley, and the Democrats steal this election, we will never win\u2026",
+            "withheld": {
+                "copyright": false,
+                "country_codes": [
+                    "DE",
+                    "FR"
+                ]
+            }
+        },
+        {
+            "author_id": "626391901",
+            "context_annotations": [
+                {
+                    "domain": {
+                        "description": "Brands and Companies",
+                        "id": "47",
+                        "name": "Brand"
+                    },
+                    "entity": {
+                        "id": "1139120266758377472",
+                        "name": "The Daily Beast"
+                    }
+                }
+            ],
+            "conversation_id": "1324567126808629248",
+            "created_at": "2020-11-06T04:19:46.000Z",
+            "edit_history_tweet_ids": [
+                "1324567126808629248"
+            ],
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 12,
+                        "normalized_text": "MAGA",
+                        "probability": 0.4804,
+                        "start": 9,
+                        "type": "Organization"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 106,
+                        "id": "16012783",
+                        "start": 92,
+                        "username": "thedailybeast"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "thedailybeast.com/meet-the-maga-\u2026",
+                        "end": 87,
+                        "expanded_url": "https://www.thedailybeast.com/meet-the-maga-bannon-linked-clowns-soliciting-cash-off-stop-the-steal-election-theft-panic?source=twitter&via=desktop",
+                        "start": 64,
+                        "url": "https://t.co/as4L2FhZfH"
+                    }
+                ]
+            },
+            "id": "1324567126808629248",
+            "lang": "en",
+            "public_metrics": {
+                "impression_count": 0,
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "reply_settings": "everyone",
+            "text": "Meet the MAGA Clowns Soliciting Cash Off \u2018Stop the Steal\u2019 Panic https://t.co/as4L2FhZfH via @thedailybeast | Isn't Bannon prison-bound?"
+        },
+        {
+            "author_id": "434650917",
+            "conversation_id": "1324567098614579202",
+            "created_at": "2020-11-06T04:19:40.000Z",
+            "edit_history_tweet_ids": [
+                "1324567098614579202"
+            ],
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 96,
+                        "normalized_text": "Harrisburg Capitol Building",
+                        "probability": 0.5675,
+                        "start": 70,
+                        "type": "Place"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 16,
+                        "id": "931286316",
+                        "start": 3,
+                        "username": "ScottPresler"
+                    }
+                ]
+            },
+            "id": "1324567098614579202",
+            "lang": "en",
+            "public_metrics": {
+                "impression_count": 0,
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 2321
+            },
+            "referenced_tweets": [
+                {
+                    "id": "1324564085342642176",
+                    "type": "retweeted"
+                }
+            ],
+            "reply_settings": "everyone",
+            "text": "RT @ScottPresler: We will be out, again, in front of the steps of the Harrisburg Capitol Building\n\non Friday, November 6th, @ noon.\n\nBring\u2026"
+        },
+        {
+            "author_id": "22839342",
+            "context_annotations": [
+                {
+                    "domain": {
+                        "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+                        "id": "30",
+                        "name": "Entities [Entity Service]"
+                    },
+                    "entity": {
+                        "id": "781974596752842752",
+                        "name": "Services"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "Brands and Companies",
+                        "id": "47",
+                        "name": "Brand"
+                    },
+                    "entity": {
+                        "id": "10029202045",
+                        "name": "Facebook"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A taxonomy of user interests. ",
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy"
+                    },
+                    "entity": {
+                        "id": "10029202045",
+                        "name": "Facebook"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A taxonomy of user interests. ",
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy"
+                    },
+                    "entity": {
+                        "id": "1196446161223028736",
+                        "name": "Social media"
+                    }
+                }
+            ],
+            "conversation_id": "1324566380654391297",
+            "created_at": "2020-11-06T04:19:39.000Z",
+            "edit_history_tweet_ids": [
+                "1324567094764122113"
+            ],
+            "entities": {
+                "mentions": [
+                    {
+                        "end": 16,
+                        "id": "912581",
+                        "start": 0,
+                        "username": "rebekamendation"
+                    }
+                ]
+            },
+            "id": "1324567094764122113",
+            "in_reply_to_user_id": "912581",
+            "lang": "en",
+            "public_metrics": {
+                "impression_count": 0,
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 1,
+                "retweet_count": 0
+            },
+            "referenced_tweets": [
+                {
+                    "id": "1324566380654391297",
+                    "type": "replied_to"
+                }
+            ],
+            "reply_settings": "everyone",
+            "text": "@rebekamendation Have you checked out the Stop the Steal FB groups yet"
+        },
+        {
+            "author_id": "1117453351346671617",
+            "conversation_id": "1324567089374519297",
+            "created_at": "2020-11-06T04:19:38.000Z",
+            "edit_history_tweet_ids": [
+                "1324567089374519297"
+            ],
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 96,
+                        "normalized_text": "Harrisburg Capitol Building",
+                        "probability": 0.5675,
+                        "start": 70,
+                        "type": "Place"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 16,
+                        "id": "931286316",
+                        "start": 3,
+                        "username": "ScottPresler"
+                    }
+                ]
+            },
+            "id": "1324567089374519297",
+            "lang": "en",
+            "public_metrics": {
+                "impression_count": 0,
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 2321
+            },
+            "referenced_tweets": [
+                {
+                    "id": "1324564085342642176",
+                    "type": "retweeted"
+                }
+            ],
+            "reply_settings": "everyone",
+            "text": "RT @ScottPresler: We will be out, again, in front of the steps of the Harrisburg Capitol Building\n\non Friday, November 6th, @ noon.\n\nBring\u2026"
+        },
+        {
+            "author_id": "90560710",
+            "conversation_id": "1324567088409837568",
+            "created_at": "2020-11-06T04:19:37.000Z",
+            "edit_history_tweet_ids": [
+                "1324567088409837568"
+            ],
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 96,
+                        "normalized_text": "Harrisburg Capitol Building",
+                        "probability": 0.5675,
+                        "start": 70,
+                        "type": "Place"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 16,
+                        "id": "931286316",
+                        "start": 3,
+                        "username": "ScottPresler"
+                    }
+                ]
+            },
+            "id": "1324567088409837568",
+            "lang": "en",
+            "public_metrics": {
+                "impression_count": 0,
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 2321
+            },
+            "referenced_tweets": [
+                {
+                    "id": "1324564085342642176",
+                    "type": "retweeted"
+                }
+            ],
+            "reply_settings": "everyone",
+            "text": "RT @ScottPresler: We will be out, again, in front of the steps of the Harrisburg Capitol Building\n\non Friday, November 6th, @ noon.\n\nBring\u2026"
+        },
+        {
+            "author_id": "977082289",
+            "conversation_id": "1324567083305340928",
+            "created_at": "2020-11-06T04:19:36.000Z",
+            "edit_history_tweet_ids": [
+                "1324567083305340928"
+            ],
+            "entities": {
+                "hashtags": [
+                    {
+                        "end": 41,
+                        "start": 31,
+                        "tag": "freecarpe"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 13,
+                        "id": "997503485707943937",
+                        "start": 3,
+                        "username": "Solmemes1"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "twitter.com/Solmemes1/stat\u2026",
+                        "end": 65,
+                        "expanded_url": "https://twitter.com/Solmemes1/status/1324562238607425537/video/1",
+                        "start": 42,
+                        "url": "https://t.co/Mh9nZD3Mdf"
+                    }
+                ]
+            },
+            "id": "1324567083305340928",
+            "lang": "en",
+            "public_metrics": {
+                "impression_count": 0,
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 66
+            },
+            "referenced_tweets": [
+                {
+                    "id": "1324562238607425537",
+                    "type": "retweeted"
+                }
+            ],
+            "reply_settings": "everyone",
+            "text": "RT @Solmemes1: Stop the steal\n\n#freecarpe https://t.co/Mh9nZD3Mdf"
+        },
+        {
+            "author_id": "79129226",
+            "context_annotations": [
+                {
+                    "domain": {
+                        "description": "Named people in the world like Nelson Mandela",
+                        "id": "10",
+                        "name": "Person"
+                    },
+                    "entity": {
+                        "description": "45th US President, Donald Trump",
+                        "id": "799022225751871488",
+                        "name": "Donald Trump"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "Real world events. ",
+                        "id": "29",
+                        "name": "Events [Entity Service]"
+                    },
+                    "entity": {
+                        "description": "2020 US Presidential Election",
+                        "id": "1029453725360775168",
+                        "name": "2020 US Presidential Election"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "Politicians in the world, like Joe Biden",
+                        "id": "35",
+                        "name": "Politician"
+                    },
+                    "entity": {
+                        "description": "45th US President, Donald Trump",
+                        "id": "799022225751871488",
+                        "name": "Donald Trump"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A taxonomy of user interests. ",
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy"
+                    },
+                    "entity": {
+                        "description": "45th US President, Donald Trump",
+                        "id": "799022225751871488",
+                        "name": "Donald Trump"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A taxonomy of user interests. ",
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy"
+                    },
+                    "entity": {
+                        "description": "Politics",
+                        "id": "847878884917886977",
+                        "name": "Politics"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A taxonomy of user interests. ",
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy"
+                    },
+                    "entity": {
+                        "description": "2020 US Presidential Election",
+                        "id": "1029453725360775168",
+                        "name": "2020 US Presidential Election"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A taxonomy of user interests. ",
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy"
+                    },
+                    "entity": {
+                        "description": "Politician",
+                        "id": "1070032753834438656",
+                        "name": "Political figures"
+                    }
+                }
+            ],
+            "conversation_id": "1324567076573310978",
+            "created_at": "2020-11-06T04:19:34.000Z",
+            "edit_history_tweet_ids": [
+                "1324567076573310978"
+            ],
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 40,
+                        "normalized_text": "Trump",
+                        "probability": 0.9795,
+                        "start": 36,
+                        "type": "Person"
+                    }
+                ]
+            },
+            "id": "1324567076573310978",
+            "lang": "en",
+            "public_metrics": {
+                "impression_count": 0,
+                "like_count": 4,
+                "quote_count": 0,
+                "reply_count": 2,
+                "retweet_count": 0
+            },
+            "reply_settings": "everyone",
+            "text": "The worst part of all this (besides Trump trying to incite violence to steal an election) is that I'm so anxiety ridden, that I can't stop and do the things I enjoy  right now. I can't even make it more than a few panels in a comic before losing focus and refreshing the news."
+        },
+        {
+            "author_id": "2174118859",
+            "context_annotations": [
+                {
+                    "domain": {
+                        "description": "Named people in the world like Nelson Mandela",
+                        "id": "10",
+                        "name": "Person"
+                    },
+                    "entity": {
+                        "description": "45th US President, Donald Trump",
+                        "id": "799022225751871488",
+                        "name": "Donald Trump"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "Named people in the world like Nelson Mandela",
+                        "id": "10",
+                        "name": "Person"
+                    },
+                    "entity": {
+                        "id": "1266467007987253248",
+                        "name": "George Floyd"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "Politicians in the world, like Joe Biden",
+                        "id": "35",
+                        "name": "Politician"
+                    },
+                    "entity": {
+                        "description": "45th US President, Donald Trump",
+                        "id": "799022225751871488",
+                        "name": "Donald Trump"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+                        "id": "30",
+                        "name": "Entities [Entity Service]"
+                    },
+                    "entity": {
+                        "id": "781974596752842752",
+                        "name": "Services"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "Brands and Companies",
+                        "id": "47",
+                        "name": "Brand"
+                    },
+                    "entity": {
+                        "id": "10029202045",
+                        "name": "Facebook"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "Brands and Companies",
+                        "id": "47",
+                        "name": "Brand"
+                    },
+                    "entity": {
+                        "id": "10040667289",
+                        "name": "The Associated Press"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A taxonomy of user interests. ",
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy"
+                    },
+                    "entity": {
+                        "id": "10040667289",
+                        "name": "The Associated Press"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A taxonomy of user interests. ",
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy"
+                    },
+                    "entity": {
+                        "description": "Politics",
+                        "id": "847878884917886977",
+                        "name": "Politics"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A taxonomy of user interests. ",
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy"
+                    },
+                    "entity": {
+                        "description": "Politician",
+                        "id": "1070032753834438656",
+                        "name": "Political figures"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A taxonomy of user interests. ",
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy"
+                    },
+                    "entity": {
+                        "id": "1196446161223028736",
+                        "name": "Social media"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A taxonomy of user interests. ",
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy"
+                    },
+                    "entity": {
+                        "id": "1196447117297905665",
+                        "name": "News outlets"
+                    }
+                }
+            ],
+            "conversation_id": "1324567073444499456",
+            "created_at": "2020-11-06T04:19:34.000Z",
+            "edit_history_tweet_ids": [
+                "1324567073444499456"
+            ],
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 15,
+                        "normalized_text": "Facebook",
+                        "probability": 0.9406,
+                        "start": 8,
+                        "type": "Other"
+                    },
+                    {
+                        "end": 53,
+                        "normalized_text": "Stop",
+                        "probability": 0.5133,
+                        "start": 50,
+                        "type": "Other"
+                    },
+                    {
+                        "end": 63,
+                        "normalized_text": "Steal",
+                        "probability": 0.5036,
+                        "start": 59,
+                        "type": "Other"
+                    },
+                    {
+                        "end": 99,
+                        "normalized_text": "Trump",
+                        "probability": 0.9093,
+                        "start": 95,
+                        "type": "Person"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 6,
+                        "id": "51241574",
+                        "start": 3,
+                        "username": "AP"
+                    }
+                ]
+            },
+            "id": "1324567073444499456",
+            "lang": "en",
+            "public_metrics": {
+                "impression_count": 0,
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 815
+            },
+            "referenced_tweets": [
+                {
+                    "id": "1324547258952699906",
+                    "type": "retweeted"
+                }
+            ],
+            "reply_settings": "everyone",
+            "text": "RT @AP: Facebook has banned a large group called \"Stop the Steal\" that supporters of President Trump were using to organize protests agains\u2026"
+        },
+        {
+            "author_id": "755048061190057984",
+            "conversation_id": "1324567070072328193",
+            "created_at": "2020-11-06T04:19:33.000Z",
+            "edit_history_tweet_ids": [
+                "1324567070072328193"
+            ],
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 96,
+                        "normalized_text": "Harrisburg Capitol Building",
+                        "probability": 0.5675,
+                        "start": 70,
+                        "type": "Place"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 16,
+                        "id": "931286316",
+                        "start": 3,
+                        "username": "ScottPresler"
+                    }
+                ]
+            },
+            "id": "1324567070072328193",
+            "lang": "en",
+            "public_metrics": {
+                "impression_count": 0,
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 2321
+            },
+            "referenced_tweets": [
+                {
+                    "id": "1324564085342642176",
+                    "type": "retweeted"
+                }
+            ],
+            "reply_settings": "everyone",
+            "text": "RT @ScottPresler: We will be out, again, in front of the steps of the Harrisburg Capitol Building\n\non Friday, November 6th, @ noon.\n\nBring\u2026"
+        },
+        {
+            "author_id": "1239419131708899329",
+            "conversation_id": "1324567067098378246",
+            "created_at": "2020-11-06T04:19:32.000Z",
+            "edit_history_tweet_ids": [
+                "1324567067098378246"
+            ],
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 96,
+                        "normalized_text": "Harrisburg Capitol Building",
+                        "probability": 0.5675,
+                        "start": 70,
+                        "type": "Place"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 16,
+                        "id": "931286316",
+                        "start": 3,
+                        "username": "ScottPresler"
+                    }
+                ]
+            },
+            "id": "1324567067098378246",
+            "lang": "en",
+            "public_metrics": {
+                "impression_count": 0,
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 2321
+            },
+            "referenced_tweets": [
+                {
+                    "id": "1324564085342642176",
+                    "type": "retweeted"
+                }
+            ],
+            "reply_settings": "everyone",
+            "text": "RT @ScottPresler: We will be out, again, in front of the steps of the Harrisburg Capitol Building\n\non Friday, November 6th, @ noon.\n\nBring\u2026"
+        },
+        {
+            "author_id": "1268594452576325632",
+            "context_annotations": [
+                {
+                    "domain": {
+                        "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+                        "id": "30",
+                        "name": "Entities [Entity Service]"
+                    },
+                    "entity": {
+                        "id": "781974596752842752",
+                        "name": "Services"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "Brands and Companies",
+                        "id": "47",
+                        "name": "Brand"
+                    },
+                    "entity": {
+                        "id": "10029202045",
+                        "name": "Facebook"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A taxonomy of user interests. ",
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy"
+                    },
+                    "entity": {
+                        "id": "10029202045",
+                        "name": "Facebook"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A taxonomy of user interests. ",
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy"
+                    },
+                    "entity": {
+                        "id": "1196446161223028736",
+                        "name": "Social media"
+                    }
+                }
+            ],
+            "conversation_id": "1324567057413931010",
+            "created_at": "2020-11-06T04:19:30.000Z",
+            "edit_history_tweet_ids": [
+                "1324567057413931010"
+            ],
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 66,
+                        "normalized_text": "Steal",
+                        "probability": 0.481,
+                        "start": 62,
+                        "type": "Other"
+                    },
+                    {
+                        "end": 81,
+                        "normalized_text": "Facebook",
+                        "probability": 0.9584,
+                        "start": 74,
+                        "type": "Other"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 13,
+                        "id": "307039459",
+                        "start": 3,
+                        "username": "molmccann"
+                    }
+                ]
+            },
+            "id": "1324567057413931010",
+            "lang": "en",
+            "public_metrics": {
+                "impression_count": 0,
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 486
+            },
+            "referenced_tweets": [
+                {
+                    "id": "1324435839519252480",
+                    "type": "retweeted"
+                }
+            ],
+            "reply_settings": "everyone",
+            "text": "RT @molmccann: My sister just sent this screen grab. Stop the Steal was a Facebook group that amassed over 350k people in just over 24 hour\u2026"
+        },
+        {
+            "author_id": "775900074802974720",
+            "conversation_id": "1324567054083608576",
+            "created_at": "2020-11-06T04:19:29.000Z",
+            "edit_history_tweet_ids": [
+                "1324567054083608576"
+            ],
+            "entities": {
+                "urls": [
+                    {
+                        "display_url": "infowars.com/posts/emergenc\u2026",
+                        "end": 23,
+                        "expanded_url": "https://www.infowars.com/posts/emergency-here-is-how-trump-can-stop-the-steal-we-only-have-hours-to-stop-it",
+                        "start": 0,
+                        "url": "https://t.co/RI5g2jC94X"
+                    }
+                ]
+            },
+            "id": "1324567054083608576",
+            "lang": "zxx",
+            "public_metrics": {
+                "impression_count": 0,
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "reply_settings": "everyone",
+            "text": "https://t.co/RI5g2jC94X"
+        },
+        {
+            "author_id": "255115574",
+            "conversation_id": "1324567051059392514",
+            "created_at": "2020-11-06T04:19:28.000Z",
+            "edit_history_tweet_ids": [
+                "1324567051059392514"
+            ],
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 96,
+                        "normalized_text": "Harrisburg Capitol Building",
+                        "probability": 0.5675,
+                        "start": 70,
+                        "type": "Place"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 16,
+                        "id": "931286316",
+                        "start": 3,
+                        "username": "ScottPresler"
+                    }
+                ]
+            },
+            "id": "1324567051059392514",
+            "lang": "en",
+            "public_metrics": {
+                "impression_count": 0,
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 2321
+            },
+            "referenced_tweets": [
+                {
+                    "id": "1324564085342642176",
+                    "type": "retweeted"
+                }
+            ],
+            "reply_settings": "everyone",
+            "text": "RT @ScottPresler: We will be out, again, in front of the steps of the Harrisburg Capitol Building\n\non Friday, November 6th, @ noon.\n\nBring\u2026"
+        },
+        {
+            "author_id": "153956746",
+            "context_annotations": [
+                {
+                    "domain": {
+                        "description": "Real world events. ",
+                        "id": "29",
+                        "name": "Events [Entity Service]"
+                    },
+                    "entity": {
+                        "description": "2020 US Presidential Election",
+                        "id": "1029453725360775168",
+                        "name": "2020 US Presidential Election"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+                        "id": "30",
+                        "name": "Entities [Entity Service]"
+                    },
+                    "entity": {
+                        "id": "781974596752842752",
+                        "name": "Services"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "Brands and Companies",
+                        "id": "47",
+                        "name": "Brand"
+                    },
+                    "entity": {
+                        "id": "10029202045",
+                        "name": "Facebook"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A taxonomy of user interests. ",
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy"
+                    },
+                    "entity": {
+                        "id": "10029202045",
+                        "name": "Facebook"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A taxonomy of user interests. ",
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy"
+                    },
+                    "entity": {
+                        "description": "US National News",
+                        "id": "1003932601839579136",
+                        "name": "US national news"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A taxonomy of user interests. ",
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy"
+                    },
+                    "entity": {
+                        "description": "2020 US Presidential Election",
+                        "id": "1029453725360775168",
+                        "name": "2020 US Presidential Election"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A taxonomy of user interests. ",
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy"
+                    },
+                    "entity": {
+                        "description": "News",
+                        "id": "1046545033657081857",
+                        "name": "News"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A taxonomy of user interests. ",
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy"
+                    },
+                    "entity": {
+                        "id": "1196446161223028736",
+                        "name": "Social media"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A taxonomy of user interests. ",
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy"
+                    },
+                    "entity": {
+                        "id": "1286379401228124160",
+                        "name": "Americas"
+                    }
+                }
+            ],
+            "conversation_id": "1324567040812707842",
+            "created_at": "2020-11-06T04:19:26.000Z",
+            "edit_history_tweet_ids": [
+                "1324567040812707842"
+            ],
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 24,
+                        "normalized_text": "Facebook",
+                        "probability": 0.9527,
+                        "start": 17,
+                        "type": "Other"
+                    },
+                    {
+                        "end": 69,
+                        "normalized_text": "Stop the Steal",
+                        "probability": 0.5365,
+                        "start": 56,
+                        "type": "Other"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 15,
+                        "id": "27882000",
+                        "start": 3,
+                        "username": "jamiedupree"
+                    }
+                ]
+            },
+            "id": "1324567040812707842",
+            "lang": "en",
+            "public_metrics": {
+                "impression_count": 0,
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 72
+            },
+            "referenced_tweets": [
+                {
+                    "id": "1324457356667867144",
+                    "type": "retweeted"
+                }
+            ],
+            "reply_settings": "everyone",
+            "text": "RT @jamiedupree: Facebook today blocked a group called \"Stop the Steal\" partly for pushing evidence-free accusations of vote fraud.\n\nhttps:\u2026"
+        },
+        {
+            "author_id": "250821971",
+            "conversation_id": "1324567039328092162",
+            "created_at": "2020-11-06T04:19:26.000Z",
+            "edit_history_tweet_ids": [
+                "1324567039328092162"
+            ],
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 96,
+                        "normalized_text": "Harrisburg Capitol Building",
+                        "probability": 0.5675,
+                        "start": 70,
+                        "type": "Place"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 16,
+                        "id": "931286316",
+                        "start": 3,
+                        "username": "ScottPresler"
+                    }
+                ]
+            },
+            "id": "1324567039328092162",
+            "lang": "en",
+            "public_metrics": {
+                "impression_count": 0,
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 2321
+            },
+            "referenced_tweets": [
+                {
+                    "id": "1324564085342642176",
+                    "type": "retweeted"
+                }
+            ],
+            "reply_settings": "everyone",
+            "text": "RT @ScottPresler: We will be out, again, in front of the steps of the Harrisburg Capitol Building\n\non Friday, November 6th, @ noon.\n\nBring\u2026"
+        },
+        {
+            "author_id": "1296878925105319939",
+            "context_annotations": [
+                {
+                    "domain": {
+                        "description": "Named people in the world like Nelson Mandela",
+                        "id": "10",
+                        "name": "Person"
+                    },
+                    "entity": {
+                        "description": "45th US President, Donald Trump",
+                        "id": "799022225751871488",
+                        "name": "Donald Trump"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "Named people in the world like Nelson Mandela",
+                        "id": "10",
+                        "name": "Person"
+                    },
+                    "entity": {
+                        "description": "RNC Chairwoman Ronna McDaniel",
+                        "id": "941042503372832768",
+                        "name": "Ronna McDaniel"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "Politicians in the world, like Joe Biden",
+                        "id": "35",
+                        "name": "Politician"
+                    },
+                    "entity": {
+                        "description": "45th US President, Donald Trump",
+                        "id": "799022225751871488",
+                        "name": "Donald Trump"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "Politicians in the world, like Joe Biden",
+                        "id": "35",
+                        "name": "Politician"
+                    },
+                    "entity": {
+                        "description": "RNC Chairwoman Ronna McDaniel",
+                        "id": "941042503372832768",
+                        "name": "Ronna McDaniel"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A taxonomy of user interests. ",
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy"
+                    },
+                    "entity": {
+                        "description": "45th US President, Donald Trump",
+                        "id": "799022225751871488",
+                        "name": "Donald Trump"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A taxonomy of user interests. ",
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy"
+                    },
+                    "entity": {
+                        "description": "Politics",
+                        "id": "847878884917886977",
+                        "name": "Politics"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A taxonomy of user interests. ",
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy"
+                    },
+                    "entity": {
+                        "description": "RNC Chairwoman Ronna McDaniel",
+                        "id": "941042503372832768",
+                        "name": "Ronna McDaniel"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A taxonomy of user interests. ",
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy"
+                    },
+                    "entity": {
+                        "description": "Politician",
+                        "id": "1070032753834438656",
+                        "name": "Political figures"
+                    }
+                }
+            ],
+            "conversation_id": "1324542964316733442",
+            "created_at": "2020-11-06T04:19:20.000Z",
+            "edit_history_tweet_ids": [
+                "1324567015529603072"
+            ],
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 112,
+                        "normalized_text": "Trump",
+                        "probability": 0.9333,
+                        "start": 108,
+                        "type": "Person"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 14,
+                        "id": "751552860303683584",
+                        "start": 0,
+                        "username": "superyayadize"
+                    },
+                    {
+                        "end": 27,
+                        "id": "1174133879021723648",
+                        "start": 15,
+                        "username": "GloriaAmes4"
+                    },
+                    {
+                        "end": 42,
+                        "id": "2353605901",
+                        "start": 28,
+                        "username": "GOPChairwoman"
+                    }
+                ]
+            },
+            "id": "1324567015529603072",
+            "in_reply_to_user_id": "751552860303683584",
+            "lang": "en",
+            "public_metrics": {
+                "impression_count": 0,
+                "like_count": 1,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "referenced_tweets": [
+                {
+                    "id": "1324542964316733442",
+                    "type": "replied_to"
+                }
+            ],
+            "reply_settings": "everyone",
+            "text": "@superyayadize @GloriaAmes4 @GOPChairwoman Damn straight, stop the steal! They need to stand with President Trump!"
+        },
+        {
+            "author_id": "997503485707943937",
+            "conversation_id": "1324567015017861120",
+            "created_at": "2020-11-06T04:19:20.000Z",
+            "edit_history_tweet_ids": [
+                "1324567015017861120"
+            ],
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 96,
+                        "normalized_text": "Harrisburg Capitol Building",
+                        "probability": 0.5675,
+                        "start": 70,
+                        "type": "Place"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 16,
+                        "id": "931286316",
+                        "start": 3,
+                        "username": "ScottPresler"
+                    }
+                ]
+            },
+            "id": "1324567015017861120",
+            "lang": "en",
+            "public_metrics": {
+                "impression_count": 0,
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 2321
+            },
+            "referenced_tweets": [
+                {
+                    "id": "1324564085342642176",
+                    "type": "retweeted"
+                }
+            ],
+            "reply_settings": "everyone",
+            "text": "RT @ScottPresler: We will be out, again, in front of the steps of the Harrisburg Capitol Building\n\non Friday, November 6th, @ noon.\n\nBring\u2026"
+        },
+        {
+            "author_id": "794393540583366656",
+            "conversation_id": "1324567002636312576",
+            "created_at": "2020-11-06T04:19:17.000Z",
+            "edit_history_tweet_ids": [
+                "1324567002636312576"
+            ],
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 96,
+                        "normalized_text": "Harrisburg Capitol Building",
+                        "probability": 0.5675,
+                        "start": 70,
+                        "type": "Place"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 16,
+                        "id": "931286316",
+                        "start": 3,
+                        "username": "ScottPresler"
+                    }
+                ]
+            },
+            "id": "1324567002636312576",
+            "lang": "en",
+            "public_metrics": {
+                "impression_count": 0,
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 2321
+            },
+            "referenced_tweets": [
+                {
+                    "id": "1324564085342642176",
+                    "type": "retweeted"
+                }
+            ],
+            "reply_settings": "everyone",
+            "text": "RT @ScottPresler: We will be out, again, in front of the steps of the Harrisburg Capitol Building\n\non Friday, November 6th, @ noon.\n\nBring\u2026"
+        },
+        {
+            "author_id": "285946112",
+            "context_annotations": [
+                {
+                    "domain": {
+                        "description": "Named people in the world like Nelson Mandela",
+                        "id": "10",
+                        "name": "Person"
+                    },
+                    "entity": {
+                        "description": "45th US President, Donald Trump",
+                        "id": "799022225751871488",
+                        "name": "Donald Trump"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "Named people in the world like Nelson Mandela",
+                        "id": "10",
+                        "name": "Person"
+                    },
+                    "entity": {
+                        "description": "American journalist; White House correspondent for PBS NewsHour",
+                        "id": "1070711261787090944",
+                        "name": "Yamiche Alcindor"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "Real world events. ",
+                        "id": "29",
+                        "name": "Events [Entity Service]"
+                    },
+                    "entity": {
+                        "description": "2020 US Presidential Election",
+                        "id": "1029453725360775168",
+                        "name": "2020 US Presidential Election"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "Politicians in the world, like Joe Biden",
+                        "id": "35",
+                        "name": "Politician"
+                    },
+                    "entity": {
+                        "description": "45th US President, Donald Trump",
+                        "id": "799022225751871488",
+                        "name": "Donald Trump"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A journalist like 'Anderson Cooper'",
+                        "id": "94",
+                        "name": "Journalist"
+                    },
+                    "entity": {
+                        "description": "American journalist; White House correspondent for PBS NewsHour",
+                        "id": "1070711261787090944",
+                        "name": "Yamiche Alcindor"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A taxonomy of user interests. ",
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy"
+                    },
+                    "entity": {
+                        "description": "45th US President, Donald Trump",
+                        "id": "799022225751871488",
+                        "name": "Donald Trump"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A taxonomy of user interests. ",
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy"
+                    },
+                    "entity": {
+                        "description": "Politics",
+                        "id": "847878884917886977",
+                        "name": "Politics"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A taxonomy of user interests. ",
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy"
+                    },
+                    "entity": {
+                        "description": "2020 US Presidential Election",
+                        "id": "1029453725360775168",
+                        "name": "2020 US Presidential Election"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A taxonomy of user interests. ",
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy"
+                    },
+                    "entity": {
+                        "description": "News",
+                        "id": "1046545033657081857",
+                        "name": "News"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A taxonomy of user interests. ",
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy"
+                    },
+                    "entity": {
+                        "description": "Politician",
+                        "id": "1070032753834438656",
+                        "name": "Political figures"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A taxonomy of user interests. ",
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy"
+                    },
+                    "entity": {
+                        "description": "American journalist; White House correspondent for PBS NewsHour",
+                        "id": "1070711261787090944",
+                        "name": "Yamiche Alcindor"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A taxonomy of user interests. ",
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy"
+                    },
+                    "entity": {
+                        "description": "Journalism",
+                        "id": "1074755369530880001",
+                        "name": "Journalists"
+                    }
+                }
+            ],
+            "conversation_id": "1324566999427616768",
+            "created_at": "2020-11-06T04:19:16.000Z",
+            "edit_history_tweet_ids": [
+                "1324566999427616768"
+            ],
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 29,
+                        "normalized_text": "Trump",
+                        "probability": 0.9655,
+                        "start": 25,
+                        "type": "Person"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 11,
+                        "id": "89887215",
+                        "start": 3,
+                        "username": "Yamiche"
+                    }
+                ]
+            },
+            "id": "1324566999427616768",
+            "lang": "en",
+            "public_metrics": {
+                "impression_count": 0,
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 595
+            },
+            "referenced_tweets": [
+                {
+                    "id": "1324408245646204930",
+                    "type": "retweeted"
+                }
+            ],
+            "reply_settings": "everyone",
+            "text": "RT @Yamiche: Things Pres Trump has done today:\n-Tweet \"STOP THE FRAUD!\" &amp; \"STOP THE COUNT!\"\n-Issue an all CAPS statement through his campai\u2026"
+        },
+        {
+            "author_id": "451589302",
+            "context_annotations": [
+                {
+                    "domain": {
+                        "description": "Real world events. ",
+                        "id": "29",
+                        "name": "Events [Entity Service]"
+                    },
+                    "entity": {
+                        "description": "2020 US Presidential Election",
+                        "id": "1029453725360775168",
+                        "name": "2020 US Presidential Election"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A taxonomy of user interests. ",
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy"
+                    },
+                    "entity": {
+                        "description": "2020 US Presidential Election",
+                        "id": "1029453725360775168",
+                        "name": "2020 US Presidential Election"
+                    }
+                }
+            ],
+            "conversation_id": "1324566998140002305",
+            "created_at": "2020-11-06T04:19:16.000Z",
+            "edit_history_tweet_ids": [
+                "1324566998140002305"
+            ],
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 80,
+                        "normalized_text": "Silicon Valley",
+                        "probability": 0.9737,
+                        "start": 67,
+                        "type": "Place"
+                    },
+                    {
+                        "end": 99,
+                        "normalized_text": "Democrats",
+                        "probability": 0.7533,
+                        "start": 91,
+                        "type": "Organization"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 10,
+                        "id": "954124423",
+                        "start": 3,
+                        "username": "AmyMek"
+                    }
+                ]
+            },
+            "id": "1324566998140002305",
+            "lang": "en",
+            "public_metrics": {
+                "impression_count": 0,
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 278
+            },
+            "referenced_tweets": [
+                {
+                    "id": "1324557111091552257",
+                    "type": "retweeted"
+                }
+            ],
+            "reply_settings": "everyone",
+            "text": "RT @AmyMek: Do not stop fighting! \n\nIf we let the left-wing media, Silicon Valley, and the Democrats steal this election, we will never win\u2026",
+            "withheld": {
+                "copyright": false,
+                "country_codes": [
+                    "DE",
+                    "FR"
+                ]
+            }
+        },
+        {
+            "author_id": "277724676",
+            "conversation_id": "1324566997540229121",
+            "created_at": "2020-11-06T04:19:16.000Z",
+            "edit_history_tweet_ids": [
+                "1324566997540229121"
+            ],
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 96,
+                        "normalized_text": "Harrisburg Capitol Building",
+                        "probability": 0.5675,
+                        "start": 70,
+                        "type": "Place"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 16,
+                        "id": "931286316",
+                        "start": 3,
+                        "username": "ScottPresler"
+                    }
+                ]
+            },
+            "id": "1324566997540229121",
+            "lang": "en",
+            "public_metrics": {
+                "impression_count": 0,
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 2321
+            },
+            "referenced_tweets": [
+                {
+                    "id": "1324564085342642176",
+                    "type": "retweeted"
+                }
+            ],
+            "reply_settings": "everyone",
+            "text": "RT @ScottPresler: We will be out, again, in front of the steps of the Harrisburg Capitol Building\n\non Friday, November 6th, @ noon.\n\nBring\u2026"
+        },
+        {
+            "author_id": "262809377",
+            "context_annotations": [
+                {
+                    "domain": {
+                        "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+                        "id": "30",
+                        "name": "Entities [Entity Service]"
+                    },
+                    "entity": {
+                        "id": "781974596752842752",
+                        "name": "Services"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "Brands and Companies",
+                        "id": "47",
+                        "name": "Brand"
+                    },
+                    "entity": {
+                        "id": "10029202045",
+                        "name": "Facebook"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A taxonomy of user interests. ",
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy"
+                    },
+                    "entity": {
+                        "id": "10029202045",
+                        "name": "Facebook"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A taxonomy of user interests. ",
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy"
+                    },
+                    "entity": {
+                        "id": "1196446161223028736",
+                        "name": "Social media"
+                    }
+                }
+            ],
+            "conversation_id": "1324566994285432832",
+            "created_at": "2020-11-06T04:19:15.000Z",
+            "edit_history_tweet_ids": [
+                "1324566994285432832"
+            ],
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 7,
+                        "normalized_text": "Facebook",
+                        "probability": 0.9426,
+                        "start": 0,
+                        "type": "Other"
+                    },
+                    {
+                        "end": 28,
+                        "normalized_text": "Trump",
+                        "probability": 0.9428,
+                        "start": 24,
+                        "type": "Person"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "carlottascorner.com/facebook-shuts\u2026",
+                        "end": 76,
+                        "expanded_url": "https://carlottascorner.com/facebook-shuts-down-pro-trump-stop-the-steal-group/",
+                        "start": 53,
+                        "url": "https://t.co/xdy2YyhKIu"
+                    }
+                ]
+            },
+            "id": "1324566994285432832",
+            "lang": "en",
+            "public_metrics": {
+                "impression_count": 0,
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "reply_settings": "everyone",
+            "text": "Facebook Shuts Down Pro-Trump \u2018Stop the Steal\u2019\u00a0Group https://t.co/xdy2YyhKIu"
+        }
+    ],
+    "meta": {
+        "newest_id": "1324567408602947585",
+        "next_token": "b26v89c19zqg8o3fosbttqfr2ip44vmzsw78tdwiwa8ot",
+        "oldest_id": "1324566994285432832",
+        "result_count": 68
+    }
+}

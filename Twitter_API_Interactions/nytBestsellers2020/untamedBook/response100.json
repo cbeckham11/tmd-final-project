@@ -1,0 +1,4387 @@
+{
+    "data": [
+        {
+            "author_id": "1272412170043576320",
+            "context_annotations": [
+                {
+                    "domain": {
+                        "description": "Top level entities that describe a Brands industry",
+                        "id": "45",
+                        "name": "Brand Vertical"
+                    },
+                    "entity": {
+                        "id": "781974597310615553",
+                        "name": "Entertainment"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+                        "id": "30",
+                        "name": "Entities [Entity Service]"
+                    },
+                    "entity": {
+                        "id": "781974597105094656",
+                        "name": "TV/Movies Related - Entertainment"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "Brands and Companies",
+                        "id": "47",
+                        "name": "Brand"
+                    },
+                    "entity": {
+                        "id": "10043009891",
+                        "name": "Viki"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "Top level entities that describe a Brands industry",
+                        "id": "45",
+                        "name": "Brand Vertical"
+                    },
+                    "entity": {
+                        "id": "781974597310615553",
+                        "name": "Entertainment"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+                        "id": "30",
+                        "name": "Entities [Entity Service]"
+                    },
+                    "entity": {
+                        "id": "781974597105094656",
+                        "name": "TV/Movies Related - Entertainment"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "Brands and Companies",
+                        "id": "47",
+                        "name": "Brand"
+                    },
+                    "entity": {
+                        "id": "10026367762",
+                        "name": "Netflix"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A taxonomy of user interests. ",
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy"
+                    },
+                    "entity": {
+                        "id": "10026367762",
+                        "name": "Netflix"
+                    }
+                }
+            ],
+            "conversation_id": "1325522133603262465",
+            "created_at": "2020-11-09T08:06:32.000Z",
+            "edit_history_tweet_ids": [
+                "1325711357597999104"
+            ],
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 28,
+                        "normalized_text": "CQL",
+                        "probability": 0.8703,
+                        "start": 26,
+                        "type": "Other"
+                    },
+                    {
+                        "end": 39,
+                        "normalized_text": "Netflix",
+                        "probability": 0.978,
+                        "start": 33,
+                        "type": "Organization"
+                    },
+                    {
+                        "end": 72,
+                        "normalized_text": "Untamed",
+                        "probability": 0.6066,
+                        "start": 66,
+                        "type": "Other"
+                    },
+                    {
+                        "end": 80,
+                        "normalized_text": "viki",
+                        "probability": 0.7698,
+                        "start": 77,
+                        "type": "Other"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 11,
+                        "id": "1121513665",
+                        "start": 0,
+                        "username": "aplethoras"
+                    }
+                ]
+            },
+            "id": "1325711357597999104",
+            "in_reply_to_user_id": "1121513665",
+            "lang": "en",
+            "public_metrics": {
+                "impression_count": 0,
+                "like_count": 1,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "referenced_tweets": [
+                {
+                    "id": "1325522133603262465",
+                    "type": "replied_to"
+                }
+            ],
+            "reply_settings": "everyone",
+            "text": "@aplethoras Wow I've seen CQL on Netflix, now I have to watch the Untamed on viki, thank you for the recommendation!"
+        },
+        {
+            "author_id": "1175539091250864128",
+            "conversation_id": "1325711085517885440",
+            "created_at": "2020-11-09T08:05:27.000Z",
+            "edit_history_tweet_ids": [
+                "1325711085517885440"
+            ],
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 56,
+                        "normalized_text": "The Untamed",
+                        "probability": 0.8047,
+                        "start": 46,
+                        "type": "Other"
+                    },
+                    {
+                        "end": 62,
+                        "normalized_text": "MDZS",
+                        "probability": 0.4668,
+                        "start": 59,
+                        "type": "Other"
+                    },
+                    {
+                        "end": 87,
+                        "normalized_text": "Willow Pattern",
+                        "probability": 0.7949,
+                        "start": 74,
+                        "type": "Other"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 16,
+                        "id": "32776127",
+                        "start": 3,
+                        "username": "flockofwords"
+                    },
+                    {
+                        "end": 33,
+                        "id": "257048770",
+                        "start": 18,
+                        "username": "HillaryMonahan"
+                    }
+                ]
+            },
+            "id": "1325711085517885440",
+            "lang": "en",
+            "public_metrics": {
+                "impression_count": 0,
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 199
+            },
+            "referenced_tweets": [
+                {
+                    "id": "1325591176641191938",
+                    "type": "retweeted"
+                }
+            ],
+            "reply_settings": "everyone",
+            "text": "RT @flockofwords: @HillaryMonahan I painted a The Untamed /MDZS flavoured Willow Pattern mural in the living room a few months ago, when Br\u2026"
+        },
+        {
+            "author_id": "1318075249666084866",
+            "conversation_id": "1325710792012951557",
+            "created_at": "2020-11-09T08:04:17.000Z",
+            "edit_history_tweet_ids": [
+                "1325710792012951557"
+            ],
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 26,
+                        "normalized_text": "Untamed Shore",
+                        "probability": 0.9596,
+                        "start": 14,
+                        "type": "Other"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "newamazeweb.blogspot.com/book98.php?asi\u2026",
+                        "end": 57,
+                        "expanded_url": "https://newamazeweb.blogspot.com/book98.php?asin=B07ZFYCBH1",
+                        "start": 34,
+                        "url": "https://t.co/inrmddYwEt"
+                    }
+                ]
+            },
+            "id": "1325710792012951557",
+            "lang": "en",
+            "public_metrics": {
+                "impression_count": 0,
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "reply_settings": "everyone",
+            "text": "Download Free Untamed Shore -&gt; https://t.co/inrmddYwEt"
+        },
+        {
+            "author_id": "1214590198283194369",
+            "conversation_id": "1325710751542222849",
+            "created_at": "2020-11-09T08:04:08.000Z",
+            "edit_history_tweet_ids": [
+                "1325710751542222849"
+            ],
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 56,
+                        "normalized_text": "The Untamed",
+                        "probability": 0.8047,
+                        "start": 46,
+                        "type": "Other"
+                    },
+                    {
+                        "end": 62,
+                        "normalized_text": "MDZS",
+                        "probability": 0.4668,
+                        "start": 59,
+                        "type": "Other"
+                    },
+                    {
+                        "end": 87,
+                        "normalized_text": "Willow Pattern",
+                        "probability": 0.7949,
+                        "start": 74,
+                        "type": "Other"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 16,
+                        "id": "32776127",
+                        "start": 3,
+                        "username": "flockofwords"
+                    },
+                    {
+                        "end": 33,
+                        "id": "257048770",
+                        "start": 18,
+                        "username": "HillaryMonahan"
+                    }
+                ]
+            },
+            "id": "1325710751542222849",
+            "lang": "en",
+            "public_metrics": {
+                "impression_count": 0,
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 199
+            },
+            "referenced_tweets": [
+                {
+                    "id": "1325591176641191938",
+                    "type": "retweeted"
+                }
+            ],
+            "reply_settings": "everyone",
+            "text": "RT @flockofwords: @HillaryMonahan I painted a The Untamed /MDZS flavoured Willow Pattern mural in the living room a few months ago, when Br\u2026"
+        },
+        {
+            "author_id": "2600616546",
+            "conversation_id": "1325710214428024832",
+            "created_at": "2020-11-09T08:02:00.000Z",
+            "edit_history_tweet_ids": [
+                "1325710214428024832"
+            ],
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 56,
+                        "normalized_text": "The Untamed",
+                        "probability": 0.8047,
+                        "start": 46,
+                        "type": "Other"
+                    },
+                    {
+                        "end": 62,
+                        "normalized_text": "MDZS",
+                        "probability": 0.4668,
+                        "start": 59,
+                        "type": "Other"
+                    },
+                    {
+                        "end": 87,
+                        "normalized_text": "Willow Pattern",
+                        "probability": 0.7949,
+                        "start": 74,
+                        "type": "Other"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 16,
+                        "id": "32776127",
+                        "start": 3,
+                        "username": "flockofwords"
+                    },
+                    {
+                        "end": 33,
+                        "id": "257048770",
+                        "start": 18,
+                        "username": "HillaryMonahan"
+                    }
+                ]
+            },
+            "id": "1325710214428024832",
+            "lang": "en",
+            "public_metrics": {
+                "impression_count": 0,
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 199
+            },
+            "referenced_tweets": [
+                {
+                    "id": "1325591176641191938",
+                    "type": "retweeted"
+                }
+            ],
+            "reply_settings": "everyone",
+            "text": "RT @flockofwords: @HillaryMonahan I painted a The Untamed /MDZS flavoured Willow Pattern mural in the living room a few months ago, when Br\u2026"
+        },
+        {
+            "author_id": "1277976467113046020",
+            "conversation_id": "1325709960219660288",
+            "created_at": "2020-11-09T08:00:59.000Z",
+            "edit_history_tweet_ids": [
+                "1325709960219660288"
+            ],
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 56,
+                        "normalized_text": "The Untamed",
+                        "probability": 0.8047,
+                        "start": 46,
+                        "type": "Other"
+                    },
+                    {
+                        "end": 62,
+                        "normalized_text": "MDZS",
+                        "probability": 0.4668,
+                        "start": 59,
+                        "type": "Other"
+                    },
+                    {
+                        "end": 87,
+                        "normalized_text": "Willow Pattern",
+                        "probability": 0.7949,
+                        "start": 74,
+                        "type": "Other"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 16,
+                        "id": "32776127",
+                        "start": 3,
+                        "username": "flockofwords"
+                    },
+                    {
+                        "end": 33,
+                        "id": "257048770",
+                        "start": 18,
+                        "username": "HillaryMonahan"
+                    }
+                ]
+            },
+            "id": "1325709960219660288",
+            "lang": "en",
+            "public_metrics": {
+                "impression_count": 0,
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 199
+            },
+            "referenced_tweets": [
+                {
+                    "id": "1325591176641191938",
+                    "type": "retweeted"
+                }
+            ],
+            "reply_settings": "everyone",
+            "text": "RT @flockofwords: @HillaryMonahan I painted a The Untamed /MDZS flavoured Willow Pattern mural in the living room a few months ago, when Br\u2026"
+        },
+        {
+            "author_id": "1225917553064759297",
+            "conversation_id": "1325709936588972032",
+            "created_at": "2020-11-09T08:00:54.000Z",
+            "edit_history_tweet_ids": [
+                "1325709936588972032"
+            ],
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 56,
+                        "normalized_text": "The Untamed",
+                        "probability": 0.8047,
+                        "start": 46,
+                        "type": "Other"
+                    },
+                    {
+                        "end": 62,
+                        "normalized_text": "MDZS",
+                        "probability": 0.4668,
+                        "start": 59,
+                        "type": "Other"
+                    },
+                    {
+                        "end": 87,
+                        "normalized_text": "Willow Pattern",
+                        "probability": 0.7949,
+                        "start": 74,
+                        "type": "Other"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 16,
+                        "id": "32776127",
+                        "start": 3,
+                        "username": "flockofwords"
+                    },
+                    {
+                        "end": 33,
+                        "id": "257048770",
+                        "start": 18,
+                        "username": "HillaryMonahan"
+                    }
+                ]
+            },
+            "id": "1325709936588972032",
+            "lang": "en",
+            "public_metrics": {
+                "impression_count": 0,
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 199
+            },
+            "referenced_tweets": [
+                {
+                    "id": "1325591176641191938",
+                    "type": "retweeted"
+                }
+            ],
+            "reply_settings": "everyone",
+            "text": "RT @flockofwords: @HillaryMonahan I painted a The Untamed /MDZS flavoured Willow Pattern mural in the living room a few months ago, when Br\u2026"
+        },
+        {
+            "author_id": "1281899382779125760",
+            "conversation_id": "1325709635811209216",
+            "created_at": "2020-11-09T07:59:42.000Z",
+            "edit_history_tweet_ids": [
+                "1325709635811209216"
+            ],
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 56,
+                        "normalized_text": "The Untamed",
+                        "probability": 0.8047,
+                        "start": 46,
+                        "type": "Other"
+                    },
+                    {
+                        "end": 62,
+                        "normalized_text": "MDZS",
+                        "probability": 0.4668,
+                        "start": 59,
+                        "type": "Other"
+                    },
+                    {
+                        "end": 87,
+                        "normalized_text": "Willow Pattern",
+                        "probability": 0.7949,
+                        "start": 74,
+                        "type": "Other"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 16,
+                        "id": "32776127",
+                        "start": 3,
+                        "username": "flockofwords"
+                    },
+                    {
+                        "end": 33,
+                        "id": "257048770",
+                        "start": 18,
+                        "username": "HillaryMonahan"
+                    }
+                ]
+            },
+            "id": "1325709635811209216",
+            "lang": "en",
+            "public_metrics": {
+                "impression_count": 0,
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 199
+            },
+            "referenced_tweets": [
+                {
+                    "id": "1325591176641191938",
+                    "type": "retweeted"
+                }
+            ],
+            "reply_settings": "everyone",
+            "text": "RT @flockofwords: @HillaryMonahan I painted a The Untamed /MDZS flavoured Willow Pattern mural in the living room a few months ago, when Br\u2026"
+        },
+        {
+            "author_id": "2802270756",
+            "conversation_id": "1325709492311351297",
+            "created_at": "2020-11-09T07:59:08.000Z",
+            "edit_history_tweet_ids": [
+                "1325709492311351297"
+            ],
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 56,
+                        "normalized_text": "The Untamed",
+                        "probability": 0.8047,
+                        "start": 46,
+                        "type": "Other"
+                    },
+                    {
+                        "end": 62,
+                        "normalized_text": "MDZS",
+                        "probability": 0.4668,
+                        "start": 59,
+                        "type": "Other"
+                    },
+                    {
+                        "end": 87,
+                        "normalized_text": "Willow Pattern",
+                        "probability": 0.7949,
+                        "start": 74,
+                        "type": "Other"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 16,
+                        "id": "32776127",
+                        "start": 3,
+                        "username": "flockofwords"
+                    },
+                    {
+                        "end": 33,
+                        "id": "257048770",
+                        "start": 18,
+                        "username": "HillaryMonahan"
+                    }
+                ]
+            },
+            "id": "1325709492311351297",
+            "lang": "en",
+            "public_metrics": {
+                "impression_count": 0,
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 199
+            },
+            "referenced_tweets": [
+                {
+                    "id": "1325591176641191938",
+                    "type": "retweeted"
+                }
+            ],
+            "reply_settings": "everyone",
+            "text": "RT @flockofwords: @HillaryMonahan I painted a The Untamed /MDZS flavoured Willow Pattern mural in the living room a few months ago, when Br\u2026"
+        },
+        {
+            "author_id": "803310694846210048",
+            "conversation_id": "1325708851728048128",
+            "created_at": "2020-11-09T07:56:35.000Z",
+            "edit_history_tweet_ids": [
+                "1325708851728048128"
+            ],
+            "entities": {
+                "hashtags": [
+                    {
+                        "end": 104,
+                        "start": 94,
+                        "tag": "danmeitwt"
+                    },
+                    {
+                        "end": 113,
+                        "start": 105,
+                        "tag": "mdzstwt"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "pic.twitter.com/yi0iDxTJG6",
+                        "end": 137,
+                        "expanded_url": "https://twitter.com/xianxianle/status/1325708851728048128/photo/1",
+                        "media_key": "3_1325708847311360000",
+                        "start": 114,
+                        "url": "https://t.co/yi0iDxTJG6"
+                    }
+                ]
+            },
+            "id": "1325708851728048128",
+            "lang": "en",
+            "public_metrics": {
+                "impression_count": 0,
+                "like_count": 29,
+                "quote_count": 0,
+                "reply_count": 2,
+                "retweet_count": 5
+            },
+            "reply_settings": "everyone",
+            "text": "ahaha looking for moots that like \n\n- MDZS\n- cql / the untamed\n- tgcf \n- mxtx\n\nRt to be moots\n#danmeitwt #mdzstwt https://t.co/yi0iDxTJG6"
+        },
+        {
+            "author_id": "3164075507",
+            "conversation_id": "1325669270425104384",
+            "created_at": "2020-11-09T07:54:17.000Z",
+            "edit_history_tweet_ids": [
+                "1325708274344353792"
+            ],
+            "entities": {
+                "mentions": [
+                    {
+                        "end": 11,
+                        "id": "614501220",
+                        "start": 0,
+                        "username": "ze_untamed"
+                    }
+                ]
+            },
+            "id": "1325708274344353792",
+            "in_reply_to_user_id": "614501220",
+            "lang": "en",
+            "public_metrics": {
+                "impression_count": 0,
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 1,
+                "retweet_count": 0
+            },
+            "referenced_tweets": [
+                {
+                    "id": "1325669270425104384",
+                    "type": "replied_to"
+                }
+            ],
+            "reply_settings": "everyone",
+            "text": "@ze_untamed They steal from themselves obviously"
+        },
+        {
+            "author_id": "1302473982705373185",
+            "context_annotations": [
+                {
+                    "domain": {
+                        "description": "Top level entities that describe a Brands industry",
+                        "id": "45",
+                        "name": "Brand Vertical"
+                    },
+                    "entity": {
+                        "id": "781974597310615553",
+                        "name": "Entertainment"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+                        "id": "30",
+                        "name": "Entities [Entity Service]"
+                    },
+                    "entity": {
+                        "id": "781974597105094656",
+                        "name": "TV/Movies Related - Entertainment"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "Brands and Companies",
+                        "id": "47",
+                        "name": "Brand"
+                    },
+                    "entity": {
+                        "id": "10026367762",
+                        "name": "Netflix"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A taxonomy of user interests. ",
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy"
+                    },
+                    "entity": {
+                        "id": "10026367762",
+                        "name": "Netflix"
+                    }
+                }
+            ],
+            "conversation_id": "1325708273736183809",
+            "created_at": "2020-11-09T07:54:17.000Z",
+            "edit_history_tweet_ids": [
+                "1325708273736183809"
+            ],
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 113,
+                        "normalized_text": "netflix",
+                        "probability": 0.9853,
+                        "start": 107,
+                        "type": "Organization"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 14,
+                        "id": "1121513665",
+                        "start": 3,
+                        "username": "aplethoras"
+                    }
+                ]
+            },
+            "id": "1325708273736183809",
+            "lang": "en",
+            "public_metrics": {
+                "impression_count": 0,
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 87
+            },
+            "referenced_tweets": [
+                {
+                    "id": "1325522133603262465",
+                    "type": "retweeted"
+                }
+            ],
+            "reply_settings": "everyone",
+            "text": "RT @aplethoras: my interests are extremely diverse actually. for example, sometimes i watch the untamed on netflix and other times i watch\u2026"
+        },
+        {
+            "author_id": "260078784",
+            "context_annotations": [
+                {
+                    "domain": {
+                        "description": "Brands and Companies",
+                        "id": "47",
+                        "name": "Brand"
+                    },
+                    "entity": {
+                        "description": "Sky News",
+                        "id": "1100765157339234304",
+                        "name": "Sky News"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A taxonomy of user interests. ",
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy"
+                    },
+                    "entity": {
+                        "description": "News",
+                        "id": "1046545033657081857",
+                        "name": "News"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A taxonomy of user interests. ",
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy"
+                    },
+                    "entity": {
+                        "description": "Sky News",
+                        "id": "1100765157339234304",
+                        "name": "Sky News"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A taxonomy of user interests. ",
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy"
+                    },
+                    "entity": {
+                        "id": "1196447117297905665",
+                        "name": "News outlets"
+                    }
+                }
+            ],
+            "conversation_id": "1325688998019280896",
+            "created_at": "2020-11-09T07:54:01.000Z",
+            "edit_history_tweet_ids": [
+                "1325708205293404161"
+            ],
+            "entities": {
+                "mentions": [
+                    {
+                        "end": 11,
+                        "id": "1602435436651188224",
+                        "start": 0,
+                        "username": "an_untamed"
+                    },
+                    {
+                        "end": 20,
+                        "id": "232710107",
+                        "start": 12,
+                        "username": "RobMax4"
+                    },
+                    {
+                        "end": 29,
+                        "id": "7587032",
+                        "start": 21,
+                        "username": "SkyNews"
+                    }
+                ]
+            },
+            "id": "1325708205293404161",
+            "in_reply_to_user_id": "1115423323163217921",
+            "lang": "en",
+            "public_metrics": {
+                "impression_count": 0,
+                "like_count": 1,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "referenced_tweets": [
+                {
+                    "id": "1325688998019280896",
+                    "type": "replied_to"
+                }
+            ],
+            "reply_settings": "everyone",
+            "text": "@an_untamed @RobMax4 @SkyNews Obviously worried about what might be revealed"
+        },
+        {
+            "author_id": "257276137",
+            "context_annotations": [
+                {
+                    "domain": {
+                        "description": "Named people in the world like Nelson Mandela",
+                        "id": "10",
+                        "name": "Person"
+                    },
+                    "entity": {
+                        "description": "AU MP, Bill Shorten",
+                        "id": "1114260686828228608",
+                        "name": "Bill Shorten"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "Politicians in the world, like Joe Biden",
+                        "id": "35",
+                        "name": "Politician"
+                    },
+                    "entity": {
+                        "description": "AU MP, Bill Shorten",
+                        "id": "1114260686828228608",
+                        "name": "Bill Shorten"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A taxonomy of user interests. ",
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy"
+                    },
+                    "entity": {
+                        "description": "Politics",
+                        "id": "847878884917886977",
+                        "name": "Politics"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A taxonomy of user interests. ",
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy"
+                    },
+                    "entity": {
+                        "description": "Politician",
+                        "id": "1070032753834438656",
+                        "name": "Political figures"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A taxonomy of user interests. ",
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy"
+                    },
+                    "entity": {
+                        "description": "AU MP, Bill Shorten",
+                        "id": "1114260686828228608",
+                        "name": "Bill Shorten"
+                    }
+                }
+            ],
+            "conversation_id": "1325707464772186117",
+            "created_at": "2020-11-09T07:51:04.000Z",
+            "edit_history_tweet_ids": [
+                "1325707464772186117"
+            ],
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 58,
+                        "normalized_text": "Australia",
+                        "probability": 0.9697,
+                        "start": 50,
+                        "type": "Place"
+                    },
+                    {
+                        "end": 81,
+                        "normalized_text": "Bill Shorten",
+                        "probability": 0.9678,
+                        "start": 70,
+                        "type": "Person"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 19,
+                        "id": "1214489977762959362",
+                        "start": 3,
+                        "username": "MicheleScheffl1"
+                    },
+                    {
+                        "end": 32,
+                        "id": "1602435436651188224",
+                        "start": 21,
+                        "username": "an_untamed"
+                    },
+                    {
+                        "end": 41,
+                        "id": "2768501",
+                        "start": 33,
+                        "username": "abcnews"
+                    }
+                ]
+            },
+            "id": "1325707464772186117",
+            "lang": "en",
+            "public_metrics": {
+                "impression_count": 0,
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 3
+            },
+            "referenced_tweets": [
+                {
+                    "id": "1301102523235803137",
+                    "type": "retweeted"
+                }
+            ],
+            "reply_settings": "everyone",
+            "text": "RT @MicheleScheffl1: @an_untamed @abcnews HALF of Australia VOTED for Bill Shorten,Those people Still know the Truth, and know that Labor w\u2026"
+        },
+        {
+            "author_id": "952349546708836353",
+            "context_annotations": [
+                {
+                    "domain": {
+                        "description": "Named people in the world like Nelson Mandela",
+                        "id": "10",
+                        "name": "Person"
+                    },
+                    "entity": {
+                        "description": "Suho (\uc218\ud638) - member of EXO",
+                        "id": "895348703812177920",
+                        "name": "SUHO"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A musician in the world, like Adele or Bob Dylan",
+                        "id": "54",
+                        "name": "Musician"
+                    },
+                    "entity": {
+                        "description": "Suho (\uc218\ud638) - member of EXO",
+                        "id": "895348703812177920",
+                        "name": "SUHO"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A category for a musical style, like Pop, Rock, or Rap",
+                        "id": "55",
+                        "name": "Music Genre"
+                    },
+                    "entity": {
+                        "description": "K-Pop",
+                        "id": "888105153038958593",
+                        "name": "K-pop"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A taxonomy of user interests. ",
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy"
+                    },
+                    "entity": {
+                        "description": "Music and radio",
+                        "id": "847524658970636288",
+                        "name": "Music"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A taxonomy of user interests. ",
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy"
+                    },
+                    "entity": {
+                        "description": "K-Pop",
+                        "id": "888105153038958593",
+                        "name": "K-pop"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A taxonomy of user interests. ",
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy"
+                    },
+                    "entity": {
+                        "description": "Suho (\uc218\ud638) - member of EXO",
+                        "id": "895348703812177920",
+                        "name": "SUHO"
+                    }
+                }
+            ],
+            "conversation_id": "1325707404676272133",
+            "created_at": "2020-11-09T07:50:50.000Z",
+            "edit_history_tweet_ids": [
+                "1325707404676272133"
+            ],
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 111,
+                        "normalized_text": "XiaoZhan",
+                        "probability": 0.8097,
+                        "start": 104,
+                        "type": "Person"
+                    },
+                    {
+                        "end": 117,
+                        "normalized_text": "Suho",
+                        "probability": 0.5121,
+                        "start": 114,
+                        "type": "Person"
+                    }
+                ],
+                "hashtags": [
+                    {
+                        "end": 112,
+                        "start": 103,
+                        "tag": "XiaoZhan"
+                    },
+                    {
+                        "end": 118,
+                        "start": 113,
+                        "tag": "Suho"
+                    }
+                ]
+            },
+            "id": "1325707404676272133",
+            "lang": "en",
+            "public_metrics": {
+                "impression_count": 0,
+                "like_count": 5,
+                "quote_count": 1,
+                "reply_count": 4,
+                "retweet_count": 0
+            },
+            "reply_settings": "everyone",
+            "text": "Untamed available in Hindi on Mx player \ud83d\udc40\nRich Man poor woman also available in Hindi on Mx player \ud83d\udc40\ud83d\ude02\n\n#XiaoZhan #Suho"
+        },
+        {
+            "author_id": "557319231",
+            "conversation_id": "1325707348145483776",
+            "created_at": "2020-11-09T07:50:36.000Z",
+            "edit_history_tweet_ids": [
+                "1325707348145483776"
+            ],
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 51,
+                        "normalized_text": "the untamed",
+                        "probability": 0.8554,
+                        "start": 41,
+                        "type": "Other"
+                    }
+                ]
+            },
+            "id": "1325707348145483776",
+            "lang": "pt",
+            "public_metrics": {
+                "impression_count": 0,
+                "like_count": 3,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "reply_settings": "everyone",
+            "text": "eu absolutamente AMO a caracteriza\u00e7\u00e3o de the untamed q com pequenas mudan\u00e7as consegue deixar os personagens mais jovens"
+        },
+        {
+            "author_id": "1320879522057650176",
+            "conversation_id": "1325707342617346048",
+            "created_at": "2020-11-09T07:50:35.000Z",
+            "edit_history_tweet_ids": [
+                "1325707342617346048"
+            ],
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 78,
+                        "normalized_text": "theory of mind",
+                        "probability": 0.8092,
+                        "start": 65,
+                        "type": "Other"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 12,
+                        "id": "1315335961233027072",
+                        "start": 3,
+                        "username": "isocrime"
+                    }
+                ]
+            },
+            "id": "1325707342617346048",
+            "lang": "en",
+            "public_metrics": {
+                "impression_count": 0,
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 18
+            },
+            "referenced_tweets": [
+                {
+                    "id": "1325652460711653377",
+                    "type": "retweeted"
+                }
+            ],
+            "reply_settings": "everyone",
+            "text": "RT @isocrime: a thing the untamed is really good at is depicting theory of mind. the characters all have public facades, and everyone knows\u2026"
+        },
+        {
+            "author_id": "1029898035017314305",
+            "conversation_id": "1325706973556461570",
+            "created_at": "2020-11-09T07:50:15.000Z",
+            "edit_history_tweet_ids": [
+                "1325707258588659712"
+            ],
+            "id": "1325707258588659712",
+            "in_reply_to_user_id": "1055071824797675520",
+            "lang": "en",
+            "public_metrics": {
+                "impression_count": 0,
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "referenced_tweets": [
+                {
+                    "id": "1325706973556461570",
+                    "type": "replied_to"
+                }
+            ],
+            "reply_settings": "everyone",
+            "text": "@Untamed_Ghost Morning bae"
+        },
+        {
+            "author_id": "1029898035017314305",
+            "conversation_id": "1325707227764727809",
+            "created_at": "2020-11-09T07:50:08.000Z",
+            "edit_history_tweet_ids": [
+                "1325707227764727809"
+            ],
+            "id": "1325707227764727809",
+            "lang": "en",
+            "public_metrics": {
+                "impression_count": 0,
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 1
+            },
+            "referenced_tweets": [
+                {
+                    "id": "1325706973556461570",
+                    "type": "retweeted"
+                }
+            ],
+            "reply_settings": "everyone",
+            "text": "RT @Untamed_Ghost: Good morning everyone!"
+        },
+        {
+            "author_id": "3371101653",
+            "conversation_id": "1325610790733242370",
+            "created_at": "2020-11-09T07:50:00.000Z",
+            "edit_history_tweet_ids": [
+                "1325707193665146881"
+            ],
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 21,
+                        "normalized_text": "The Untamed",
+                        "probability": 0.9678,
+                        "start": 11,
+                        "type": "Other"
+                    },
+                    {
+                        "end": 40,
+                        "normalized_text": "xianxia",
+                        "probability": 0.4927,
+                        "start": 34,
+                        "type": "Other"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 10,
+                        "id": "15437195",
+                        "start": 0,
+                        "username": "shaunduke"
+                    }
+                ]
+            },
+            "id": "1325707193665146881",
+            "in_reply_to_user_id": "15437195",
+            "lang": "en",
+            "public_metrics": {
+                "impression_count": 0,
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "referenced_tweets": [
+                {
+                    "id": "1325610790733242370",
+                    "type": "replied_to"
+                }
+            ],
+            "reply_settings": "everyone",
+            "text": "@shaunduke The Untamed, a Chinese xianxia drama with two men in love. \ud83d\udc95"
+        },
+        {
+            "author_id": "877105466689695744",
+            "conversation_id": "1325295397296861184",
+            "created_at": "2020-11-09T07:44:27.000Z",
+            "edit_history_tweet_ids": [
+                "1325705800229195776"
+            ],
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 50,
+                        "normalized_text": "Addicted",
+                        "probability": 0.7106,
+                        "start": 43,
+                        "type": "Other"
+                    },
+                    {
+                        "end": 102,
+                        "normalized_text": "The Untamed",
+                        "probability": 0.9308,
+                        "start": 92,
+                        "type": "Other"
+                    },
+                    {
+                        "end": 255,
+                        "normalized_text": "HIStory 3",
+                        "probability": 0.7641,
+                        "start": 247,
+                        "type": "Other"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 11,
+                        "id": "2730961896",
+                        "start": 0,
+                        "username": "mizakalili"
+                    }
+                ]
+            },
+            "id": "1325705800229195776",
+            "in_reply_to_user_id": "2730961896",
+            "lang": "en",
+            "public_metrics": {
+                "impression_count": 0,
+                "like_count": 1,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 1
+            },
+            "referenced_tweets": [
+                {
+                    "id": "1325695823288496128",
+                    "type": "replied_to"
+                }
+            ],
+            "reply_settings": "everyone",
+            "text": "@mizakalili Yeah. Even Advance Bravely and Addicted had at least cut homoerotic content but The Untamed doesn't even have that and said picture was some old picture of a master fucking the teenage servant, so I wouldn't have even included it. Try HIStory 3 Trapped instead."
+        },
+        {
+            "author_id": "826332877457481728",
+            "context_annotations": [
+                {
+                    "domain": {
+                        "description": "Named people in the world like Nelson Mandela",
+                        "id": "10",
+                        "name": "Person"
+                    },
+                    "entity": {
+                        "description": "David Fahrenthold",
+                        "id": "1053696830288982023",
+                        "name": "David Fahrenthold"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "Brands and Companies",
+                        "id": "47",
+                        "name": "Brand"
+                    },
+                    "entity": {
+                        "description": "Sky News",
+                        "id": "1100765157339234304",
+                        "name": "Sky News"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A journalist like 'Anderson Cooper'",
+                        "id": "94",
+                        "name": "Journalist"
+                    },
+                    "entity": {
+                        "description": "David Fahrenthold",
+                        "id": "1053696830288982023",
+                        "name": "David Fahrenthold"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A taxonomy of user interests. ",
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy"
+                    },
+                    "entity": {
+                        "description": "News",
+                        "id": "1046545033657081857",
+                        "name": "News"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A taxonomy of user interests. ",
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy"
+                    },
+                    "entity": {
+                        "description": "David Fahrenthold",
+                        "id": "1053696830288982023",
+                        "name": "David Fahrenthold"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A taxonomy of user interests. ",
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy"
+                    },
+                    "entity": {
+                        "description": "Journalism",
+                        "id": "1074755369530880001",
+                        "name": "Journalists"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A taxonomy of user interests. ",
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy"
+                    },
+                    "entity": {
+                        "description": "Sky News",
+                        "id": "1100765157339234304",
+                        "name": "Sky News"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A taxonomy of user interests. ",
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy"
+                    },
+                    "entity": {
+                        "id": "1196447117297905665",
+                        "name": "News outlets"
+                    }
+                }
+            ],
+            "conversation_id": "1325688998019280896",
+            "created_at": "2020-11-09T07:43:39.000Z",
+            "edit_history_tweet_ids": [
+                "1325705597522620416"
+            ],
+            "entities": {
+                "mentions": [
+                    {
+                        "end": 11,
+                        "id": "5854302",
+                        "start": 0,
+                        "username": "PatchouliW"
+                    },
+                    {
+                        "end": 23,
+                        "id": "1602435436651188224",
+                        "start": 12,
+                        "username": "an_untamed"
+                    },
+                    {
+                        "end": 32,
+                        "id": "7587032",
+                        "start": 24,
+                        "username": "SkyNews"
+                    },
+                    {
+                        "end": 45,
+                        "id": "61734492",
+                        "start": 33,
+                        "username": "Fahrenthold"
+                    }
+                ]
+            },
+            "id": "1325705597522620416",
+            "in_reply_to_user_id": "5854302",
+            "lang": "en",
+            "public_metrics": {
+                "impression_count": 0,
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 1,
+                "retweet_count": 0
+            },
+            "referenced_tweets": [
+                {
+                    "id": "1325705074895515650",
+                    "type": "replied_to"
+                }
+            ],
+            "reply_settings": "everyone",
+            "text": "@PatchouliW @an_untamed @SkyNews @Fahrenthold Sensible! !"
+        },
+        {
+            "author_id": "2357575897",
+            "conversation_id": "1325675297719529479",
+            "created_at": "2020-11-09T07:42:38.000Z",
+            "edit_history_tweet_ids": [
+                "1325705343339524098"
+            ],
+            "id": "1325705343339524098",
+            "in_reply_to_user_id": "992868477999333376",
+            "lang": "en",
+            "public_metrics": {
+                "impression_count": 0,
+                "like_count": 1,
+                "quote_count": 0,
+                "reply_count": 1,
+                "retweet_count": 0
+            },
+            "referenced_tweets": [
+                {
+                    "id": "1325705222572789760",
+                    "type": "replied_to"
+                }
+            ],
+            "reply_settings": "everyone",
+            "text": "@joonwinx last december i watched the untamed and i would like to watch it for the first time again i need the men in black to wipe my memory"
+        },
+        {
+            "author_id": "237992857",
+            "context_annotations": [
+                {
+                    "domain": {
+                        "description": "Brands and Companies",
+                        "id": "47",
+                        "name": "Brand"
+                    },
+                    "entity": {
+                        "description": "Sky News",
+                        "id": "1100765157339234304",
+                        "name": "Sky News"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A taxonomy of user interests. ",
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy"
+                    },
+                    "entity": {
+                        "description": "News",
+                        "id": "1046545033657081857",
+                        "name": "News"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A taxonomy of user interests. ",
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy"
+                    },
+                    "entity": {
+                        "description": "Sky News",
+                        "id": "1100765157339234304",
+                        "name": "Sky News"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A taxonomy of user interests. ",
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy"
+                    },
+                    "entity": {
+                        "id": "1196447117297905665",
+                        "name": "News outlets"
+                    }
+                }
+            ],
+            "conversation_id": "1325688998019280896",
+            "created_at": "2020-11-09T07:38:09.000Z",
+            "edit_history_tweet_ids": [
+                "1325704211569364992"
+            ],
+            "entities": {
+                "mentions": [
+                    {
+                        "end": 11,
+                        "id": "1602435436651188224",
+                        "start": 0,
+                        "username": "an_untamed"
+                    },
+                    {
+                        "end": 31,
+                        "id": "7587032",
+                        "start": 23,
+                        "username": "SkyNews"
+                    }
+                ]
+            },
+            "id": "1325704211569364992",
+            "in_reply_to_user_id": "1115423323163217921",
+            "lang": "en",
+            "public_metrics": {
+                "impression_count": 0,
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "referenced_tweets": [
+                {
+                    "id": "1325688998019280896",
+                    "type": "replied_to"
+                }
+            ],
+            "reply_settings": "everyone",
+            "text": "@an_untamed @Whyalla55 @SkyNews What?! Which politicians are doing this?"
+        },
+        {
+            "author_id": "931182366336233473",
+            "conversation_id": "1325703946518712320",
+            "created_at": "2020-11-09T07:37:05.000Z",
+            "edit_history_tweet_ids": [
+                "1325703946518712320"
+            ],
+            "entities": {
+                "mentions": [
+                    {
+                        "end": 18,
+                        "id": "1029935261818347520",
+                        "start": 3,
+                        "username": "Chikaofficials"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "forms.gle/y6UxXxVhjK2MHT\u2026",
+                        "end": 89,
+                        "expanded_url": "https://forms.gle/y6UxXxVhjK2MHTyc6",
+                        "start": 66,
+                        "url": "https://t.co/g0Zc87rrx3"
+                    }
+                ]
+            },
+            "id": "1325703946518712320",
+            "lang": "und",
+            "public_metrics": {
+                "impression_count": 0,
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 20
+            },
+            "referenced_tweets": [
+                {
+                    "id": "1323097545598382081",
+                    "type": "retweeted"
+                }
+            ],
+            "reply_settings": "everyone",
+            "text": "RT @Chikaofficials: Untamed official Photobook Japan V1\n\u0e1f\u0e2d\u0e23\u0e4c\u0e21\u0e2a\u0e31\u0e48\u0e07\nhttps://t.co/g0Zc87rrx3\n\ud83d\udea9\u0e2a\u0e48\u0e07\u0e43\u0e19\u0e0d\u0e35\u0e48\u0e1b\u0e38\u0e48\u0e19 Dec\n\u23f0 \u0e1b\u0e34\u0e14\u0e23\u0e31\u0e1a 10/11\nPhotobook Volume\u2026"
+        },
+        {
+            "author_id": "1204598080391327746",
+            "conversation_id": "1325701738255486976",
+            "created_at": "2020-11-09T07:28:19.000Z",
+            "edit_history_tweet_ids": [
+                "1325701738255486976"
+            ],
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 14,
+                        "normalized_text": "Wen Ning",
+                        "probability": 0.8153,
+                        "start": 7,
+                        "type": "Person"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "buzzfeed.com/shellezbellez/\u2026",
+                        "end": 39,
+                        "expanded_url": "https://www.buzzfeed.com/shellezbellez/which-untamed-cultivator-are-you-3h2jzcscv4?utm_source=dynamic&utm_campaign=bfsharetwitter&quiz_result=123848884_1&rid=1#123848884",
+                        "start": 16,
+                        "url": "https://t.co/6cSaYP8HYn"
+                    }
+                ]
+            },
+            "id": "1325701738255486976",
+            "lang": "en",
+            "public_metrics": {
+                "impression_count": 0,
+                "like_count": 1,
+                "quote_count": 0,
+                "reply_count": 1,
+                "retweet_count": 0
+            },
+            "reply_settings": "everyone",
+            "text": "I got: Wen Ning https://t.co/6cSaYP8HYn"
+        },
+        {
+            "author_id": "1279515174177837056",
+            "conversation_id": "1325701549281189889",
+            "created_at": "2020-11-09T07:27:34.000Z",
+            "edit_history_tweet_ids": [
+                "1325701549281189889"
+            ],
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 43,
+                        "normalized_text": "gilgamesh",
+                        "probability": 0.7572,
+                        "start": 35,
+                        "type": "Person"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "twitter.com/BEARER0FNENYA/\u2026",
+                        "end": 179,
+                        "expanded_url": "https://twitter.com/BEARER0FNENYA/status/1325701179100196865",
+                        "start": 156,
+                        "url": "https://t.co/QRb4cIoqth"
+                    }
+                ]
+            },
+            "id": "1325701549281189889",
+            "lang": "en",
+            "public_metrics": {
+                "impression_count": 0,
+                "like_count": 0,
+                "quote_count": 1,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "referenced_tweets": [
+                {
+                    "id": "1325701179100196865",
+                    "type": "quoted"
+                }
+            ],
+            "reply_settings": "everyone",
+            "text": "oh? i thought your experience with gilgamesh would say otherwise. but ha, you prove me wrong. i suppose the untamed wilderness in you can never be removed. https://t.co/QRb4cIoqth"
+        },
+        {
+            "author_id": "869760641325645824",
+            "context_annotations": [
+                {
+                    "domain": {
+                        "description": "Brands and Companies",
+                        "id": "47",
+                        "name": "Brand"
+                    },
+                    "entity": {
+                        "description": "Sky News",
+                        "id": "1100765157339234304",
+                        "name": "Sky News"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A taxonomy of user interests. ",
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy"
+                    },
+                    "entity": {
+                        "description": "News",
+                        "id": "1046545033657081857",
+                        "name": "News"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A taxonomy of user interests. ",
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy"
+                    },
+                    "entity": {
+                        "description": "Television",
+                        "id": "1072937043393560576",
+                        "name": "Television"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A taxonomy of user interests. ",
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy"
+                    },
+                    "entity": {
+                        "description": "Sky News",
+                        "id": "1100765157339234304",
+                        "name": "Sky News"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A taxonomy of user interests. ",
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy"
+                    },
+                    "entity": {
+                        "id": "1196447117297905665",
+                        "name": "News outlets"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A taxonomy of user interests. ",
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy"
+                    },
+                    "entity": {
+                        "id": "1276514328007467008",
+                        "name": "Movies & TV"
+                    }
+                }
+            ],
+            "conversation_id": "1325688998019280896",
+            "created_at": "2020-11-09T07:27:05.000Z",
+            "edit_history_tweet_ids": [
+                "1325701427642036225"
+            ],
+            "entities": {
+                "mentions": [
+                    {
+                        "end": 11,
+                        "id": "1602435436651188224",
+                        "start": 0,
+                        "username": "an_untamed"
+                    },
+                    {
+                        "end": 20,
+                        "id": "7587032",
+                        "start": 12,
+                        "username": "SkyNews"
+                    }
+                ]
+            },
+            "id": "1325701427642036225",
+            "in_reply_to_user_id": "1115423323163217921",
+            "lang": "en",
+            "public_metrics": {
+                "impression_count": 0,
+                "like_count": 3,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "referenced_tweets": [
+                {
+                    "id": "1325688998019280896",
+                    "type": "replied_to"
+                }
+            ],
+            "reply_settings": "everyone",
+            "text": "@an_untamed @SkyNews I share your disbelf. Is govt vetting what we can watch on TV? It feels very wrong to me"
+        },
+        {
+            "author_id": "727674633999290368",
+            "context_annotations": [
+                {
+                    "domain": {
+                        "description": "A taxonomy of user interests. ",
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy"
+                    },
+                    "entity": {
+                        "description": "Gaming",
+                        "id": "847527650667094017",
+                        "name": "Gaming"
+                    }
+                }
+            ],
+            "conversation_id": "1325701356636745729",
+            "created_at": "2020-11-09T07:26:48.000Z",
+            "edit_history_tweet_ids": [
+                "1325701356636745729"
+            ],
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 33,
+                        "normalized_text": "Gaming",
+                        "probability": 0.5999,
+                        "start": 28,
+                        "type": "Other"
+                    },
+                    {
+                        "end": 51,
+                        "normalized_text": "Alyillustrate",
+                        "probability": 0.8851,
+                        "start": 39,
+                        "type": "Other"
+                    },
+                    {
+                        "end": 138,
+                        "normalized_text": "Pow",
+                        "probability": 0.6707,
+                        "start": 136,
+                        "type": "Other"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 18,
+                        "id": "955901650350288898",
+                        "start": 3,
+                        "username": "UntamedGaming2"
+                    }
+                ]
+            },
+            "id": "1325701356636745729",
+            "lang": "en",
+            "public_metrics": {
+                "impression_count": 0,
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 1
+            },
+            "referenced_tweets": [
+                {
+                    "id": "1325700298917154817",
+                    "type": "retweeted"
+                }
+            ],
+            "reply_settings": "everyone",
+            "text": "RT @UntamedGaming2: Untamed Gaming and Alyillustrate are working together to give you guys the option to make your very own custom made Pow\u2026"
+        },
+        {
+            "author_id": "727674633999290368",
+            "context_annotations": [
+                {
+                    "domain": {
+                        "description": "A taxonomy of user interests. ",
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy"
+                    },
+                    "entity": {
+                        "id": "839544337360801792",
+                        "name": "Esports"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A taxonomy of user interests. ",
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy"
+                    },
+                    "entity": {
+                        "description": "Gaming",
+                        "id": "847527650667094017",
+                        "name": "Gaming"
+                    }
+                }
+            ],
+            "conversation_id": "1325701338848747521",
+            "created_at": "2020-11-09T07:26:44.000Z",
+            "edit_history_tweet_ids": [
+                "1325701338848747521"
+            ],
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 49,
+                        "normalized_text": "Esport Labs",
+                        "probability": 0.7352,
+                        "start": 39,
+                        "type": "Other"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 18,
+                        "id": "955901650350288898",
+                        "start": 3,
+                        "username": "UntamedGaming2"
+                    }
+                ]
+            },
+            "id": "1325701338848747521",
+            "lang": "en",
+            "public_metrics": {
+                "impression_count": 0,
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 1
+            },
+            "referenced_tweets": [
+                {
+                    "id": "1325699515844849664",
+                    "type": "retweeted"
+                }
+            ],
+            "reply_settings": "everyone",
+            "text": "RT @UntamedGaming2: Untamed Gaming and Esport Labs just partner up to bring you guys \u201cUntamedGaming\u201d promocode to save up to 10%! \n\nhttps:/\u2026"
+        },
+        {
+            "author_id": "727674633999290368",
+            "context_annotations": [
+                {
+                    "domain": {
+                        "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+                        "id": "30",
+                        "name": "Entities [Entity Service]"
+                    },
+                    "entity": {
+                        "description": "Food",
+                        "id": "825047692124442624",
+                        "name": "Food"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "Top level interests and hobbies groupings, like Food or Travel",
+                        "id": "65",
+                        "name": "Interests and Hobbies Vertical"
+                    },
+                    "entity": {
+                        "description": "Drinks",
+                        "id": "834828264786898945",
+                        "name": "Drinks"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+                        "id": "66",
+                        "name": "Interests and Hobbies Category"
+                    },
+                    "entity": {
+                        "description": "Generic Drinks",
+                        "id": "834828445238431744",
+                        "name": "Generic Drinks"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+                        "id": "67",
+                        "name": "Interests and Hobbies"
+                    },
+                    "entity": {
+                        "description": "Energy Drinks",
+                        "id": "850449183441960960",
+                        "name": "Energy Drinks"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A taxonomy of user interests. ",
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy"
+                    },
+                    "entity": {
+                        "description": "Drinks",
+                        "id": "834828264786898945",
+                        "name": "Drinks"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A taxonomy of user interests. ",
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy"
+                    },
+                    "entity": {
+                        "description": "Gaming",
+                        "id": "847527650667094017",
+                        "name": "Gaming"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A taxonomy of user interests. ",
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy"
+                    },
+                    "entity": {
+                        "description": "Energy Drinks",
+                        "id": "850449183441960960",
+                        "name": "Energy Drinks"
+                    }
+                }
+            ],
+            "conversation_id": "1325701320058286086",
+            "created_at": "2020-11-09T07:26:39.000Z",
+            "edit_history_tweet_ids": [
+                "1325701320058286086"
+            ],
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 33,
+                        "normalized_text": "Gaming",
+                        "probability": 0.4461,
+                        "start": 28,
+                        "type": "Other"
+                    },
+                    {
+                        "end": 50,
+                        "normalized_text": "Rogue Energy",
+                        "probability": 0.8491,
+                        "start": 39,
+                        "type": "Other"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 18,
+                        "id": "955901650350288898",
+                        "start": 3,
+                        "username": "UntamedGaming2"
+                    }
+                ]
+            },
+            "id": "1325701320058286086",
+            "lang": "en",
+            "public_metrics": {
+                "impression_count": 0,
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 1
+            },
+            "referenced_tweets": [
+                {
+                    "id": "1325698597065732096",
+                    "type": "retweeted"
+                }
+            ],
+            "reply_settings": "everyone",
+            "text": "RT @UntamedGaming2: Untamed Gaming and Rogue Energy Drink just partner up to bring you guys \u201cUNTAMEDGAMINF\u201d promocode to save up to 20%!\u2026"
+        },
+        {
+            "author_id": "727674633999290368",
+            "context_annotations": [
+                {
+                    "domain": {
+                        "description": "A taxonomy of user interests. ",
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy"
+                    },
+                    "entity": {
+                        "description": "Gaming",
+                        "id": "847527650667094017",
+                        "name": "Gaming"
+                    }
+                }
+            ],
+            "conversation_id": "1325701303490793474",
+            "created_at": "2020-11-09T07:26:35.000Z",
+            "edit_history_tweet_ids": [
+                "1325701303490793474"
+            ],
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 33,
+                        "normalized_text": "Gaming",
+                        "probability": 0.492,
+                        "start": 28,
+                        "type": "Other"
+                    },
+                    {
+                        "end": 46,
+                        "normalized_text": "WaveChan",
+                        "probability": 0.8168,
+                        "start": 39,
+                        "type": "Other"
+                    },
+                    {
+                        "end": 134,
+                        "normalized_text": "MVCI",
+                        "probability": 0.6413,
+                        "start": 131,
+                        "type": "Other"
+                    },
+                    {
+                        "end": 138,
+                        "normalized_text": "UMV",
+                        "probability": 0.7909,
+                        "start": 136,
+                        "type": "Other"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 18,
+                        "id": "955901650350288898",
+                        "start": 3,
+                        "username": "UntamedGaming2"
+                    }
+                ]
+            },
+            "id": "1325701303490793474",
+            "lang": "en",
+            "public_metrics": {
+                "impression_count": 0,
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 2
+            },
+            "referenced_tweets": [
+                {
+                    "id": "1325697874382958593",
+                    "type": "retweeted"
+                }
+            ],
+            "reply_settings": "everyone",
+            "text": "RT @UntamedGaming2: Untamed Gaming and WaveChan are working together to give you guys the option to make your very own custom made MVCI/UMV\u2026"
+        },
+        {
+            "author_id": "727674633999290368",
+            "context_annotations": [
+                {
+                    "domain": {
+                        "description": "A video game like Overwatch",
+                        "id": "71",
+                        "name": "Video Game"
+                    },
+                    "entity": {
+                        "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series, if applicable. ",
+                        "id": "10046538522",
+                        "name": "Tekken"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "Video Game Hardware",
+                        "id": "79",
+                        "name": "Video Game Hardware"
+                    },
+                    "entity": {
+                        "id": "1201628202105335808",
+                        "name": "PlayStation 4"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A taxonomy of user interests. ",
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy"
+                    },
+                    "entity": {
+                        "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series, if applicable. ",
+                        "id": "10046538522",
+                        "name": "Tekken"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A taxonomy of user interests. ",
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy"
+                    },
+                    "entity": {
+                        "description": "Gaming",
+                        "id": "847527650667094017",
+                        "name": "Gaming"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A taxonomy of user interests. ",
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy"
+                    },
+                    "entity": {
+                        "description": "US National News",
+                        "id": "1003932601839579136",
+                        "name": "US national news"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A taxonomy of user interests. ",
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy"
+                    },
+                    "entity": {
+                        "description": "News",
+                        "id": "1046545033657081857",
+                        "name": "News"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A taxonomy of user interests. ",
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy"
+                    },
+                    "entity": {
+                        "id": "1070028159964262400",
+                        "name": "Video games"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A taxonomy of user interests. ",
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy"
+                    },
+                    "entity": {
+                        "description": "Video Game Hardware",
+                        "id": "1070028376662888448",
+                        "name": "Console gaming"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A taxonomy of user interests. ",
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy"
+                    },
+                    "entity": {
+                        "id": "1201628202105335808",
+                        "name": "PlayStation 4"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A taxonomy of user interests. ",
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy"
+                    },
+                    "entity": {
+                        "id": "1286379401228124160",
+                        "name": "Americas"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A taxonomy of user interests. ",
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy"
+                    },
+                    "entity": {
+                        "id": "1307106518475522049",
+                        "name": "Fighting games"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "Top level entities that describe a Brands industry",
+                        "id": "45",
+                        "name": "Brand Vertical"
+                    },
+                    "entity": {
+                        "id": "781974597310615553",
+                        "name": "Entertainment"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+                        "id": "30",
+                        "name": "Entities [Entity Service]"
+                    },
+                    "entity": {
+                        "id": "781974597218340864",
+                        "name": "Video Games - Entertainment"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "Brands and Companies",
+                        "id": "47",
+                        "name": "Brand"
+                    },
+                    "entity": {
+                        "id": "10027048853",
+                        "name": "PlayStation"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "Brands and Companies",
+                        "id": "47",
+                        "name": "Brand"
+                    },
+                    "entity": {
+                        "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series, if applicable. ",
+                        "id": "10046538522",
+                        "name": "Tekken"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "Video Game Hardware",
+                        "id": "79",
+                        "name": "Video Game Hardware"
+                    },
+                    "entity": {
+                        "id": "10027048853",
+                        "name": "PlayStation"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A taxonomy of user interests. ",
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy"
+                    },
+                    "entity": {
+                        "id": "10027048853",
+                        "name": "PlayStation"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A taxonomy of user interests. ",
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy"
+                    },
+                    "entity": {
+                        "description": "Gaming",
+                        "id": "847527650667094017",
+                        "name": "Gaming"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A taxonomy of user interests. ",
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy"
+                    },
+                    "entity": {
+                        "id": "1070028159964262400",
+                        "name": "Video games"
+                    }
+                }
+            ],
+            "conversation_id": "1325701280124325889",
+            "created_at": "2020-11-09T07:26:30.000Z",
+            "edit_history_tweet_ids": [
+                "1325701280124325889"
+            ],
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 25,
+                        "normalized_text": "Tekken",
+                        "probability": 0.4927,
+                        "start": 20,
+                        "type": "Other"
+                    },
+                    {
+                        "end": 31,
+                        "normalized_text": "PS4",
+                        "probability": 0.8255,
+                        "start": 29,
+                        "type": "Product"
+                    },
+                    {
+                        "end": 93,
+                        "normalized_text": "USA",
+                        "probability": 0.9165,
+                        "start": 91,
+                        "type": "Place"
+                    },
+                    {
+                        "end": 100,
+                        "normalized_text": "Canada",
+                        "probability": 0.8024,
+                        "start": 95,
+                        "type": "Place"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 18,
+                        "id": "955901650350288898",
+                        "start": 3,
+                        "username": "UntamedGaming2"
+                    }
+                ]
+            },
+            "id": "1325701280124325889",
+            "lang": "en",
+            "public_metrics": {
+                "impression_count": 0,
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 2
+            },
+            "referenced_tweets": [
+                {
+                    "id": "1325695233871523841",
+                    "type": "retweeted"
+                }
+            ],
+            "reply_settings": "everyone",
+            "text": "RT @UntamedGaming2: Tekken 7 PS4 Season 2 Online Tournament #2 11/15/20 8pm EST (5pm PST) (USA/Canada &amp; Wired Only) Hosted By: Untamed Gami\u2026"
+        },
+        {
+            "author_id": "727674633999290368",
+            "context_annotations": [
+                {
+                    "domain": {
+                        "description": "Video Game Hardware",
+                        "id": "79",
+                        "name": "Video Game Hardware"
+                    },
+                    "entity": {
+                        "id": "1201628202105335808",
+                        "name": "PlayStation 4"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A taxonomy of user interests. ",
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy"
+                    },
+                    "entity": {
+                        "description": "Gaming",
+                        "id": "847527650667094017",
+                        "name": "Gaming"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A taxonomy of user interests. ",
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy"
+                    },
+                    "entity": {
+                        "description": "US National News",
+                        "id": "1003932601839579136",
+                        "name": "US national news"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A taxonomy of user interests. ",
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy"
+                    },
+                    "entity": {
+                        "description": "News",
+                        "id": "1046545033657081857",
+                        "name": "News"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A taxonomy of user interests. ",
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy"
+                    },
+                    "entity": {
+                        "description": "Video Game Hardware",
+                        "id": "1070028376662888448",
+                        "name": "Console gaming"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A taxonomy of user interests. ",
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy"
+                    },
+                    "entity": {
+                        "id": "1201628202105335808",
+                        "name": "PlayStation 4"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A taxonomy of user interests. ",
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy"
+                    },
+                    "entity": {
+                        "id": "1286379401228124160",
+                        "name": "Americas"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "Top level entities that describe a Brands industry",
+                        "id": "45",
+                        "name": "Brand Vertical"
+                    },
+                    "entity": {
+                        "id": "781974597310615553",
+                        "name": "Entertainment"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+                        "id": "30",
+                        "name": "Entities [Entity Service]"
+                    },
+                    "entity": {
+                        "id": "781974597218340864",
+                        "name": "Video Games - Entertainment"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "Brands and Companies",
+                        "id": "47",
+                        "name": "Brand"
+                    },
+                    "entity": {
+                        "id": "10027048853",
+                        "name": "PlayStation"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "Video Game Hardware",
+                        "id": "79",
+                        "name": "Video Game Hardware"
+                    },
+                    "entity": {
+                        "id": "10027048853",
+                        "name": "PlayStation"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A taxonomy of user interests. ",
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy"
+                    },
+                    "entity": {
+                        "id": "10027048853",
+                        "name": "PlayStation"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A taxonomy of user interests. ",
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy"
+                    },
+                    "entity": {
+                        "description": "Gaming",
+                        "id": "847527650667094017",
+                        "name": "Gaming"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A taxonomy of user interests. ",
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy"
+                    },
+                    "entity": {
+                        "id": "1070028159964262400",
+                        "name": "Video games"
+                    }
+                }
+            ],
+            "conversation_id": "1325701257969983488",
+            "created_at": "2020-11-09T07:26:24.000Z",
+            "edit_history_tweet_ids": [
+                "1325701257969983488"
+            ],
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 23,
+                        "normalized_text": "USF4",
+                        "probability": 0.6981,
+                        "start": 20,
+                        "type": "Other"
+                    },
+                    {
+                        "end": 36,
+                        "normalized_text": "PS4",
+                        "probability": 0.8128,
+                        "start": 34,
+                        "type": "Product"
+                    },
+                    {
+                        "end": 89,
+                        "normalized_text": "USA",
+                        "probability": 0.8893,
+                        "start": 87,
+                        "type": "Place"
+                    },
+                    {
+                        "end": 96,
+                        "normalized_text": "Canada",
+                        "probability": 0.7423,
+                        "start": 91,
+                        "type": "Place"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 18,
+                        "id": "955901650350288898",
+                        "start": 3,
+                        "username": "UntamedGaming2"
+                    }
+                ]
+            },
+            "id": "1325701257969983488",
+            "lang": "en",
+            "public_metrics": {
+                "impression_count": 0,
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 3
+            },
+            "referenced_tweets": [
+                {
+                    "id": "1325688584171614213",
+                    "type": "retweeted"
+                }
+            ],
+            "reply_settings": "everyone",
+            "text": "RT @UntamedGaming2: USF4 Season 3 PS4 Online Tournament #3 11/15/20 4pm EST (1pm PST) (USA/Canada &amp; Wired Only) Hosted By: Untamed Gaming S\u2026"
+        },
+        {
+            "author_id": "1661565902",
+            "context_annotations": [
+                {
+                    "domain": {
+                        "description": "Named people in the world like Nelson Mandela",
+                        "id": "10",
+                        "name": "Person"
+                    },
+                    "entity": {
+                        "description": "45th US President, Donald Trump",
+                        "id": "799022225751871488",
+                        "name": "Donald Trump"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "Politicians in the world, like Joe Biden",
+                        "id": "35",
+                        "name": "Politician"
+                    },
+                    "entity": {
+                        "description": "45th US President, Donald Trump",
+                        "id": "799022225751871488",
+                        "name": "Donald Trump"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "Brands and Companies",
+                        "id": "47",
+                        "name": "Brand"
+                    },
+                    "entity": {
+                        "description": "Sky News",
+                        "id": "1100765157339234304",
+                        "name": "Sky News"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A taxonomy of user interests. ",
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy"
+                    },
+                    "entity": {
+                        "description": "45th US President, Donald Trump",
+                        "id": "799022225751871488",
+                        "name": "Donald Trump"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A taxonomy of user interests. ",
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy"
+                    },
+                    "entity": {
+                        "description": "Politics",
+                        "id": "847878884917886977",
+                        "name": "Politics"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A taxonomy of user interests. ",
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy"
+                    },
+                    "entity": {
+                        "description": "News",
+                        "id": "1046545033657081857",
+                        "name": "News"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A taxonomy of user interests. ",
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy"
+                    },
+                    "entity": {
+                        "description": "Politician",
+                        "id": "1070032753834438656",
+                        "name": "Political figures"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A taxonomy of user interests. ",
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy"
+                    },
+                    "entity": {
+                        "description": "Sky News",
+                        "id": "1100765157339234304",
+                        "name": "Sky News"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A taxonomy of user interests. ",
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy"
+                    },
+                    "entity": {
+                        "id": "1196447117297905665",
+                        "name": "News outlets"
+                    }
+                }
+            ],
+            "conversation_id": "1325688998019280896",
+            "created_at": "2020-11-09T07:24:58.000Z",
+            "edit_history_tweet_ids": [
+                "1325700896878067712"
+            ],
+            "entities": {
+                "mentions": [
+                    {
+                        "end": 11,
+                        "id": "744476149632274432",
+                        "start": 0,
+                        "username": "mheywood88"
+                    },
+                    {
+                        "end": 23,
+                        "id": "1602435436651188224",
+                        "start": 12,
+                        "username": "an_untamed"
+                    },
+                    {
+                        "end": 40,
+                        "id": "1897328731",
+                        "start": 24,
+                        "username": "northway_debbie"
+                    },
+                    {
+                        "end": 49,
+                        "id": "7587032",
+                        "start": 41,
+                        "username": "SkyNews"
+                    }
+                ]
+            },
+            "id": "1325700896878067712",
+            "in_reply_to_user_id": "744476149632274432",
+            "lang": "en",
+            "public_metrics": {
+                "impression_count": 0,
+                "like_count": 1,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "referenced_tweets": [
+                {
+                    "id": "1325690058129641473",
+                    "type": "replied_to"
+                }
+            ],
+            "reply_settings": "everyone",
+            "text": "@mheywood88 @an_untamed @northway_debbie @SkyNews She'd be filthy-as that trump lost"
+        },
+        {
+            "author_id": "955901650350288898",
+            "context_annotations": [
+                {
+                    "domain": {
+                        "description": "Television shows from around the world",
+                        "id": "3",
+                        "name": "TV Shows"
+                    },
+                    "entity": {
+                        "id": "10041906982",
+                        "name": "Power Rangers"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A taxonomy of user interests. ",
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy"
+                    },
+                    "entity": {
+                        "description": "Gaming",
+                        "id": "847527650667094017",
+                        "name": "Gaming"
+                    }
+                }
+            ],
+            "conversation_id": "1325700298917154817",
+            "created_at": "2020-11-09T07:22:36.000Z",
+            "edit_history_tweet_ids": [
+                "1325700298917154817"
+            ],
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 13,
+                        "normalized_text": "Gaming",
+                        "probability": 0.4626,
+                        "start": 8,
+                        "type": "Other"
+                    },
+                    {
+                        "end": 31,
+                        "normalized_text": "Alyillustrate",
+                        "probability": 0.8588,
+                        "start": 19,
+                        "type": "Other"
+                    },
+                    {
+                        "end": 135,
+                        "normalized_text": "Power Rangers Battle",
+                        "probability": 0.8189,
+                        "start": 116,
+                        "type": "Other"
+                    },
+                    {
+                        "end": 148,
+                        "normalized_text": "The Grid",
+                        "probability": 0.5569,
+                        "start": 141,
+                        "type": "Other"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "pic.twitter.com/wIwGRHzKpG",
+                        "end": 224,
+                        "expanded_url": "https://twitter.com/UntamedGaming2/status/1325700298917154817/photo/1",
+                        "media_key": "3_1325700294320271360",
+                        "start": 201,
+                        "url": "https://t.co/wIwGRHzKpG"
+                    },
+                    {
+                        "display_url": "pic.twitter.com/wIwGRHzKpG",
+                        "end": 224,
+                        "expanded_url": "https://twitter.com/UntamedGaming2/status/1325700298917154817/photo/1",
+                        "media_key": "3_1325700294320283649",
+                        "start": 201,
+                        "url": "https://t.co/wIwGRHzKpG"
+                    }
+                ]
+            },
+            "id": "1325700298917154817",
+            "lang": "en",
+            "public_metrics": {
+                "impression_count": 0,
+                "like_count": 2,
+                "quote_count": 0,
+                "reply_count": 1,
+                "retweet_count": 1
+            },
+            "reply_settings": "everyone",
+            "text": "Untamed Gaming and Alyillustrate are working together to give you guys the option to make your very own custom made Power Rangers Battle for The Grid chibi art t-shirts, mugs, phone covers, and socks! https://t.co/wIwGRHzKpG"
+        },
+        {
+            "author_id": "391336945",
+            "context_annotations": [
+                {
+                    "domain": {
+                        "description": "Brands and Companies",
+                        "id": "47",
+                        "name": "Brand"
+                    },
+                    "entity": {
+                        "description": "Sky News",
+                        "id": "1100765157339234304",
+                        "name": "Sky News"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A taxonomy of user interests. ",
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy"
+                    },
+                    "entity": {
+                        "description": "News",
+                        "id": "1046545033657081857",
+                        "name": "News"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A taxonomy of user interests. ",
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy"
+                    },
+                    "entity": {
+                        "description": "Sky News",
+                        "id": "1100765157339234304",
+                        "name": "Sky News"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A taxonomy of user interests. ",
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy"
+                    },
+                    "entity": {
+                        "id": "1196447117297905665",
+                        "name": "News outlets"
+                    }
+                }
+            ],
+            "conversation_id": "1325688998019280896",
+            "created_at": "2020-11-09T07:21:49.000Z",
+            "edit_history_tweet_ids": [
+                "1325700101822582786"
+            ],
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 41,
+                        "normalized_text": "SkyNews",
+                        "probability": 0.8536,
+                        "start": 35,
+                        "type": "Organization"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 11,
+                        "id": "1602435436651188224",
+                        "start": 0,
+                        "username": "an_untamed"
+                    },
+                    {
+                        "end": 25,
+                        "id": "1363461480",
+                        "start": 12,
+                        "username": "geoffsmith55"
+                    },
+                    {
+                        "end": 34,
+                        "id": "7587032",
+                        "start": 26,
+                        "username": "SkyNews"
+                    }
+                ]
+            },
+            "id": "1325700101822582786",
+            "in_reply_to_user_id": "1115423323163217921",
+            "lang": "en",
+            "public_metrics": {
+                "impression_count": 0,
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 1
+            },
+            "referenced_tweets": [
+                {
+                    "id": "1325688998019280896",
+                    "type": "replied_to"
+                }
+            ],
+            "reply_settings": "everyone",
+            "text": "@an_untamed @geoffsmith55 @SkyNews SkyNews suits their corrupt agenda. Two peas in a pod. We are up shit creek until these bastards are done with."
+        },
+        {
+            "author_id": "1242513389714395144",
+            "conversation_id": "1325565118407716865",
+            "created_at": "2020-11-09T07:21:27.000Z",
+            "edit_history_tweet_ids": [
+                "1325700009757642752"
+            ],
+            "entities": {
+                "mentions": [
+                    {
+                        "end": 15,
+                        "id": "1069873178598653952",
+                        "start": 0,
+                        "username": "untamed_enigma"
+                    }
+                ]
+            },
+            "id": "1325700009757642752",
+            "in_reply_to_user_id": "1069873178598653952",
+            "lang": "en",
+            "public_metrics": {
+                "impression_count": 0,
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "referenced_tweets": [
+                {
+                    "id": "1325565118407716865",
+                    "type": "replied_to"
+                }
+            ],
+            "reply_settings": "everyone",
+            "text": "@untamed_enigma Hell yea im hungry bro...give it to me yo..\ud83d\udcaf\ud83d\udcaf"
+        },
+        {
+            "author_id": "131043818",
+            "conversation_id": "1325653604104024065",
+            "created_at": "2020-11-09T07:20:14.000Z",
+            "edit_history_tweet_ids": [
+                "1325699703527235584"
+            ],
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 51,
+                        "normalized_text": "Untamed",
+                        "probability": 0.8939,
+                        "start": 45,
+                        "type": "Other"
+                    },
+                    {
+                        "end": 105,
+                        "normalized_text": "Korea",
+                        "probability": 0.985,
+                        "start": 101,
+                        "type": "Place"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 10,
+                        "id": "1176170581353533440",
+                        "start": 0,
+                        "username": "xzhan1005"
+                    }
+                ]
+            },
+            "id": "1325699703527235584",
+            "in_reply_to_user_id": "1176170581353533440",
+            "lang": "en",
+            "public_metrics": {
+                "impression_count": 0,
+                "like_count": 1,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "referenced_tweets": [
+                {
+                    "id": "1325653604104024065",
+                    "type": "replied_to"
+                }
+            ],
+            "reply_settings": "everyone",
+            "text": "@xzhan1005 They didn't mention he was in the Untamed? I thought the drama was quite well received in Korea?"
+        },
+        {
+            "author_id": "955901650350288898",
+            "context_annotations": [
+                {
+                    "domain": {
+                        "description": "A taxonomy of user interests. ",
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy"
+                    },
+                    "entity": {
+                        "id": "839544337360801792",
+                        "name": "Esports"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A taxonomy of user interests. ",
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy"
+                    },
+                    "entity": {
+                        "description": "Gaming",
+                        "id": "847527650667094017",
+                        "name": "Gaming"
+                    }
+                }
+            ],
+            "conversation_id": "1325699515844849664",
+            "created_at": "2020-11-09T07:19:29.000Z",
+            "edit_history_tweet_ids": [
+                "1325699515844849664"
+            ],
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 29,
+                        "normalized_text": "Esport Labs",
+                        "probability": 0.791,
+                        "start": 19,
+                        "type": "Other"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "esportlabs.com",
+                        "end": 135,
+                        "expanded_url": "https://esportlabs.com",
+                        "start": 112,
+                        "url": "https://t.co/nNDFhYZnAS"
+                    },
+                    {
+                        "display_url": "pic.twitter.com/b91PavtjKC",
+                        "end": 159,
+                        "expanded_url": "https://twitter.com/UntamedGaming2/status/1325699515844849664/photo/1",
+                        "media_key": "3_1325699512116113409",
+                        "start": 136,
+                        "url": "https://t.co/b91PavtjKC"
+                    }
+                ]
+            },
+            "id": "1325699515844849664",
+            "lang": "en",
+            "public_metrics": {
+                "impression_count": 0,
+                "like_count": 1,
+                "quote_count": 0,
+                "reply_count": 1,
+                "retweet_count": 1
+            },
+            "reply_settings": "everyone",
+            "text": "Untamed Gaming and Esport Labs just partner up to bring you guys \u201cUntamedGaming\u201d promocode to save up to 10%! \n\nhttps://t.co/nNDFhYZnAS https://t.co/b91PavtjKC"
+        },
+        {
+            "author_id": "1252337669427904512",
+            "conversation_id": "1325699515689684992",
+            "created_at": "2020-11-09T07:19:29.000Z",
+            "edit_history_tweet_ids": [
+                "1325699515689684992"
+            ],
+            "entities": {
+                "mentions": [
+                    {
+                        "end": 19,
+                        "id": "747936009619406849",
+                        "start": 3,
+                        "username": "edmund_curtis_a"
+                    }
+                ]
+            },
+            "id": "1325699515689684992",
+            "lang": "en",
+            "public_metrics": {
+                "impression_count": 0,
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 3
+            },
+            "referenced_tweets": [
+                {
+                    "id": "1325516532651356161",
+                    "type": "retweeted"
+                }
+            ],
+            "reply_settings": "everyone",
+            "text": "RT @edmund_curtis_a: @stonebwoyb @SOUNDCITYtv @samini_dagaati @KiDiMusic @KWESIARTHUR_ @KuamiEugene 1.@samini_dagaati  \nHe's de true certif\u2026"
+        },
+        {
+            "author_id": "2198506033",
+            "conversation_id": "1325610790733242370",
+            "created_at": "2020-11-09T07:18:02.000Z",
+            "edit_history_tweet_ids": [
+                "1325699152328712192"
+            ],
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 21,
+                        "normalized_text": "The Untamed",
+                        "probability": 0.9629,
+                        "start": 11,
+                        "type": "Other"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 10,
+                        "id": "15437195",
+                        "start": 0,
+                        "username": "shaunduke"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "pic.twitter.com/FFNluHMnGM",
+                        "end": 46,
+                        "expanded_url": "https://twitter.com/diaryofafirebrd/status/1325699152328712192/photo/1",
+                        "media_key": "16_1325699145278115840",
+                        "start": 23,
+                        "url": "https://t.co/FFNluHMnGM"
+                    }
+                ]
+            },
+            "id": "1325699152328712192",
+            "in_reply_to_user_id": "15437195",
+            "lang": "en",
+            "public_metrics": {
+                "impression_count": 0,
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "referenced_tweets": [
+                {
+                    "id": "1325610790733242370",
+                    "type": "replied_to"
+                }
+            ],
+            "reply_settings": "everyone",
+            "text": "@shaunduke The Untamed https://t.co/FFNluHMnGM"
+        },
+        {
+            "author_id": "1163218909",
+            "conversation_id": "1325699096640954369",
+            "created_at": "2020-11-09T07:17:49.000Z",
+            "edit_history_tweet_ids": [
+                "1325699096640954369"
+            ],
+            "entities": {
+                "urls": [
+                    {
+                        "display_url": "buzzfeed.com/shellezbellez/\u2026",
+                        "end": 48,
+                        "expanded_url": "https://www.buzzfeed.com/shellezbellez/which-untamed-cultivator-are-you-3h2jzcscv4?utm_source=dynamic&utm_campaign=bfsharetwitter&quiz_result=123848884_3&rid=3#123848884",
+                        "start": 25,
+                        "url": "https://t.co/7hS0DRU3uL"
+                    }
+                ]
+            },
+            "id": "1325699096640954369",
+            "lang": "ht",
+            "public_metrics": {
+                "impression_count": 0,
+                "like_count": 3,
+                "quote_count": 0,
+                "reply_count": 1,
+                "retweet_count": 0
+            },
+            "reply_settings": "everyone",
+            "text": "I got: Lan Wangji\n\u263a\ufe0f\u263a\ufe0f\u263a\ufe0f https://t.co/7hS0DRU3uL"
+        },
+        {
+            "author_id": "53771677",
+            "conversation_id": "1325698723175821312",
+            "created_at": "2020-11-09T07:16:20.000Z",
+            "edit_history_tweet_ids": [
+                "1325698723175821312"
+            ],
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 35,
+                        "normalized_text": "Sunshot Campaign",
+                        "probability": 0.9268,
+                        "start": 20,
+                        "type": "Other"
+                    },
+                    {
+                        "end": 91,
+                        "normalized_text": "The Untamed",
+                        "probability": 0.9585,
+                        "start": 81,
+                        "type": "Other"
+                    }
+                ]
+            },
+            "id": "1325698723175821312",
+            "lang": "en",
+            "public_metrics": {
+                "impression_count": 0,
+                "like_count": 3,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "reply_settings": "everyone",
+            "text": "The tail end of the Sunshot Campaign is when all the good stuff really starts in The Untamed omg"
+        },
+        {
+            "author_id": "955901650350288898",
+            "context_annotations": [
+                {
+                    "domain": {
+                        "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+                        "id": "30",
+                        "name": "Entities [Entity Service]"
+                    },
+                    "entity": {
+                        "description": "Food",
+                        "id": "825047692124442624",
+                        "name": "Food"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "Top level interests and hobbies groupings, like Food or Travel",
+                        "id": "65",
+                        "name": "Interests and Hobbies Vertical"
+                    },
+                    "entity": {
+                        "description": "Drinks",
+                        "id": "834828264786898945",
+                        "name": "Drinks"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+                        "id": "66",
+                        "name": "Interests and Hobbies Category"
+                    },
+                    "entity": {
+                        "description": "Generic Drinks",
+                        "id": "834828445238431744",
+                        "name": "Generic Drinks"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+                        "id": "67",
+                        "name": "Interests and Hobbies"
+                    },
+                    "entity": {
+                        "description": "Energy Drinks",
+                        "id": "850449183441960960",
+                        "name": "Energy Drinks"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A taxonomy of user interests. ",
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy"
+                    },
+                    "entity": {
+                        "description": "Drinks",
+                        "id": "834828264786898945",
+                        "name": "Drinks"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A taxonomy of user interests. ",
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy"
+                    },
+                    "entity": {
+                        "description": "Gaming",
+                        "id": "847527650667094017",
+                        "name": "Gaming"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A taxonomy of user interests. ",
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy"
+                    },
+                    "entity": {
+                        "description": "Energy Drinks",
+                        "id": "850449183441960960",
+                        "name": "Energy Drinks"
+                    }
+                }
+            ],
+            "conversation_id": "1325698597065732096",
+            "created_at": "2020-11-09T07:15:50.000Z",
+            "edit_history_tweet_ids": [
+                "1325698597065732096"
+            ],
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 30,
+                        "normalized_text": "Rogue Energy",
+                        "probability": 0.8182,
+                        "start": 19,
+                        "type": "Other"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "rogueenergy.com",
+                        "end": 142,
+                        "expanded_url": "https://rogueenergy.com",
+                        "start": 119,
+                        "url": "https://t.co/K3yuuosW7m"
+                    },
+                    {
+                        "display_url": "pic.twitter.com/q9NT1CSA6Z",
+                        "end": 166,
+                        "expanded_url": "https://twitter.com/UntamedGaming2/status/1325698597065732096/photo/1",
+                        "media_key": "3_1325698592997249025",
+                        "start": 143,
+                        "url": "https://t.co/q9NT1CSA6Z"
+                    }
+                ]
+            },
+            "id": "1325698597065732096",
+            "lang": "en",
+            "public_metrics": {
+                "impression_count": 0,
+                "like_count": 1,
+                "quote_count": 0,
+                "reply_count": 1,
+                "retweet_count": 1
+            },
+            "reply_settings": "everyone",
+            "text": "Untamed Gaming and Rogue Energy Drink just partner up to bring you guys \u201cUNTAMEDGAMINF\u201d promocode to save up to 20%! \n\nhttps://t.co/K3yuuosW7m https://t.co/q9NT1CSA6Z"
+        },
+        {
+            "author_id": "3164075507",
+            "conversation_id": "1325539294174474246",
+            "created_at": "2020-11-09T07:15:23.000Z",
+            "edit_history_tweet_ids": [
+                "1325698483161079808"
+            ],
+            "entities": {
+                "mentions": [
+                    {
+                        "end": 11,
+                        "id": "614501220",
+                        "start": 0,
+                        "username": "ze_untamed"
+                    }
+                ]
+            },
+            "id": "1325698483161079808",
+            "in_reply_to_user_id": "614501220",
+            "lang": "en",
+            "public_metrics": {
+                "impression_count": 0,
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "referenced_tweets": [
+                {
+                    "id": "1325649663203151872",
+                    "type": "replied_to"
+                }
+            ],
+            "reply_settings": "everyone",
+            "text": "@ze_untamed Sick"
+        },
+        {
+            "author_id": "28302652",
+            "conversation_id": "1325698270811709440",
+            "created_at": "2020-11-09T07:14:32.000Z",
+            "edit_history_tweet_ids": [
+                "1325698270811709440"
+            ],
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 56,
+                        "normalized_text": "The Untamed",
+                        "probability": 0.9714,
+                        "start": 46,
+                        "type": "Other"
+                    }
+                ]
+            },
+            "id": "1325698270811709440",
+            "lang": "en",
+            "public_metrics": {
+                "impression_count": 0,
+                "like_count": 1,
+                "quote_count": 0,
+                "reply_count": 1,
+                "retweet_count": 0
+            },
+            "reply_settings": "everyone",
+            "text": "let\u2019s see how many days it takes me to finish The Untamed"
+        },
+        {
+            "author_id": "51665507",
+            "context_annotations": [
+                {
+                    "domain": {
+                        "description": "A video game like Overwatch",
+                        "id": "71",
+                        "name": "Video Game"
+                    },
+                    "entity": {
+                        "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series, if applicable. ",
+                        "id": "10046538522",
+                        "name": "Tekken"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "Video Game Hardware",
+                        "id": "79",
+                        "name": "Video Game Hardware"
+                    },
+                    "entity": {
+                        "id": "1201628202105335808",
+                        "name": "PlayStation 4"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A taxonomy of user interests. ",
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy"
+                    },
+                    "entity": {
+                        "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series, if applicable. ",
+                        "id": "10046538522",
+                        "name": "Tekken"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A taxonomy of user interests. ",
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy"
+                    },
+                    "entity": {
+                        "description": "Gaming",
+                        "id": "847527650667094017",
+                        "name": "Gaming"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A taxonomy of user interests. ",
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy"
+                    },
+                    "entity": {
+                        "description": "US National News",
+                        "id": "1003932601839579136",
+                        "name": "US national news"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A taxonomy of user interests. ",
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy"
+                    },
+                    "entity": {
+                        "description": "News",
+                        "id": "1046545033657081857",
+                        "name": "News"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A taxonomy of user interests. ",
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy"
+                    },
+                    "entity": {
+                        "id": "1070028159964262400",
+                        "name": "Video games"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A taxonomy of user interests. ",
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy"
+                    },
+                    "entity": {
+                        "description": "Video Game Hardware",
+                        "id": "1070028376662888448",
+                        "name": "Console gaming"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A taxonomy of user interests. ",
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy"
+                    },
+                    "entity": {
+                        "id": "1201628202105335808",
+                        "name": "PlayStation 4"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A taxonomy of user interests. ",
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy"
+                    },
+                    "entity": {
+                        "id": "1286379401228124160",
+                        "name": "Americas"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A taxonomy of user interests. ",
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy"
+                    },
+                    "entity": {
+                        "id": "1307106518475522049",
+                        "name": "Fighting games"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "Top level entities that describe a Brands industry",
+                        "id": "45",
+                        "name": "Brand Vertical"
+                    },
+                    "entity": {
+                        "id": "781974597310615553",
+                        "name": "Entertainment"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+                        "id": "30",
+                        "name": "Entities [Entity Service]"
+                    },
+                    "entity": {
+                        "id": "781974597218340864",
+                        "name": "Video Games - Entertainment"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "Brands and Companies",
+                        "id": "47",
+                        "name": "Brand"
+                    },
+                    "entity": {
+                        "id": "10027048853",
+                        "name": "PlayStation"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "Brands and Companies",
+                        "id": "47",
+                        "name": "Brand"
+                    },
+                    "entity": {
+                        "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series, if applicable. ",
+                        "id": "10046538522",
+                        "name": "Tekken"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "Video Game Hardware",
+                        "id": "79",
+                        "name": "Video Game Hardware"
+                    },
+                    "entity": {
+                        "id": "10027048853",
+                        "name": "PlayStation"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A taxonomy of user interests. ",
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy"
+                    },
+                    "entity": {
+                        "id": "10027048853",
+                        "name": "PlayStation"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A taxonomy of user interests. ",
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy"
+                    },
+                    "entity": {
+                        "description": "Gaming",
+                        "id": "847527650667094017",
+                        "name": "Gaming"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A taxonomy of user interests. ",
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy"
+                    },
+                    "entity": {
+                        "id": "1070028159964262400",
+                        "name": "Video games"
+                    }
+                }
+            ],
+            "conversation_id": "1325698230886273025",
+            "created_at": "2020-11-09T07:14:23.000Z",
+            "edit_history_tweet_ids": [
+                "1325698230886273025"
+            ],
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 25,
+                        "normalized_text": "Tekken",
+                        "probability": 0.4927,
+                        "start": 20,
+                        "type": "Other"
+                    },
+                    {
+                        "end": 31,
+                        "normalized_text": "PS4",
+                        "probability": 0.8255,
+                        "start": 29,
+                        "type": "Product"
+                    },
+                    {
+                        "end": 93,
+                        "normalized_text": "USA",
+                        "probability": 0.9165,
+                        "start": 91,
+                        "type": "Place"
+                    },
+                    {
+                        "end": 100,
+                        "normalized_text": "Canada",
+                        "probability": 0.8024,
+                        "start": 95,
+                        "type": "Place"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 18,
+                        "id": "955901650350288898",
+                        "start": 3,
+                        "username": "UntamedGaming2"
+                    }
+                ]
+            },
+            "id": "1325698230886273025",
+            "lang": "en",
+            "public_metrics": {
+                "impression_count": 0,
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 2
+            },
+            "referenced_tweets": [
+                {
+                    "id": "1325695233871523841",
+                    "type": "retweeted"
+                }
+            ],
+            "reply_settings": "everyone",
+            "text": "RT @UntamedGaming2: Tekken 7 PS4 Season 2 Online Tournament #2 11/15/20 8pm EST (5pm PST) (USA/Canada &amp; Wired Only) Hosted By: Untamed Gami\u2026"
+        },
+        {
+            "author_id": "955901650350288898",
+            "context_annotations": [
+                {
+                    "domain": {
+                        "description": "A taxonomy of user interests. ",
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy"
+                    },
+                    "entity": {
+                        "description": "Gaming",
+                        "id": "847527650667094017",
+                        "name": "Gaming"
+                    }
+                }
+            ],
+            "conversation_id": "1325697874382958593",
+            "created_at": "2020-11-09T07:13:01.000Z",
+            "edit_history_tweet_ids": [
+                "1325697890174586881"
+            ],
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 51,
+                        "normalized_text": "MVCI",
+                        "probability": 0.7877,
+                        "start": 48,
+                        "type": "Other"
+                    },
+                    {
+                        "end": 57,
+                        "normalized_text": "UMVC3",
+                        "probability": 0.9071,
+                        "start": 53,
+                        "type": "Other"
+                    },
+                    {
+                        "end": 62,
+                        "normalized_text": "MVC2",
+                        "probability": 0.8582,
+                        "start": 59,
+                        "type": "Other"
+                    },
+                    {
+                        "end": 150,
+                        "normalized_text": "TeeSpring",
+                        "probability": 0.6096,
+                        "start": 142,
+                        "type": "Other"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "teespring.com/stores/untamed\u2026",
+                        "end": 214,
+                        "expanded_url": "https://teespring.com/stores/untamed-gaming-store",
+                        "start": 191,
+                        "status": 200,
+                        "unwound_url": "https://untamed-gaming-store.creator-spring.com/?",
+                        "url": "https://t.co/3hvl4SuYOk"
+                    }
+                ]
+            },
+            "id": "1325697890174586881",
+            "in_reply_to_user_id": "955901650350288898",
+            "lang": "en",
+            "public_metrics": {
+                "impression_count": 0,
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "referenced_tweets": [
+                {
+                    "id": "1325697874382958593",
+                    "type": "replied_to"
+                }
+            ],
+            "reply_settings": "everyone",
+            "text": "All of you have to is give us your gamertag and MVCI/UMVC3/MVC2 characters that you would like to have in your order and we will send you the TeeSpring link!\n\nUntamed Gaming TeeSpring Store: https://t.co/3hvl4SuYOk"
+        },
+        {
+            "author_id": "955901650350288898",
+            "context_annotations": [
+                {
+                    "domain": {
+                        "description": "A taxonomy of user interests. ",
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy"
+                    },
+                    "entity": {
+                        "description": "Gaming",
+                        "id": "847527650667094017",
+                        "name": "Gaming"
+                    }
+                }
+            ],
+            "conversation_id": "1325697874382958593",
+            "created_at": "2020-11-09T07:12:58.000Z",
+            "edit_history_tweet_ids": [
+                "1325697874382958593"
+            ],
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 6,
+                        "normalized_text": "Untamed",
+                        "probability": 0.556,
+                        "start": 0,
+                        "type": "Other"
+                    },
+                    {
+                        "end": 13,
+                        "normalized_text": "Gaming",
+                        "probability": 0.3249,
+                        "start": 8,
+                        "type": "Other"
+                    },
+                    {
+                        "end": 26,
+                        "normalized_text": "WaveChan",
+                        "probability": 0.8738,
+                        "start": 19,
+                        "type": "Other"
+                    },
+                    {
+                        "end": 114,
+                        "normalized_text": "MVCI",
+                        "probability": 0.7457,
+                        "start": 111,
+                        "type": "Other"
+                    },
+                    {
+                        "end": 120,
+                        "normalized_text": "UMVC3",
+                        "probability": 0.883,
+                        "start": 116,
+                        "type": "Other"
+                    },
+                    {
+                        "end": 125,
+                        "normalized_text": "MVC2",
+                        "probability": 0.7281,
+                        "start": 122,
+                        "type": "Other"
+                    },
+                    {
+                        "end": 131,
+                        "normalized_text": "chibi",
+                        "probability": 0.427,
+                        "start": 127,
+                        "type": "Other"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "pic.twitter.com/n6iFoHL05J",
+                        "end": 201,
+                        "expanded_url": "https://twitter.com/UntamedGaming2/status/1325697874382958593/photo/1",
+                        "media_key": "3_1325697870134194176",
+                        "start": 178,
+                        "url": "https://t.co/n6iFoHL05J"
+                    },
+                    {
+                        "display_url": "pic.twitter.com/n6iFoHL05J",
+                        "end": 201,
+                        "expanded_url": "https://twitter.com/UntamedGaming2/status/1325697874382958593/photo/1",
+                        "media_key": "3_1325697870129995776",
+                        "start": 178,
+                        "url": "https://t.co/n6iFoHL05J"
+                    }
+                ]
+            },
+            "id": "1325697874382958593",
+            "lang": "en",
+            "public_metrics": {
+                "impression_count": 0,
+                "like_count": 3,
+                "quote_count": 0,
+                "reply_count": 2,
+                "retweet_count": 2
+            },
+            "reply_settings": "everyone",
+            "text": "Untamed Gaming and WaveChan are working together to give you guys the option to make your very own custom made MVCI/UMVC3/MVC2 chibi art t-shirts, mugs, phone covers, and socks! https://t.co/n6iFoHL05J"
+        },
+        {
+            "author_id": "708278613511114753",
+            "conversation_id": "1325697873909051393",
+            "created_at": "2020-11-09T07:12:58.000Z",
+            "edit_history_tweet_ids": [
+                "1325697873909051393"
+            ],
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 3,
+                        "normalized_text": "vean",
+                        "probability": 0.5472,
+                        "start": 0,
+                        "type": "Other"
+                    }
+                ]
+            },
+            "id": "1325697873909051393",
+            "lang": "en",
+            "public_metrics": {
+                "impression_count": 0,
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 1,
+                "retweet_count": 0
+            },
+            "reply_settings": "everyone",
+            "text": "vean the untamed \ud83d\ude0a\ud83d\ude0a\ud83d\ude0a\ud83d\ude0a\ud83d\ude0a"
+        },
+        {
+            "author_id": "985624101376028672",
+            "context_annotations": [
+                {
+                    "domain": {
+                        "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+                        "id": "30",
+                        "name": "Entities [Entity Service]"
+                    },
+                    "entity": {
+                        "id": "781974596752842752",
+                        "name": "Services"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "Brands and Companies",
+                        "id": "47",
+                        "name": "Brand"
+                    },
+                    "entity": {
+                        "id": "10045225402",
+                        "name": "Twitter"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A taxonomy of user interests. ",
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy"
+                    },
+                    "entity": {
+                        "id": "10045225402",
+                        "name": "Twitter"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A taxonomy of user interests. ",
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy"
+                    },
+                    "entity": {
+                        "id": "1196446161223028736",
+                        "name": "Social media"
+                    }
+                }
+            ],
+            "conversation_id": "1325697705176264705",
+            "created_at": "2020-11-09T07:12:17.000Z",
+            "edit_history_tweet_ids": [
+                "1325697705176264705"
+            ],
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 9,
+                        "normalized_text": "twitter",
+                        "probability": 0.9683,
+                        "start": 3,
+                        "type": "Other"
+                    },
+                    {
+                        "end": 111,
+                        "normalized_text": "UNTAMED",
+                        "probability": 0.5245,
+                        "start": 105,
+                        "type": "Other"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 126,
+                        "id": "67647597",
+                        "start": 113,
+                        "username": "GlennonDoyle"
+                    }
+                ]
+            },
+            "id": "1325697705176264705",
+            "lang": "en",
+            "public_metrics": {
+                "impression_count": 0,
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "reply_settings": "everyone",
+            "text": "Ok twitter. What do I do now?? What do I do with all the extra time I have now ? Ok. I\u2019ll finally finish UNTAMED @GlennonDoyle"
+        },
+        {
+            "author_id": "942913808967778304",
+            "conversation_id": "1325697275218194432",
+            "created_at": "2020-11-09T07:10:35.000Z",
+            "edit_history_tweet_ids": [
+                "1325697275218194432"
+            ],
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 16,
+                        "normalized_text": "bright",
+                        "probability": 0.5153,
+                        "start": 11,
+                        "type": "Other"
+                    }
+                ]
+            },
+            "id": "1325697275218194432",
+            "lang": "en",
+            "public_metrics": {
+                "impression_count": 0,
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "reply_settings": "everyone",
+            "text": "do u think bright would watch the untamed"
+        },
+        {
+            "author_id": "890161592444309504",
+            "conversation_id": "1325696685885026304",
+            "created_at": "2020-11-09T07:08:14.000Z",
+            "edit_history_tweet_ids": [
+                "1325696685885026304"
+            ],
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 88,
+                        "normalized_text": "Karoo",
+                        "probability": 0.507,
+                        "start": 84,
+                        "type": "Other"
+                    },
+                    {
+                        "end": 186,
+                        "normalized_text": "Karoo Agave",
+                        "probability": 0.7817,
+                        "start": 176,
+                        "type": "Other"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 170,
+                        "id": "821303218831495168",
+                        "start": 155,
+                        "username": "Leonistaspirit"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "thelittlehedonist.co.za/2020/11/09/spi\u2026",
+                        "end": 219,
+                        "expanded_url": "https://thelittlehedonist.co.za/2020/11/09/spirits-leonista-100-karoo-agave-best-served-with-a-side-of-wild-adventure/",
+                        "start": 196,
+                        "url": "https://t.co/E7hvUzNVeX"
+                    },
+                    {
+                        "display_url": "pic.twitter.com/SBsJV9xenn",
+                        "end": 243,
+                        "expanded_url": "https://twitter.com/litlhedonistCPT/status/1325696685885026304/photo/1",
+                        "media_key": "3_1325696665198751744",
+                        "start": 220,
+                        "url": "https://t.co/SBsJV9xenn"
+                    },
+                    {
+                        "display_url": "pic.twitter.com/SBsJV9xenn",
+                        "end": 243,
+                        "expanded_url": "https://twitter.com/litlhedonistCPT/status/1325696685885026304/photo/1",
+                        "media_key": "3_1325696669850218496",
+                        "start": 220,
+                        "url": "https://t.co/SBsJV9xenn"
+                    },
+                    {
+                        "display_url": "pic.twitter.com/SBsJV9xenn",
+                        "end": 243,
+                        "expanded_url": "https://twitter.com/litlhedonistCPT/status/1325696685885026304/photo/1",
+                        "media_key": "3_1325696675499872256",
+                        "start": 220,
+                        "url": "https://t.co/SBsJV9xenn"
+                    },
+                    {
+                        "display_url": "pic.twitter.com/SBsJV9xenn",
+                        "end": 243,
+                        "expanded_url": "https://twitter.com/litlhedonistCPT/status/1325696685885026304/photo/1",
+                        "media_key": "3_1325696682747699200",
+                        "start": 220,
+                        "url": "https://t.co/SBsJV9xenn"
+                    }
+                ]
+            },
+            "id": "1325696685885026304",
+            "lang": "en",
+            "public_metrics": {
+                "impression_count": 0,
+                "like_count": 5,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "reply_settings": "everyone",
+            "text": "{new blog} Certain terrains beg for a certain taste, and the rugged vastness of the Karoo is perfectly paired with the beautifully untamed flavours of the @Leonistaspirit 100% Karoo Agave range.\n\nhttps://t.co/E7hvUzNVeX https://t.co/SBsJV9xenn"
+        },
+        {
+            "author_id": "991736908500779008",
+            "conversation_id": "1325696436323840000",
+            "created_at": "2020-11-09T07:07:15.000Z",
+            "edit_history_tweet_ids": [
+                "1325696436323840000"
+            ],
+            "entities": {
+                "urls": [
+                    {
+                        "display_url": "pic.twitter.com/t2pbH9WlRq",
+                        "end": 128,
+                        "expanded_url": "https://twitter.com/wangwangwin/status/1325696436323840000/photo/1",
+                        "media_key": "3_1325696432158896128",
+                        "start": 105,
+                        "url": "https://t.co/t2pbH9WlRq"
+                    }
+                ]
+            },
+            "id": "1325696436323840000",
+            "lang": "tl",
+            "public_metrics": {
+                "impression_count": 0,
+                "like_count": 1,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "reply_settings": "everyone",
+            "text": "nagawa ko pa talagang mag REWATCH ng the untamed no. \n\ni love spain but with  silent S* \n\nJIANG CHENG \ud83d\ude2d\ud83d\ude2d https://t.co/t2pbH9WlRq"
+        }
+    ],
+    "meta": {
+        "newest_id": "1325711357597999104",
+        "next_token": "b26v89c19zqg8o3fosbu8y7bgnimfm27oazkzqi8tv725",
+        "oldest_id": "1325696436323840000",
+        "result_count": 55
+    }
+}

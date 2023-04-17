@@ -1,0 +1,5167 @@
+{
+    "data": [
+        {
+            "author_id": "409591356",
+            "context_annotations": [
+                {
+                    "domain": {
+                        "description": "Named people in the world like Nelson Mandela",
+                        "id": "10",
+                        "name": "Person"
+                    },
+                    "entity": {
+                        "description": "Luigi di Maio",
+                        "id": "827125251871903744",
+                        "name": "Luigi di Maio"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "Politicians in the world, like Joe Biden",
+                        "id": "35",
+                        "name": "Politician"
+                    },
+                    "entity": {
+                        "description": "Luigi di Maio",
+                        "id": "827125251871903744",
+                        "name": "Luigi di Maio"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A taxonomy of user interests. ",
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy"
+                    },
+                    "entity": {
+                        "description": "Luigi di Maio",
+                        "id": "827125251871903744",
+                        "name": "Luigi di Maio"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A taxonomy of user interests. ",
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy"
+                    },
+                    "entity": {
+                        "description": "Politics",
+                        "id": "847878884917886977",
+                        "name": "Politics"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A taxonomy of user interests. ",
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy"
+                    },
+                    "entity": {
+                        "description": "Politician",
+                        "id": "1070032753834438656",
+                        "name": "Political figures"
+                    }
+                }
+            ],
+            "conversation_id": "1326855926440189952",
+            "created_at": "2020-11-12T16:39:50.000Z",
+            "edit_history_tweet_ids": [
+                "1326927694186078208"
+            ],
+            "entities": {
+                "hashtags": [
+                    {
+                        "end": 115,
+                        "start": 108,
+                        "tag": "dimaio"
+                    },
+                    {
+                        "end": 127,
+                        "start": 116,
+                        "tag": "pomigliano"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 12,
+                        "id": "49954018",
+                        "start": 0,
+                        "username": "ilfoglio_it"
+                    }
+                ]
+            },
+            "id": "1326927694186078208",
+            "in_reply_to_user_id": "49954018",
+            "lang": "it",
+            "public_metrics": {
+                "impression_count": 0,
+                "like_count": 2,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 1
+            },
+            "referenced_tweets": [
+                {
+                    "id": "1326855926440189952",
+                    "type": "replied_to"
+                }
+            ],
+            "reply_settings": "everyone",
+            "text": "@ilfoglio_it il paese delle raccomandazioni, delle clientele, delle caste, delle corporazioni, delle mafie. #dimaio #pomigliano"
+        },
+        {
+            "author_id": "584509214",
+            "conversation_id": "1326927664641290240",
+            "created_at": "2020-11-12T16:39:43.000Z",
+            "edit_history_tweet_ids": [
+                "1326927664641290240"
+            ],
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 53,
+                        "normalized_text": "Deccan Air",
+                        "probability": 0.4895,
+                        "start": 44,
+                        "type": "Other"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 18,
+                        "id": "1166275639491485696",
+                        "start": 3,
+                        "username": "Indumakalktchi"
+                    }
+                ]
+            },
+            "id": "1326927664641290240",
+            "lang": "en",
+            "public_metrics": {
+                "impression_count": 0,
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 188
+            },
+            "referenced_tweets": [
+                {
+                    "id": "1326798001541578752",
+                    "type": "retweeted"
+                }
+            ],
+            "reply_settings": "everyone",
+            "text": "RT @Indumakalktchi: While a Brahmin Started Deccan Air and abolished cost and caste in air travel. \n\nDo you know which airline was purchase\u2026"
+        },
+        {
+            "author_id": "361042725",
+            "context_annotations": [
+                {
+                    "domain": {
+                        "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+                        "id": "30",
+                        "name": "Entities [Entity Service]"
+                    },
+                    "entity": {
+                        "description": "Food",
+                        "id": "825047692124442624",
+                        "name": "Food"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "Top level interests and hobbies groupings, like Food or Travel",
+                        "id": "65",
+                        "name": "Interests and Hobbies Vertical"
+                    },
+                    "entity": {
+                        "description": "Drinks",
+                        "id": "834828264786898945",
+                        "name": "Drinks"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+                        "id": "66",
+                        "name": "Interests and Hobbies Category"
+                    },
+                    "entity": {
+                        "description": "Generic Drinks",
+                        "id": "834828445238431744",
+                        "name": "Generic Drinks"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+                        "id": "67",
+                        "name": "Interests and Hobbies"
+                    },
+                    "entity": {
+                        "description": "Champagne",
+                        "id": "850144676673757184",
+                        "name": "Champagne"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A taxonomy of user interests. ",
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy"
+                    },
+                    "entity": {
+                        "description": "Drinks",
+                        "id": "834828264786898945",
+                        "name": "Drinks"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A taxonomy of user interests. ",
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy"
+                    },
+                    "entity": {
+                        "description": "Champagne",
+                        "id": "850144676673757184",
+                        "name": "Champagne"
+                    }
+                }
+            ],
+            "conversation_id": "1326927508323774464",
+            "created_at": "2020-11-12T16:39:05.000Z",
+            "edit_history_tweet_ids": [
+                "1326927508323774464"
+            ],
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 27,
+                        "normalized_text": "Chandrachud",
+                        "probability": 0.6321,
+                        "start": 17,
+                        "type": "Person"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 10,
+                        "id": "37408240",
+                        "start": 3,
+                        "username": "cbhanp"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "twitter.com/kunalkamra88/s\u2026",
+                        "end": 148,
+                        "expanded_url": "https://twitter.com/kunalkamra88/status/1326469753519665153",
+                        "start": 125,
+                        "url": "https://t.co/6J9Ky6DnyY"
+                    }
+                ]
+            },
+            "id": "1326927508323774464",
+            "lang": "en",
+            "public_metrics": {
+                "impression_count": 0,
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "referenced_tweets": [
+                {
+                    "id": "1326469753519665153",
+                    "type": "quoted"
+                }
+            ],
+            "reply_settings": "everyone",
+            "text": "As @cbhanp says, Chandrachud is just serving his caste. Comparing his conduct with the duty of a Flight attendant is unfair. https://t.co/6J9Ky6DnyY"
+        },
+        {
+            "author_id": "160568331",
+            "conversation_id": "1326925833076834304",
+            "created_at": "2020-11-12T16:39:04.000Z",
+            "edit_history_tweet_ids": [
+                "1326927504762826752"
+            ],
+            "entities": {
+                "mentions": [
+                    {
+                        "end": 11,
+                        "id": "62745586",
+                        "start": 0,
+                        "username": "sandeep_PT"
+                    }
+                ]
+            },
+            "id": "1326927504762826752",
+            "in_reply_to_user_id": "62745586",
+            "lang": "en",
+            "public_metrics": {
+                "impression_count": 0,
+                "like_count": 1,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "referenced_tweets": [
+                {
+                    "id": "1326925833076834304",
+                    "type": "replied_to"
+                }
+            ],
+            "reply_settings": "everyone",
+            "text": "@sandeep_PT Indian genes are adjustable but not revolutionary. Caste and religiously strict follower but not unitedly patriotic. Love my Indians too."
+        },
+        {
+            "author_id": "812656398207094785",
+            "conversation_id": "1326927488400846848",
+            "created_at": "2020-11-12T16:39:01.000Z",
+            "edit_history_tweet_ids": [
+                "1326927488400846848"
+            ],
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 17,
+                        "normalized_text": "NDA",
+                        "probability": 0.6719,
+                        "start": 15,
+                        "type": "Organization"
+                    },
+                    {
+                        "end": 38,
+                        "normalized_text": "Bihar",
+                        "probability": 0.8392,
+                        "start": 34,
+                        "type": "Place"
+                    },
+                    {
+                        "end": 125,
+                        "normalized_text": "NDA",
+                        "probability": 0.5632,
+                        "start": 123,
+                        "type": "Organization"
+                    }
+                ],
+                "hashtags": [
+                    {
+                        "end": 69,
+                        "start": 59,
+                        "tag": "Recession"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 13,
+                        "id": "930027467791667200",
+                        "start": 3,
+                        "username": "DrLuttapi"
+                    }
+                ]
+            },
+            "id": "1326927488400846848",
+            "lang": "en",
+            "public_metrics": {
+                "impression_count": 0,
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 12
+            },
+            "referenced_tweets": [
+                {
+                    "id": "1326883209234194432",
+                    "type": "retweeted"
+                }
+            ],
+            "reply_settings": "everyone",
+            "text": "RT @DrLuttapi: NDA might have won Bihar, but the impact of #Recession is evident. Despite having a caste advantage of 60%, NDA barely manag\u2026"
+        },
+        {
+            "author_id": "1677723938",
+            "conversation_id": "1326927424085323777",
+            "created_at": "2020-11-12T16:38:45.000Z",
+            "edit_history_tweet_ids": [
+                "1326927424085323777"
+            ],
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 30,
+                        "normalized_text": "India",
+                        "probability": 0.9535,
+                        "start": 26,
+                        "type": "Place"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 18,
+                        "id": "3308460655",
+                        "start": 3,
+                        "username": "unexpected5678"
+                    }
+                ]
+            },
+            "id": "1326927424085323777",
+            "lang": "en",
+            "public_metrics": {
+                "impression_count": 0,
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 49
+            },
+            "referenced_tweets": [
+                {
+                    "id": "1326800126069755904",
+                    "type": "retweeted"
+                }
+            ],
+            "reply_settings": "everyone",
+            "text": "RT @unexpected5678: News: India entered in to Recession for the first time in the History.\n\nBhakts: which religion or which caste is this r\u2026"
+        },
+        {
+            "author_id": "83522825",
+            "conversation_id": "1326927179075121152",
+            "created_at": "2020-11-12T16:37:47.000Z",
+            "edit_history_tweet_ids": [
+                "1326927179075121152"
+            ],
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 22,
+                        "normalized_text": "Bihar",
+                        "probability": 0.9292,
+                        "start": 18,
+                        "type": "Place"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 16,
+                        "id": "21014078",
+                        "start": 3,
+                        "username": "svaradarajan"
+                    },
+                    {
+                        "end": 117,
+                        "id": "15016162",
+                        "start": 110,
+                        "username": "seemay"
+                    }
+                ]
+            },
+            "id": "1326927179075121152",
+            "lang": "en",
+            "public_metrics": {
+                "impression_count": 0,
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 13
+            },
+            "referenced_tweets": [
+                {
+                    "id": "1326892926262108161",
+                    "type": "retweeted"
+                }
+            ],
+            "reply_settings": "everyone",
+            "text": "RT @svaradarajan: Bihar's Election Has Shown That When it Comes to Politics, Social Justice Is Here to Stay | @seemay writes  https://t.co/\u2026"
+        },
+        {
+            "author_id": "3140575555",
+            "context_annotations": [
+                {
+                    "domain": {
+                        "description": "Named people in the world like Nelson Mandela",
+                        "id": "10",
+                        "name": "Person"
+                    },
+                    "entity": {
+                        "description": "Lalu Prasad Yadav",
+                        "id": "1111320013015666690",
+                        "name": "Lalu Prasad Yadav"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "Politicians in the world, like Joe Biden",
+                        "id": "35",
+                        "name": "Politician"
+                    },
+                    "entity": {
+                        "description": "Lalu Prasad Yadav",
+                        "id": "1111320013015666690",
+                        "name": "Lalu Prasad Yadav"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A taxonomy of user interests. ",
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy"
+                    },
+                    "entity": {
+                        "description": "Politics",
+                        "id": "847878884917886977",
+                        "name": "Politics"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A taxonomy of user interests. ",
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy"
+                    },
+                    "entity": {
+                        "description": "Politician",
+                        "id": "1070032753834438656",
+                        "name": "Political figures"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A taxonomy of user interests. ",
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy"
+                    },
+                    "entity": {
+                        "description": "Lalu Prasad Yadav",
+                        "id": "1111320013015666690",
+                        "name": "Lalu Prasad Yadav"
+                    }
+                }
+            ],
+            "conversation_id": "1326927087731552260",
+            "created_at": "2020-11-12T16:37:25.000Z",
+            "edit_history_tweet_ids": [
+                "1326927087731552260"
+            ],
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 45,
+                        "normalized_text": "Bihar",
+                        "probability": 0.9805,
+                        "start": 41,
+                        "type": "Place"
+                    },
+                    {
+                        "end": 82,
+                        "normalized_text": "Lalu Prasad Yadav",
+                        "probability": 0.8731,
+                        "start": 66,
+                        "type": "Person"
+                    }
+                ],
+                "hashtags": [
+                    {
+                        "end": 46,
+                        "start": 40,
+                        "tag": "Bihar"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 19,
+                        "id": "1218531773824393218",
+                        "start": 3,
+                        "username": "IndianHistory_C"
+                    }
+                ]
+            },
+            "id": "1326927087731552260",
+            "lang": "en",
+            "public_metrics": {
+                "impression_count": 0,
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 1
+            },
+            "referenced_tweets": [
+                {
+                    "id": "1326006458446565377",
+                    "type": "retweeted"
+                }
+            ],
+            "reply_settings": "everyone",
+            "text": "RT @IndianHistory_C: Rising violence in #Bihar from a time before Lalu Prasad Yadav: \n\n\"Violent incidents increased from 260 in 1977 to 617\u2026"
+        },
+        {
+            "author_id": "2880932959",
+            "context_annotations": [
+                {
+                    "domain": {
+                        "description": "Named people in the world like Nelson Mandela",
+                        "id": "10",
+                        "name": "Person"
+                    },
+                    "entity": {
+                        "description": "Indian film actor",
+                        "id": "1167431384048128000",
+                        "name": "Rajinikanth"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "An actor or actress in the world, like Kate Winslet or Leonardo DiCaprio",
+                        "id": "56",
+                        "name": "Actor"
+                    },
+                    "entity": {
+                        "description": "Indian film actor",
+                        "id": "1167431384048128000",
+                        "name": "Rajinikanth"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A taxonomy of user interests. ",
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy"
+                    },
+                    "entity": {
+                        "description": "Indian film actor",
+                        "id": "1167431384048128000",
+                        "name": "Rajinikanth"
+                    }
+                }
+            ],
+            "conversation_id": "1326927067590455296",
+            "created_at": "2020-11-12T16:37:20.000Z",
+            "edit_history_tweet_ids": [
+                "1326927067590455296"
+            ],
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 40,
+                        "normalized_text": "Rajinikanth",
+                        "probability": 0.9723,
+                        "start": 30,
+                        "type": "Person"
+                    },
+                    {
+                        "end": 64,
+                        "normalized_text": "Rajini",
+                        "probability": 0.8112,
+                        "start": 59,
+                        "type": "Person"
+                    }
+                ],
+                "hashtags": [
+                    {
+                        "end": 41,
+                        "start": 29,
+                        "tag": "Rajinikanth"
+                    },
+                    {
+                        "end": 65,
+                        "start": 58,
+                        "tag": "Rajini"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 12,
+                        "id": "148096595",
+                        "start": 3,
+                        "username": "devashak"
+                    }
+                ]
+            },
+            "id": "1326927067590455296",
+            "lang": "en",
+            "public_metrics": {
+                "impression_count": 0,
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 11
+            },
+            "referenced_tweets": [
+                {
+                    "id": "1326920287858864130",
+                    "type": "retweeted"
+                }
+            ],
+            "reply_settings": "everyone",
+            "text": "RT @devashak: The problem is #Rajinikanth\nRight from 80\u2019s #Rajini spoke dialogues of social justice against caste &amp; religious division.\nTha\u2026"
+        },
+        {
+            "author_id": "55703664",
+            "conversation_id": "1326926966948290563",
+            "created_at": "2020-11-12T16:36:56.000Z",
+            "edit_history_tweet_ids": [
+                "1326926966948290563"
+            ],
+            "entities": {
+                "mentions": [
+                    {
+                        "end": 15,
+                        "id": "23076067",
+                        "start": 3,
+                        "username": "MercedesBoy"
+                    }
+                ]
+            },
+            "id": "1326926966948290563",
+            "lang": "en",
+            "public_metrics": {
+                "impression_count": 0,
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 2
+            },
+            "referenced_tweets": [
+                {
+                    "id": "1326869931435171840",
+                    "type": "retweeted"
+                }
+            ],
+            "reply_settings": "everyone",
+            "text": "RT @MercedesBoy: @IAmKrishanPatel @JamaalBowmanNY You do not get 2 make arrangements 4 the group that has sacrificed more in blood &amp; deaths\u2026"
+        },
+        {
+            "author_id": "74810575",
+            "conversation_id": "1326926813902352386",
+            "created_at": "2020-11-12T16:36:20.000Z",
+            "edit_history_tweet_ids": [
+                "1326926813902352386"
+            ],
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 53,
+                        "normalized_text": "Caste",
+                        "probability": 0.4387,
+                        "start": 49,
+                        "type": "Other"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 11,
+                        "id": "220285903",
+                        "start": 3,
+                        "username": "nesoron"
+                    },
+                    {
+                        "end": 23,
+                        "id": "2318615419",
+                        "start": 13,
+                        "username": "sarahmarb"
+                    },
+                    {
+                        "end": 33,
+                        "id": "74810575",
+                        "start": 24,
+                        "username": "nandtara"
+                    },
+                    {
+                        "end": 48,
+                        "id": "2930935453",
+                        "start": 34,
+                        "username": "ThePrintIndia"
+                    }
+                ]
+            },
+            "id": "1326926813902352386",
+            "lang": "en",
+            "public_metrics": {
+                "impression_count": 0,
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 1
+            },
+            "referenced_tweets": [
+                {
+                    "id": "1326925546685566978",
+                    "type": "retweeted"
+                }
+            ],
+            "reply_settings": "everyone",
+            "text": "RT @nesoron: @sarahmarb @nandtara @ThePrintIndia Caste plays a role, it\u2019s so embedded in the psyche of Indians that the urge to monetise ev\u2026"
+        },
+        {
+            "author_id": "962696150338830337",
+            "conversation_id": "1326926808281804800",
+            "created_at": "2020-11-12T16:36:18.000Z",
+            "edit_history_tweet_ids": [
+                "1326926808281804800"
+            ],
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 26,
+                        "normalized_text": "Uriyadi",
+                        "probability": 0.674,
+                        "start": 20,
+                        "type": "Other"
+                    },
+                    {
+                        "end": 58,
+                        "normalized_text": "Saattai",
+                        "probability": 0.6479,
+                        "start": 52,
+                        "type": "Other"
+                    },
+                    {
+                        "end": 81,
+                        "normalized_text": "Balayya",
+                        "probability": 0.5195,
+                        "start": 75,
+                        "type": "Other"
+                    },
+                    {
+                        "end": 89,
+                        "normalized_text": "Mallya",
+                        "probability": 0.3778,
+                        "start": 84,
+                        "type": "Other"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 18,
+                        "id": "221647151",
+                        "start": 3,
+                        "username": "LMKMovieManiac"
+                    },
+                    {
+                        "end": 42,
+                        "id": "3283549416",
+                        "start": 28,
+                        "username": "Vijay_B_Kumar"
+                    }
+                ]
+            },
+            "id": "1326926808281804800",
+            "lang": "en",
+            "public_metrics": {
+                "impression_count": 0,
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 497
+            },
+            "referenced_tweets": [
+                {
+                    "id": "1326788194831097856",
+                    "type": "retweeted"
+                }
+            ],
+            "reply_settings": "everyone",
+            "text": "RT @LMKMovieManiac: Uriyadi @Vijay_B_Kumar dialogs, Saattai Adi\ud83d\udc4c\n\nMaara to Balayya (Mallya) - \"You are a socialite, I'm a socialist\"\n\n\"Yen\u2026"
+        },
+        {
+            "author_id": "449602872",
+            "context_annotations": [
+                {
+                    "domain": {
+                        "description": "A taxonomy of user interests. ",
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy"
+                    },
+                    "entity": {
+                        "id": "1237072960952750081",
+                        "name": "Journalism"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A taxonomy of user interests. ",
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy"
+                    },
+                    "entity": {
+                        "id": "1278000653416099840",
+                        "name": "Writing"
+                    }
+                }
+            ],
+            "conversation_id": "1326845309280899074",
+            "created_at": "2020-11-12T16:35:37.000Z",
+            "edit_history_tweet_ids": [
+                "1326926636361506816"
+            ],
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 76,
+                        "normalized_text": "Lord Muruga",
+                        "probability": 0.6284,
+                        "start": 66,
+                        "type": "Person"
+                    },
+                    {
+                        "end": 91,
+                        "normalized_text": "Kula deivam",
+                        "probability": 0.4924,
+                        "start": 81,
+                        "type": "Other"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 12,
+                        "id": "1162586083",
+                        "start": 0,
+                        "username": "meghakaveri"
+                    }
+                ]
+            },
+            "id": "1326926636361506816",
+            "in_reply_to_user_id": "1162586083",
+            "lang": "en",
+            "public_metrics": {
+                "impression_count": 0,
+                "like_count": 1,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "referenced_tweets": [
+                {
+                    "id": "1326845309280899074",
+                    "type": "replied_to"
+                }
+            ],
+            "reply_settings": "everyone",
+            "text": "@meghakaveri Absolute Absurdity. Mischievous or totally ignorant. Lord Muruga is Kula deivam , family deity for all castes. Seeing caste even in Gods seems to be the height of liberal journalism."
+        },
+        {
+            "author_id": "114132739",
+            "conversation_id": "1326889669611712512",
+            "created_at": "2020-11-12T16:35:36.000Z",
+            "edit_history_tweet_ids": [
+                "1326926632200835072"
+            ],
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 87,
+                        "normalized_text": "jathi",
+                        "probability": 0.6812,
+                        "start": 83,
+                        "type": "Person"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 14,
+                        "id": "1145538963202949120",
+                        "start": 0,
+                        "username": "PillaiRajavel"
+                    }
+                ]
+            },
+            "id": "1326926632200835072",
+            "in_reply_to_user_id": "1145538963202949120",
+            "lang": "en",
+            "public_metrics": {
+                "impression_count": 0,
+                "like_count": 3,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "referenced_tweets": [
+                {
+                    "id": "1326915128533671936",
+                    "type": "replied_to"
+                }
+            ],
+            "reply_settings": "everyone",
+            "text": "@PillaiRajavel but that is just hot air  ..like the others he is not serious about jathi, atheist or tradition.  for example he doesnt mention his own caste practices."
+        },
+        {
+            "author_id": "44581255",
+            "conversation_id": "1326926574831063041",
+            "created_at": "2020-11-12T16:35:23.000Z",
+            "edit_history_tweet_ids": [
+                "1326926574831063041"
+            ],
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 39,
+                        "normalized_text": "Manu Smriti",
+                        "probability": 0.6046,
+                        "start": 29,
+                        "type": "Person"
+                    },
+                    {
+                        "end": 131,
+                        "normalized_text": "Medhatithi Maharishi",
+                        "probability": 0.4054,
+                        "start": 112,
+                        "type": "Other"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 9,
+                        "id": "14840623",
+                        "start": 3,
+                        "username": "kryes"
+                    }
+                ]
+            },
+            "id": "1326926574831063041",
+            "lang": "en",
+            "public_metrics": {
+                "impression_count": 0,
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 233
+            },
+            "referenced_tweets": [
+                {
+                    "id": "1326784255331102720",
+                    "type": "retweeted"
+                }
+            ],
+            "reply_settings": "everyone",
+            "text": "RT @kryes: Open Challenge!\n\n*Manu Smriti - Ch 10, Sec 2, Sloka10.42\n*No English, Direct Sanskrit\n*No Foreigner, Medhatithi Maharishi 11th C\u2026"
+        },
+        {
+            "author_id": "104130016",
+            "conversation_id": "1326541603532537863",
+            "created_at": "2020-11-12T16:34:56.000Z",
+            "edit_history_tweet_ids": [
+                "1326926464239898625"
+            ],
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 73,
+                        "normalized_text": "Marathi",
+                        "probability": 0.5122,
+                        "start": 67,
+                        "type": "Place"
+                    },
+                    {
+                        "end": 100,
+                        "normalized_text": "Maharashtra",
+                        "probability": 0.9646,
+                        "start": 90,
+                        "type": "Place"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 10,
+                        "id": "55628042",
+                        "start": 0,
+                        "username": "linear911"
+                    },
+                    {
+                        "end": 20,
+                        "id": "80626496",
+                        "start": 11,
+                        "username": "yoginisd"
+                    }
+                ]
+            },
+            "id": "1326926464239898625",
+            "in_reply_to_user_id": "55628042",
+            "lang": "en",
+            "public_metrics": {
+                "impression_count": 0,
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "referenced_tweets": [
+                {
+                    "id": "1326554706206814208",
+                    "type": "replied_to"
+                }
+            ],
+            "reply_settings": "everyone",
+            "text": "@linear911 @yoginisd Lol how does one become marathi by residence? Marathi is a language, Maharashtra is a state and Maharashtrians are those that reside in the state/belong to a certain caste, depending on how one looks at it"
+        },
+        {
+            "author_id": "1198280137315274752",
+            "context_annotations": [
+                {
+                    "domain": {
+                        "description": "A taxonomy of user interests. ",
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy"
+                    },
+                    "entity": {
+                        "description": "US National News",
+                        "id": "1003932601839579136",
+                        "name": "US national news"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A taxonomy of user interests. ",
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy"
+                    },
+                    "entity": {
+                        "description": "News",
+                        "id": "1046545033657081857",
+                        "name": "News"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A taxonomy of user interests. ",
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy"
+                    },
+                    "entity": {
+                        "id": "1286379401228124160",
+                        "name": "Americas"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "Named people in the world like Nelson Mandela",
+                        "id": "10",
+                        "name": "Person"
+                    },
+                    "entity": {
+                        "description": "Former US President Barack Obama",
+                        "id": "10038764303",
+                        "name": "Barack Obama"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "Politicians in the world, like Joe Biden",
+                        "id": "35",
+                        "name": "Politician"
+                    },
+                    "entity": {
+                        "description": "Former US President Barack Obama",
+                        "id": "10038764303",
+                        "name": "Barack Obama"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A taxonomy of user interests. ",
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy"
+                    },
+                    "entity": {
+                        "description": "Former US President Barack Obama",
+                        "id": "10038764303",
+                        "name": "Barack Obama"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A taxonomy of user interests. ",
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy"
+                    },
+                    "entity": {
+                        "description": "Politics",
+                        "id": "847878884917886977",
+                        "name": "Politics"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A taxonomy of user interests. ",
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy"
+                    },
+                    "entity": {
+                        "description": "Politician",
+                        "id": "1070032753834438656",
+                        "name": "Political figures"
+                    }
+                }
+            ],
+            "conversation_id": "1326926349466955776",
+            "created_at": "2020-11-12T16:34:29.000Z",
+            "edit_history_tweet_ids": [
+                "1326926349466955776"
+            ],
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 72,
+                        "normalized_text": "America",
+                        "probability": 0.8535,
+                        "start": 66,
+                        "type": "Place"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 33,
+                        "id": "813286",
+                        "start": 21,
+                        "username": "BarackObama"
+                    }
+                ]
+            },
+            "id": "1326926349466955776",
+            "lang": "en",
+            "public_metrics": {
+                "impression_count": 0,
+                "like_count": 2,
+                "quote_count": 2,
+                "reply_count": 0,
+                "retweet_count": 1
+            },
+            "reply_settings": "everyone",
+            "text": "The Rigger In Chief  @BarackObama   \u201cTime to discard the myth\u201d of America and realize it as a \u201cracial caste system and rapacious capitalism\u201d and a society that was \u201crigged\u201d against minorities."
+        },
+        {
+            "author_id": "1326078608201314307",
+            "context_annotations": [
+                {
+                    "domain": {
+                        "description": "A taxonomy of user interests. ",
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy"
+                    },
+                    "entity": {
+                        "description": "News",
+                        "id": "1046545033657081857",
+                        "name": "News"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A taxonomy of user interests. ",
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy"
+                    },
+                    "entity": {
+                        "id": "1196447117297905665",
+                        "name": "News outlets"
+                    }
+                }
+            ],
+            "conversation_id": "1326744838033780737",
+            "created_at": "2020-11-12T16:34:13.000Z",
+            "edit_history_tweet_ids": [
+                "1326926280869113856"
+            ],
+            "entities": {
+                "mentions": [
+                    {
+                        "end": 16,
+                        "id": "938002728898347008",
+                        "start": 0,
+                        "username": "Republic_Bharat"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "pic.twitter.com/yAtpPFGphV",
+                        "end": 321,
+                        "expanded_url": "https://twitter.com/DilranjanSah/status/1326926280869113856/video/1",
+                        "media_key": "7_1326924648844578816",
+                        "start": 298,
+                        "url": "https://t.co/yAtpPFGphV"
+                    }
+                ]
+            },
+            "id": "1326926280869113856",
+            "in_reply_to_user_id": "938002728898347008",
+            "lang": "hi",
+            "public_metrics": {
+                "impression_count": 0,
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "referenced_tweets": [
+                {
+                    "id": "1326744838033780737",
+                    "type": "replied_to"
+                }
+            ],
+            "reply_settings": "everyone",
+            "text": "@Republic_Bharat Ye bihar ka hi video hai , jaha ek dalit family ko upper caste k log brutally injured kiye.Kya aap log sirf bade aur amir aur pratishthit logo ko news me dikhate hai. Maine kitni baar sabhi news channel ko ye video bheja lekin koi nahi dikhata. Kya garib aur dalit ka koi nahi hai https://t.co/yAtpPFGphV"
+        },
+        {
+            "author_id": "431634061",
+            "conversation_id": "1326926266692378625",
+            "created_at": "2020-11-12T16:34:09.000Z",
+            "edit_history_tweet_ids": [
+                "1326926266692378625"
+            ],
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 39,
+                        "normalized_text": "Manu Smriti",
+                        "probability": 0.6046,
+                        "start": 29,
+                        "type": "Person"
+                    },
+                    {
+                        "end": 131,
+                        "normalized_text": "Medhatithi Maharishi",
+                        "probability": 0.4054,
+                        "start": 112,
+                        "type": "Other"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 9,
+                        "id": "14840623",
+                        "start": 3,
+                        "username": "kryes"
+                    }
+                ]
+            },
+            "id": "1326926266692378625",
+            "lang": "en",
+            "public_metrics": {
+                "impression_count": 0,
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 233
+            },
+            "referenced_tweets": [
+                {
+                    "id": "1326784255331102720",
+                    "type": "retweeted"
+                }
+            ],
+            "reply_settings": "everyone",
+            "text": "RT @kryes: Open Challenge!\n\n*Manu Smriti - Ch 10, Sec 2, Sloka10.42\n*No English, Direct Sanskrit\n*No Foreigner, Medhatithi Maharishi 11th C\u2026"
+        },
+        {
+            "author_id": "872937913",
+            "conversation_id": "1326926228834508807",
+            "created_at": "2020-11-12T16:34:00.000Z",
+            "edit_history_tweet_ids": [
+                "1326926228834508807"
+            ],
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 66,
+                        "normalized_text": "kula deivam",
+                        "probability": 0.5622,
+                        "start": 56,
+                        "type": "Other"
+                    },
+                    {
+                        "end": 88,
+                        "normalized_text": "Thiruporur murugan",
+                        "probability": 0.7837,
+                        "start": 71,
+                        "type": "Other"
+                    },
+                    {
+                        "end": 122,
+                        "normalized_text": "thirupugazh",
+                        "probability": 0.5077,
+                        "start": 112,
+                        "type": "Other"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 18,
+                        "id": "4498208480",
+                        "start": 3,
+                        "username": "krithikasivasw"
+                    },
+                    {
+                        "end": 32,
+                        "id": "1162586083",
+                        "start": 20,
+                        "username": "meghakaveri"
+                    }
+                ]
+            },
+            "id": "1326926228834508807",
+            "lang": "en",
+            "public_metrics": {
+                "impression_count": 0,
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 69
+            },
+            "referenced_tweets": [
+                {
+                    "id": "1326865317994229760",
+                    "type": "retweeted"
+                }
+            ],
+            "reply_settings": "everyone",
+            "text": "RT @krithikasivasw: @meghakaveri Lol what even crap? My kula deivam is Thiruporur murugan and we regularly have thirupugazh sessions. Nice\u2026"
+        },
+        {
+            "author_id": "906778471124238337",
+            "conversation_id": "1326926202536226817",
+            "created_at": "2020-11-12T16:33:54.000Z",
+            "edit_history_tweet_ids": [
+                "1326926202536226817"
+            ],
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 28,
+                        "normalized_text": "Tanishq",
+                        "probability": 0.3229,
+                        "start": 22,
+                        "type": "Other"
+                    }
+                ],
+                "hashtags": [
+                    {
+                        "end": 29,
+                        "start": 21,
+                        "tag": "Tanishq"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 18,
+                        "id": "4845501492",
+                        "start": 3,
+                        "username": "VarierSangitha"
+                    },
+                    {
+                        "end": 130,
+                        "id": "942287584037703680",
+                        "start": 122,
+                        "username": "_ankahi"
+                    }
+                ]
+            },
+            "id": "1326926202536226817",
+            "lang": "en",
+            "public_metrics": {
+                "impression_count": 0,
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 6
+            },
+            "referenced_tweets": [
+                {
+                    "id": "1326403803588030465",
+                    "type": "retweeted"
+                }
+            ],
+            "reply_settings": "everyone",
+            "text": "RT @VarierSangitha: \ud83e\udd14#Tanishq should dedicate a whole Jewellery Range to Caste System in the Invaders Religion &amp; Name\ud83d\udc47@_ankahi @chittukuruv\u2026"
+        },
+        {
+            "author_id": "1131667279068901376",
+            "conversation_id": "1326842541640134656",
+            "created_at": "2020-11-12T16:33:50.000Z",
+            "edit_history_tweet_ids": [
+                "1326926187738755073"
+            ],
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 130,
+                        "normalized_text": "Sangh Court",
+                        "probability": 0.4155,
+                        "start": 120,
+                        "type": "Place"
+                    },
+                    {
+                        "end": 147,
+                        "normalized_text": "Orwellian",
+                        "probability": 0.427,
+                        "start": 139,
+                        "type": "Other"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 9,
+                        "id": "88620607",
+                        "start": 0,
+                        "username": "yemaneds"
+                    },
+                    {
+                        "end": 23,
+                        "id": "1255161552",
+                        "start": 10,
+                        "username": "LiveLawIndia"
+                    },
+                    {
+                        "end": 37,
+                        "id": "2259895735",
+                        "start": 24,
+                        "username": "kunalkamra88"
+                    }
+                ]
+            },
+            "id": "1326926187738755073",
+            "in_reply_to_user_id": "88620607",
+            "lang": "en",
+            "public_metrics": {
+                "impression_count": 0,
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "referenced_tweets": [
+                {
+                    "id": "1326850109636710400",
+                    "type": "replied_to"
+                }
+            ],
+            "reply_settings": "everyone",
+            "text": "@yemaneds @LiveLawIndia @kunalkamra88 Caste, religion, economic status, political affiliation matter than anything. SC (Sangh Court) is an Orwellian Animal Farm where some people are more equal than others."
+        },
+        {
+            "author_id": "1315176220930183170",
+            "conversation_id": "1326816911372509184",
+            "created_at": "2020-11-12T16:33:49.000Z",
+            "edit_history_tweet_ids": [
+                "1326926183598993409"
+            ],
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 46,
+                        "normalized_text": "Wheat",
+                        "probability": 0.6012,
+                        "start": 42,
+                        "type": "Other"
+                    },
+                    {
+                        "end": 63,
+                        "normalized_text": "Maize",
+                        "probability": 0.618,
+                        "start": 59,
+                        "type": "Other"
+                    },
+                    {
+                        "end": 110,
+                        "normalized_text": "Sanatana Dharma",
+                        "probability": 0.4966,
+                        "start": 96,
+                        "type": "Other"
+                    },
+                    {
+                        "end": 209,
+                        "normalized_text": "Caste Oppression",
+                        "probability": 0.76,
+                        "start": 194,
+                        "type": "Other"
+                    },
+                    {
+                        "end": 290,
+                        "normalized_text": "Chanakya",
+                        "probability": 0.5568,
+                        "start": 283,
+                        "type": "Other"
+                    }
+                ]
+            },
+            "id": "1326926183598993409",
+            "in_reply_to_user_id": "1315176220930183170",
+            "lang": "en",
+            "public_metrics": {
+                "impression_count": 0,
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 1,
+                "retweet_count": 0
+            },
+            "referenced_tweets": [
+                {
+                    "id": "1326926085615882240",
+                    "type": "replied_to"
+                }
+            ],
+            "reply_settings": "everyone",
+            "text": "@Shubham36688142 Then are they called as' Wheat bags' and 'Maize bags'? Also, why are people of Sanatana Dharma so poor? I don't believe that as some people are suggesting that it is because of Caste Oppression or anything like that. Maybe they haven't read the economic theories of Chanakya."
+        },
+        {
+            "author_id": "506209616",
+            "conversation_id": "1326926021128577024",
+            "created_at": "2020-11-12T16:33:11.000Z",
+            "edit_history_tweet_ids": [
+                "1326926021128577024"
+            ],
+            "entities": {
+                "mentions": [
+                    {
+                        "end": 13,
+                        "id": "1540038249103691777",
+                        "start": 3,
+                        "username": "simonnet2"
+                    },
+                    {
+                        "end": 72,
+                        "id": "188356076",
+                        "start": 58,
+                        "username": "centresociaux"
+                    }
+                ]
+            },
+            "id": "1326926021128577024",
+            "lang": "fr",
+            "public_metrics": {
+                "impression_count": 0,
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 68
+            },
+            "referenced_tweets": [
+                {
+                    "id": "1326862839252983808",
+                    "type": "retweeted"
+                }
+            ],
+            "reply_settings": "everyone",
+            "text": "RT @Simonnet2: Toute ma solidarit\u00e9 avec la f\u00e9d\u00e9ration des @centresociaux ! \nInou\u00ef : incapable de d\u00e9battre avec des jeunes, la secr\u00e9taire d\u2019\u2026"
+        },
+        {
+            "author_id": "1287058644127842305",
+            "context_annotations": [
+                {
+                    "domain": {
+                        "description": "Top level entities that describe a Brands industry",
+                        "id": "45",
+                        "name": "Brand Vertical"
+                    },
+                    "entity": {
+                        "id": "781974597310615553",
+                        "name": "Entertainment"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+                        "id": "30",
+                        "name": "Entities [Entity Service]"
+                    },
+                    "entity": {
+                        "id": "781974597105094656",
+                        "name": "TV/Movies Related - Entertainment"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "Brands and Companies",
+                        "id": "47",
+                        "name": "Brand"
+                    },
+                    "entity": {
+                        "description": "Republic",
+                        "id": "1100051652311011328",
+                        "name": "Republic"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "Brands and Companies",
+                        "id": "47",
+                        "name": "Brand"
+                    },
+                    "entity": {
+                        "description": "NDTV",
+                        "id": "1100409026628640768",
+                        "name": "NDTV"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "Brands and Companies",
+                        "id": "47",
+                        "name": "Brand"
+                    },
+                    "entity": {
+                        "description": "India Today",
+                        "id": "1106568395376332801",
+                        "name": "India Today"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "Brands and Companies",
+                        "id": "47",
+                        "name": "Brand"
+                    },
+                    "entity": {
+                        "id": "1138475962679537664",
+                        "name": "TIMES NOW"
+                    }
+                }
+            ],
+            "conversation_id": "1326925943932248068",
+            "created_at": "2020-11-12T16:32:52.000Z",
+            "edit_history_tweet_ids": [
+                "1326925943932248068"
+            ],
+            "entities": {
+                "mentions": [
+                    {
+                        "end": 11,
+                        "id": "83297832",
+                        "start": 3,
+                        "username": "porinju"
+                    },
+                    {
+                        "end": 45,
+                        "id": "811972460560019456",
+                        "start": 36,
+                        "username": "republic"
+                    },
+                    {
+                        "end": 55,
+                        "id": "240649814",
+                        "start": 46,
+                        "username": "TimesNow"
+                    },
+                    {
+                        "end": 82,
+                        "id": "37034483",
+                        "start": 77,
+                        "username": "ndtv"
+                    },
+                    {
+                        "end": 94,
+                        "id": "19897138",
+                        "start": 83,
+                        "username": "IndiaToday"
+                    }
+                ]
+            },
+            "id": "1326925943932248068",
+            "lang": "en",
+            "public_metrics": {
+                "impression_count": 0,
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 64
+            },
+            "referenced_tweets": [
+                {
+                    "id": "1323963634192539649",
+                    "type": "retweeted"
+                }
+            ],
+            "reply_settings": "everyone",
+            "text": "RT @porinju: The nation is divided! @republic @TimesNow etc on one side with @ndtv @IndiaToday etc on the other. The governments divide us\u2026"
+        },
+        {
+            "author_id": "1194494870498316288",
+            "context_annotations": [
+                {
+                    "domain": {
+                        "description": "Top level entities that describe a Brands industry",
+                        "id": "45",
+                        "name": "Brand Vertical"
+                    },
+                    "entity": {
+                        "id": "781974597310615553",
+                        "name": "Entertainment"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+                        "id": "30",
+                        "name": "Entities [Entity Service]"
+                    },
+                    "entity": {
+                        "id": "781974597105094656",
+                        "name": "TV/Movies Related - Entertainment"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "Brands and Companies",
+                        "id": "47",
+                        "name": "Brand"
+                    },
+                    "entity": {
+                        "id": "1138079454964490242",
+                        "name": "AajTak"
+                    }
+                }
+            ],
+            "conversation_id": "1326821378947911681",
+            "created_at": "2020-11-12T16:32:21.000Z",
+            "edit_history_tweet_ids": [
+                "1326925810897350657"
+            ],
+            "entities": {
+                "mentions": [
+                    {
+                        "end": 7,
+                        "id": "42606652",
+                        "start": 0,
+                        "username": "aajtak"
+                    }
+                ]
+            },
+            "id": "1326925810897350657",
+            "in_reply_to_user_id": "42606652",
+            "lang": "en",
+            "public_metrics": {
+                "impression_count": 0,
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "referenced_tweets": [
+                {
+                    "id": "1326821378947911681",
+                    "type": "replied_to"
+                }
+            ],
+            "reply_settings": "everyone",
+            "text": "@aajtak Rather than resort to caste base politics the prudence demands you go for growth and development. For that you require skills which you don\u2019t have and hence the rejection???"
+        },
+        {
+            "author_id": "3061303630",
+            "conversation_id": "1326925747177582594",
+            "created_at": "2020-11-12T16:32:05.000Z",
+            "edit_history_tweet_ids": [
+                "1326925747177582594"
+            ],
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 49,
+                        "normalized_text": "India",
+                        "probability": 0.9484,
+                        "start": 45,
+                        "type": "Place"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 12,
+                        "id": "246194416",
+                        "start": 3,
+                        "username": "brumbyoz"
+                    }
+                ]
+            },
+            "id": "1326925747177582594",
+            "lang": "en",
+            "public_metrics": {
+                "impression_count": 0,
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 31
+            },
+            "referenced_tweets": [
+                {
+                    "id": "1326697881206550530",
+                    "type": "retweeted"
+                }
+            ],
+            "reply_settings": "everyone",
+            "text": "RT @brumbyoz: Muslims are the only people in India that are constantly seen as adversarial to bjp. Upper caste, obc and Dalits keep shiftin\u2026"
+        },
+        {
+            "author_id": "3229887792",
+            "conversation_id": "1326925568730783746",
+            "created_at": "2020-11-12T16:31:23.000Z",
+            "edit_history_tweet_ids": [
+                "1326925568730783746"
+            ],
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 53,
+                        "normalized_text": "Deccan Air",
+                        "probability": 0.4895,
+                        "start": 44,
+                        "type": "Other"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 18,
+                        "id": "1166275639491485696",
+                        "start": 3,
+                        "username": "Indumakalktchi"
+                    }
+                ]
+            },
+            "id": "1326925568730783746",
+            "lang": "en",
+            "public_metrics": {
+                "impression_count": 0,
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 188
+            },
+            "referenced_tweets": [
+                {
+                    "id": "1326798001541578752",
+                    "type": "retweeted"
+                }
+            ],
+            "reply_settings": "everyone",
+            "text": "RT @Indumakalktchi: While a Brahmin Started Deccan Air and abolished cost and caste in air travel. \n\nDo you know which airline was purchase\u2026"
+        },
+        {
+            "author_id": "220285903",
+            "conversation_id": "1326915993894055942",
+            "created_at": "2020-11-12T16:31:18.000Z",
+            "edit_history_tweet_ids": [
+                "1326925546685566978"
+            ],
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 40,
+                        "normalized_text": "Caste",
+                        "probability": 0.6249,
+                        "start": 36,
+                        "type": "Person"
+                    },
+                    {
+                        "end": 272,
+                        "normalized_text": "Shekar Gupta",
+                        "probability": 0.9348,
+                        "start": 261,
+                        "type": "Person"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 10,
+                        "id": "2318615419",
+                        "start": 0,
+                        "username": "sarahmarb"
+                    },
+                    {
+                        "end": 20,
+                        "id": "74810575",
+                        "start": 11,
+                        "username": "nandtara"
+                    },
+                    {
+                        "end": 35,
+                        "id": "2930935453",
+                        "start": 21,
+                        "username": "ThePrintIndia"
+                    }
+                ]
+            },
+            "id": "1326925546685566978",
+            "in_reply_to_user_id": "2318615419",
+            "lang": "en",
+            "public_metrics": {
+                "impression_count": 0,
+                "like_count": 1,
+                "quote_count": 0,
+                "reply_count": 1,
+                "retweet_count": 1
+            },
+            "referenced_tweets": [
+                {
+                    "id": "1326915993894055942",
+                    "type": "replied_to"
+                }
+            ],
+            "reply_settings": "everyone",
+            "text": "@sarahmarb @nandtara @ThePrintIndia Caste plays a role, it\u2019s so embedded in the psyche of Indians that the urge to monetise everything- right from positions to the opportunities available- is innate and the reader class exhibits this without any embarrassment. Shekar Gupta would know... about this trait."
+        },
+        {
+            "author_id": "1163168417785868288",
+            "conversation_id": "1326769726211633154",
+            "created_at": "2020-11-12T16:31:16.000Z",
+            "edit_history_tweet_ids": [
+                "1326925538611490816"
+            ],
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 232,
+                        "normalized_text": "Savarnas",
+                        "probability": 0.4795,
+                        "start": 225,
+                        "type": "Other"
+                    }
+                ]
+            },
+            "id": "1326925538611490816",
+            "in_reply_to_user_id": "1263953830309359617",
+            "lang": "en",
+            "public_metrics": {
+                "impression_count": 0,
+                "like_count": 1,
+                "quote_count": 0,
+                "reply_count": 1,
+                "retweet_count": 0
+            },
+            "referenced_tweets": [
+                {
+                    "id": "1326789275116068872",
+                    "type": "replied_to"
+                }
+            ],
+            "reply_settings": "everyone",
+            "text": "@traegersahit How does it pit women against women? I think most women are angry about male feminists who use their activism to act like saviours instead of allies, or who speak over them in feminist spaces. The same goes for Savarnas when it comes to the anti-caste movement."
+        },
+        {
+            "author_id": "2436836058",
+            "context_annotations": [
+                {
+                    "domain": {
+                        "description": "Named people in the world like Nelson Mandela",
+                        "id": "10",
+                        "name": "Person"
+                    },
+                    "entity": {
+                        "description": "Prime Minister of India Narendra Modi",
+                        "id": "806566669166350336",
+                        "name": "Narendra Modi"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "Politicians in the world, like Joe Biden",
+                        "id": "35",
+                        "name": "Politician"
+                    },
+                    "entity": {
+                        "description": "Prime Minister of India Narendra Modi",
+                        "id": "806566669166350336",
+                        "name": "Narendra Modi"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+                        "id": "30",
+                        "name": "Entities [Entity Service]"
+                    },
+                    "entity": {
+                        "description": "Food",
+                        "id": "825047692124442624",
+                        "name": "Food"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+                        "id": "67",
+                        "name": "Interests and Hobbies"
+                    },
+                    "entity": {
+                        "description": "Cooking Actions",
+                        "id": "846770344681627649",
+                        "name": "Cooking"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A taxonomy of user interests. ",
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy"
+                    },
+                    "entity": {
+                        "description": "Prime Minister of India Narendra Modi",
+                        "id": "806566669166350336",
+                        "name": "Narendra Modi"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A taxonomy of user interests. ",
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy"
+                    },
+                    "entity": {
+                        "description": "Politics",
+                        "id": "847878884917886977",
+                        "name": "Politics"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A taxonomy of user interests. ",
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy"
+                    },
+                    "entity": {
+                        "description": "Politician",
+                        "id": "1070032753834438656",
+                        "name": "Political figures"
+                    }
+                }
+            ],
+            "conversation_id": "1326925497360674816",
+            "created_at": "2020-11-12T16:31:06.000Z",
+            "edit_history_tweet_ids": [
+                "1326925497360674816"
+            ],
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 18,
+                        "normalized_text": "sirji",
+                        "probability": 0.7365,
+                        "start": 14,
+                        "type": "Person"
+                    },
+                    {
+                        "end": 49,
+                        "normalized_text": "BJP",
+                        "probability": 0.9439,
+                        "start": 47,
+                        "type": "Organization"
+                    },
+                    {
+                        "end": 145,
+                        "normalized_text": "ujwala yojana",
+                        "probability": 0.555,
+                        "start": 133,
+                        "type": "Other"
+                    },
+                    {
+                        "end": 156,
+                        "normalized_text": "Jan dhan",
+                        "probability": 0.5318,
+                        "start": 149,
+                        "type": "Person"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 13,
+                        "id": "18839785",
+                        "start": 0,
+                        "username": "narendramodi"
+                    }
+                ]
+            },
+            "id": "1326925497360674816",
+            "in_reply_to_user_id": "18839785",
+            "lang": "en",
+            "public_metrics": {
+                "impression_count": 0,
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 1
+            },
+            "reply_settings": "everyone",
+            "text": "@narendramodi sirji rightly said , women , are BJP's silent voters , and y are doing a great help to them by providing, cooking gas, ujwala yojana , Jan dhan amount etc \nPls pass women reservation bill in parliament not caste wise , Just they should be given good representation"
+        },
+        {
+            "author_id": "358698072",
+            "conversation_id": "1326925435322556418",
+            "created_at": "2020-11-12T16:30:51.000Z",
+            "edit_history_tweet_ids": [
+                "1326925435322556418"
+            ],
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 25,
+                        "normalized_text": "Kunal Kamra",
+                        "probability": 0.9184,
+                        "start": 15,
+                        "type": "Person"
+                    },
+                    {
+                        "end": 136,
+                        "normalized_text": "Arnab",
+                        "probability": 0.8372,
+                        "start": 132,
+                        "type": "Person"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 13,
+                        "id": "2503309218",
+                        "start": 3,
+                        "username": "Sankul333"
+                    }
+                ]
+            },
+            "id": "1326925435322556418",
+            "lang": "en",
+            "public_metrics": {
+                "impression_count": 0,
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 20
+            },
+            "referenced_tweets": [
+                {
+                    "id": "1326887728118632448",
+                    "type": "retweeted"
+                }
+            ],
+            "reply_settings": "everyone",
+            "text": "RT @sankul333: Kunal Kamra doesn't deserve the contempt case, but he's going to get away scot free with free positive PR, just like Arnab &amp;\u2026"
+        },
+        {
+            "author_id": "1049675932850642945",
+            "conversation_id": "1326923523433000961",
+            "created_at": "2020-11-12T16:30:47.000Z",
+            "edit_history_tweet_ids": [
+                "1326925418801352714"
+            ],
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 164,
+                        "normalized_text": "Bombay HC",
+                        "probability": 0.8245,
+                        "start": 156,
+                        "type": "Organization"
+                    },
+                    {
+                        "end": 197,
+                        "normalized_text": "Goswami",
+                        "probability": 0.8619,
+                        "start": 191,
+                        "type": "Person"
+                    },
+                    {
+                        "end": 268,
+                        "normalized_text": "bjp",
+                        "probability": 0.5861,
+                        "start": 266,
+                        "type": "Organization"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 9,
+                        "id": "1963945884",
+                        "start": 0,
+                        "username": "Iyervval"
+                    }
+                ]
+            },
+            "id": "1326925418801352714",
+            "in_reply_to_user_id": "1963945884",
+            "lang": "en",
+            "public_metrics": {
+                "impression_count": 0,
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "referenced_tweets": [
+                {
+                    "id": "1326923523433000961",
+                    "type": "replied_to"
+                }
+            ],
+            "reply_settings": "everyone",
+            "text": "@Iyervval Or attributing malafide motives (political, social etc) to court judgements one doesn't like. For example, saying that the caste of the judges of Bombay HC and caste of the accused Goswami came into play during bail decision - same as saying SC sides with bjp in giving bail"
+        },
+        {
+            "author_id": "1308214147759267840",
+            "conversation_id": "1326925411389878273",
+            "created_at": "2020-11-12T16:30:45.000Z",
+            "edit_history_tweet_ids": [
+                "1326925411389878273"
+            ],
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 80,
+                        "normalized_text": "Kashmir",
+                        "probability": 0.9779,
+                        "start": 74,
+                        "type": "Place"
+                    },
+                    {
+                        "end": 130,
+                        "normalized_text": "DDC",
+                        "probability": 0.5193,
+                        "start": 128,
+                        "type": "Organization"
+                    }
+                ],
+                "hashtags": [
+                    {
+                        "end": 69,
+                        "start": 54,
+                        "tag": "chooseprogress"
+                    },
+                    {
+                        "end": 81,
+                        "start": 73,
+                        "tag": "Kashmir"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 15,
+                        "id": "1238679530769772545",
+                        "start": 3,
+                        "username": "RadioChinar"
+                    }
+                ]
+            },
+            "id": "1326925411389878273",
+            "lang": "en",
+            "public_metrics": {
+                "impression_count": 0,
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 732
+            },
+            "referenced_tweets": [
+                {
+                    "id": "1326782570110066690",
+                    "type": "retweeted"
+                }
+            ],
+            "reply_settings": "everyone",
+            "text": "RT @RadioChinar: The time has come to take action and #chooseprogress in #Kashmir. Let's all take a pledge to make the upcoming DDC electio\u2026"
+        },
+        {
+            "author_id": "1285487709604081665",
+            "conversation_id": "1326909601212719105",
+            "created_at": "2020-11-12T16:30:32.000Z",
+            "edit_history_tweet_ids": [
+                "1326925354288644096"
+            ],
+            "entities": {
+                "mentions": [
+                    {
+                        "end": 11,
+                        "id": "1236422581378416640",
+                        "start": 0,
+                        "username": "urmiundone"
+                    }
+                ]
+            },
+            "id": "1326925354288644096",
+            "in_reply_to_user_id": "1236422581378416640",
+            "lang": "en",
+            "public_metrics": {
+                "impression_count": 0,
+                "like_count": 1,
+                "quote_count": 0,
+                "reply_count": 1,
+                "retweet_count": 0
+            },
+            "referenced_tweets": [
+                {
+                    "id": "1326909601212719105",
+                    "type": "replied_to"
+                }
+            ],
+            "reply_settings": "everyone",
+            "text": "@urmiundone The era before that was just as bad just that the victims were LCs and poor. Same with corruption. The landlords and their henchmen did worse. But apparently who lost their caste privilege yet were privileged enough to migrate out, and infiltrate the media and the vocal upper..."
+        },
+        {
+            "author_id": "1180076477666086913",
+            "conversation_id": "1326925326807674883",
+            "created_at": "2020-11-12T16:30:25.000Z",
+            "edit_history_tweet_ids": [
+                "1326925326807674883"
+            ],
+            "entities": {
+                "mentions": [
+                    {
+                        "end": 19,
+                        "id": "1263706735",
+                        "start": 3,
+                        "username": "kavita_krishnan"
+                    },
+                    {
+                        "end": 39,
+                        "id": "2255042234",
+                        "start": 23,
+                        "username": "cpimlliberation"
+                    }
+                ]
+            },
+            "id": "1326925326807674883",
+            "lang": "en",
+            "public_metrics": {
+                "impression_count": 0,
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 33
+            },
+            "referenced_tweets": [
+                {
+                    "id": "1326869316566884352",
+                    "type": "retweeted"
+                }
+            ],
+            "reply_settings": "everyone",
+            "text": "RT @kavita_krishnan: . @cpimlliberation talks about the links of privatisation to caste, land ownership and material resource-based issues\u2026"
+        },
+        {
+            "author_id": "1242465487906205697",
+            "conversation_id": "1326821853248311299",
+            "created_at": "2020-11-12T16:30:24.000Z",
+            "edit_history_tweet_ids": [
+                "1326925322986680321"
+            ],
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 58,
+                        "normalized_text": "sai gaaru",
+                        "probability": 0.7902,
+                        "start": 50,
+                        "type": "Other"
+                    },
+                    {
+                        "end": 106,
+                        "normalized_text": "shiva keshav gaaru",
+                        "probability": 0.8118,
+                        "start": 89,
+                        "type": "Other"
+                    },
+                    {
+                        "end": 183,
+                        "normalized_text": "Dubbaka",
+                        "probability": 0.5148,
+                        "start": 177,
+                        "type": "Place"
+                    },
+                    {
+                        "end": 243,
+                        "normalized_text": "chanakya",
+                        "probability": 0.364,
+                        "start": 236,
+                        "type": "Other"
+                    },
+                    {
+                        "end": 268,
+                        "normalized_text": "GHMC",
+                        "probability": 0.7337,
+                        "start": 265,
+                        "type": "Other"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 15,
+                        "id": "1160404295964958720",
+                        "start": 0,
+                        "username": "NationalistHub"
+                    },
+                    {
+                        "end": 32,
+                        "id": "139100581",
+                        "start": 16,
+                        "username": "sai_nationalist"
+                    },
+                    {
+                        "end": 49,
+                        "id": "139100581",
+                        "start": 33,
+                        "username": "sai_nationalist"
+                    }
+                ]
+            },
+            "id": "1326925322986680321",
+            "in_reply_to_user_id": "1160404295964958720",
+            "lang": "en",
+            "public_metrics": {
+                "impression_count": 0,
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "referenced_tweets": [
+                {
+                    "id": "1326821853248311299",
+                    "type": "replied_to"
+                }
+            ],
+            "reply_settings": "everyone",
+            "text": "@NationalistHub @sai_nationalist @sai_nationalist sai gaaru, can you check 2 things with shiva keshav gaaru if you have access.\n1 . Was there any caste polarization observed in Dubbaka or all the castes are vertically split?\n2. Mission chanakya started any work in GHMC?  if so, whats there observation so far"
+        },
+        {
+            "author_id": "1217344026",
+            "conversation_id": "1326925268569755653",
+            "created_at": "2020-11-12T16:30:11.000Z",
+            "edit_history_tweet_ids": [
+                "1326925268569755653"
+            ],
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 60,
+                        "normalized_text": "Caste",
+                        "probability": 0.6406,
+                        "start": 56,
+                        "type": "Other"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 81,
+                        "id": "60190930",
+                        "start": 65,
+                        "username": "Isabelwilkerson"
+                    }
+                ]
+            },
+            "id": "1326925268569755653",
+            "lang": "en",
+            "public_metrics": {
+                "impression_count": 0,
+                "like_count": 2,
+                "quote_count": 0,
+                "reply_count": 3,
+                "retweet_count": 1
+            },
+            "reply_settings": "everyone",
+            "text": "What book has shifted your paradigm this year?\n\nFor me, Caste by @Isabelwilkerson. I\u2019ll never be the same."
+        },
+        {
+            "author_id": "83515228",
+            "conversation_id": "1326925229046689792",
+            "created_at": "2020-11-12T16:30:02.000Z",
+            "edit_history_tweet_ids": [
+                "1326925229046689792"
+            ],
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 51,
+                        "normalized_text": "Bali Padyami",
+                        "probability": 0.9712,
+                        "start": 40,
+                        "type": "Person"
+                    }
+                ]
+            },
+            "id": "1326925229046689792",
+            "lang": "en",
+            "public_metrics": {
+                "impression_count": 0,
+                "like_count": 1,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "reply_settings": "everyone",
+            "text": "Any scholarly article written about how Bali Padyami is upper caste hegemony over lower caste?"
+        },
+        {
+            "author_id": "1552108188",
+            "conversation_id": "1326498160361922562",
+            "created_at": "2020-11-12T16:29:55.000Z",
+            "edit_history_tweet_ids": [
+                "1326925199707574277"
+            ],
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 37,
+                        "normalized_text": "Pasmanda",
+                        "probability": 0.6943,
+                        "start": 30,
+                        "type": "Other"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 8,
+                        "id": "1247283929528373248",
+                        "start": 0,
+                        "username": "NA22177"
+                    }
+                ]
+            },
+            "id": "1326925199707574277",
+            "in_reply_to_user_id": "1247283929528373248",
+            "lang": "en",
+            "public_metrics": {
+                "impression_count": 0,
+                "like_count": 2,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "referenced_tweets": [
+                {
+                    "id": "1326502749312323586",
+                    "type": "replied_to"
+                }
+            ],
+            "reply_settings": "everyone",
+            "text": "@NA22177 @Main_kahil @ST__128 Pasmanda means backward/disadvantaged.\nIt is wrongly misconstrued (deliberately so by some), to mean caste."
+        },
+        {
+            "author_id": "1027845724095107072",
+            "conversation_id": "1326925073303932929",
+            "created_at": "2020-11-12T16:29:25.000Z",
+            "edit_history_tweet_ids": [
+                "1326925073303932929"
+            ],
+            "entities": {
+                "mentions": [
+                    {
+                        "end": 17,
+                        "id": "1247493009203056640",
+                        "start": 3,
+                        "username": "Gokul33299076"
+                    },
+                    {
+                        "end": 32,
+                        "id": "1000359312231841792",
+                        "start": 19,
+                        "username": "trrajeshtvpm"
+                    },
+                    {
+                        "end": 42,
+                        "id": "1027845724095107072",
+                        "start": 33,
+                        "username": "cms_khan"
+                    },
+                    {
+                        "end": 59,
+                        "id": "1906974517",
+                        "start": 43,
+                        "username": "INCUttarPradesh"
+                    },
+                    {
+                        "end": 69,
+                        "id": "1153045459",
+                        "start": 60,
+                        "username": "INCIndia"
+                    }
+                ]
+            },
+            "id": "1326925073303932929",
+            "lang": "en",
+            "public_metrics": {
+                "impression_count": 0,
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 1
+            },
+            "referenced_tweets": [
+                {
+                    "id": "1326920903851118593",
+                    "type": "retweeted"
+                }
+            ],
+            "reply_settings": "everyone",
+            "text": "RT @Gokul33299076: @trrajeshtvpm @cms_khan @INCUttarPradesh @INCIndia What to do. Nothing can change. Change can happen only when people re\u2026"
+        },
+        {
+            "author_id": "790627271010811904",
+            "conversation_id": "1326925070489546754",
+            "created_at": "2020-11-12T16:29:24.000Z",
+            "edit_history_tweet_ids": [
+                "1326925070489546754"
+            ],
+            "entities": {
+                "mentions": [
+                    {
+                        "end": 15,
+                        "id": "1014802056069222400",
+                        "start": 3,
+                        "username": "AbdoulayeK3"
+                    }
+                ]
+            },
+            "id": "1326925070489546754",
+            "lang": "fr",
+            "public_metrics": {
+                "impression_count": 0,
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 41
+            },
+            "referenced_tweets": [
+                {
+                    "id": "1326896423644835843",
+                    "type": "retweeted"
+                }
+            ],
+            "reply_settings": "everyone",
+            "text": "RT @AbdoulayeK3: Toujours cette caste bien pensante qui ont la critique facile mais d\u00e9connect\u00e9e des r\u00e9alit\u00e9s...Le m\u00e9pris gardez le pour vou\u2026"
+        },
+        {
+            "author_id": "98040932",
+            "conversation_id": "1326889490359570434",
+            "created_at": "2020-11-12T16:28:30.000Z",
+            "edit_history_tweet_ids": [
+                "1326924842545852416"
+            ],
+            "entities": {
+                "mentions": [
+                    {
+                        "end": 15,
+                        "id": "64433320",
+                        "start": 0,
+                        "username": "India_Progress"
+                    }
+                ]
+            },
+            "id": "1326924842545852416",
+            "in_reply_to_user_id": "64433320",
+            "lang": "en",
+            "public_metrics": {
+                "impression_count": 0,
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "referenced_tweets": [
+                {
+                    "id": "1326889970238320640",
+                    "type": "replied_to"
+                }
+            ],
+            "reply_settings": "everyone",
+            "text": "@India_Progress One should differentiate between social issues and religious traditions.caste is social menace but sabarimala women issue is \"\"agama\" .how a judge couldn't differentiate it?"
+        },
+        {
+            "author_id": "788748835",
+            "conversation_id": "1326924840721215488",
+            "created_at": "2020-11-12T16:28:29.000Z",
+            "edit_history_tweet_ids": [
+                "1326924840721215488"
+            ],
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 25,
+                        "normalized_text": "Congress",
+                        "probability": 0.675,
+                        "start": 18,
+                        "type": "Organization"
+                    }
+                ]
+            },
+            "id": "1326924840721215488",
+            "lang": "en",
+            "public_metrics": {
+                "impression_count": 0,
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 34
+            },
+            "referenced_tweets": [
+                {
+                    "id": "1326876104318099457",
+                    "type": "retweeted"
+                }
+            ],
+            "reply_settings": "everyone",
+            "text": "RT @iprashantm13: Congress is against the extremism and the party for all religions, caste and creeds."
+        },
+        {
+            "author_id": "1293114973661650949",
+            "context_annotations": [
+                {
+                    "domain": {
+                        "description": "A taxonomy of user interests. ",
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy"
+                    },
+                    "entity": {
+                        "description": "Television",
+                        "id": "1072937043393560576",
+                        "name": "Television"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A taxonomy of user interests. ",
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy"
+                    },
+                    "entity": {
+                        "id": "1276514328007467008",
+                        "name": "Movies & TV"
+                    }
+                }
+            ],
+            "conversation_id": "1326924360611983365",
+            "created_at": "2020-11-12T16:26:35.000Z",
+            "edit_history_tweet_ids": [
+                "1326924360611983365"
+            ],
+            "entities": {
+                "mentions": [
+                    {
+                        "end": 15,
+                        "id": "1057768182499414017",
+                        "start": 3,
+                        "username": "LoxiumMedia"
+                    },
+                    {
+                        "end": 57,
+                        "id": "38395124",
+                        "start": 46,
+                        "username": "franceinfo"
+                    },
+                    {
+                        "end": 79,
+                        "id": "54162656",
+                        "start": 67,
+                        "username": "djamel_mazi"
+                    },
+                    {
+                        "end": 95,
+                        "id": "213701993",
+                        "start": 83,
+                        "username": "Luchaumette"
+                    }
+                ]
+            },
+            "id": "1326924360611983365",
+            "lang": "fr",
+            "public_metrics": {
+                "impression_count": 0,
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 1
+            },
+            "referenced_tweets": [
+                {
+                    "id": "1326920506256347136",
+                    "type": "retweeted"
+                }
+            ],
+            "reply_settings": "everyone",
+            "text": "RT @LoxiumMedia: C'est l'heure du 17h:19h sur @franceinfo TV \ud83d\udcfaavec @djamel_mazi et @Luchaumette !\nAu programme : Un \"Tour de vis suppl\u00e9ment\u2026"
+        },
+        {
+            "author_id": "1214205077931491328",
+            "conversation_id": "1326924324322881536",
+            "created_at": "2020-11-12T16:26:26.000Z",
+            "edit_history_tweet_ids": [
+                "1326924324322881536"
+            ],
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 26,
+                        "normalized_text": "Uriyadi",
+                        "probability": 0.674,
+                        "start": 20,
+                        "type": "Other"
+                    },
+                    {
+                        "end": 58,
+                        "normalized_text": "Saattai",
+                        "probability": 0.6479,
+                        "start": 52,
+                        "type": "Other"
+                    },
+                    {
+                        "end": 81,
+                        "normalized_text": "Balayya",
+                        "probability": 0.5195,
+                        "start": 75,
+                        "type": "Other"
+                    },
+                    {
+                        "end": 89,
+                        "normalized_text": "Mallya",
+                        "probability": 0.3778,
+                        "start": 84,
+                        "type": "Other"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 18,
+                        "id": "221647151",
+                        "start": 3,
+                        "username": "LMKMovieManiac"
+                    },
+                    {
+                        "end": 42,
+                        "id": "3283549416",
+                        "start": 28,
+                        "username": "Vijay_B_Kumar"
+                    }
+                ]
+            },
+            "id": "1326924324322881536",
+            "lang": "en",
+            "public_metrics": {
+                "impression_count": 0,
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 497
+            },
+            "referenced_tweets": [
+                {
+                    "id": "1326788194831097856",
+                    "type": "retweeted"
+                }
+            ],
+            "reply_settings": "everyone",
+            "text": "RT @LMKMovieManiac: Uriyadi @Vijay_B_Kumar dialogs, Saattai Adi\ud83d\udc4c\n\nMaara to Balayya (Mallya) - \"You are a socialite, I'm a socialist\"\n\n\"Yen\u2026"
+        },
+        {
+            "author_id": "1038015080649175040",
+            "conversation_id": "1326924160233209857",
+            "created_at": "2020-11-12T16:25:47.000Z",
+            "edit_history_tweet_ids": [
+                "1326924160233209857"
+            ],
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 13,
+                        "normalized_text": "Reddy",
+                        "probability": 0.3293,
+                        "start": 9,
+                        "type": "Organization"
+                    },
+                    {
+                        "end": 22,
+                        "normalized_text": "YCP",
+                        "probability": 0.6588,
+                        "start": 20,
+                        "type": "Organization"
+                    },
+                    {
+                        "end": 52,
+                        "normalized_text": "MLA",
+                        "probability": 0.3956,
+                        "start": 50,
+                        "type": "Organization"
+                    },
+                    {
+                        "end": 90,
+                        "normalized_text": "MLA",
+                        "probability": 0.4583,
+                        "start": 88,
+                        "type": "Organization"
+                    },
+                    {
+                        "end": 108,
+                        "normalized_text": "Reddy",
+                        "probability": 0.5849,
+                        "start": 104,
+                        "type": "Person"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "twitter.com/JaiTDP/status/\u2026",
+                        "end": 195,
+                        "expanded_url": "https://twitter.com/JaiTDP/status/1326759322693464065",
+                        "start": 172,
+                        "url": "https://t.co/RslCX4x7wk"
+                    }
+                ]
+            },
+            "geo": {
+                "place_id": "5f55bb82cf16ac81"
+            },
+            "id": "1326924160233209857",
+            "lang": "en",
+            "public_metrics": {
+                "impression_count": 0,
+                "like_count": 2,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "referenced_tweets": [
+                {
+                    "id": "1326759322693464065",
+                    "type": "quoted"
+                }
+            ],
+            "reply_settings": "everyone",
+            "text": "Will the Reddy's of YCP file a case against their MLA,who has accused their caste, this MLA has divided Reddy's,one are common Reddys &amp; others as corrupt ysrcp Reddys. https://t.co/RslCX4x7wk"
+        },
+        {
+            "author_id": "460340432",
+            "context_annotations": [
+                {
+                    "domain": {
+                        "description": "Named people in the world like Nelson Mandela",
+                        "id": "10",
+                        "name": "Person"
+                    },
+                    "entity": {
+                        "description": "Indian film actor",
+                        "id": "1167431384048128000",
+                        "name": "Rajinikanth"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "An actor or actress in the world, like Kate Winslet or Leonardo DiCaprio",
+                        "id": "56",
+                        "name": "Actor"
+                    },
+                    "entity": {
+                        "description": "Indian film actor",
+                        "id": "1167431384048128000",
+                        "name": "Rajinikanth"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A taxonomy of user interests. ",
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy"
+                    },
+                    "entity": {
+                        "description": "Indian film actor",
+                        "id": "1167431384048128000",
+                        "name": "Rajinikanth"
+                    }
+                }
+            ],
+            "conversation_id": "1326924105367474178",
+            "created_at": "2020-11-12T16:25:34.000Z",
+            "edit_history_tweet_ids": [
+                "1326924105367474178"
+            ],
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 40,
+                        "normalized_text": "Rajinikanth",
+                        "probability": 0.9723,
+                        "start": 30,
+                        "type": "Person"
+                    },
+                    {
+                        "end": 64,
+                        "normalized_text": "Rajini",
+                        "probability": 0.8112,
+                        "start": 59,
+                        "type": "Person"
+                    }
+                ],
+                "hashtags": [
+                    {
+                        "end": 41,
+                        "start": 29,
+                        "tag": "Rajinikanth"
+                    },
+                    {
+                        "end": 65,
+                        "start": 58,
+                        "tag": "Rajini"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 12,
+                        "id": "148096595",
+                        "start": 3,
+                        "username": "devashak"
+                    }
+                ]
+            },
+            "id": "1326924105367474178",
+            "lang": "en",
+            "public_metrics": {
+                "impression_count": 0,
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 11
+            },
+            "referenced_tweets": [
+                {
+                    "id": "1326920287858864130",
+                    "type": "retweeted"
+                }
+            ],
+            "reply_settings": "everyone",
+            "text": "RT @devashak: The problem is #Rajinikanth\nRight from 80\u2019s #Rajini spoke dialogues of social justice against caste &amp; religious division.\nTha\u2026"
+        },
+        {
+            "author_id": "1153349419833540610",
+            "conversation_id": "1326924059381178368",
+            "created_at": "2020-11-12T16:25:23.000Z",
+            "edit_history_tweet_ids": [
+                "1326924059381178368"
+            ],
+            "entities": {
+                "mentions": [
+                    {
+                        "end": 14,
+                        "id": "18185798",
+                        "start": 3,
+                        "username": "thatsTamil"
+                    }
+                ]
+            },
+            "id": "1326924059381178368",
+            "lang": "ta",
+            "public_metrics": {
+                "impression_count": 0,
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 90
+            },
+            "referenced_tweets": [
+                {
+                    "id": "1326744150151081984",
+                    "type": "retweeted"
+                }
+            ],
+            "reply_settings": "everyone",
+            "text": "RT @thatsTamil: \u0baa\u0bbf\u0bb0\u0bbe\u0bae\u0ba3 \u0bae\u0ba3\u0baa\u0bcd\u0baa\u0bc6\u0ba3\u0bcd.. \u0ba4\u0bb2\u0bbf\u0ba4\u0bcd \u0bae\u0ba3\u0bae\u0b95\u0ba9\u0bcd.. \u0b85\u0bae\u0bcd\u0baa\u0bc7\u0ba4\u0bcd\u0b95\u0bb0\u0bcd \u0bae\u0ba3\u0bbf\u0bae\u0ba3\u0bcd\u0b9f\u0baa\u0ba4\u0bcd\u0ba4\u0bbf\u0bb2\u0bcd.. \u0baa\u0bc6\u0bb3\u0ba4\u0bcd\u0ba4 \u0bae\u0bc1\u0bb1\u0bc8\u0baf\u0bbf\u0bb2\u0bcd.. \u0baa\u0bc1\u0ba4\u0bc1\u0bb5\u0bc8\u0baf\u0bbf\u0bb2\u0bcd \u0baa\u0bb0\u0baa\u0bb0\u0baa\u0bcd\u0baa\u0bc1!  https://t.co/RfHCn3Z2N\u2026"
+        },
+        {
+            "author_id": "1308046996075212800",
+            "conversation_id": "1326924041140260866",
+            "created_at": "2020-11-12T16:25:19.000Z",
+            "edit_history_tweet_ids": [
+                "1326924041140260866"
+            ],
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 80,
+                        "normalized_text": "Kashmir",
+                        "probability": 0.9779,
+                        "start": 74,
+                        "type": "Place"
+                    },
+                    {
+                        "end": 130,
+                        "normalized_text": "DDC",
+                        "probability": 0.5193,
+                        "start": 128,
+                        "type": "Organization"
+                    }
+                ],
+                "hashtags": [
+                    {
+                        "end": 69,
+                        "start": 54,
+                        "tag": "chooseprogress"
+                    },
+                    {
+                        "end": 81,
+                        "start": 73,
+                        "tag": "Kashmir"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 15,
+                        "id": "1238679530769772545",
+                        "start": 3,
+                        "username": "RadioChinar"
+                    }
+                ]
+            },
+            "id": "1326924041140260866",
+            "lang": "en",
+            "public_metrics": {
+                "impression_count": 0,
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 732
+            },
+            "referenced_tweets": [
+                {
+                    "id": "1326782570110066690",
+                    "type": "retweeted"
+                }
+            ],
+            "reply_settings": "everyone",
+            "text": "RT @RadioChinar: The time has come to take action and #chooseprogress in #Kashmir. Let's all take a pledge to make the upcoming DDC electio\u2026"
+        },
+        {
+            "author_id": "1283386626635423744",
+            "conversation_id": "1326924029068972035",
+            "created_at": "2020-11-12T16:25:16.000Z",
+            "edit_history_tweet_ids": [
+                "1326924029068972035"
+            ],
+            "entities": {
+                "mentions": [
+                    {
+                        "end": 15,
+                        "id": "1014802056069222400",
+                        "start": 3,
+                        "username": "AbdoulayeK3"
+                    }
+                ]
+            },
+            "id": "1326924029068972035",
+            "lang": "fr",
+            "public_metrics": {
+                "impression_count": 0,
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 41
+            },
+            "referenced_tweets": [
+                {
+                    "id": "1326896423644835843",
+                    "type": "retweeted"
+                }
+            ],
+            "reply_settings": "everyone",
+            "text": "RT @AbdoulayeK3: Toujours cette caste bien pensante qui ont la critique facile mais d\u00e9connect\u00e9e des r\u00e9alit\u00e9s...Le m\u00e9pris gardez le pour vou\u2026"
+        },
+        {
+            "author_id": "150294220",
+            "context_annotations": [
+                {
+                    "domain": {
+                        "description": "Named people in the world like Nelson Mandela",
+                        "id": "10",
+                        "name": "Person"
+                    },
+                    "entity": {
+                        "id": "1223275530897592320",
+                        "name": "Nirmala Sitharaman"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "Real world events. ",
+                        "id": "29",
+                        "name": "Events [Entity Service]"
+                    },
+                    "entity": {
+                        "id": "1318573265820921857",
+                        "name": "2020 US Election Day"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "Politicians in the world, like Joe Biden",
+                        "id": "35",
+                        "name": "Politician"
+                    },
+                    "entity": {
+                        "id": "1223275530897592320",
+                        "name": "Nirmala Sitharaman"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A taxonomy of user interests. ",
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy"
+                    },
+                    "entity": {
+                        "description": "Politics",
+                        "id": "847878884917886977",
+                        "name": "Politics"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A taxonomy of user interests. ",
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy"
+                    },
+                    "entity": {
+                        "description": "Political issues",
+                        "id": "900740740468191232",
+                        "name": "Political issues"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A taxonomy of user interests. ",
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy"
+                    },
+                    "entity": {
+                        "description": "Conversation about India's finances and economy",
+                        "id": "958799240678920193",
+                        "name": "Economic Issues in India"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A taxonomy of user interests. ",
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy"
+                    },
+                    "entity": {
+                        "description": "Infrastructure in India",
+                        "id": "958819857780195328",
+                        "name": "Infrastructure in India"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "Named people in the world like Nelson Mandela",
+                        "id": "10",
+                        "name": "Person"
+                    },
+                    "entity": {
+                        "description": "Prime Minister of India Narendra Modi",
+                        "id": "806566669166350336",
+                        "name": "Narendra Modi"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "Politicians in the world, like Joe Biden",
+                        "id": "35",
+                        "name": "Politician"
+                    },
+                    "entity": {
+                        "description": "Prime Minister of India Narendra Modi",
+                        "id": "806566669166350336",
+                        "name": "Narendra Modi"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A taxonomy of user interests. ",
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy"
+                    },
+                    "entity": {
+                        "description": "Prime Minister of India Narendra Modi",
+                        "id": "806566669166350336",
+                        "name": "Narendra Modi"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A taxonomy of user interests. ",
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy"
+                    },
+                    "entity": {
+                        "description": "Politics",
+                        "id": "847878884917886977",
+                        "name": "Politics"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A taxonomy of user interests. ",
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy"
+                    },
+                    "entity": {
+                        "description": "Politician",
+                        "id": "1070032753834438656",
+                        "name": "Political figures"
+                    }
+                }
+            ],
+            "conversation_id": "1326853113328775168",
+            "created_at": "2020-11-12T16:25:06.000Z",
+            "edit_history_tweet_ids": [
+                "1326923986362540032"
+            ],
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 61,
+                        "normalized_text": "India",
+                        "probability": 0.9662,
+                        "start": 57,
+                        "type": "Place"
+                    },
+                    {
+                        "end": 124,
+                        "normalized_text": "Modi",
+                        "probability": 0.7861,
+                        "start": 121,
+                        "type": "Person"
+                    },
+                    {
+                        "end": 142,
+                        "normalized_text": "Bihar",
+                        "probability": 0.8548,
+                        "start": 138,
+                        "type": "Place"
+                    },
+                    {
+                        "end": 283,
+                        "normalized_text": "BJP",
+                        "probability": 0.9373,
+                        "start": 281,
+                        "type": "Organization"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 16,
+                        "id": "342096051",
+                        "start": 0,
+                        "username": "SupriyaShrinate"
+                    },
+                    {
+                        "end": 26,
+                        "id": "1110225925931581440",
+                        "start": 17,
+                        "username": "Gobhiji3"
+                    },
+                    {
+                        "end": 40,
+                        "id": "18839785",
+                        "start": 27,
+                        "username": "narendramodi"
+                    },
+                    {
+                        "end": 53,
+                        "id": "58243368",
+                        "start": 41,
+                        "username": "nsitharaman"
+                    }
+                ]
+            },
+            "id": "1326923986362540032",
+            "in_reply_to_user_id": "342096051",
+            "lang": "en",
+            "public_metrics": {
+                "impression_count": 0,
+                "like_count": 2,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "referenced_tweets": [
+                {
+                    "id": "1326853113328775168",
+                    "type": "replied_to"
+                }
+            ],
+            "reply_settings": "everyone",
+            "text": "@SupriyaShrinate @Gobhiji3 @narendramodi @nsitharaman In India's history, the economy is going through a recession under Modi's rule. But Bihar proves that Indian voters only see caste and religion, no matter of economy, GDP, infrastructure, jobs. It is the communal tendency that BJP wins every election. 1n"
+        },
+        {
+            "author_id": "1297886692712435712",
+            "conversation_id": "1326921586222379008",
+            "created_at": "2020-11-12T16:24:12.000Z",
+            "edit_history_tweet_ids": [
+                "1326923760083988480"
+            ],
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 40,
+                        "normalized_text": "Kunal kamra",
+                        "probability": 0.6355,
+                        "start": 30,
+                        "type": "Person"
+                    },
+                    {
+                        "end": 56,
+                        "normalized_text": "Kunal Kamra",
+                        "probability": 0.7127,
+                        "start": 46,
+                        "type": "Person"
+                    },
+                    {
+                        "end": 167,
+                        "normalized_text": "Arnab",
+                        "probability": 0.7931,
+                        "start": 163,
+                        "type": "Person"
+                    },
+                    {
+                        "end": 181,
+                        "normalized_text": "Bhushan",
+                        "probability": 0.6251,
+                        "start": 175,
+                        "type": "Person"
+                    }
+                ]
+            },
+            "id": "1326923760083988480",
+            "in_reply_to_user_id": "1281861490899693568",
+            "lang": "en",
+            "public_metrics": {
+                "impression_count": 0,
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "referenced_tweets": [
+                {
+                    "id": "1326922997211426817",
+                    "type": "replied_to"
+                }
+            ],
+            "reply_settings": "everyone",
+            "text": "@AkashayAE I was referring to Kunal kamra...\n\"Kunal Kamra doesn't deserve the contempt case, but he's going to get away scot free with free positive PR, just like Arnab &amp; Bhushan. Because the SC is nothing but a upper-caste senior citizen group full of casteist buncles\""
+        },
+        {
+            "author_id": "16256934",
+            "conversation_id": "1326923658053316608",
+            "created_at": "2020-11-12T16:23:47.000Z",
+            "edit_history_tweet_ids": [
+                "1326923658053316608"
+            ],
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 25,
+                        "normalized_text": "Congress",
+                        "probability": 0.675,
+                        "start": 18,
+                        "type": "Organization"
+                    }
+                ]
+            },
+            "id": "1326923658053316608",
+            "lang": "en",
+            "public_metrics": {
+                "impression_count": 0,
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 34
+            },
+            "referenced_tweets": [
+                {
+                    "id": "1326876104318099457",
+                    "type": "retweeted"
+                }
+            ],
+            "reply_settings": "everyone",
+            "text": "RT @iprashantm13: Congress is against the extremism and the party for all religions, caste and creeds."
+        },
+        {
+            "author_id": "424371167",
+            "context_annotations": [
+                {
+                    "domain": {
+                        "description": "A taxonomy of user interests. ",
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy"
+                    },
+                    "entity": {
+                        "description": "US National News",
+                        "id": "1003932601839579136",
+                        "name": "US national news"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A taxonomy of user interests. ",
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy"
+                    },
+                    "entity": {
+                        "description": "News",
+                        "id": "1046545033657081857",
+                        "name": "News"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A taxonomy of user interests. ",
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy"
+                    },
+                    "entity": {
+                        "id": "1286379401228124160",
+                        "name": "Americas"
+                    }
+                }
+            ],
+            "conversation_id": "1326876759233613824",
+            "created_at": "2020-11-12T16:23:39.000Z",
+            "edit_history_tweet_ids": [
+                "1326923623714709504"
+            ],
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 95,
+                        "normalized_text": "India",
+                        "probability": 0.8765,
+                        "start": 91,
+                        "type": "Place"
+                    },
+                    {
+                        "end": 174,
+                        "normalized_text": "USA",
+                        "probability": 0.9768,
+                        "start": 172,
+                        "type": "Place"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 41,
+                        "id": "1252260671611260928",
+                        "start": 26,
+                        "username": "KelvinLeaphart"
+                    },
+                    {
+                        "end": 49,
+                        "id": "1393769718604046337",
+                        "start": 42,
+                        "username": "JFNYC1"
+                    },
+                    {
+                        "end": 61,
+                        "id": "26659619",
+                        "start": 50,
+                        "username": "katiehobbs"
+                    }
+                ]
+            },
+            "id": "1326923623714709504",
+            "in_reply_to_user_id": "333555809",
+            "lang": "en",
+            "public_metrics": {
+                "impression_count": 0,
+                "like_count": 1,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "referenced_tweets": [
+                {
+                    "id": "1326921859741278208",
+                    "type": "replied_to"
+                }
+            ],
+            "reply_settings": "everyone",
+            "text": "@nebtwin @theREALdorarosa @KelvinLeaphart @JFNYC1 @katiehobbs It is funny that you mention India's Caste system. Competition and attitude help us all \"make it\" here in the USA.  Few of the \"developed\" nations are comparable to us. Majority rule, mob rule, is a blight and too easily lend themselves to abuse--becoming authoritative."
+        },
+        {
+            "author_id": "539541627",
+            "conversation_id": "1326923173468794883",
+            "created_at": "2020-11-12T16:21:52.000Z",
+            "edit_history_tweet_ids": [
+                "1326923173468794883"
+            ],
+            "entities": {
+                "mentions": [
+                    {
+                        "end": 17,
+                        "id": "15302774",
+                        "start": 3,
+                        "username": "davidharsanyi"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "theatlantic.com/ideas/archive/\u2026",
+                        "end": 136,
+                        "expanded_url": "https://www.theatlantic.com/ideas/archive/2020/11/barack-obama-i-still-believe-america/617073/",
+                        "start": 113,
+                        "url": "https://t.co/RmWwk3h6UE"
+                    }
+                ]
+            },
+            "id": "1326923173468794883",
+            "lang": "en",
+            "public_metrics": {
+                "impression_count": 0,
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 20
+            },
+            "referenced_tweets": [
+                {
+                    "id": "1326913391974359041",
+                    "type": "retweeted"
+                }
+            ],
+            "reply_settings": "everyone",
+            "text": "RT @davidharsanyi: The \"racial caste system and rapacious capitalism.\"   What a disaster his presidency was .. \n\nhttps://t.co/RmWwk3h6UE"
+        },
+        {
+            "author_id": "2463109588",
+            "conversation_id": "1326923167856812033",
+            "created_at": "2020-11-12T16:21:50.000Z",
+            "edit_history_tweet_ids": [
+                "1326923167856812033"
+            ],
+            "entities": {
+                "mentions": [
+                    {
+                        "end": 15,
+                        "id": "113316081",
+                        "start": 3,
+                        "username": "darkwador24"
+                    },
+                    {
+                        "end": 32,
+                        "id": "559586774",
+                        "start": 17,
+                        "username": "SniperDeDroite"
+                    }
+                ]
+            },
+            "id": "1326923167856812033",
+            "lang": "fr",
+            "public_metrics": {
+                "impression_count": 0,
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 3
+            },
+            "referenced_tweets": [
+                {
+                    "id": "1326878771530575872",
+                    "type": "retweeted"
+                }
+            ],
+            "reply_settings": "everyone",
+            "text": "RT @darkwador24: @SniperDeDroite lorsque cette caste est touch\u00e9e c'est exp\u00e9ditif par contre pour la pl\u00e8be qui subit au jour le jour la just\u2026"
+        },
+        {
+            "author_id": "1116587821",
+            "conversation_id": "1326070691976761344",
+            "created_at": "2020-11-12T16:21:24.000Z",
+            "edit_history_tweet_ids": [
+                "1326923056665669632"
+            ],
+            "entities": {
+                "mentions": [
+                    {
+                        "end": 12,
+                        "id": "475728783",
+                        "start": 0,
+                        "username": "pushpampc13"
+                    }
+                ]
+            },
+            "id": "1326923056665669632",
+            "in_reply_to_user_id": "475728783",
+            "lang": "hi",
+            "public_metrics": {
+                "impression_count": 0,
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "referenced_tweets": [
+                {
+                    "id": "1326070691976761344",
+                    "type": "replied_to"
+                }
+            ],
+            "reply_settings": "everyone",
+            "text": "@pushpampc13 \u0905\u092a\u0928\u0947 caste \u0915\u093e title \u0932\u0917\u093e \u0915\u0947 \u092c\u0939\u0941\u0924 \u092c\u0921\u093c\u0940 \u0917\u0932\u0924\u0940 \u0915\u0940 \n\u0907\u0938\u0938\u0947 \u0932\u094b\u0917 \u0914\u0930 \u0935\u094b\u091f \u0928\u0939\u0940 \u0926\u093f\u090f\u0964\n\u0914\u0930 \u092f\u0947 \u0939\u093e\u0932 \u0930\u0939\u093e \u0924\u094b \u0906\u0917\u0947 \u092d\u0940 \u092c\u093f\u0939\u093e\u0930 \u0938\u0947 \u0909\u092e\u0940\u0926 \u092e\u0924 \u0915\u0930\u0928\u093e\u0964\n\u092c\u093f\u0939\u093e\u0930 \u0910\u0938\u093e \u0939\u0940 \u0939\u0948\u0964"
+        },
+        {
+            "author_id": "1144886940258324480",
+            "conversation_id": "1326139679889100800",
+            "created_at": "2020-11-12T16:20:31.000Z",
+            "edit_history_tweet_ids": [
+                "1326922833260236800"
+            ],
+            "entities": {
+                "mentions": [
+                    {
+                        "end": 14,
+                        "id": "58006725",
+                        "start": 0,
+                        "username": "celinegounder"
+                    }
+                ]
+            },
+            "id": "1326922833260236800",
+            "in_reply_to_user_id": "58006725",
+            "lang": "en",
+            "public_metrics": {
+                "impression_count": 0,
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "referenced_tweets": [
+                {
+                    "id": "1326144005328019458",
+                    "type": "replied_to"
+                }
+            ],
+            "reply_settings": "everyone",
+            "text": "@celinegounder Like racism casteism is a blot on society, regressive and a source of much human suffering.  Having accomplished a lot personally one should not feel a need to carry caste heritage. Sad. Please make an effort to not propagate it."
+        },
+        {
+            "author_id": "2227025790",
+            "context_annotations": [
+                {
+                    "domain": {
+                        "description": "Named people in the world like Nelson Mandela",
+                        "id": "10",
+                        "name": "Person"
+                    },
+                    "entity": {
+                        "description": "Tejashwi Yadav",
+                        "id": "1111325067315560453",
+                        "name": "Tejashwi Yadav"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "Politicians in the world, like Joe Biden",
+                        "id": "35",
+                        "name": "Politician"
+                    },
+                    "entity": {
+                        "description": "Tejashwi Yadav",
+                        "id": "1111325067315560453",
+                        "name": "Tejashwi Yadav"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A taxonomy of user interests. ",
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy"
+                    },
+                    "entity": {
+                        "description": "Politics",
+                        "id": "847878884917886977",
+                        "name": "Politics"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A taxonomy of user interests. ",
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy"
+                    },
+                    "entity": {
+                        "description": "Politician",
+                        "id": "1070032753834438656",
+                        "name": "Political figures"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A taxonomy of user interests. ",
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy"
+                    },
+                    "entity": {
+                        "description": "Tejashwi Yadav",
+                        "id": "1111325067315560453",
+                        "name": "Tejashwi Yadav"
+                    }
+                }
+            ],
+            "conversation_id": "1326922812003659783",
+            "created_at": "2020-11-12T16:20:26.000Z",
+            "edit_history_tweet_ids": [
+                "1326922812003659783"
+            ],
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 141,
+                        "normalized_text": "Chara Ghotala",
+                        "probability": 0.7241,
+                        "start": 129,
+                        "type": "Other"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 13,
+                        "id": "2227025790",
+                        "start": 3,
+                        "username": "ssaran999"
+                    }
+                ]
+            },
+            "id": "1326922812003659783",
+            "lang": "en",
+            "public_metrics": {
+                "impression_count": 0,
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 1
+            },
+            "referenced_tweets": [
+                {
+                    "id": "1323018019589730305",
+                    "type": "retweeted"
+                }
+            ],
+            "reply_settings": "everyone",
+            "text": "RT @ssaran999: Your presence really makes him caste free candidate! Ugh! And ofcourse he &amp; his family has nothing to do with\"Chara Ghotala'\u2026"
+        },
+        {
+            "author_id": "1132397674819477504",
+            "conversation_id": "1326922703681576966",
+            "created_at": "2020-11-12T16:20:00.000Z",
+            "edit_history_tweet_ids": [
+                "1326922703681576966"
+            ],
+            "entities": {
+                "mentions": [
+                    {
+                        "end": 17,
+                        "id": "15302774",
+                        "start": 3,
+                        "username": "davidharsanyi"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "theatlantic.com/ideas/archive/\u2026",
+                        "end": 136,
+                        "expanded_url": "https://www.theatlantic.com/ideas/archive/2020/11/barack-obama-i-still-believe-america/617073/",
+                        "start": 113,
+                        "url": "https://t.co/RmWwk3h6UE"
+                    }
+                ]
+            },
+            "id": "1326922703681576966",
+            "lang": "en",
+            "public_metrics": {
+                "impression_count": 0,
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 20
+            },
+            "referenced_tweets": [
+                {
+                    "id": "1326913391974359041",
+                    "type": "retweeted"
+                }
+            ],
+            "reply_settings": "everyone",
+            "text": "RT @davidharsanyi: The \"racial caste system and rapacious capitalism.\"   What a disaster his presidency was .. \n\nhttps://t.co/RmWwk3h6UE"
+        },
+        {
+            "author_id": "1267164779480788993",
+            "conversation_id": "1326920395652521985",
+            "created_at": "2020-11-12T16:19:51.000Z",
+            "edit_history_tweet_ids": [
+                "1326922667069378561"
+            ],
+            "entities": {
+                "mentions": [
+                    {
+                        "end": 13,
+                        "id": "1103486949967319040",
+                        "start": 0,
+                        "username": "TheUpenYadav"
+                    }
+                ]
+            },
+            "id": "1326922667069378561",
+            "in_reply_to_user_id": "1103486949967319040",
+            "lang": "hi",
+            "public_metrics": {
+                "impression_count": 0,
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "referenced_tweets": [
+                {
+                    "id": "1326920395652521985",
+                    "type": "replied_to"
+                }
+            ],
+            "reply_settings": "everyone",
+            "text": "@TheUpenYadav 2018 \u092e\u0947\u0902 \u091a\u092f\u0928\u093f\u0924 \u091f\u0940\u091a\u0930 \u0915\u0947 caste \u0938\u0930\u094d\u091f\u093f\u092b\u093f\u0915\u0947\u091f \u0915\u0940 \u092d\u0940 \u091c\u093e\u0902\u091a \u0939\u094b\u0928\u0940 \u091a\u093e\u0939\u093f\u090f\u0964"
+        },
+        {
+            "author_id": "1297886692712435712",
+            "conversation_id": "1326921586222379008",
+            "created_at": "2020-11-12T16:19:14.000Z",
+            "edit_history_tweet_ids": [
+                "1326922512203091968"
+            ],
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 38,
+                        "normalized_text": "caste",
+                        "probability": 0.3736,
+                        "start": 34,
+                        "type": "Other"
+                    }
+                ]
+            },
+            "id": "1326922512203091968",
+            "in_reply_to_user_id": "1281861490899693568",
+            "lang": "en",
+            "public_metrics": {
+                "impression_count": 0,
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "referenced_tweets": [
+                {
+                    "id": "1326921586222379008",
+                    "type": "replied_to"
+                }
+            ],
+            "reply_settings": "everyone",
+            "text": "@AkashayAE I am not talking about caste."
+        },
+        {
+            "author_id": "20267170",
+            "conversation_id": "1326922393454043136",
+            "created_at": "2020-11-12T16:18:46.000Z",
+            "edit_history_tweet_ids": [
+                "1326922393454043136"
+            ],
+            "entities": {
+                "urls": [
+                    {
+                        "display_url": "theatlantic.com/ideas/archive/\u2026",
+                        "end": 244,
+                        "expanded_url": "https://www.theatlantic.com/ideas/archive/2020/11/barack-obama-i-still-believe-america/617073/",
+                        "start": 221,
+                        "url": "https://t.co/yS5ysHVyWi"
+                    }
+                ]
+            },
+            "id": "1326922393454043136",
+            "lang": "en",
+            "public_metrics": {
+                "impression_count": 0,
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "reply_settings": "everyone",
+            "text": "\u201c...this nation\u2019s ideals have always been secondary to conquest and subjugation, a racial caste system and rapacious capitalism, and that to pretend otherwise is to be complicit in a game that was rigged from the start.\u201d https://t.co/yS5ysHVyWi"
+        },
+        {
+            "author_id": "41782255",
+            "conversation_id": "1326922393214984193",
+            "created_at": "2020-11-12T16:18:46.000Z",
+            "edit_history_tweet_ids": [
+                "1326922393214984193"
+            ],
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 119,
+                        "normalized_text": "Bhuvaneswari",
+                        "probability": 0.5425,
+                        "start": 108,
+                        "type": "Person"
+                    },
+                    {
+                        "end": 138,
+                        "normalized_text": "Kalaiyarasan",
+                        "probability": 0.43,
+                        "start": 127,
+                        "type": "Other"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 75,
+                        "id": "2784239864",
+                        "start": 62,
+                        "username": "TwinerTweets"
+                    },
+                    {
+                        "end": 86,
+                        "id": "619363604",
+                        "start": 76,
+                        "username": "krvtweets"
+                    },
+                    {
+                        "end": 107,
+                        "id": "54643262",
+                        "start": 95,
+                        "username": "maliniranga"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "twitter.com/TwinerTweets/s\u2026",
+                        "end": 226,
+                        "expanded_url": "https://twitter.com/TwinerTweets/status/1326877949954576386",
+                        "start": 203,
+                        "url": "https://t.co/j9WdpCqmfb"
+                    }
+                ]
+            },
+            "id": "1326922393214984193",
+            "lang": "en",
+            "public_metrics": {
+                "impression_count": 0,
+                "like_count": 6,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 2
+            },
+            "referenced_tweets": [
+                {
+                    "id": "1326877949954576386",
+                    "type": "quoted"
+                }
+            ],
+            "reply_settings": "everyone",
+            "text": "Brilliant Ep 1 of this seminar series! Thanks for organising, @TwinerTweets @krvtweets. Thanks @maliniranga Bhuvaneswari &amp; Kalaiyarasan for your deconstruction of how caste is spatialised in cities! https://t.co/j9WdpCqmfb"
+        },
+        {
+            "author_id": "906390691",
+            "conversation_id": "1326922359832342528",
+            "created_at": "2020-11-12T16:18:38.000Z",
+            "edit_history_tweet_ids": [
+                "1326922359832342528"
+            ],
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 26,
+                        "normalized_text": "Uriyadi",
+                        "probability": 0.674,
+                        "start": 20,
+                        "type": "Other"
+                    },
+                    {
+                        "end": 58,
+                        "normalized_text": "Saattai",
+                        "probability": 0.6479,
+                        "start": 52,
+                        "type": "Other"
+                    },
+                    {
+                        "end": 81,
+                        "normalized_text": "Balayya",
+                        "probability": 0.5195,
+                        "start": 75,
+                        "type": "Other"
+                    },
+                    {
+                        "end": 89,
+                        "normalized_text": "Mallya",
+                        "probability": 0.3778,
+                        "start": 84,
+                        "type": "Other"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 18,
+                        "id": "221647151",
+                        "start": 3,
+                        "username": "LMKMovieManiac"
+                    },
+                    {
+                        "end": 42,
+                        "id": "3283549416",
+                        "start": 28,
+                        "username": "Vijay_B_Kumar"
+                    }
+                ]
+            },
+            "id": "1326922359832342528",
+            "lang": "en",
+            "public_metrics": {
+                "impression_count": 0,
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 497
+            },
+            "referenced_tweets": [
+                {
+                    "id": "1326788194831097856",
+                    "type": "retweeted"
+                }
+            ],
+            "reply_settings": "everyone",
+            "text": "RT @LMKMovieManiac: Uriyadi @Vijay_B_Kumar dialogs, Saattai Adi\ud83d\udc4c\n\nMaara to Balayya (Mallya) - \"You are a socialite, I'm a socialist\"\n\n\"Yen\u2026"
+        },
+        {
+            "author_id": "1289219328785567744",
+            "context_annotations": [
+                {
+                    "domain": {
+                        "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+                        "id": "30",
+                        "name": "Entities [Entity Service]"
+                    },
+                    "entity": {
+                        "id": "781974596752842752",
+                        "name": "Services"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "Brands and Companies",
+                        "id": "47",
+                        "name": "Brand"
+                    },
+                    "entity": {
+                        "id": "10045225402",
+                        "name": "Twitter"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A taxonomy of user interests. ",
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy"
+                    },
+                    "entity": {
+                        "id": "10045225402",
+                        "name": "Twitter"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A taxonomy of user interests. ",
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy"
+                    },
+                    "entity": {
+                        "id": "1196446161223028736",
+                        "name": "Social media"
+                    }
+                }
+            ],
+            "conversation_id": "1326897724701208577",
+            "created_at": "2020-11-12T16:18:35.000Z",
+            "edit_history_tweet_ids": [
+                "1326922348633722883"
+            ],
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 108,
+                        "normalized_text": "twitter",
+                        "probability": 0.7547,
+                        "start": 102,
+                        "type": "Other"
+                    }
+                ]
+            },
+            "id": "1326922348633722883",
+            "in_reply_to_user_id": "1271321686453846016",
+            "lang": "en",
+            "public_metrics": {
+                "impression_count": 0,
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "referenced_tweets": [
+                {
+                    "id": "1326921910819581952",
+                    "type": "replied_to"
+                }
+            ],
+            "reply_settings": "everyone",
+            "text": "@Joosemourinho @ElderberryLord @sys64bit Not talking about u.... I was saying generally what I saw on twitter. Caste certificate mein Clearly Brahmin likha rehta hain.. though they themselves don't like to b called traditional Brahmins themselves"
+        },
+        {
+            "author_id": "1564028406",
+            "conversation_id": "1326921994990985217",
+            "created_at": "2020-11-12T16:17:11.000Z",
+            "edit_history_tweet_ids": [
+                "1326921994990985217"
+            ],
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 55,
+                        "normalized_text": "Arun Mukherjee",
+                        "probability": 0.9583,
+                        "start": 42,
+                        "type": "Person"
+                    },
+                    {
+                        "end": 125,
+                        "normalized_text": "Americanized Joothan: The Translator\u2019s Cringe",
+                        "probability": 0.6226,
+                        "start": 81,
+                        "type": "Other"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 10,
+                        "id": "615231457",
+                        "start": 3,
+                        "username": "umCSAS"
+                    }
+                ]
+            },
+            "id": "1326921994990985217",
+            "lang": "en",
+            "public_metrics": {
+                "impression_count": 0,
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 2
+            },
+            "referenced_tweets": [
+                {
+                    "id": "1326636488721903618",
+                    "type": "retweeted"
+                }
+            ],
+            "reply_settings": "everyone",
+            "text": "RT @umCSAS: FRIDAY @ 9AM EST\n\nJoin us for Arun Mukherjee's keynote, \"Reading the Americanized Joothan: The Translator\u2019s Cringe,\" followed b\u2026"
+        },
+        {
+            "author_id": "902851480570404864",
+            "conversation_id": "1326921826119819264",
+            "created_at": "2020-11-12T16:16:31.000Z",
+            "edit_history_tweet_ids": [
+                "1326921826119819264"
+            ],
+            "entities": {
+                "mentions": [
+                    {
+                        "end": 14,
+                        "id": "18185798",
+                        "start": 3,
+                        "username": "thatsTamil"
+                    }
+                ]
+            },
+            "id": "1326921826119819264",
+            "lang": "ta",
+            "public_metrics": {
+                "impression_count": 0,
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 30
+            },
+            "referenced_tweets": [
+                {
+                    "id": "1326783172462391297",
+                    "type": "retweeted"
+                }
+            ],
+            "reply_settings": "everyone",
+            "text": "RT @thatsTamil: \u0bb5\u0bbe\u0ba9\u0bae\u0bcd \u0b8e\u0ba9\u0bcd\u0ba9 \u0b89\u0b99\u0bcd\u0b95 \u0b85\u0baa\u0bcd\u0baa\u0ba9\u0bcd \u0bb5\u0bc0\u0b9f\u0bcd\u0b9f\u0bc1 \u0b9a\u0bca\u0ba4\u0bcd\u0ba4\u0bbe.. \u0b9a\u0bbe\u0ba4\u0bbf\u0baf\u0ba4\u0bcd\u0ba4\u0bbf\u0ba9\u0bcd \u0bae\u0bc0\u0ba4\u0bc1 \u0b8f\u0bb0\u0bcb\u0baa\u0bcd\u0baa\u0bbf\u0bb3\u0bc7\u0ba9\u0bc8 \u0b87\u0bb1\u0b95\u0bcd\u0b95\u0bbf\u0baf '\u0b9a\u0bc2\u0bb0\u0ba9\u0bcd' \u0b9a\u0bc2\u0bb0\u0bcd\u0baf\u0bbe.. \u0bb5\u0bc6\u0bb2\u0bcd\u0b9f\u0ba9\u0bcd https://t.co/z28JCErZz\u2026"
+        },
+        {
+            "author_id": "255284230",
+            "conversation_id": "1326921770457206784",
+            "created_at": "2020-11-12T16:16:17.000Z",
+            "edit_history_tweet_ids": [
+                "1326921770457206784"
+            ],
+            "entities": {
+                "mentions": [
+                    {
+                        "end": 15,
+                        "id": "898459956059426816",
+                        "start": 3,
+                        "username": "OddieBirdie"
+                    }
+                ]
+            },
+            "id": "1326921770457206784",
+            "lang": "en",
+            "public_metrics": {
+                "impression_count": 0,
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 6
+            },
+            "referenced_tweets": [
+                {
+                    "id": "1326792056543522818",
+                    "type": "retweeted"
+                }
+            ],
+            "reply_settings": "everyone",
+            "text": "RT @OddieBirdie: 10+ years of \"Cast your vote, don't vote your caste\" and Hindu-Muslim Binary ...has significantly contributed in OBC/EBC/M\u2026"
+        },
+        {
+            "author_id": "1316295554171760641",
+            "conversation_id": "1326921746654564353",
+            "created_at": "2020-11-12T16:16:12.000Z",
+            "edit_history_tweet_ids": [
+                "1326921746654564353"
+            ],
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 80,
+                        "normalized_text": "Kashmir",
+                        "probability": 0.9779,
+                        "start": 74,
+                        "type": "Place"
+                    },
+                    {
+                        "end": 130,
+                        "normalized_text": "DDC",
+                        "probability": 0.5193,
+                        "start": 128,
+                        "type": "Organization"
+                    }
+                ],
+                "hashtags": [
+                    {
+                        "end": 69,
+                        "start": 54,
+                        "tag": "chooseprogress"
+                    },
+                    {
+                        "end": 81,
+                        "start": 73,
+                        "tag": "Kashmir"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 15,
+                        "id": "1238679530769772545",
+                        "start": 3,
+                        "username": "RadioChinar"
+                    }
+                ]
+            },
+            "id": "1326921746654564353",
+            "lang": "en",
+            "public_metrics": {
+                "impression_count": 0,
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 732
+            },
+            "referenced_tweets": [
+                {
+                    "id": "1326782570110066690",
+                    "type": "retweeted"
+                }
+            ],
+            "reply_settings": "everyone",
+            "text": "RT @RadioChinar: The time has come to take action and #chooseprogress in #Kashmir. Let's all take a pledge to make the upcoming DDC electio\u2026"
+        },
+        {
+            "author_id": "367080432",
+            "context_annotations": [
+                {
+                    "domain": {
+                        "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+                        "id": "66",
+                        "name": "Interests and Hobbies Category"
+                    },
+                    "entity": {
+                        "id": "1237444232513609729",
+                        "name": "Urban planning"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A taxonomy of user interests. ",
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy"
+                    },
+                    "entity": {
+                        "id": "1237444232513609729",
+                        "name": "Urban planning"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A taxonomy of user interests. ",
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy"
+                    },
+                    "entity": {
+                        "id": "1296445017301504000",
+                        "name": "Brown University"
+                    }
+                }
+            ],
+            "conversation_id": "1326921731043450884",
+            "created_at": "2020-11-12T16:16:08.000Z",
+            "edit_history_tweet_ids": [
+                "1326921731043450884"
+            ],
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 243,
+                        "normalized_text": "Raman",
+                        "probability": 0.4814,
+                        "start": 239,
+                        "type": "Person"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 135,
+                        "id": "54643262",
+                        "start": 123,
+                        "username": "maliniranga"
+                    },
+                    {
+                        "end": 177,
+                        "id": "807500532",
+                        "start": 162,
+                        "username": "SouthAsiaBrown"
+                    },
+                    {
+                        "end": 261,
+                        "id": "3318523992",
+                        "start": 245,
+                        "username": "JindalGlobalUNI"
+                    },
+                    {
+                        "end": 279,
+                        "id": "356093768",
+                        "start": 264,
+                        "username": "KingsIndiaInst"
+                    },
+                    {
+                        "end": 291,
+                        "id": "316939684",
+                        "start": 280,
+                        "username": "jaffrelotc"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "pic.twitter.com/GWnrXQVIy2",
+                        "end": 315,
+                        "expanded_url": "https://twitter.com/catriona_ellis/status/1326921731043450884/photo/1",
+                        "media_key": "3_1326919718792531972",
+                        "start": 292,
+                        "url": "https://t.co/GWnrXQVIy2"
+                    }
+                ]
+            },
+            "id": "1326921731043450884",
+            "lang": "en",
+            "public_metrics": {
+                "impression_count": 0,
+                "like_count": 29,
+                "quote_count": 1,
+                "reply_count": 0,
+                "retweet_count": 7
+            },
+            "reply_settings": "everyone",
+            "text": "Fascinating panel Confronting Caste: Caste &amp; the City-  perspectives on caste dominance &amp; environmental unfreedom (@maliniranga), capital (Kalaiyarasan A @SouthAsiaBrown) urban planning &amp; new forms of illegality (Bhunvaneswari Raman @JindalGlobalUNI) \n@KingsIndiaInst @jaffrelotc https://t.co/GWnrXQVIy2"
+        },
+        {
+            "author_id": "709390002254315520",
+            "conversation_id": "1326921639498559496",
+            "created_at": "2020-11-12T16:15:46.000Z",
+            "edit_history_tweet_ids": [
+                "1326921639498559496"
+            ],
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 53,
+                        "normalized_text": "Deccan Air",
+                        "probability": 0.4895,
+                        "start": 44,
+                        "type": "Other"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 18,
+                        "id": "1166275639491485696",
+                        "start": 3,
+                        "username": "Indumakalktchi"
+                    }
+                ]
+            },
+            "id": "1326921639498559496",
+            "lang": "en",
+            "public_metrics": {
+                "impression_count": 0,
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 188
+            },
+            "referenced_tweets": [
+                {
+                    "id": "1326798001541578752",
+                    "type": "retweeted"
+                }
+            ],
+            "reply_settings": "everyone",
+            "text": "RT @Indumakalktchi: While a Brahmin Started Deccan Air and abolished cost and caste in air travel. \n\nDo you know which airline was purchase\u2026"
+        },
+        {
+            "author_id": "1235454129583132672",
+            "conversation_id": "1326396806570373122",
+            "created_at": "2020-11-12T16:15:41.000Z",
+            "edit_history_tweet_ids": [
+                "1326921618283753473"
+            ],
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 20,
+                        "normalized_text": "India",
+                        "probability": 0.9421,
+                        "start": 16,
+                        "type": "Place"
+                    },
+                    {
+                        "end": 288,
+                        "normalized_text": "India",
+                        "probability": 0.9353,
+                        "start": 284,
+                        "type": "Place"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 15,
+                        "id": "138347068",
+                        "start": 0,
+                        "username": "TheSiasatDaily"
+                    }
+                ]
+            },
+            "id": "1326921618283753473",
+            "in_reply_to_user_id": "138347068",
+            "lang": "en",
+            "public_metrics": {
+                "impression_count": 0,
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "referenced_tweets": [
+                {
+                    "id": "1326396806570373122",
+                    "type": "replied_to"
+                }
+            ],
+            "reply_settings": "everyone",
+            "text": "@TheSiasatDaily India is a secular country. Religious politics should not be entertained by any political party. Where is the place of religion in the politics. Its all about social service whoever is doing irrespective of religion or caste should be voted to power in the democratic India."
+        },
+        {
+            "author_id": "2587785210",
+            "conversation_id": "1326921547978772481",
+            "created_at": "2020-11-12T16:15:24.000Z",
+            "edit_history_tweet_ids": [
+                "1326921547978772481"
+            ],
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 33,
+                        "normalized_text": "AZGlobalIrishRev",
+                        "probability": 0.3276,
+                        "start": 18,
+                        "type": "Place"
+                    },
+                    {
+                        "end": 52,
+                        "normalized_text": "Germany",
+                        "probability": 0.8821,
+                        "start": 46,
+                        "type": "Place"
+                    },
+                    {
+                        "end": 80,
+                        "normalized_text": "Nancy Wyse-Power",
+                        "probability": 0.9079,
+                        "start": 65,
+                        "type": "Person"
+                    },
+                    {
+                        "end": 131,
+                        "normalized_text": "Berlin",
+                        "probability": 0.803,
+                        "start": 126,
+                        "type": "Organization"
+                    }
+                ],
+                "hashtags": [
+                    {
+                        "end": 34,
+                        "start": 17,
+                        "tag": "AZGlobalIrishRev"
+                    },
+                    {
+                        "end": 38,
+                        "start": 36,
+                        "tag": "G"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 15,
+                        "id": "4718823509",
+                        "start": 3,
+                        "username": "DGannon2016"
+                    }
+                ]
+            },
+            "id": "1326921547978772481",
+            "lang": "en",
+            "public_metrics": {
+                "impression_count": 0,
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 4
+            },
+            "referenced_tweets": [
+                {
+                    "id": "1326614552293896197",
+                    "type": "retweeted"
+                }
+            ],
+            "reply_settings": "everyone",
+            "text": "RT @DGannon2016: #AZGlobalIrishRev\n\n#G is for Germany \ud83c\udde9\ud83c\uddea \ud83c\udde9\ud83c\uddea \ud83c\udde9\ud83c\uddea \n\nNancy Wyse-Power worked with a range of radicals in post-war Berlin, among\u2026"
+        },
+        {
+            "author_id": "2962829179",
+            "context_annotations": [
+                {
+                    "domain": {
+                        "description": "Brands and Companies",
+                        "id": "47",
+                        "name": "Brand"
+                    },
+                    "entity": {
+                        "description": "India Today",
+                        "id": "1106568395376332801",
+                        "name": "India Today"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "Named people in the world like Nelson Mandela",
+                        "id": "10",
+                        "name": "Person"
+                    },
+                    "entity": {
+                        "description": "Rajdeep Sardesai",
+                        "id": "809858021723545600",
+                        "name": "Rajdeep Sardesai"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "An entertainment personality in the world, like Anderson Cooper or Miranda Sings",
+                        "id": "58",
+                        "name": "Entertainment Personality"
+                    },
+                    "entity": {
+                        "description": "Rajdeep Sardesai",
+                        "id": "809858021723545600",
+                        "name": "Rajdeep Sardesai"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A taxonomy of user interests. ",
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy"
+                    },
+                    "entity": {
+                        "description": "Rajdeep Sardesai",
+                        "id": "809858021723545600",
+                        "name": "Rajdeep Sardesai"
+                    }
+                }
+            ],
+            "conversation_id": "1326895379573469184",
+            "created_at": "2020-11-12T16:14:36.000Z",
+            "edit_history_tweet_ids": [
+                "1326921346484477952"
+            ],
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 68,
+                        "normalized_text": "Aurangabad",
+                        "probability": 0.5957,
+                        "start": 59,
+                        "type": "Place"
+                    },
+                    {
+                        "end": 82,
+                        "normalized_text": "AIMIM",
+                        "probability": 0.4452,
+                        "start": 78,
+                        "type": "Organization"
+                    },
+                    {
+                        "end": 103,
+                        "normalized_text": "shivsena",
+                        "probability": 0.4219,
+                        "start": 96,
+                        "type": "Other"
+                    },
+                    {
+                        "end": 164,
+                        "normalized_text": "AIMIM",
+                        "probability": 0.3737,
+                        "start": 160,
+                        "type": "Person"
+                    },
+                    {
+                        "end": 256,
+                        "normalized_text": "Hyderabad",
+                        "probability": 0.9611,
+                        "start": 248,
+                        "type": "Place"
+                    },
+                    {
+                        "end": 321,
+                        "normalized_text": "Varun Ghandi",
+                        "probability": 0.7284,
+                        "start": 310,
+                        "type": "Person"
+                    }
+                ],
+                "hashtags": [
+                    {
+                        "end": 69,
+                        "start": 58,
+                        "tag": "Aurangabad"
+                    },
+                    {
+                        "end": 83,
+                        "start": 77,
+                        "tag": "AIMIM"
+                    },
+                    {
+                        "end": 165,
+                        "start": 159,
+                        "tag": "AIMIM"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 8,
+                        "id": "911526719944671232",
+                        "start": 0,
+                        "username": "rkrknew"
+                    },
+                    {
+                        "end": 25,
+                        "id": "56304605",
+                        "start": 9,
+                        "username": "sardesairajdeep"
+                    },
+                    {
+                        "end": 37,
+                        "id": "336611577",
+                        "start": 26,
+                        "username": "asadowaisi"
+                    },
+                    {
+                        "end": 49,
+                        "id": "19897138",
+                        "start": 38,
+                        "username": "IndiaToday"
+                    }
+                ]
+            },
+            "id": "1326921346484477952",
+            "in_reply_to_user_id": "911526719944671232",
+            "lang": "en",
+            "public_metrics": {
+                "impression_count": 0,
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 1,
+                "retweet_count": 0
+            },
+            "referenced_tweets": [
+                {
+                    "id": "1326918236299022336",
+                    "type": "replied_to"
+                }
+            ],
+            "reply_settings": "everyone",
+            "text": "@rkrknew @sardesairajdeep @asadowaisi @IndiaToday I think #Aurangabad win of #AIMIM defeating a shivsena MP is not in your knowledge Dalits are Now voting for #AIMIM. His brother too is a voice for voiceless irrespective of caste and creed drop in Hyderabad u will see. Case sub judice will be exonerated like Varun Ghandi"
+        },
+        {
+            "author_id": "2170261634",
+            "context_annotations": [
+                {
+                    "domain": {
+                        "description": "Brands and Companies",
+                        "id": "47",
+                        "name": "Brand"
+                    },
+                    "entity": {
+                        "description": "NEWS18",
+                        "id": "1106573705549737984",
+                        "name": "NEWS18"
+                    }
+                }
+            ],
+            "conversation_id": "1326921311206182913",
+            "created_at": "2020-11-12T16:14:28.000Z",
+            "edit_history_tweet_ids": [
+                "1326921311206182913"
+            ],
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 34,
+                        "normalized_text": "RJD",
+                        "probability": 0.3972,
+                        "start": 32,
+                        "type": "Other"
+                    }
+                ],
+                "hashtags": [
+                    {
+                        "end": 25,
+                        "start": 15,
+                        "tag": "NewsAlert"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 13,
+                        "id": "6509832",
+                        "start": 3,
+                        "username": "CNNnews18"
+                    }
+                ]
+            },
+            "id": "1326921311206182913",
+            "lang": "en",
+            "public_metrics": {
+                "impression_count": 0,
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 2
+            },
+            "referenced_tweets": [
+                {
+                    "id": "1326918365106098178",
+                    "type": "retweeted"
+                }
+            ],
+            "reply_settings": "everyone",
+            "text": "RT @CNNnews18: #NewsAlert - The RJD is a caste based organization and we are a performance based organization. We have focused on developme\u2026"
+        },
+        {
+            "author_id": "2353052971",
+            "conversation_id": "1326921261847605254",
+            "created_at": "2020-11-12T16:14:16.000Z",
+            "edit_history_tweet_ids": [
+                "1326921261847605254"
+            ],
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 49,
+                        "normalized_text": "India",
+                        "probability": 0.9484,
+                        "start": 45,
+                        "type": "Place"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 12,
+                        "id": "246194416",
+                        "start": 3,
+                        "username": "brumbyoz"
+                    }
+                ]
+            },
+            "id": "1326921261847605254",
+            "lang": "en",
+            "public_metrics": {
+                "impression_count": 0,
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 31
+            },
+            "referenced_tweets": [
+                {
+                    "id": "1326697881206550530",
+                    "type": "retweeted"
+                }
+            ],
+            "reply_settings": "everyone",
+            "text": "RT @brumbyoz: Muslims are the only people in India that are constantly seen as adversarial to bjp. Upper caste, obc and Dalits keep shiftin\u2026"
+        },
+        {
+            "author_id": "826269274217910273",
+            "conversation_id": "1326921251969904640",
+            "created_at": "2020-11-12T16:14:14.000Z",
+            "edit_history_tweet_ids": [
+                "1326921251969904640"
+            ],
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 39,
+                        "normalized_text": "Manu Smriti",
+                        "probability": 0.6046,
+                        "start": 29,
+                        "type": "Person"
+                    },
+                    {
+                        "end": 131,
+                        "normalized_text": "Medhatithi Maharishi",
+                        "probability": 0.4054,
+                        "start": 112,
+                        "type": "Other"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 9,
+                        "id": "14840623",
+                        "start": 3,
+                        "username": "kryes"
+                    }
+                ]
+            },
+            "id": "1326921251969904640",
+            "lang": "en",
+            "public_metrics": {
+                "impression_count": 0,
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 233
+            },
+            "referenced_tweets": [
+                {
+                    "id": "1326784255331102720",
+                    "type": "retweeted"
+                }
+            ],
+            "reply_settings": "everyone",
+            "text": "RT @kryes: Open Challenge!\n\n*Manu Smriti - Ch 10, Sec 2, Sloka10.42\n*No English, Direct Sanskrit\n*No Foreigner, Medhatithi Maharishi 11th C\u2026"
+        },
+        {
+            "author_id": "981890013909495810",
+            "conversation_id": "1326921155551301645",
+            "created_at": "2020-11-12T16:13:51.000Z",
+            "edit_history_tweet_ids": [
+                "1326921155551301645"
+            ],
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 39,
+                        "normalized_text": "BJP",
+                        "probability": 0.9414,
+                        "start": 37,
+                        "type": "Organization"
+                    },
+                    {
+                        "end": 71,
+                        "normalized_text": "BJP",
+                        "probability": 0.9622,
+                        "start": 69,
+                        "type": "Organization"
+                    },
+                    {
+                        "end": 174,
+                        "normalized_text": "BJP",
+                        "probability": 0.9512,
+                        "start": 172,
+                        "type": "Organization"
+                    },
+                    {
+                        "end": 187,
+                        "normalized_text": "Jansangh",
+                        "probability": 0.5122,
+                        "start": 180,
+                        "type": "Person"
+                    },
+                    {
+                        "end": 231,
+                        "normalized_text": "OBC",
+                        "probability": 0.6095,
+                        "start": 229,
+                        "type": "Organization"
+                    }
+                ]
+            },
+            "id": "1326921155551301645",
+            "lang": "en",
+            "public_metrics": {
+                "impression_count": 0,
+                "like_count": 8,
+                "quote_count": 0,
+                "reply_count": 3,
+                "retweet_count": 3
+            },
+            "reply_settings": "everyone",
+            "text": "The Main reason of Continuous Win of BJP is that The Core  Voters of BJP never Shift towards any Party under any Circumstances whether win or Loss .This was Seen even When BJP was Jansangh.Upper Caste People and Some Sections of OBC are It\u2019s basic Voters ."
+        }
+    ],
+    "meta": {
+        "newest_id": "1326927694186078208",
+        "next_token": "b26v89c19zqg8o3fosbuoa5c4m7u0wbbd9qaahfanv43h",
+        "oldest_id": "1326921155551301645",
+        "result_count": 80
+    }
+}

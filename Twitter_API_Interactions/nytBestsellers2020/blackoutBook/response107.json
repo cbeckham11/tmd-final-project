@@ -1,0 +1,401 @@
+{
+    "data": [
+        {
+            "author_id": "17826232",
+            "context_annotations": [
+                {
+                    "domain": {
+                        "description": "Top level entities that describe a Brands industry",
+                        "id": "45",
+                        "name": "Brand Vertical"
+                    },
+                    "entity": {
+                        "id": "781974597310615553",
+                        "name": "Entertainment"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+                        "id": "30",
+                        "name": "Entities [Entity Service]"
+                    },
+                    "entity": {
+                        "id": "781974597218340864",
+                        "name": "Video Games - Entertainment"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "Brands and Companies",
+                        "id": "47",
+                        "name": "Brand"
+                    },
+                    "entity": {
+                        "id": "10026713294",
+                        "name": "Nintendo"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A Video Game Publisher like 'Activision'",
+                        "id": "78",
+                        "name": "Video Game Publisher"
+                    },
+                    "entity": {
+                        "id": "10026713294",
+                        "name": "Nintendo"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A taxonomy of user interests. ",
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy"
+                    },
+                    "entity": {
+                        "id": "10026713294",
+                        "name": "Nintendo"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A taxonomy of user interests. ",
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy"
+                    },
+                    "entity": {
+                        "description": "Gaming",
+                        "id": "847527650667094017",
+                        "name": "Gaming"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A taxonomy of user interests. ",
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy"
+                    },
+                    "entity": {
+                        "id": "1070028159964262400",
+                        "name": "Video games"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "Video Game Hardware",
+                        "id": "79",
+                        "name": "Video Game Hardware"
+                    },
+                    "entity": {
+                        "description": "Nintendo Switch",
+                        "id": "856739783577554949",
+                        "name": "Nintendo Switch"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A taxonomy of user interests. ",
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy"
+                    },
+                    "entity": {
+                        "description": "Gaming",
+                        "id": "847527650667094017",
+                        "name": "Gaming"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A taxonomy of user interests. ",
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy"
+                    },
+                    "entity": {
+                        "description": "Nintendo Switch",
+                        "id": "856739783577554949",
+                        "name": "Nintendo Switch"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A taxonomy of user interests. ",
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy"
+                    },
+                    "entity": {
+                        "description": "Video Game Hardware",
+                        "id": "1070028376662888448",
+                        "name": "Console gaming"
+                    }
+                }
+            ],
+            "conversation_id": "1327291751325962240",
+            "created_at": "2020-11-13T16:46:28.000Z",
+            "edit_history_tweet_ids": [
+                "1327291751325962240"
+            ],
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 16,
+                        "normalized_text": "G.I. Joe",
+                        "probability": 0.6778,
+                        "start": 9,
+                        "type": "Other"
+                    },
+                    {
+                        "end": 36,
+                        "normalized_text": "Operation Blackout",
+                        "probability": 0.7747,
+                        "start": 19,
+                        "type": "Other"
+                    },
+                    {
+                        "end": 53,
+                        "normalized_text": "Nintendo Switch",
+                        "probability": 0.4803,
+                        "start": 39,
+                        "type": "Product"
+                    },
+                    {
+                        "end": 96,
+                        "normalized_text": "NintendoSwitch",
+                        "probability": 0.6318,
+                        "start": 83,
+                        "type": "Other"
+                    }
+                ],
+                "hashtags": [
+                    {
+                        "end": 7,
+                        "start": 0,
+                        "tag": "Review"
+                    },
+                    {
+                        "end": 97,
+                        "start": 82,
+                        "tag": "NintendoSwitch"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 108,
+                        "id": "282095691",
+                        "start": 98,
+                        "username": "IguanaBee"
+                    },
+                    {
+                        "end": 121,
+                        "id": "97026421",
+                        "start": 109,
+                        "username": "GameMillEnt"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "purenintendo.com/review-g-i-joe\u2026",
+                        "end": 81,
+                        "expanded_url": "https://purenintendo.com/review-g-i-joe-operation-blackout-nintendo-switch/",
+                        "start": 58,
+                        "url": "https://t.co/wRlz8fj1as"
+                    },
+                    {
+                        "display_url": "pic.twitter.com/HiJnZjDwwj",
+                        "end": 145,
+                        "expanded_url": "https://twitter.com/PureNintendo/status/1327291751325962240/photo/1",
+                        "media_key": "3_1327291749291724800",
+                        "start": 122,
+                        "url": "https://t.co/HiJnZjDwwj"
+                    }
+                ]
+            },
+            "id": "1327291751325962240",
+            "lang": "en",
+            "public_metrics": {
+                "impression_count": 0,
+                "like_count": 1,
+                "quote_count": 1,
+                "reply_count": 0,
+                "retweet_count": 2
+            },
+            "reply_settings": "everyone",
+            "text": "#Review: G.I. Joe: Operation Blackout (Nintendo Switch) - https://t.co/wRlz8fj1as #NintendoSwitch @IguanaBee @GameMillEnt https://t.co/HiJnZjDwwj"
+        },
+        {
+            "author_id": "1019582081330892804",
+            "conversation_id": "1327291717280698368",
+            "created_at": "2020-11-13T16:46:19.000Z",
+            "edit_history_tweet_ids": [
+                "1327291717280698368"
+            ],
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 16,
+                        "normalized_text": "CagayanNeedsHelp",
+                        "probability": 0.6353,
+                        "start": 1,
+                        "type": "Place"
+                    },
+                    {
+                        "end": 256,
+                        "normalized_text": "Tuguegarao",
+                        "probability": 0.5275,
+                        "start": 247,
+                        "type": "Place"
+                    }
+                ],
+                "hashtags": [
+                    {
+                        "end": 17,
+                        "start": 0,
+                        "tag": "CagayanNeedsHelp"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "pic.twitter.com/zVHCQXMvY4",
+                        "end": 294,
+                        "expanded_url": "https://twitter.com/tooasiangay/status/1327291717280698368/photo/1",
+                        "media_key": "3_1327291714843811840",
+                        "start": 271,
+                        "url": "https://t.co/zVHCQXMvY4"
+                    }
+                ]
+            },
+            "id": "1327291717280698368",
+            "lang": "en",
+            "public_metrics": {
+                "impression_count": 0,
+                "like_count": 33,
+                "quote_count": 5,
+                "reply_count": 1,
+                "retweet_count": 38
+            },
+            "reply_settings": "everyone",
+            "text": "#CagayanNeedsHelp NOW.  Not tomorrow. Not in a few days. NOW. People are drowning in their own homes, it is dark and cold because of a city-wide blackout. We need air support because people needing rescue cannot be found by rescue boats. Please!! Tuguegarao is drowning. https://t.co/zVHCQXMvY4"
+        },
+        {
+            "author_id": "1319741223838633984",
+            "conversation_id": "1327291636133601280",
+            "created_at": "2020-11-13T16:46:00.000Z",
+            "edit_history_tweet_ids": [
+                "1327291636133601280"
+            ],
+            "id": "1327291636133601280",
+            "lang": "en",
+            "public_metrics": {
+                "impression_count": 0,
+                "like_count": 1,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "reply_settings": "everyone",
+            "text": "Decided to start setting goals for myself at the start of the day that I will accomplish during said day... today\u2019s goal is to blackout!"
+        },
+        {
+            "author_id": "2562140345",
+            "conversation_id": "1327291633814163457",
+            "created_at": "2020-11-13T16:46:00.000Z",
+            "edit_history_tweet_ids": [
+                "1327291633814163457"
+            ],
+            "entities": {
+                "hashtags": [
+                    {
+                        "end": 70,
+                        "start": 63,
+                        "tag": "Peters"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 14,
+                        "id": "3207949175",
+                        "start": 3,
+                        "username": "AdivonPoes"
+                    },
+                    {
+                        "end": 54,
+                        "id": "8720562",
+                        "start": 49,
+                        "username": "welt"
+                    }
+                ]
+            },
+            "id": "1327291633814163457",
+            "lang": "de",
+            "public_metrics": {
+                "impression_count": 0,
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 1
+            },
+            "referenced_tweets": [
+                {
+                    "id": "1327252945809891328",
+                    "type": "retweeted"
+                }
+            ],
+            "reply_settings": "everyone",
+            "text": "RT @AdivonPoes: Steht denn zu bef\u00fcrchten, werter @welt-Genosse #Peters, dass wir aus unseren Nachbarl\u00e4ndern keinen Atom-Strom mehr bekommen\u2026"
+        },
+        {
+            "author_id": "885254876",
+            "conversation_id": "1327096207110443009",
+            "created_at": "2020-11-13T16:45:54.000Z",
+            "edit_history_tweet_ids": [
+                "1327291612553220098"
+            ],
+            "entities": {
+                "mentions": [
+                    {
+                        "end": 11,
+                        "id": "492499208",
+                        "start": 0,
+                        "username": "amber_ames"
+                    },
+                    {
+                        "end": 25,
+                        "id": "493696495",
+                        "start": 12,
+                        "username": "Cody_gaines5"
+                    },
+                    {
+                        "end": 41,
+                        "id": "378290656",
+                        "start": 26,
+                        "username": "blackout_brant"
+                    }
+                ]
+            },
+            "id": "1327291612553220098",
+            "in_reply_to_user_id": "492499208",
+            "lang": "en",
+            "public_metrics": {
+                "impression_count": 0,
+                "like_count": 3,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "referenced_tweets": [
+                {
+                    "id": "1327291302946492416",
+                    "type": "replied_to"
+                }
+            ],
+            "reply_settings": "everyone",
+            "text": "@amber_ames @Cody_gaines5 @blackout_brant Try leaving the Chinese buffet and trying to get home in time. It\u2019s a gamble."
+        }
+    ],
+    "meta": {
+        "newest_id": "1327291751325962240",
+        "next_token": "b26v89c19zqg8o3fosbv30wajcyvdof5fwfapijylu7wd",
+        "oldest_id": "1327291612553220098",
+        "result_count": 5
+    }
+}

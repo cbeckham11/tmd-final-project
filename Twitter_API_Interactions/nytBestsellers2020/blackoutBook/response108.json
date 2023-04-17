@@ -1,0 +1,109 @@
+{
+    "data": [
+        {
+            "author_id": "1211573624",
+            "conversation_id": "1327291532336984064",
+            "created_at": "2020-11-13T16:45:35.000Z",
+            "edit_history_tweet_ids": [
+                "1327291532336984064"
+            ],
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 103,
+                        "normalized_text": "CagayanNeedsHelp",
+                        "probability": 0.6153,
+                        "start": 88,
+                        "type": "Person"
+                    },
+                    {
+                        "end": 113,
+                        "normalized_text": "RescuePH",
+                        "probability": 0.8033,
+                        "start": 106,
+                        "type": "Other"
+                    }
+                ],
+                "hashtags": [
+                    {
+                        "end": 104,
+                        "start": 87,
+                        "tag": "CagayanNeedsHelp"
+                    },
+                    {
+                        "end": 114,
+                        "start": 105,
+                        "tag": "RescuePH"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "twitter.com/SaranghaeyOppa\u2026",
+                        "end": 138,
+                        "expanded_url": "https://twitter.com/SaranghaeyOppaa/status/1327282496266932224",
+                        "start": 115,
+                        "url": "https://t.co/LC2QsrzaIJ"
+                    }
+                ]
+            },
+            "id": "1327291532336984064",
+            "lang": "en",
+            "public_metrics": {
+                "impression_count": 0,
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "referenced_tweets": [
+                {
+                    "id": "1327282496266932224",
+                    "type": "quoted"
+                }
+            ],
+            "reply_settings": "everyone",
+            "text": "THEY ARE BEGGING FOR HELP. ITS A TOTAL BLACKOUT PLEASE ANYBODY SOMEBODY DO SOMETHING \n\n#CagayanNeedsHelp #RescuePH https://t.co/LC2QsrzaIJ"
+        },
+        {
+            "author_id": "1553845988",
+            "conversation_id": "1327291405237067776",
+            "created_at": "2020-11-13T16:45:05.000Z",
+            "edit_history_tweet_ids": [
+                "1327291405237067776"
+            ],
+            "entities": {
+                "mentions": [
+                    {
+                        "end": 16,
+                        "id": "1094825273172713472",
+                        "start": 3,
+                        "username": "uhatsune1233"
+                    }
+                ]
+            },
+            "id": "1327291405237067776",
+            "lang": "en",
+            "public_metrics": {
+                "impression_count": 0,
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 20
+            },
+            "referenced_tweets": [
+                {
+                    "id": "1327257191271653376",
+                    "type": "retweeted"
+                }
+            ],
+            "reply_settings": "everyone",
+            "text": "RT @uhatsune1233: What if the three of them ruled the citadel? \ud83d\ude2c\u2665\ufe0f\nAlso how long has it been since I last drew, my arts getting rusty\ud83d\udc40\ud83d\ude02\n\n#a\u2026"
+        }
+    ],
+    "meta": {
+        "newest_id": "1327291532336984064",
+        "next_token": "b26v89c19zqg8o3fosbv30wajcjicd9c2rq9cb6hc2bnh",
+        "oldest_id": "1327291405237067776",
+        "result_count": 2
+    }
+}

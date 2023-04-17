@@ -1,0 +1,168 @@
+{
+    "data": [
+        {
+            "author_id": "382505896",
+            "context_annotations": [
+                {
+                    "domain": {
+                        "description": "Brands and Companies",
+                        "id": "47",
+                        "name": "Brand"
+                    },
+                    "entity": {
+                        "id": "1163791982310727681",
+                        "name": "Daily News Egypt"
+                    }
+                }
+            ],
+            "conversation_id": "1326135342605479936",
+            "created_at": "2020-11-13T16:40:59.000Z",
+            "edit_history_tweet_ids": [
+                "1327290371433508864"
+            ],
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 21,
+                        "normalized_text": "Egypt",
+                        "probability": 0.986,
+                        "start": 17,
+                        "type": "Place"
+                    },
+                    {
+                        "end": 62,
+                        "normalized_text": "GERD",
+                        "probability": 0.2825,
+                        "start": 59,
+                        "type": "Other"
+                    },
+                    {
+                        "end": 88,
+                        "normalized_text": "AbiyAhmedAli",
+                        "probability": 0.9568,
+                        "start": 77,
+                        "type": "Person"
+                    },
+                    {
+                        "end": 124,
+                        "normalized_text": "TekezeHydroElectric",
+                        "probability": 0.374,
+                        "start": 106,
+                        "type": "Other"
+                    },
+                    {
+                        "end": 173,
+                        "normalized_text": "Tigrai",
+                        "probability": 0.3943,
+                        "start": 168,
+                        "type": "Other"
+                    }
+                ],
+                "hashtags": [
+                    {
+                        "end": 22,
+                        "start": 16,
+                        "tag": "Egypt"
+                    },
+                    {
+                        "end": 57,
+                        "start": 49,
+                        "tag": "Destroy"
+                    },
+                    {
+                        "end": 63,
+                        "start": 58,
+                        "tag": "GERD"
+                    },
+                    {
+                        "end": 89,
+                        "start": 76,
+                        "tag": "AbiyAhmedAli"
+                    },
+                    {
+                        "end": 125,
+                        "start": 105,
+                        "tag": "TekezeHydroElectric"
+                    },
+                    {
+                        "end": 165,
+                        "start": 158,
+                        "tag": "Tigray"
+                    },
+                    {
+                        "end": 174,
+                        "start": 167,
+                        "tag": "Tigrai"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 15,
+                        "id": "35428478",
+                        "start": 0,
+                        "username": "DailyNewsEgypt"
+                    }
+                ]
+            },
+            "id": "1327290371433508864",
+            "in_reply_to_user_id": "35428478",
+            "lang": "en",
+            "public_metrics": {
+                "impression_count": 0,
+                "like_count": 1,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "referenced_tweets": [
+                {
+                    "id": "1326135342605479936",
+                    "type": "replied_to"
+                }
+            ],
+            "reply_settings": "everyone",
+            "text": "@DailyNewsEgypt #Egypt what are you waiting for, #Destroy #GERD right now!! #AbiyAhmedAli has demolished #TekezeHydroElectric using his warplanes to blackout #Tigray. #Tigrai is beside you!"
+        },
+        {
+            "author_id": "934355947912183808",
+            "conversation_id": "1327290343570636801",
+            "created_at": "2020-11-13T16:40:52.000Z",
+            "edit_history_tweet_ids": [
+                "1327290343570636801"
+            ],
+            "entities": {
+                "mentions": [
+                    {
+                        "end": 14,
+                        "id": "98290850",
+                        "start": 3,
+                        "username": "kikorustia"
+                    }
+                ]
+            },
+            "id": "1327290343570636801",
+            "lang": "en",
+            "public_metrics": {
+                "impression_count": 0,
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 864
+            },
+            "referenced_tweets": [
+                {
+                    "id": "1327290093174878209",
+                    "type": "retweeted"
+                }
+            ],
+            "reply_settings": "everyone",
+            "text": "RT @kikorustia: Ako lang ba or parang may news blackout ang Cagayan? \n\nWe\u2019ve seen some, but given the extent of the damage we\u2019ve seen in th\u2026"
+        }
+    ],
+    "meta": {
+        "newest_id": "1327290371433508864",
+        "next_token": "b26v89c19zqg8o3fosbv30wahtpg15ut3723lqycnu3r1",
+        "oldest_id": "1327290343570636801",
+        "result_count": 2
+    }
+}

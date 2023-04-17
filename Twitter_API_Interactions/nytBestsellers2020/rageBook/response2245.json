@@ -1,0 +1,4931 @@
+{
+    "data": [
+        {
+            "author_id": "1380279601",
+            "conversation_id": "1324905580431994880",
+            "created_at": "2020-11-07T02:44:40.000Z",
+            "edit_history_tweet_ids": [
+                "1324905580431994880"
+            ],
+            "entities": {
+                "mentions": [
+                    {
+                        "end": 12,
+                        "id": "15100219",
+                        "start": 3,
+                        "username": "GenePark"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "pic.twitter.com/5zF23OGUUp",
+                        "end": 138,
+                        "expanded_url": "https://twitter.com/GenePark/status/1324898702004269056/video/1",
+                        "media_key": "7_1324898496466612227",
+                        "start": 115,
+                        "url": "https://t.co/5zF23OGUUp"
+                    }
+                ]
+            },
+            "id": "1324905580431994880",
+            "lang": "en",
+            "public_metrics": {
+                "impression_count": 0,
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 6051
+            },
+            "referenced_tweets": [
+                {
+                    "id": "1324898702004269056",
+                    "type": "retweeted"
+                }
+            ],
+            "reply_settings": "everyone",
+            "text": "RT @GenePark: cleansing your TL with a guy listening to rage against the machine for the first time and getting it https://t.co/5zF23OGUUp"
+        },
+        {
+            "author_id": "774672882",
+            "conversation_id": "1324905578590859270",
+            "created_at": "2020-11-07T02:44:40.000Z",
+            "edit_history_tweet_ids": [
+                "1324905578590859270"
+            ],
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 79,
+                        "normalized_text": "Rage Against The Machine",
+                        "probability": 0.9358,
+                        "start": 56,
+                        "type": "Other"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 18,
+                        "id": "31488410",
+                        "start": 3,
+                        "username": "BleedingMarine"
+                    }
+                ]
+            },
+            "id": "1324905578590859270",
+            "lang": "en",
+            "public_metrics": {
+                "impression_count": 0,
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 85
+            },
+            "referenced_tweets": [
+                {
+                    "id": "1324903323342811141",
+                    "type": "retweeted"
+                }
+            ],
+            "reply_settings": "everyone",
+            "text": "RT @BleedingMarine: Who wants to tell these idiots that Rage Against The Machine were radical leftists?"
+        },
+        {
+            "author_id": "408234221",
+            "conversation_id": "1324905577802326017",
+            "created_at": "2020-11-07T02:44:39.000Z",
+            "edit_history_tweet_ids": [
+                "1324905577802326017"
+            ],
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 66,
+                        "normalized_text": "Rage Against the Machine",
+                        "probability": 0.9677,
+                        "start": 43,
+                        "type": "Other"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "twitter.com/Manny_Alicandr\u2026",
+                        "end": 101,
+                        "expanded_url": "https://twitter.com/Manny_Alicandro/status/1324873177416273921",
+                        "start": 78,
+                        "url": "https://t.co/fvwRnpqaeq"
+                    }
+                ]
+            },
+            "id": "1324905577802326017",
+            "lang": "en",
+            "public_metrics": {
+                "impression_count": 0,
+                "like_count": 8,
+                "quote_count": 0,
+                "reply_count": 2,
+                "retweet_count": 2
+            },
+            "reply_settings": "everyone",
+            "text": "Wearing a back the blue flag while quoting Rage Against the Machine? Shameful https://t.co/fvwRnpqaeq"
+        },
+        {
+            "author_id": "499428540",
+            "context_annotations": [
+                {
+                    "domain": {
+                        "description": "Television shows from around the world",
+                        "id": "3",
+                        "name": "TV Shows"
+                    },
+                    "entity": {
+                        "description": "With Michael Cole and Pat McAfee. \n\nPhoto via @WWE",
+                        "id": "10001837063",
+                        "name": "WWE Friday Night SmackDown"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "Television show episodes",
+                        "id": "4",
+                        "name": "TV Episodes"
+                    },
+                    "entity": {
+                        "description": "With Michael Cole and Corey Graves. \n\nPhoto via @WWE",
+                        "id": "1320353399427067909",
+                        "name": "WWE Friday Night SmackDown"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "Named people in the world like Nelson Mandela",
+                        "id": "10",
+                        "name": "Person"
+                    },
+                    "entity": {
+                        "id": "1214980555143385088",
+                        "name": "The Undertaker"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "Real world events. ",
+                        "id": "29",
+                        "name": "Events [Entity Service]"
+                    },
+                    "entity": {
+                        "description": "With Michael Cole and Corey Graves. \n\nPhoto via @WWE",
+                        "id": "1320353399427067909",
+                        "name": "WWE Friday Night SmackDown"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "An athlete in the world, like Serena Williams or Lionel Messi",
+                        "id": "60",
+                        "name": "Athlete"
+                    },
+                    "entity": {
+                        "id": "1214980555143385088",
+                        "name": "The Undertaker"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A taxonomy of user interests. ",
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy"
+                    },
+                    "entity": {
+                        "id": "839544341584474112",
+                        "name": "Wrestling"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A taxonomy of user interests. ",
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy"
+                    },
+                    "entity": {
+                        "description": "WWE",
+                        "id": "852587148666589184",
+                        "name": "WWE"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A taxonomy of user interests. ",
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy"
+                    },
+                    "entity": {
+                        "description": "Fighting",
+                        "id": "1047520229192912896",
+                        "name": "Combat sports"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A taxonomy of user interests. ",
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy"
+                    },
+                    "entity": {
+                        "id": "1214980555143385088",
+                        "name": "The Undertaker"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+                        "id": "66",
+                        "name": "Interests and Hobbies Category"
+                    },
+                    "entity": {
+                        "description": "General Fashion",
+                        "id": "844604232737087488",
+                        "name": "General Fashion"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+                        "id": "67",
+                        "name": "Interests and Hobbies"
+                    },
+                    "entity": {
+                        "description": "Tops",
+                        "id": "849641708258074624",
+                        "name": "Tops"
+                    }
+                }
+            ],
+            "conversation_id": "1324895013235535872",
+            "created_at": "2020-11-07T02:44:39.000Z",
+            "edit_history_tweet_ids": [
+                "1324905575658913792"
+            ],
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 79,
+                        "normalized_text": "The Undertaker",
+                        "probability": 0.3708,
+                        "start": 66,
+                        "type": "Person"
+                    },
+                    {
+                        "end": 126,
+                        "normalized_text": "Blue Lives Matter",
+                        "probability": 0.9544,
+                        "start": 110,
+                        "type": "Organization"
+                    },
+                    {
+                        "end": 159,
+                        "normalized_text": "Rage",
+                        "probability": 0.6159,
+                        "start": 156,
+                        "type": "Other"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 16,
+                        "id": "326236006",
+                        "start": 0,
+                        "username": "MainEventTV_AKA"
+                    }
+                ]
+            },
+            "id": "1324905575658913792",
+            "in_reply_to_user_id": "326236006",
+            "lang": "en",
+            "public_metrics": {
+                "impression_count": 0,
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 1,
+                "retweet_count": 0
+            },
+            "referenced_tweets": [
+                {
+                    "id": "1324905068634775557",
+                    "type": "replied_to"
+                }
+            ],
+            "reply_settings": "everyone",
+            "text": "@MainEventTV_AKA Yeah I found this out watching an interview with The Undertaker where he's clearly wearing a Blue Lives Matter shirt but goes on about how Rage is one of his very biker-bands, and then when I did my homework this is seen as a universal view among that demographic. 1/2"
+        },
+        {
+            "author_id": "780526059766841345",
+            "conversation_id": "1324905574581096448",
+            "created_at": "2020-11-07T02:44:39.000Z",
+            "edit_history_tweet_ids": [
+                "1324905574581096448"
+            ],
+            "entities": {
+                "mentions": [
+                    {
+                        "end": 12,
+                        "id": "15100219",
+                        "start": 3,
+                        "username": "GenePark"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "pic.twitter.com/5zF23OGUUp",
+                        "end": 138,
+                        "expanded_url": "https://twitter.com/GenePark/status/1324898702004269056/video/1",
+                        "media_key": "7_1324898496466612227",
+                        "start": 115,
+                        "url": "https://t.co/5zF23OGUUp"
+                    }
+                ]
+            },
+            "id": "1324905574581096448",
+            "lang": "en",
+            "public_metrics": {
+                "impression_count": 0,
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 6051
+            },
+            "referenced_tweets": [
+                {
+                    "id": "1324898702004269056",
+                    "type": "retweeted"
+                }
+            ],
+            "reply_settings": "everyone",
+            "text": "RT @GenePark: cleansing your TL with a guy listening to rage against the machine for the first time and getting it https://t.co/5zF23OGUUp"
+        },
+        {
+            "author_id": "915593365986725888",
+            "context_annotations": [
+                {
+                    "domain": {
+                        "description": "A category for a musical style, like Pop, Rock, or Rap",
+                        "id": "55",
+                        "name": "Music Genre"
+                    },
+                    "entity": {
+                        "description": "Rock",
+                        "id": "806571747730341888",
+                        "name": "Rock"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A category for a musical style, like Pop, Rock, or Rap",
+                        "id": "55",
+                        "name": "Music Genre"
+                    },
+                    "entity": {
+                        "description": "Punk",
+                        "id": "884780849584930818",
+                        "name": "Punk"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A taxonomy of user interests. ",
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy"
+                    },
+                    "entity": {
+                        "description": "Rock",
+                        "id": "806571747730341888",
+                        "name": "Rock"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A taxonomy of user interests. ",
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy"
+                    },
+                    "entity": {
+                        "description": "Music and radio",
+                        "id": "847524658970636288",
+                        "name": "Music"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A taxonomy of user interests. ",
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy"
+                    },
+                    "entity": {
+                        "description": "Punk",
+                        "id": "884780849584930818",
+                        "name": "Punk"
+                    }
+                }
+            ],
+            "conversation_id": "1324905574492934149",
+            "created_at": "2020-11-07T02:44:39.000Z",
+            "edit_history_tweet_ids": [
+                "1324905574492934149"
+            ],
+            "entities": {
+                "mentions": [
+                    {
+                        "end": 11,
+                        "id": "2844596482",
+                        "start": 3,
+                        "username": "Prazkat"
+                    }
+                ]
+            },
+            "id": "1324905574492934149",
+            "lang": "it",
+            "public_metrics": {
+                "impression_count": 0,
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 4
+            },
+            "referenced_tweets": [
+                {
+                    "id": "1324900394787430400",
+                    "type": "retweeted"
+                }
+            ],
+            "reply_settings": "everyone",
+            "text": "RT @Prazkat: Oh s\u00ed, mi banda de rock punk favorita.... \nRage Along The Machine"
+        },
+        {
+            "author_id": "1220477739125354496",
+            "conversation_id": "1324905566842580993",
+            "created_at": "2020-11-07T02:44:37.000Z",
+            "edit_history_tweet_ids": [
+                "1324905566842580993"
+            ],
+            "entities": {
+                "mentions": [
+                    {
+                        "end": 12,
+                        "id": "15100219",
+                        "start": 3,
+                        "username": "GenePark"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "pic.twitter.com/5zF23OGUUp",
+                        "end": 138,
+                        "expanded_url": "https://twitter.com/GenePark/status/1324898702004269056/video/1",
+                        "media_key": "7_1324898496466612227",
+                        "start": 115,
+                        "url": "https://t.co/5zF23OGUUp"
+                    }
+                ]
+            },
+            "id": "1324905566842580993",
+            "lang": "en",
+            "public_metrics": {
+                "impression_count": 0,
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 6051
+            },
+            "referenced_tweets": [
+                {
+                    "id": "1324898702004269056",
+                    "type": "retweeted"
+                }
+            ],
+            "reply_settings": "everyone",
+            "text": "RT @GenePark: cleansing your TL with a guy listening to rage against the machine for the first time and getting it https://t.co/5zF23OGUUp"
+        },
+        {
+            "author_id": "1016627684",
+            "conversation_id": "1324905565080887296",
+            "created_at": "2020-11-07T02:44:36.000Z",
+            "edit_history_tweet_ids": [
+                "1324905565080887296"
+            ],
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 63,
+                        "normalized_text": "Rage Against the Machine",
+                        "probability": 0.9635,
+                        "start": 40,
+                        "type": "Other"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 14,
+                        "id": "284422688",
+                        "start": 3,
+                        "username": "hutchinson"
+                    }
+                ]
+            },
+            "id": "1324905565080887296",
+            "lang": "en",
+            "public_metrics": {
+                "impression_count": 0,
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 205
+            },
+            "referenced_tweets": [
+                {
+                    "id": "1324899971053674497",
+                    "type": "retweeted"
+                }
+            ],
+            "reply_settings": "everyone",
+            "text": "RT @hutchinson: Trumpies banging out to Rage Against the Machine. What a time to be alive."
+        },
+        {
+            "author_id": "540514107",
+            "conversation_id": "1324905562161733633",
+            "created_at": "2020-11-07T02:44:36.000Z",
+            "edit_history_tweet_ids": [
+                "1324905562161733633"
+            ],
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 79,
+                        "normalized_text": "Rage Against The Machine",
+                        "probability": 0.9358,
+                        "start": 56,
+                        "type": "Other"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 18,
+                        "id": "31488410",
+                        "start": 3,
+                        "username": "BleedingMarine"
+                    }
+                ]
+            },
+            "id": "1324905562161733633",
+            "lang": "en",
+            "public_metrics": {
+                "impression_count": 0,
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 85
+            },
+            "referenced_tweets": [
+                {
+                    "id": "1324903323342811141",
+                    "type": "retweeted"
+                }
+            ],
+            "reply_settings": "everyone",
+            "text": "RT @BleedingMarine: Who wants to tell these idiots that Rage Against The Machine were radical leftists?"
+        },
+        {
+            "author_id": "734526414666469380",
+            "conversation_id": "1324866081702359040",
+            "created_at": "2020-11-07T02:44:35.000Z",
+            "edit_history_tweet_ids": [
+                "1324905557912772608"
+            ],
+            "id": "1324905557912772608",
+            "in_reply_to_user_id": "1104766591768571904",
+            "lang": "ja",
+            "public_metrics": {
+                "impression_count": 0,
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "referenced_tweets": [
+                {
+                    "id": "1324900477985673216",
+                    "type": "replied_to"
+                }
+            ],
+            "reply_settings": "everyone",
+            "text": "@39uu777 \u4e00\u756a\u7279\u5316\u306e\u5a01\u529b\u6642\u9593\u30d3\u30eb\u30c9\u306a\u3089\u3001rage\u3068\u304bhunter adrenalin\u5165\u308c\u308b\u3068\u9ad8\u30ec\u30d9\u30eb\u5e2f\u5b89\u5b9a\u3057\u305d\u3046\u3060\u3051\u3069\u3069\u3046\u3060\u308d\u3046\u304b"
+        },
+        {
+            "author_id": "3904916304",
+            "conversation_id": "1324894302091300865",
+            "created_at": "2020-11-07T02:44:35.000Z",
+            "edit_history_tweet_ids": [
+                "1324905557141098497"
+            ],
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 37,
+                        "normalized_text": "raj",
+                        "probability": 0.9236,
+                        "start": 35,
+                        "type": "Other"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 26,
+                        "id": "1173806000",
+                        "start": 14,
+                        "username": "AtomicSonic"
+                    }
+                ]
+            },
+            "id": "1324905557141098497",
+            "in_reply_to_user_id": "2788782697",
+            "lang": "en",
+            "public_metrics": {
+                "impression_count": 0,
+                "like_count": 1,
+                "quote_count": 0,
+                "reply_count": 1,
+                "retweet_count": 0
+            },
+            "referenced_tweets": [
+                {
+                    "id": "1324905286017093635",
+                    "type": "replied_to"
+                }
+            ],
+            "reply_settings": "everyone",
+            "text": "@oh_that_rage @AtomicSonic lmaoooo raj can we be \u201cother\u201d mom and dad? i make a great dad"
+        },
+        {
+            "author_id": "304225239",
+            "conversation_id": "1324903570815266816",
+            "created_at": "2020-11-07T02:44:34.000Z",
+            "edit_history_tweet_ids": [
+                "1324905556176478212"
+            ],
+            "entities": {
+                "mentions": [
+                    {
+                        "end": 14,
+                        "id": "1225626054972313600",
+                        "start": 0,
+                        "username": "Drea_got_rage"
+                    },
+                    {
+                        "end": 23,
+                        "id": "506692533",
+                        "start": 15,
+                        "username": "Fe_CLAD"
+                    }
+                ]
+            },
+            "id": "1324905556176478212",
+            "in_reply_to_user_id": "1225626054972313600",
+            "lang": "en",
+            "public_metrics": {
+                "impression_count": 0,
+                "like_count": 5,
+                "quote_count": 0,
+                "reply_count": 1,
+                "retweet_count": 0
+            },
+            "referenced_tweets": [
+                {
+                    "id": "1324903570815266816",
+                    "type": "replied_to"
+                }
+            ],
+            "reply_settings": "everyone",
+            "text": "@Drea_got_rage @Fe_CLAD That chart does nothing but make me hungry. \n\nKnock it off \ud83d\ude02"
+        },
+        {
+            "author_id": "36636066",
+            "context_annotations": [
+                {
+                    "domain": {
+                        "description": "Named people in the world like Nelson Mandela",
+                        "id": "10",
+                        "name": "Person"
+                    },
+                    "entity": {
+                        "description": "45th US President, Donald Trump",
+                        "id": "799022225751871488",
+                        "name": "Donald Trump"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "Real world events. ",
+                        "id": "29",
+                        "name": "Events [Entity Service]"
+                    },
+                    "entity": {
+                        "description": "2020 US Presidential Election",
+                        "id": "1029453725360775168",
+                        "name": "2020 US Presidential Election"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "Politicians in the world, like Joe Biden",
+                        "id": "35",
+                        "name": "Politician"
+                    },
+                    "entity": {
+                        "description": "45th US President, Donald Trump",
+                        "id": "799022225751871488",
+                        "name": "Donald Trump"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A taxonomy of user interests. ",
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy"
+                    },
+                    "entity": {
+                        "description": "45th US President, Donald Trump",
+                        "id": "799022225751871488",
+                        "name": "Donald Trump"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A taxonomy of user interests. ",
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy"
+                    },
+                    "entity": {
+                        "description": "Politics",
+                        "id": "847878884917886977",
+                        "name": "Politics"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A taxonomy of user interests. ",
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy"
+                    },
+                    "entity": {
+                        "description": "2020 US Presidential Election",
+                        "id": "1029453725360775168",
+                        "name": "2020 US Presidential Election"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A taxonomy of user interests. ",
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy"
+                    },
+                    "entity": {
+                        "description": "Politician",
+                        "id": "1070032753834438656",
+                        "name": "Political figures"
+                    }
+                }
+            ],
+            "conversation_id": "1324905554087698435",
+            "created_at": "2020-11-07T02:44:34.000Z",
+            "edit_history_tweet_ids": [
+                "1324905554087698435"
+            ],
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 21,
+                        "normalized_text": "Trump",
+                        "probability": 0.9668,
+                        "start": 17,
+                        "type": "Person"
+                    },
+                    {
+                        "end": 87,
+                        "normalized_text": "Irate",
+                        "probability": 0.6736,
+                        "start": 83,
+                        "type": "Person"
+                    },
+                    {
+                        "end": 96,
+                        "normalized_text": "Fury",
+                        "probability": 0.4709,
+                        "start": 93,
+                        "type": "Person"
+                    },
+                    {
+                        "end": 105,
+                        "normalized_text": "Rage",
+                        "probability": 0.4427,
+                        "start": 102,
+                        "type": "Other"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 15,
+                        "id": "36555827",
+                        "start": 3,
+                        "username": "John_Henson"
+                    }
+                ]
+            },
+            "id": "1324905554087698435",
+            "lang": "en",
+            "public_metrics": {
+                "impression_count": 0,
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 13
+            },
+            "referenced_tweets": [
+                {
+                    "id": "1324904278587174912",
+                    "type": "retweeted"
+                }
+            ],
+            "reply_settings": "everyone",
+            "text": "RT @John_Henson: Trump\u2019s 5 stages of grief over losing the election:\n\n1) Anger\n\n2) Irate\n\n3) Fury\n\n4) Rage\n\n5) Handcuffs"
+        },
+        {
+            "author_id": "405167792",
+            "conversation_id": "1324905553815023617",
+            "created_at": "2020-11-07T02:44:34.000Z",
+            "edit_history_tweet_ids": [
+                "1324905553815023617"
+            ],
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 41,
+                        "normalized_text": "Rage Against The Machine",
+                        "probability": 0.9646,
+                        "start": 18,
+                        "type": "Other"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "twitter.com/Manny_Alicandr\u2026",
+                        "end": 89,
+                        "expanded_url": "https://twitter.com/Manny_Alicandro/status/1324873177416273921",
+                        "start": 66,
+                        "url": "https://t.co/4AEFhS5hvv"
+                    }
+                ]
+            },
+            "id": "1324905553815023617",
+            "lang": "es",
+            "public_metrics": {
+                "impression_count": 0,
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "reply_settings": "everyone",
+            "text": "Conservadores con Rage Against The Machine. Nada m\u00e1s que agregar. https://t.co/4AEFhS5hvv"
+        },
+        {
+            "author_id": "1294122371431858176",
+            "context_annotations": [
+                {
+                    "domain": {
+                        "description": "Named people in the world like Nelson Mandela",
+                        "id": "10",
+                        "name": "Person"
+                    },
+                    "entity": {
+                        "id": "1266467007987253248",
+                        "name": "George Floyd"
+                    }
+                }
+            ],
+            "conversation_id": "1324873929446535169",
+            "created_at": "2020-11-07T02:44:34.000Z",
+            "edit_history_tweet_ids": [
+                "1324905553756262402"
+            ],
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 60,
+                        "normalized_text": "Rage",
+                        "probability": 0.7622,
+                        "start": 57,
+                        "type": "Other"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 16,
+                        "id": "992623688028774400",
+                        "start": 0,
+                        "username": "Manny_Alicandro"
+                    }
+                ]
+            },
+            "id": "1324905553756262402",
+            "in_reply_to_user_id": "992623688028774400",
+            "lang": "en",
+            "public_metrics": {
+                "impression_count": 0,
+                "like_count": 3,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "referenced_tweets": [
+                {
+                    "id": "1324873929446535169",
+                    "type": "replied_to"
+                }
+            ],
+            "reply_settings": "everyone",
+            "text": "@Manny_Alicandro Do these Back the Blue idiots know that Rage made this song to protest institutional racism and police brutality?"
+        },
+        {
+            "author_id": "1276300983543435265",
+            "conversation_id": "1324905094765305857",
+            "created_at": "2020-11-07T02:44:33.000Z",
+            "edit_history_tweet_ids": [
+                "1324905549603987456"
+            ],
+            "entities": {
+                "mentions": [
+                    {
+                        "end": 10,
+                        "id": "4071284248",
+                        "start": 0,
+                        "username": "starocexn"
+                    }
+                ]
+            },
+            "id": "1324905549603987456",
+            "in_reply_to_user_id": "4071284248",
+            "lang": "en",
+            "public_metrics": {
+                "impression_count": 0,
+                "like_count": 1,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "referenced_tweets": [
+                {
+                    "id": "1324905391294189568",
+                    "type": "replied_to"
+                }
+            ],
+            "reply_settings": "everyone",
+            "text": "@starocexn I Am Filled With So Much Rage"
+        },
+        {
+            "author_id": "23821942",
+            "conversation_id": "1324905537071407106",
+            "created_at": "2020-11-07T02:44:30.000Z",
+            "edit_history_tweet_ids": [
+                "1324905537071407106"
+            ],
+            "entities": {
+                "mentions": [
+                    {
+                        "end": 17,
+                        "id": "770572555",
+                        "start": 3,
+                        "username": "altaredvision"
+                    }
+                ]
+            },
+            "id": "1324905537071407106",
+            "lang": "en",
+            "public_metrics": {
+                "impression_count": 0,
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 7
+            },
+            "referenced_tweets": [
+                {
+                    "id": "1324893687168430080",
+                    "type": "retweeted"
+                }
+            ],
+            "reply_settings": "everyone",
+            "text": "RT @altaredvision: Lmaoooo conservatives love rage against the machine because they\u2019re stupid."
+        },
+        {
+            "author_id": "1028365079123611648",
+            "conversation_id": "1324905530167496704",
+            "created_at": "2020-11-07T02:44:28.000Z",
+            "edit_history_tweet_ids": [
+                "1324905530167496704"
+            ],
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 58,
+                        "normalized_text": "Rage",
+                        "probability": 0.7525,
+                        "start": 55,
+                        "type": "Other"
+                    }
+                ]
+            },
+            "id": "1324905530167496704",
+            "lang": "en",
+            "public_metrics": {
+                "impression_count": 0,
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 1
+            },
+            "referenced_tweets": [
+                {
+                    "id": "1324902986338848768",
+                    "type": "retweeted"
+                }
+            ],
+            "reply_settings": "everyone",
+            "text": "RT @friedtofu_: Dawg these dorks are for real blasting Rage as if they\u2019re the oppressed ones hahahhaahaha"
+        },
+        {
+            "author_id": "21835389",
+            "context_annotations": [
+                {
+                    "domain": {
+                        "description": "Named people in the world like Nelson Mandela",
+                        "id": "10",
+                        "name": "Person"
+                    },
+                    "entity": {
+                        "description": "45th US President, Donald Trump",
+                        "id": "799022225751871488",
+                        "name": "Donald Trump"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "Politicians in the world, like Joe Biden",
+                        "id": "35",
+                        "name": "Politician"
+                    },
+                    "entity": {
+                        "description": "45th US President, Donald Trump",
+                        "id": "799022225751871488",
+                        "name": "Donald Trump"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A taxonomy of user interests. ",
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy"
+                    },
+                    "entity": {
+                        "description": "45th US President, Donald Trump",
+                        "id": "799022225751871488",
+                        "name": "Donald Trump"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A taxonomy of user interests. ",
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy"
+                    },
+                    "entity": {
+                        "description": "Politics",
+                        "id": "847878884917886977",
+                        "name": "Politics"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A taxonomy of user interests. ",
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy"
+                    },
+                    "entity": {
+                        "description": "Politician",
+                        "id": "1070032753834438656",
+                        "name": "Political figures"
+                    }
+                }
+            ],
+            "conversation_id": "1324904899746750464",
+            "created_at": "2020-11-07T02:44:28.000Z",
+            "edit_history_tweet_ids": [
+                "1324905530079539207"
+            ],
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 63,
+                        "normalized_text": "Trump",
+                        "probability": 0.9351,
+                        "start": 59,
+                        "type": "Person"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 9,
+                        "id": "14413255",
+                        "start": 0,
+                        "username": "denisewu"
+                    },
+                    {
+                        "end": 25,
+                        "id": "1205226529455632385",
+                        "start": 10,
+                        "username": "ProjectLincoln"
+                    }
+                ]
+            },
+            "id": "1324905530079539207",
+            "in_reply_to_user_id": "14413255",
+            "lang": "en",
+            "public_metrics": {
+                "impression_count": 0,
+                "like_count": 8,
+                "quote_count": 0,
+                "reply_count": 1,
+                "retweet_count": 0
+            },
+            "referenced_tweets": [
+                {
+                    "id": "1324904899746750464",
+                    "type": "replied_to"
+                }
+            ],
+            "reply_settings": "everyone",
+            "text": "@denisewu @ProjectLincoln Value of LP ads causing midnight Trump rage tweets = priceless"
+        },
+        {
+            "author_id": "1072500032362958852",
+            "conversation_id": "1324905119473934337",
+            "created_at": "2020-11-07T02:44:26.000Z",
+            "edit_history_tweet_ids": [
+                "1324905522701611009"
+            ],
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 67,
+                        "normalized_text": "SNL",
+                        "probability": 0.4871,
+                        "start": 65,
+                        "type": "Organization"
+                    }
+                ]
+            },
+            "id": "1324905522701611009",
+            "in_reply_to_user_id": "2541229701",
+            "lang": "en",
+            "public_metrics": {
+                "impression_count": 0,
+                "like_count": 1,
+                "quote_count": 0,
+                "reply_count": 1,
+                "retweet_count": 0
+            },
+            "referenced_tweets": [
+                {
+                    "id": "1324905119473934337",
+                    "type": "replied_to"
+                }
+            ],
+            "reply_settings": "everyone",
+            "text": "@z__tomek Same page.  Rage against the machine was kicked off of SNL years ago for hanging the flag up side down. Funny."
+        },
+        {
+            "author_id": "879181744477323264",
+            "conversation_id": "1324905518524059648",
+            "created_at": "2020-11-07T02:44:25.000Z",
+            "edit_history_tweet_ids": [
+                "1324905518524059648"
+            ],
+            "entities": {
+                "urls": [
+                    {
+                        "display_url": "twitter.com/Manny_Alicandr\u2026",
+                        "end": 82,
+                        "expanded_url": "https://twitter.com/Manny_Alicandro/status/1324873177416273921",
+                        "start": 59,
+                        "url": "https://t.co/EyLyPMB9GR"
+                    }
+                ]
+            },
+            "id": "1324905518524059648",
+            "lang": "en",
+            "public_metrics": {
+                "impression_count": 0,
+                "like_count": 3,
+                "quote_count": 0,
+                "reply_count": 1,
+                "retweet_count": 0
+            },
+            "reply_settings": "everyone",
+            "text": "the way they\u2019re dancing to...rage against the machine...I- https://t.co/EyLyPMB9GR"
+        },
+        {
+            "author_id": "267835899",
+            "conversation_id": "1324905516322189313",
+            "created_at": "2020-11-07T02:44:25.000Z",
+            "edit_history_tweet_ids": [
+                "1324905516322189313"
+            ],
+            "entities": {
+                "mentions": [
+                    {
+                        "end": 12,
+                        "id": "15100219",
+                        "start": 3,
+                        "username": "GenePark"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "pic.twitter.com/5zF23OGUUp",
+                        "end": 138,
+                        "expanded_url": "https://twitter.com/GenePark/status/1324898702004269056/video/1",
+                        "media_key": "7_1324898496466612227",
+                        "start": 115,
+                        "url": "https://t.co/5zF23OGUUp"
+                    }
+                ]
+            },
+            "id": "1324905516322189313",
+            "lang": "en",
+            "public_metrics": {
+                "impression_count": 0,
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 6051
+            },
+            "referenced_tweets": [
+                {
+                    "id": "1324898702004269056",
+                    "type": "retweeted"
+                }
+            ],
+            "reply_settings": "everyone",
+            "text": "RT @GenePark: cleansing your TL with a guy listening to rage against the machine for the first time and getting it https://t.co/5zF23OGUUp"
+        },
+        {
+            "author_id": "835148572618272769",
+            "conversation_id": "1324905514531233792",
+            "created_at": "2020-11-07T02:44:24.000Z",
+            "edit_history_tweet_ids": [
+                "1324905514531233792"
+            ],
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 31,
+                        "normalized_text": "Killing in the Name",
+                        "probability": 0.9485,
+                        "start": 13,
+                        "type": "Other"
+                    },
+                    {
+                        "end": 58,
+                        "normalized_text": "Rage Against the Machine",
+                        "probability": 0.9305,
+                        "start": 35,
+                        "type": "Other"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 11,
+                        "id": "824063630",
+                        "start": 3,
+                        "username": "dvlilah"
+                    }
+                ]
+            },
+            "id": "1324905514531233792",
+            "lang": "en",
+            "public_metrics": {
+                "impression_count": 0,
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 5
+            },
+            "referenced_tweets": [
+                {
+                    "id": "1324904788711104512",
+                    "type": "retweeted"
+                }
+            ],
+            "reply_settings": "everyone",
+            "text": "RT @dvlilah: Killing in the Name - Rage Against the Machine. This song is literally about cops being white supremacists \ud83e\udd23\ud83e\udd23 I just can\u2019t wit\u2026"
+        },
+        {
+            "author_id": "398492937",
+            "conversation_id": "1324873177416273921",
+            "created_at": "2020-11-07T02:44:23.000Z",
+            "edit_history_tweet_ids": [
+                "1324905508998967297"
+            ],
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 40,
+                        "normalized_text": "Rage Against the Machine",
+                        "probability": 0.9725,
+                        "start": 17,
+                        "type": "Other"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 16,
+                        "id": "992623688028774400",
+                        "start": 0,
+                        "username": "Manny_Alicandro"
+                    }
+                ]
+            },
+            "id": "1324905508998967297",
+            "in_reply_to_user_id": "992623688028774400",
+            "lang": "en",
+            "public_metrics": {
+                "impression_count": 0,
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "referenced_tweets": [
+                {
+                    "id": "1324873177416273921",
+                    "type": "replied_to"
+                }
+            ],
+            "reply_settings": "everyone",
+            "text": "@Manny_Alicandro Rage Against the Machine literally fucking hates these people"
+        },
+        {
+            "author_id": "31644563",
+            "conversation_id": "1324903506453684224",
+            "created_at": "2020-11-07T02:44:21.000Z",
+            "edit_history_tweet_ids": [
+                "1324905501998473216"
+            ],
+            "entities": {
+                "mentions": [
+                    {
+                        "end": 13,
+                        "id": "20341782",
+                        "start": 0,
+                        "username": "TakuroSpirit"
+                    }
+                ]
+            },
+            "id": "1324905501998473216",
+            "in_reply_to_user_id": "20341782",
+            "lang": "en",
+            "public_metrics": {
+                "impression_count": 0,
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "referenced_tweets": [
+                {
+                    "id": "1324905278828113920",
+                    "type": "replied_to"
+                }
+            ],
+            "reply_settings": "everyone",
+            "text": "@TakuroSpirit The phone can is good r ouch that I see two different rage. \ud83e\udd23\ud83e\udd37\u200d\u2642\ufe0f"
+        },
+        {
+            "author_id": "3197753498",
+            "conversation_id": "1324905498852909056",
+            "created_at": "2020-11-07T02:44:21.000Z",
+            "edit_history_tweet_ids": [
+                "1324905498852909056"
+            ],
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 59,
+                        "normalized_text": "Rage Against the Machine",
+                        "probability": 0.6293,
+                        "start": 36,
+                        "type": "Other"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 17,
+                        "id": "2238344179",
+                        "start": 3,
+                        "username": "TEXASROCKFEED"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "youtube.com/watch?v=ObA55t\u2026",
+                        "end": 92,
+                        "expanded_url": "http://www.youtube.com/watch?v=ObA55tcWR00&list=PLL4wi_6_HZFY0evPlyn7_TYhJOsgZ7lzw&index=259&t=94s",
+                        "start": 69,
+                        "url": "https://t.co/QP0qdCt4f2"
+                    }
+                ]
+            },
+            "id": "1324905498852909056",
+            "lang": "en",
+            "public_metrics": {
+                "impression_count": 0,
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 2
+            },
+            "referenced_tweets": [
+                {
+                    "id": "1324901956444368896",
+                    "type": "retweeted"
+                }
+            ],
+            "reply_settings": "everyone",
+            "text": "RT @TEXASROCKFEED: 10 Unforgettable Rage Against the Machine Moments https://t.co/QP0qdCt4f2"
+        },
+        {
+            "author_id": "817875394804248576",
+            "conversation_id": "1324905486093836288",
+            "created_at": "2020-11-07T02:44:18.000Z",
+            "edit_history_tweet_ids": [
+                "1324905486093836288"
+            ],
+            "entities": {
+                "mentions": [
+                    {
+                        "end": 12,
+                        "id": "15100219",
+                        "start": 3,
+                        "username": "GenePark"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "pic.twitter.com/5zF23OGUUp",
+                        "end": 138,
+                        "expanded_url": "https://twitter.com/GenePark/status/1324898702004269056/video/1",
+                        "media_key": "7_1324898496466612227",
+                        "start": 115,
+                        "url": "https://t.co/5zF23OGUUp"
+                    }
+                ]
+            },
+            "id": "1324905486093836288",
+            "lang": "en",
+            "public_metrics": {
+                "impression_count": 0,
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 6051
+            },
+            "referenced_tweets": [
+                {
+                    "id": "1324898702004269056",
+                    "type": "retweeted"
+                }
+            ],
+            "reply_settings": "everyone",
+            "text": "RT @GenePark: cleansing your TL with a guy listening to rage against the machine for the first time and getting it https://t.co/5zF23OGUUp"
+        },
+        {
+            "author_id": "99216734",
+            "conversation_id": "1324905484365623297",
+            "created_at": "2020-11-07T02:44:17.000Z",
+            "edit_history_tweet_ids": [
+                "1324905484365623297"
+            ],
+            "entities": {
+                "mentions": [
+                    {
+                        "end": 12,
+                        "id": "15100219",
+                        "start": 3,
+                        "username": "GenePark"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "pic.twitter.com/5zF23OGUUp",
+                        "end": 138,
+                        "expanded_url": "https://twitter.com/GenePark/status/1324898702004269056/video/1",
+                        "media_key": "7_1324898496466612227",
+                        "start": 115,
+                        "url": "https://t.co/5zF23OGUUp"
+                    }
+                ]
+            },
+            "id": "1324905484365623297",
+            "lang": "en",
+            "public_metrics": {
+                "impression_count": 0,
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 6051
+            },
+            "referenced_tweets": [
+                {
+                    "id": "1324898702004269056",
+                    "type": "retweeted"
+                }
+            ],
+            "reply_settings": "everyone",
+            "text": "RT @GenePark: cleansing your TL with a guy listening to rage against the machine for the first time and getting it https://t.co/5zF23OGUUp"
+        },
+        {
+            "author_id": "137902540",
+            "context_annotations": [
+                {
+                    "domain": {
+                        "description": "Named people in the world like Nelson Mandela",
+                        "id": "10",
+                        "name": "Person"
+                    },
+                    "entity": {
+                        "description": "45th US President, Donald Trump",
+                        "id": "799022225751871488",
+                        "name": "Donald Trump"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "Politicians in the world, like Joe Biden",
+                        "id": "35",
+                        "name": "Politician"
+                    },
+                    "entity": {
+                        "description": "45th US President, Donald Trump",
+                        "id": "799022225751871488",
+                        "name": "Donald Trump"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A taxonomy of user interests. ",
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy"
+                    },
+                    "entity": {
+                        "description": "45th US President, Donald Trump",
+                        "id": "799022225751871488",
+                        "name": "Donald Trump"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A taxonomy of user interests. ",
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy"
+                    },
+                    "entity": {
+                        "id": "839544274442051584",
+                        "name": "Entertainment"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A taxonomy of user interests. ",
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy"
+                    },
+                    "entity": {
+                        "description": "Politics",
+                        "id": "847878884917886977",
+                        "name": "Politics"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A taxonomy of user interests. ",
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy"
+                    },
+                    "entity": {
+                        "description": "Politician",
+                        "id": "1070032753834438656",
+                        "name": "Political figures"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A taxonomy of user interests. ",
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy"
+                    },
+                    "entity": {
+                        "description": "Podcasts",
+                        "id": "1074758954444513282",
+                        "name": "Podcasts & radio"
+                    }
+                }
+            ],
+            "conversation_id": "1324893108094468096",
+            "created_at": "2020-11-07T02:44:17.000Z",
+            "edit_history_tweet_ids": [
+                "1324905482373406720"
+            ],
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 29,
+                        "normalized_text": "Trump",
+                        "probability": 0.9857,
+                        "start": 25,
+                        "type": "Person"
+                    },
+                    {
+                        "end": 81,
+                        "normalized_text": "Rage",
+                        "probability": 0.491,
+                        "start": 78,
+                        "type": "Other"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 11,
+                        "id": "27558652",
+                        "start": 0,
+                        "username": "thiagobodi"
+                    }
+                ]
+            },
+            "id": "1324905482373406720",
+            "in_reply_to_user_id": "27558652",
+            "lang": "en",
+            "public_metrics": {
+                "impression_count": 0,
+                "like_count": 1,
+                "quote_count": 0,
+                "reply_count": 1,
+                "retweet_count": 0
+            },
+            "referenced_tweets": [
+                {
+                    "id": "1324905087471398913",
+                    "type": "replied_to"
+                }
+            ],
+            "reply_settings": "everyone",
+            "text": "@thiagobodi It's just... Trump is so pro-cop. This will always be my favorite Rage song, too, despite loving their whole catalog.. I think I heard this first when it first came out on the radio. So.. yeah, it makes me wanna barf. The perfect anti-cop anthem. And these idiots are just dancing"
+        },
+        {
+            "author_id": "2402494129",
+            "context_annotations": [
+                {
+                    "domain": {
+                        "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+                        "id": "30",
+                        "name": "Entities [Entity Service]"
+                    },
+                    "entity": {
+                        "description": "Generic Food",
+                        "id": "824777229892661248",
+                        "name": "Generic Food"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+                        "id": "30",
+                        "name": "Entities [Entity Service]"
+                    },
+                    "entity": {
+                        "description": "Salad",
+                        "id": "825054072516419584",
+                        "name": "Salad"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+                        "id": "30",
+                        "name": "Entities [Entity Service]"
+                    },
+                    "entity": {
+                        "description": "Seafood",
+                        "id": "825065539378688000",
+                        "name": "Seafood"
+                    }
+                }
+            ],
+            "conversation_id": "1324903570815266816",
+            "created_at": "2020-11-07T02:44:16.000Z",
+            "edit_history_tweet_ids": [
+                "1324905477763964928"
+            ],
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 64,
+                        "normalized_text": "Maine",
+                        "probability": 0.9842,
+                        "start": 60,
+                        "type": "Place"
+                    },
+                    {
+                        "end": 84,
+                        "normalized_text": "SALAD",
+                        "probability": 0.3373,
+                        "start": 80,
+                        "type": "Other"
+                    },
+                    {
+                        "end": 115,
+                        "normalized_text": "Maine",
+                        "probability": 0.8295,
+                        "start": 111,
+                        "type": "Place"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 8,
+                        "id": "163691847",
+                        "start": 0,
+                        "username": "bmreade"
+                    },
+                    {
+                        "end": 23,
+                        "id": "1225626054972313600",
+                        "start": 9,
+                        "username": "Drea_got_rage"
+                    }
+                ]
+            },
+            "id": "1324905477763964928",
+            "in_reply_to_user_id": "163691847",
+            "lang": "en",
+            "public_metrics": {
+                "impression_count": 0,
+                "like_count": 3,
+                "quote_count": 0,
+                "reply_count": 1,
+                "retweet_count": 0
+            },
+            "referenced_tweets": [
+                {
+                    "id": "1324904814350839811",
+                    "type": "replied_to"
+                }
+            ],
+            "reply_settings": "everyone",
+            "text": "@bmreade @Drea_got_rage Too obvious. Like eating lobster in Maine. Which - SIDE SALAD, get your shit together, Maine."
+        },
+        {
+            "author_id": "1293625466528714757",
+            "conversation_id": "1324905475209633793",
+            "created_at": "2020-11-07T02:44:15.000Z",
+            "edit_history_tweet_ids": [
+                "1324905475209633793"
+            ],
+            "entities": {
+                "mentions": [
+                    {
+                        "end": 18,
+                        "id": "67923886",
+                        "start": 3,
+                        "username": "elizabeth_rage"
+                    },
+                    {
+                        "end": 66,
+                        "id": "302885420",
+                        "start": 51,
+                        "username": "justagh0stgirl"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "pic.twitter.com/tmZF9X9xvq",
+                        "end": 99,
+                        "expanded_url": "https://twitter.com/elizabeth_rage/status/1324817578888343553/photo/1",
+                        "media_key": "3_1324817573259563008",
+                        "start": 76,
+                        "url": "https://t.co/tmZF9X9xvq"
+                    },
+                    {
+                        "display_url": "pic.twitter.com/tmZF9X9xvq",
+                        "end": 99,
+                        "expanded_url": "https://twitter.com/elizabeth_rage/status/1324817578888343553/photo/1",
+                        "media_key": "3_1324817573259567104",
+                        "start": 76,
+                        "url": "https://t.co/tmZF9X9xvq"
+                    }
+                ]
+            },
+            "id": "1324905475209633793",
+            "lang": "en",
+            "public_metrics": {
+                "impression_count": 0,
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 43
+            },
+            "referenced_tweets": [
+                {
+                    "id": "1324817578888343553",
+                    "type": "retweeted"
+                }
+            ],
+            "reply_settings": "everyone",
+            "text": "RT @elizabeth_rage: Happy birthday to my Elf Queen @justagh0stgirl! \u2728\ud83e\udddd\ud83c\udffb\u200d\u2640\ufe0f\ud83d\udc96 https://t.co/tmZF9X9xvq"
+        },
+        {
+            "author_id": "84995688",
+            "conversation_id": "1324905471568908288",
+            "created_at": "2020-11-07T02:44:14.000Z",
+            "edit_history_tweet_ids": [
+                "1324905471568908288"
+            ],
+            "entities": {
+                "mentions": [
+                    {
+                        "end": 13,
+                        "id": "22743784",
+                        "start": 3,
+                        "username": "lildom911"
+                    }
+                ]
+            },
+            "id": "1324905471568908288",
+            "lang": "en",
+            "public_metrics": {
+                "impression_count": 0,
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 230
+            },
+            "referenced_tweets": [
+                {
+                    "id": "1324898324516761600",
+                    "type": "retweeted"
+                }
+            ],
+            "reply_settings": "everyone",
+            "text": "RT @lildom911: can\u2026 can someone please tell them about rage against the machine"
+        },
+        {
+            "author_id": "716495678873030656",
+            "conversation_id": "1324905462483963904",
+            "created_at": "2020-11-07T02:44:12.000Z",
+            "edit_history_tweet_ids": [
+                "1324905462483963904"
+            ],
+            "entities": {
+                "mentions": [
+                    {
+                        "end": 16,
+                        "id": "148593548",
+                        "start": 3,
+                        "username": "tressiemcphd"
+                    }
+                ]
+            },
+            "id": "1324905462483963904",
+            "lang": "en",
+            "public_metrics": {
+                "impression_count": 0,
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 67
+            },
+            "referenced_tweets": [
+                {
+                    "id": "1324904873146585090",
+                    "type": "retweeted"
+                }
+            ],
+            "reply_settings": "everyone",
+            "text": "RT @tressiemcphd: White rage"
+        },
+        {
+            "author_id": "3545033898",
+            "context_annotations": [
+                {
+                    "domain": {
+                        "description": "Named people in the world like Nelson Mandela",
+                        "id": "10",
+                        "name": "Person"
+                    },
+                    "entity": {
+                        "description": "45th US President, Donald Trump",
+                        "id": "799022225751871488",
+                        "name": "Donald Trump"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "Politicians in the world, like Joe Biden",
+                        "id": "35",
+                        "name": "Politician"
+                    },
+                    "entity": {
+                        "description": "45th US President, Donald Trump",
+                        "id": "799022225751871488",
+                        "name": "Donald Trump"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A taxonomy of user interests. ",
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy"
+                    },
+                    "entity": {
+                        "description": "45th US President, Donald Trump",
+                        "id": "799022225751871488",
+                        "name": "Donald Trump"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A taxonomy of user interests. ",
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy"
+                    },
+                    "entity": {
+                        "description": "Politics",
+                        "id": "847878884917886977",
+                        "name": "Politics"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A taxonomy of user interests. ",
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy"
+                    },
+                    "entity": {
+                        "description": "Politician",
+                        "id": "1070032753834438656",
+                        "name": "Political figures"
+                    }
+                }
+            ],
+            "conversation_id": "1324905461422858240",
+            "created_at": "2020-11-07T02:44:12.000Z",
+            "edit_history_tweet_ids": [
+                "1324905461422858240"
+            ],
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 23,
+                        "normalized_text": "Trump",
+                        "probability": 0.9618,
+                        "start": 19,
+                        "type": "Person"
+                    },
+                    {
+                        "end": 64,
+                        "normalized_text": "Rage Against the Machine",
+                        "probability": 0.9062,
+                        "start": 41,
+                        "type": "Other"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 17,
+                        "id": "547963881",
+                        "start": 3,
+                        "username": "DonovanFarley"
+                    }
+                ]
+            },
+            "id": "1324905461422858240",
+            "lang": "en",
+            "public_metrics": {
+                "impression_count": 0,
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 129
+            },
+            "referenced_tweets": [
+                {
+                    "id": "1324893200079675392",
+                    "type": "retweeted"
+                }
+            ],
+            "reply_settings": "everyone",
+            "text": "RT @DonovanFarley: Trump fans dancing to Rage Against the Machine. Do people just not interact with the lyrics? How is that possible? Rage\u2026"
+        },
+        {
+            "author_id": "51086087",
+            "context_annotations": [
+                {
+                    "domain": {
+                        "description": "Named people in the world like Nelson Mandela",
+                        "id": "10",
+                        "name": "Person"
+                    },
+                    "entity": {
+                        "description": "Dana Loesch",
+                        "id": "1053450989200523264",
+                        "name": "Dana Loesch"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A journalist like 'Anderson Cooper'",
+                        "id": "94",
+                        "name": "Journalist"
+                    },
+                    "entity": {
+                        "description": "Dana Loesch",
+                        "id": "1053450989200523264",
+                        "name": "Dana Loesch"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A taxonomy of user interests. ",
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy"
+                    },
+                    "entity": {
+                        "description": "News",
+                        "id": "1046545033657081857",
+                        "name": "News"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A taxonomy of user interests. ",
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy"
+                    },
+                    "entity": {
+                        "description": "Journalism",
+                        "id": "1074755369530880001",
+                        "name": "Journalists"
+                    }
+                }
+            ],
+            "conversation_id": "1324905461108314112",
+            "created_at": "2020-11-07T02:44:12.000Z",
+            "edit_history_tweet_ids": [
+                "1324905461108314112"
+            ],
+            "entities": {
+                "mentions": [
+                    {
+                        "end": 11,
+                        "id": "7702542",
+                        "start": 3,
+                        "username": "DLoesch"
+                    }
+                ]
+            },
+            "id": "1324905461108314112",
+            "lang": "en",
+            "public_metrics": {
+                "impression_count": 0,
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 21609
+            },
+            "referenced_tweets": [
+                {
+                    "id": "1087425312613384195",
+                    "type": "retweeted"
+                }
+            ],
+            "reply_settings": "everyone",
+            "text": "RT @DLoesch: Never bend a knee to the rage mob. Ever."
+        },
+        {
+            "author_id": "1273357758717399040",
+            "conversation_id": "1324905455618039811",
+            "created_at": "2020-11-07T02:44:10.000Z",
+            "edit_history_tweet_ids": [
+                "1324905455618039811"
+            ],
+            "entities": {
+                "mentions": [
+                    {
+                        "end": 12,
+                        "id": "15100219",
+                        "start": 3,
+                        "username": "GenePark"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "pic.twitter.com/5zF23OGUUp",
+                        "end": 138,
+                        "expanded_url": "https://twitter.com/GenePark/status/1324898702004269056/video/1",
+                        "media_key": "7_1324898496466612227",
+                        "start": 115,
+                        "url": "https://t.co/5zF23OGUUp"
+                    }
+                ]
+            },
+            "id": "1324905455618039811",
+            "lang": "en",
+            "public_metrics": {
+                "impression_count": 0,
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 6051
+            },
+            "referenced_tweets": [
+                {
+                    "id": "1324898702004269056",
+                    "type": "retweeted"
+                }
+            ],
+            "reply_settings": "everyone",
+            "text": "RT @GenePark: cleansing your TL with a guy listening to rage against the machine for the first time and getting it https://t.co/5zF23OGUUp"
+        },
+        {
+            "author_id": "749497242222866432",
+            "conversation_id": "1324905440266874880",
+            "created_at": "2020-11-07T02:44:07.000Z",
+            "edit_history_tweet_ids": [
+                "1324905440266874880"
+            ],
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 69,
+                        "normalized_text": "Rage Against the Machine",
+                        "probability": 0.9782,
+                        "start": 46,
+                        "type": "Other"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "twitter.com/Manny_Alicandr\u2026",
+                        "end": 112,
+                        "expanded_url": "https://twitter.com/Manny_Alicandro/status/1324873177416273921",
+                        "start": 89,
+                        "url": "https://t.co/rXBjIpYmrq"
+                    }
+                ]
+            },
+            "id": "1324905440266874880",
+            "lang": "en",
+            "public_metrics": {
+                "impression_count": 0,
+                "like_count": 1,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "reply_settings": "everyone",
+            "text": "Man these people really don\u2019t understand what Rage Against the Machine is about do they? https://t.co/rXBjIpYmrq"
+        },
+        {
+            "author_id": "35443845",
+            "context_annotations": [
+                {
+                    "domain": {
+                        "description": "A taxonomy of user interests. ",
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy"
+                    },
+                    "entity": {
+                        "description": "US National News",
+                        "id": "1003932601839579136",
+                        "name": "US national news"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A taxonomy of user interests. ",
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy"
+                    },
+                    "entity": {
+                        "description": "News",
+                        "id": "1046545033657081857",
+                        "name": "News"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A taxonomy of user interests. ",
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy"
+                    },
+                    "entity": {
+                        "id": "1286379401228124160",
+                        "name": "Americas"
+                    }
+                }
+            ],
+            "conversation_id": "1324905438253608962",
+            "created_at": "2020-11-07T02:44:06.000Z",
+            "edit_history_tweet_ids": [
+                "1324905438253608962"
+            ],
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 55,
+                        "normalized_text": "Dancing to Rage Against the Machine",
+                        "probability": 0.7806,
+                        "start": 21,
+                        "type": "Other"
+                    },
+                    {
+                        "end": 117,
+                        "normalized_text": "America",
+                        "probability": 0.9065,
+                        "start": 111,
+                        "type": "Place"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 19,
+                        "id": "42743672",
+                        "start": 3,
+                        "username": "Doctor_Cupcakes"
+                    }
+                ]
+            },
+            "id": "1324905438253608962",
+            "lang": "en",
+            "public_metrics": {
+                "impression_count": 0,
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 28
+            },
+            "referenced_tweets": [
+                {
+                    "id": "1324895616552591361",
+                    "type": "retweeted"
+                }
+            ],
+            "reply_settings": "everyone",
+            "text": "RT @Doctor_Cupcakes: Dancing to Rage Against the Machine while wearing a blue lives matter flag really is peak America. https://t.co/N1V7WL\u2026"
+        },
+        {
+            "author_id": "1243317507701653504",
+            "conversation_id": "1324905428229091328",
+            "created_at": "2020-11-07T02:44:04.000Z",
+            "edit_history_tweet_ids": [
+                "1324905428229091328"
+            ],
+            "entities": {
+                "mentions": [
+                    {
+                        "end": 12,
+                        "id": "15100219",
+                        "start": 3,
+                        "username": "GenePark"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "pic.twitter.com/5zF23OGUUp",
+                        "end": 138,
+                        "expanded_url": "https://twitter.com/GenePark/status/1324898702004269056/video/1",
+                        "media_key": "7_1324898496466612227",
+                        "start": 115,
+                        "url": "https://t.co/5zF23OGUUp"
+                    }
+                ]
+            },
+            "id": "1324905428229091328",
+            "lang": "en",
+            "public_metrics": {
+                "impression_count": 0,
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 6051
+            },
+            "referenced_tweets": [
+                {
+                    "id": "1324898702004269056",
+                    "type": "retweeted"
+                }
+            ],
+            "reply_settings": "everyone",
+            "text": "RT @GenePark: cleansing your TL with a guy listening to rage against the machine for the first time and getting it https://t.co/5zF23OGUUp"
+        },
+        {
+            "author_id": "351927476",
+            "conversation_id": "1324905425448341513",
+            "created_at": "2020-11-07T02:44:03.000Z",
+            "edit_history_tweet_ids": [
+                "1324905425448341513"
+            ],
+            "entities": {
+                "mentions": [
+                    {
+                        "end": 14,
+                        "id": "14931637",
+                        "start": 3,
+                        "username": "MattBinder"
+                    }
+                ]
+            },
+            "id": "1324905425448341513",
+            "lang": "en",
+            "public_metrics": {
+                "impression_count": 0,
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 183
+            },
+            "referenced_tweets": [
+                {
+                    "id": "1324896780975284225",
+                    "type": "retweeted"
+                }
+            ],
+            "reply_settings": "everyone",
+            "text": "RT @MattBinder: this lady is singing a rage against the machine song while wearing a blue lives matter flag as a cape https://t.co/t1ROd8q8\u2026"
+        },
+        {
+            "author_id": "933035194604453889",
+            "conversation_id": "1324901939432345600",
+            "created_at": "2020-11-07T02:44:01.000Z",
+            "edit_history_tweet_ids": [
+                "1324905415684075520"
+            ],
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 48,
+                        "normalized_text": "Rage Against The Machine",
+                        "probability": 0.9756,
+                        "start": 25,
+                        "type": "Other"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 16,
+                        "id": "1169308620129034240",
+                        "start": 0,
+                        "username": "4theculture____"
+                    }
+                ]
+            },
+            "id": "1324905415684075520",
+            "in_reply_to_user_id": "1169308620129034240",
+            "lang": "en",
+            "public_metrics": {
+                "impression_count": 0,
+                "like_count": 9,
+                "quote_count": 0,
+                "reply_count": 1,
+                "retweet_count": 0
+            },
+            "referenced_tweets": [
+                {
+                    "id": "1324901939432345600",
+                    "type": "replied_to"
+                }
+            ],
+            "reply_settings": "everyone",
+            "text": "@4TheCulture____ Is that Rage Against The Machine? They have no clue huh?"
+        },
+        {
+            "author_id": "79073001",
+            "conversation_id": "1324873177416273921",
+            "created_at": "2020-11-07T02:44:00.000Z",
+            "edit_history_tweet_ids": [
+                "1324905413016424448"
+            ],
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 88,
+                        "normalized_text": "Rage Against the Machine",
+                        "probability": 0.9629,
+                        "start": 65,
+                        "type": "Other"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 13,
+                        "id": "66335022",
+                        "start": 0,
+                        "username": "Miss_EmmaMae"
+                    },
+                    {
+                        "end": 30,
+                        "id": "992623688028774400",
+                        "start": 14,
+                        "username": "Manny_Alicandro"
+                    }
+                ]
+            },
+            "id": "1324905413016424448",
+            "in_reply_to_user_id": "66335022",
+            "lang": "en",
+            "public_metrics": {
+                "impression_count": 0,
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "referenced_tweets": [
+                {
+                    "id": "1324901784108797959",
+                    "type": "replied_to"
+                }
+            ],
+            "reply_settings": "everyone",
+            "text": "@Miss_EmmaMae @Manny_Alicandro Must be the reason she can't hear Rage Against the Machine's lyrics."
+        },
+        {
+            "author_id": "18271599",
+            "conversation_id": "1324902402042912770",
+            "created_at": "2020-11-07T02:44:00.000Z",
+            "edit_history_tweet_ids": [
+                "1324905412110540800"
+            ],
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 84,
+                        "normalized_text": "Rage Against the Machine",
+                        "probability": 0.9764,
+                        "start": 61,
+                        "type": "Other"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 13,
+                        "id": "17279232",
+                        "start": 0,
+                        "username": "intelekshual"
+                    }
+                ]
+            },
+            "id": "1324905412110540800",
+            "in_reply_to_user_id": "17279232",
+            "lang": "en",
+            "public_metrics": {
+                "impression_count": 0,
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "referenced_tweets": [
+                {
+                    "id": "1324902402042912770",
+                    "type": "replied_to"
+                }
+            ],
+            "reply_settings": "everyone",
+            "text": "@intelekshual This is what I look like as a normie who likes Rage Against the Machine, isn\u2019t it?"
+        },
+        {
+            "author_id": "1604599424",
+            "context_annotations": [
+                {
+                    "domain": {
+                        "description": "Franchises which span multiple forms of media like 'Harry Potter'",
+                        "id": "130",
+                        "name": "Multimedia Franchise"
+                    },
+                    "entity": {
+                        "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series, if applicable.\t\t\t",
+                        "id": "1002576732971384832",
+                        "name": "Marvel Universe"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A taxonomy of user interests. ",
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy"
+                    },
+                    "entity": {
+                        "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series, if applicable.\t\t\t",
+                        "id": "1002576732971384832",
+                        "name": "Marvel Universe"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A taxonomy of user interests. ",
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy"
+                    },
+                    "entity": {
+                        "id": "1074757527995277313",
+                        "name": "Entertainment franchises"
+                    }
+                }
+            ],
+            "conversation_id": "1324905411665825792",
+            "created_at": "2020-11-07T02:44:00.000Z",
+            "edit_history_tweet_ids": [
+                "1324905411665825792"
+            ],
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 3,
+                        "normalized_text": "Chuy",
+                        "probability": 0.7624,
+                        "start": 0,
+                        "type": "Other"
+                    },
+                    {
+                        "end": 29,
+                        "normalized_text": "Age of Ultron",
+                        "probability": 0.9615,
+                        "start": 17,
+                        "type": "Other"
+                    }
+                ]
+            },
+            "id": "1324905411665825792",
+            "lang": "en",
+            "public_metrics": {
+                "impression_count": 0,
+                "like_count": 4,
+                "quote_count": 0,
+                "reply_count": 1,
+                "retweet_count": 0
+            },
+            "reply_settings": "everyone",
+            "text": "Chuy is watching Age of Ultron and I am once again filled with seething rage at the absolute fucking dubassery of this movie"
+        },
+        {
+            "author_id": "931183956",
+            "conversation_id": "1324905406108471305",
+            "created_at": "2020-11-07T02:43:59.000Z",
+            "edit_history_tweet_ids": [
+                "1324905406108471305"
+            ],
+            "entities": {
+                "mentions": [
+                    {
+                        "end": 12,
+                        "id": "15100219",
+                        "start": 3,
+                        "username": "GenePark"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "pic.twitter.com/5zF23OGUUp",
+                        "end": 138,
+                        "expanded_url": "https://twitter.com/GenePark/status/1324898702004269056/video/1",
+                        "media_key": "7_1324898496466612227",
+                        "start": 115,
+                        "url": "https://t.co/5zF23OGUUp"
+                    }
+                ]
+            },
+            "id": "1324905406108471305",
+            "lang": "en",
+            "public_metrics": {
+                "impression_count": 0,
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 6051
+            },
+            "referenced_tweets": [
+                {
+                    "id": "1324898702004269056",
+                    "type": "retweeted"
+                }
+            ],
+            "reply_settings": "everyone",
+            "text": "RT @GenePark: cleansing your TL with a guy listening to rage against the machine for the first time and getting it https://t.co/5zF23OGUUp"
+        },
+        {
+            "author_id": "155753846",
+            "conversation_id": "1324887792841797632",
+            "created_at": "2020-11-07T02:43:55.000Z",
+            "edit_history_tweet_ids": [
+                "1324905389616472065"
+            ],
+            "entities": {
+                "mentions": [
+                    {
+                        "end": 14,
+                        "id": "80991528",
+                        "start": 0,
+                        "username": "TheSmokingPun"
+                    }
+                ]
+            },
+            "id": "1324905389616472065",
+            "in_reply_to_user_id": "80991528",
+            "lang": "en",
+            "public_metrics": {
+                "impression_count": 0,
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 1,
+                "retweet_count": 0
+            },
+            "referenced_tweets": [
+                {
+                    "id": "1324887792841797632",
+                    "type": "replied_to"
+                }
+            ],
+            "reply_settings": "everyone",
+            "text": "@TheSmokingPun Sooooooo these people know nothing about rage against the machine apparently lol"
+        },
+        {
+            "author_id": "490781603",
+            "conversation_id": "1324905388647600129",
+            "created_at": "2020-11-07T02:43:54.000Z",
+            "edit_history_tweet_ids": [
+                "1324905388647600129"
+            ],
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 57,
+                        "normalized_text": "Rage Against the Machine",
+                        "probability": 0.9508,
+                        "start": 34,
+                        "type": "Other"
+                    },
+                    {
+                        "end": 127,
+                        "normalized_text": "Take a Knee, My Ass",
+                        "probability": 0.7315,
+                        "start": 109,
+                        "type": "Other"
+                    },
+                    {
+                        "end": 149,
+                        "normalized_text": "I Won't Take a Knee)",
+                        "probability": 0.8316,
+                        "start": 130,
+                        "type": "Other"
+                    }
+                ]
+            },
+            "id": "1324905388647600129",
+            "lang": "en",
+            "public_metrics": {
+                "impression_count": 0,
+                "like_count": 1,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "reply_settings": "everyone",
+            "text": "Gonna one-up the chuds dancing to Rage Against the Machine in support of the machine and officially declare \"Take a Knee, My Ass (I Won't Take a Knee)\" as the official anthem of antifascism."
+        },
+        {
+            "author_id": "1140658663851536384",
+            "context_annotations": [
+                {
+                    "domain": {
+                        "description": "Top level entities that describe a Brands industry",
+                        "id": "45",
+                        "name": "Brand Vertical"
+                    },
+                    "entity": {
+                        "id": "781974596706635776",
+                        "name": "Retail industry"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+                        "id": "30",
+                        "name": "Entities [Entity Service]"
+                    },
+                    "entity": {
+                        "id": "783335558466506752",
+                        "name": "Online - Retail"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "Brands and Companies",
+                        "id": "47",
+                        "name": "Brand"
+                    },
+                    "entity": {
+                        "id": "10026792024",
+                        "name": "Amazon"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A taxonomy of user interests. ",
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy"
+                    },
+                    "entity": {
+                        "id": "10026792024",
+                        "name": "Amazon"
+                    }
+                }
+            ],
+            "conversation_id": "1324905383069093888",
+            "created_at": "2020-11-07T02:43:53.000Z",
+            "edit_history_tweet_ids": [
+                "1324905383069093888"
+            ],
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 40,
+                        "normalized_text": "Amazon",
+                        "probability": 0.814,
+                        "start": 35,
+                        "type": "Organization"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 23,
+                        "id": "509381670",
+                        "start": 10,
+                        "username": "DjangoWexler"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "amazon.com/Siege-Rage-Wel\u2026",
+                        "end": 77,
+                        "expanded_url": "https://www.amazon.com/Siege-Rage-Wells-Sorcery-Trilogy-ebook/dp/B0879HD875/ref=sr_1_289?dchild=1&fst=as%3Aoff&qid=1604673357&refinements=p_n_publication_date%3A1250228011&rnid=1000&s=books&sr=1-289",
+                        "start": 54,
+                        "url": "https://t.co/XBbEP8xh8i"
+                    }
+                ]
+            },
+            "id": "1324905383069093888",
+            "lang": "en",
+            "public_metrics": {
+                "impression_count": 0,
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "reply_settings": "everyone",
+            "text": "Pre Order @DjangoWexler \u2018s Book on Amazon out 1.5.21.\nhttps://t.co/XBbEP8xh8i"
+        },
+        {
+            "author_id": "621278130",
+            "conversation_id": "1324904192067194882",
+            "created_at": "2020-11-07T02:43:53.000Z",
+            "edit_history_tweet_ids": [
+                "1324905381190119425"
+            ],
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 25,
+                        "normalized_text": "Rage",
+                        "probability": 0.7454,
+                        "start": 22,
+                        "type": "Other"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 11,
+                        "id": "1240895471457046529",
+                        "start": 0,
+                        "username": "LeoStotch3"
+                    }
+                ]
+            },
+            "id": "1324905381190119425",
+            "in_reply_to_user_id": "1240895471457046529",
+            "lang": "en",
+            "public_metrics": {
+                "impression_count": 0,
+                "like_count": 2,
+                "quote_count": 0,
+                "reply_count": 1,
+                "retweet_count": 0
+            },
+            "referenced_tweets": [
+                {
+                    "id": "1324904192067194882",
+                    "type": "replied_to"
+                }
+            ],
+            "reply_settings": "everyone",
+            "text": "@LeoStotch3 As a huge Rage fan I wont to kick this lady right in her cooter!!!"
+        },
+        {
+            "author_id": "1258636839709077504",
+            "conversation_id": "1324896877293285380",
+            "created_at": "2020-11-07T02:43:51.000Z",
+            "edit_history_tweet_ids": [
+                "1324905374932107265"
+            ],
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 35,
+                        "normalized_text": "Killing In The Name",
+                        "probability": 0.9778,
+                        "start": 17,
+                        "type": "Other"
+                    },
+                    {
+                        "end": 63,
+                        "normalized_text": "Rage Against the Machine",
+                        "probability": 0.917,
+                        "start": 40,
+                        "type": "Other"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 16,
+                        "id": "877654970799198209",
+                        "start": 0,
+                        "username": "SkylineArtifact"
+                    }
+                ]
+            },
+            "id": "1324905374932107265",
+            "in_reply_to_user_id": "877654970799198209",
+            "lang": "en",
+            "public_metrics": {
+                "impression_count": 0,
+                "like_count": 1,
+                "quote_count": 0,
+                "reply_count": 1,
+                "retweet_count": 0
+            },
+            "referenced_tweets": [
+                {
+                    "id": "1324904408820318209",
+                    "type": "replied_to"
+                }
+            ],
+            "reply_settings": "everyone",
+            "text": "@SkylineArtifact Killing In The Name by Rage Against the Machine."
+        },
+        {
+            "author_id": "119529687",
+            "conversation_id": "1324905360327659521",
+            "created_at": "2020-11-07T02:43:48.000Z",
+            "edit_history_tweet_ids": [
+                "1324905360327659521"
+            ],
+            "entities": {
+                "mentions": [
+                    {
+                        "end": 16,
+                        "id": "148593548",
+                        "start": 3,
+                        "username": "tressiemcphd"
+                    }
+                ]
+            },
+            "id": "1324905360327659521",
+            "lang": "en",
+            "public_metrics": {
+                "impression_count": 0,
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 67
+            },
+            "referenced_tweets": [
+                {
+                    "id": "1324904873146585090",
+                    "type": "retweeted"
+                }
+            ],
+            "reply_settings": "everyone",
+            "text": "RT @tressiemcphd: White rage"
+        },
+        {
+            "author_id": "446681414",
+            "conversation_id": "1324905356624080896",
+            "created_at": "2020-11-07T02:43:47.000Z",
+            "edit_history_tweet_ids": [
+                "1324905356624080896"
+            ],
+            "entities": {
+                "mentions": [
+                    {
+                        "end": 13,
+                        "id": "22743784",
+                        "start": 3,
+                        "username": "lildom911"
+                    }
+                ]
+            },
+            "id": "1324905356624080896",
+            "lang": "en",
+            "public_metrics": {
+                "impression_count": 0,
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 230
+            },
+            "referenced_tweets": [
+                {
+                    "id": "1324898324516761600",
+                    "type": "retweeted"
+                }
+            ],
+            "reply_settings": "everyone",
+            "text": "RT @lildom911: can\u2026 can someone please tell them about rage against the machine"
+        },
+        {
+            "author_id": "770517658303275008",
+            "conversation_id": "1324905352349954048",
+            "created_at": "2020-11-07T02:43:46.000Z",
+            "edit_history_tweet_ids": [
+                "1324905352349954048"
+            ],
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 106,
+                        "normalized_text": "Rage Against the Machine",
+                        "probability": 0.9595,
+                        "start": 83,
+                        "type": "Other"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "twitter.com/Manny_Alicandr\u2026",
+                        "end": 193,
+                        "expanded_url": "https://twitter.com/Manny_Alicandro/status/1324873177416273921",
+                        "start": 170,
+                        "url": "https://t.co/0eyDmFarDT"
+                    }
+                ]
+            },
+            "id": "1324905352349954048",
+            "lang": "en",
+            "public_metrics": {
+                "impression_count": 0,
+                "like_count": 1,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "reply_settings": "everyone",
+            "text": "Do these people even know... what theyre dancing too... the greats anthems made by Rage Against the Machine is everything they have disdain for. Hypocrisy in plain view. https://t.co/0eyDmFarDT"
+        },
+        {
+            "author_id": "1244905810431377409",
+            "conversation_id": "1324903078437527553",
+            "created_at": "2020-11-07T02:43:45.000Z",
+            "edit_history_tweet_ids": [
+                "1324905351154552832"
+            ],
+            "id": "1324905351154552832",
+            "in_reply_to_user_id": "775726056183570433",
+            "lang": "en",
+            "public_metrics": {
+                "impression_count": 0,
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 1,
+                "retweet_count": 0
+            },
+            "referenced_tweets": [
+                {
+                    "id": "1324904706490175492",
+                    "type": "replied_to"
+                }
+            ],
+            "reply_settings": "everyone",
+            "text": "@tinytaehyvn Let it go! Let it go! Can\u2019t hold it back anymore! Let it go! Let it go! Turn away and slam the door! I don\u2019t care what they\u2019re going to say! Let the storm rage on! The cold never bothered me anyway"
+        },
+        {
+            "author_id": "763077154125078530",
+            "conversation_id": "1324905344536076288",
+            "created_at": "2020-11-07T02:43:44.000Z",
+            "edit_history_tweet_ids": [
+                "1324905344536076288"
+            ],
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 9,
+                        "normalized_text": "Trumpistas",
+                        "probability": 0.4593,
+                        "start": 0,
+                        "type": "Organization"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "twitter.com/Manny_Alicandr\u2026",
+                        "end": 76,
+                        "expanded_url": "https://twitter.com/Manny_Alicandro/status/1324873177416273921",
+                        "start": 53,
+                        "url": "https://t.co/GtmTqPft8w"
+                    }
+                ]
+            },
+            "id": "1324905344536076288",
+            "lang": "en",
+            "public_metrics": {
+                "impression_count": 0,
+                "like_count": 2,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "reply_settings": "everyone",
+            "text": "Trumpistas based a curtirem rage against the machine https://t.co/GtmTqPft8w"
+        },
+        {
+            "author_id": "329708497",
+            "context_annotations": [
+                {
+                    "domain": {
+                        "description": "Named people in the world like Nelson Mandela",
+                        "id": "10",
+                        "name": "Person"
+                    },
+                    "entity": {
+                        "id": "1139111921494269952",
+                        "name": "Aaron Rupar"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A taxonomy of user interests. ",
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy"
+                    },
+                    "entity": {
+                        "description": "News",
+                        "id": "1046545033657081857",
+                        "name": "News"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A taxonomy of user interests. ",
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy"
+                    },
+                    "entity": {
+                        "description": "Journalism",
+                        "id": "1074755369530880001",
+                        "name": "Journalists"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A taxonomy of user interests. ",
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy"
+                    },
+                    "entity": {
+                        "id": "1139111921494269952",
+                        "name": "Aaron Rupar"
+                    }
+                }
+            ],
+            "conversation_id": "1324889735932809217",
+            "created_at": "2020-11-07T02:43:44.000Z",
+            "edit_history_tweet_ids": [
+                "1324905344292810754"
+            ],
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 98,
+                        "normalized_text": "Killing in the Name",
+                        "probability": 0.9743,
+                        "start": 80,
+                        "type": "Other"
+                    },
+                    {
+                        "end": 127,
+                        "normalized_text": "Rage Against the Machine",
+                        "probability": 0.5781,
+                        "start": 104,
+                        "type": "Organization"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 13,
+                        "id": "890791012724948995",
+                        "start": 0,
+                        "username": "MaggieRicker"
+                    },
+                    {
+                        "end": 30,
+                        "id": "1439041969318252547",
+                        "start": 14,
+                        "username": "JacobGingerich8"
+                    },
+                    {
+                        "end": 39,
+                        "id": "288277167",
+                        "start": 31,
+                        "username": "atrupar"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "youtube.com/watch?v=bWXazV\u2026",
+                        "end": 153,
+                        "expanded_url": "https://www.youtube.com/watch?v=bWXazVhlyxQ",
+                        "start": 130,
+                        "url": "https://t.co/PF27pIyeB4"
+                    }
+                ]
+            },
+            "id": "1324905344292810754",
+            "in_reply_to_user_id": "890791012724948995",
+            "lang": "en",
+            "public_metrics": {
+                "impression_count": 0,
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 1,
+                "retweet_count": 0
+            },
+            "referenced_tweets": [
+                {
+                    "id": "1324892912564510720",
+                    "type": "replied_to"
+                }
+            ],
+            "reply_settings": "everyone",
+            "text": "@MaggieRicker @JacobGingerich8 @atrupar It's a classic political protest song: \"Killing in the Name\" by Rage Against the Machine.\nhttps://t.co/PF27pIyeB4"
+        },
+        {
+            "author_id": "24281632",
+            "context_annotations": [
+                {
+                    "domain": {
+                        "description": "Named people in the world like Nelson Mandela",
+                        "id": "10",
+                        "name": "Person"
+                    },
+                    "entity": {
+                        "description": "US Speaker of the House Paul Ryan",
+                        "id": "10045398425",
+                        "name": "Paul Ryan"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "Politicians in the world, like Joe Biden",
+                        "id": "35",
+                        "name": "Politician"
+                    },
+                    "entity": {
+                        "description": "US Speaker of the House Paul Ryan",
+                        "id": "10045398425",
+                        "name": "Paul Ryan"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A taxonomy of user interests. ",
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy"
+                    },
+                    "entity": {
+                        "description": "US Speaker of the House Paul Ryan",
+                        "id": "10045398425",
+                        "name": "Paul Ryan"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A taxonomy of user interests. ",
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy"
+                    },
+                    "entity": {
+                        "description": "Politics",
+                        "id": "847878884917886977",
+                        "name": "Politics"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A taxonomy of user interests. ",
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy"
+                    },
+                    "entity": {
+                        "description": "Politician",
+                        "id": "1070032753834438656",
+                        "name": "Political figures"
+                    }
+                }
+            ],
+            "conversation_id": "1324905343470739456",
+            "created_at": "2020-11-07T02:43:44.000Z",
+            "edit_history_tweet_ids": [
+                "1324905343470739456"
+            ],
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 62,
+                        "normalized_text": "Paul Ryan",
+                        "probability": 0.9808,
+                        "start": 54,
+                        "type": "Person"
+                    },
+                    {
+                        "end": 101,
+                        "normalized_text": "Rage Against the Machine",
+                        "probability": 0.8478,
+                        "start": 78,
+                        "type": "Other"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 14,
+                        "id": "14931637",
+                        "start": 3,
+                        "username": "MattBinder"
+                    }
+                ]
+            },
+            "id": "1324905343470739456",
+            "lang": "en",
+            "public_metrics": {
+                "impression_count": 0,
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 13
+            },
+            "referenced_tweets": [
+                {
+                    "id": "1324899813515812864",
+                    "type": "retweeted"
+                }
+            ],
+            "reply_settings": "everyone",
+            "text": "RT @MattBinder: does anyone else remember how in 2012 Paul Ryan came out as a Rage Against the Machine fan and then later clarified that he\u2026"
+        },
+        {
+            "author_id": "37141859",
+            "conversation_id": "1324905341801345024",
+            "created_at": "2020-11-07T02:43:43.000Z",
+            "edit_history_tweet_ids": [
+                "1324905341801345024"
+            ],
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 103,
+                        "normalized_text": "Rage Against the Machine",
+                        "probability": 0.9461,
+                        "start": 80,
+                        "type": "Other"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 14,
+                        "id": "105466806",
+                        "start": 3,
+                        "username": "wesinjapan"
+                    }
+                ]
+            },
+            "id": "1324905341801345024",
+            "lang": "en",
+            "public_metrics": {
+                "impression_count": 0,
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 7
+            },
+            "referenced_tweets": [
+                {
+                    "id": "1324901360244908032",
+                    "type": "retweeted"
+                }
+            ],
+            "reply_settings": "everyone",
+            "text": "RT @wesinjapan: I know it is insanely confusing ,but really loving the cops AND Rage Against the Machine and not seeing any irony in this i\u2026"
+        },
+        {
+            "author_id": "2572762273",
+            "conversation_id": "1324872262273683458",
+            "created_at": "2020-11-07T02:43:40.000Z",
+            "edit_history_tweet_ids": [
+                "1324905328497057792"
+            ],
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 36,
+                        "normalized_text": "Rage",
+                        "probability": 0.8797,
+                        "start": 33,
+                        "type": "Other"
+                    },
+                    {
+                        "end": 75,
+                        "normalized_text": "SSJ",
+                        "probability": 0.5574,
+                        "start": 73,
+                        "type": "Person"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 12,
+                        "id": "1291464476",
+                        "start": 0,
+                        "username": "SaladSaiyan"
+                    }
+                ]
+            },
+            "id": "1324905328497057792",
+            "in_reply_to_user_id": "1291464476",
+            "lang": "en",
+            "public_metrics": {
+                "impression_count": 0,
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "referenced_tweets": [
+                {
+                    "id": "1324872262273683458",
+                    "type": "replied_to"
+                }
+            ],
+            "reply_settings": "everyone",
+            "text": "@SaladSaiyan I didn\u2019t even think Rage was a thing. I just thought it was SSJ. And his sword behaved similar to spirit bomb no?"
+        },
+        {
+            "author_id": "28670599",
+            "context_annotations": [
+                {
+                    "domain": {
+                        "description": "Named people in the world like Nelson Mandela",
+                        "id": "10",
+                        "name": "Person"
+                    },
+                    "entity": {
+                        "description": "US Speaker of the House Paul Ryan",
+                        "id": "10045398425",
+                        "name": "Paul Ryan"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "Politicians in the world, like Joe Biden",
+                        "id": "35",
+                        "name": "Politician"
+                    },
+                    "entity": {
+                        "description": "US Speaker of the House Paul Ryan",
+                        "id": "10045398425",
+                        "name": "Paul Ryan"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A taxonomy of user interests. ",
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy"
+                    },
+                    "entity": {
+                        "description": "US Speaker of the House Paul Ryan",
+                        "id": "10045398425",
+                        "name": "Paul Ryan"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A taxonomy of user interests. ",
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy"
+                    },
+                    "entity": {
+                        "description": "Politics",
+                        "id": "847878884917886977",
+                        "name": "Politics"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A taxonomy of user interests. ",
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy"
+                    },
+                    "entity": {
+                        "description": "Politician",
+                        "id": "1070032753834438656",
+                        "name": "Political figures"
+                    }
+                }
+            ],
+            "conversation_id": "1324904251324297216",
+            "created_at": "2020-11-07T02:43:38.000Z",
+            "edit_history_tweet_ids": [
+                "1324905319449890816"
+            ],
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 37,
+                        "normalized_text": "Rage Against the Machine",
+                        "probability": 0.9717,
+                        "start": 14,
+                        "type": "Other"
+                    },
+                    {
+                        "end": 117,
+                        "normalized_text": "Paul Ryan",
+                        "probability": 0.9767,
+                        "start": 109,
+                        "type": "Person"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 13,
+                        "id": "2155262083",
+                        "start": 0,
+                        "username": "DancesWfliez"
+                    }
+                ]
+            },
+            "id": "1324905319449890816",
+            "in_reply_to_user_id": "2155262083",
+            "lang": "en",
+            "public_metrics": {
+                "impression_count": 0,
+                "like_count": 1,
+                "quote_count": 0,
+                "reply_count": 2,
+                "retweet_count": 1
+            },
+            "referenced_tweets": [
+                {
+                    "id": "1324904251324297216",
+                    "type": "replied_to"
+                }
+            ],
+            "reply_settings": "everyone",
+            "text": "@DancesWfliez Rage Against the Machine has repeatedly told these yahoos to stop using their songs. They told Paul Ryan that. And clearly they never listened to their lyrics."
+        },
+        {
+            "author_id": "1046063958",
+            "conversation_id": "1324904652656160769",
+            "created_at": "2020-11-07T02:43:37.000Z",
+            "edit_history_tweet_ids": [
+                "1324905315997941761"
+            ],
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 90,
+                        "normalized_text": "Rage Against the Machine",
+                        "probability": 0.9782,
+                        "start": 67,
+                        "type": "Other"
+                    }
+                ]
+            },
+            "id": "1324905315997941761",
+            "in_reply_to_user_id": "800455616883924992",
+            "lang": "en",
+            "public_metrics": {
+                "impression_count": 0,
+                "like_count": 1,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "referenced_tweets": [
+                {
+                    "id": "1324904742649147392",
+                    "type": "replied_to"
+                }
+            ],
+            "reply_settings": "everyone",
+            "text": "@theNikoDog It's hilarious, I almost hope they never find out what Rage Against the Machine stood for that they are blaring"
+        },
+        {
+            "author_id": "17136417",
+            "conversation_id": "1324905314827853825",
+            "created_at": "2020-11-07T02:43:37.000Z",
+            "edit_history_tweet_ids": [
+                "1324905314827853825"
+            ],
+            "entities": {
+                "mentions": [
+                    {
+                        "end": 12,
+                        "id": "15100219",
+                        "start": 3,
+                        "username": "GenePark"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "pic.twitter.com/5zF23OGUUp",
+                        "end": 138,
+                        "expanded_url": "https://twitter.com/GenePark/status/1324898702004269056/video/1",
+                        "media_key": "7_1324898496466612227",
+                        "start": 115,
+                        "url": "https://t.co/5zF23OGUUp"
+                    }
+                ]
+            },
+            "id": "1324905314827853825",
+            "lang": "en",
+            "public_metrics": {
+                "impression_count": 0,
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 6051
+            },
+            "referenced_tweets": [
+                {
+                    "id": "1324898702004269056",
+                    "type": "retweeted"
+                }
+            ],
+            "reply_settings": "everyone",
+            "text": "RT @GenePark: cleansing your TL with a guy listening to rage against the machine for the first time and getting it https://t.co/5zF23OGUUp"
+        },
+        {
+            "author_id": "1320520135468322822",
+            "conversation_id": "1324905309006127104",
+            "created_at": "2020-11-07T02:43:35.000Z",
+            "edit_history_tweet_ids": [
+                "1324905309006127104"
+            ],
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 63,
+                        "normalized_text": "Rage Against the Machine",
+                        "probability": 0.9635,
+                        "start": 40,
+                        "type": "Other"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 14,
+                        "id": "284422688",
+                        "start": 3,
+                        "username": "hutchinson"
+                    }
+                ]
+            },
+            "id": "1324905309006127104",
+            "lang": "en",
+            "public_metrics": {
+                "impression_count": 0,
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 205
+            },
+            "referenced_tweets": [
+                {
+                    "id": "1324899971053674497",
+                    "type": "retweeted"
+                }
+            ],
+            "reply_settings": "everyone",
+            "text": "RT @hutchinson: Trumpies banging out to Rage Against the Machine. What a time to be alive."
+        },
+        {
+            "author_id": "22876957",
+            "conversation_id": "1324905307122757632",
+            "created_at": "2020-11-07T02:43:35.000Z",
+            "edit_history_tweet_ids": [
+                "1324905307122757632"
+            ],
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 60,
+                        "normalized_text": "Machine",
+                        "probability": 0.5723,
+                        "start": 54,
+                        "type": "Other"
+                    },
+                    {
+                        "end": 92,
+                        "normalized_text": "Rage Against the Machine",
+                        "probability": 0.9614,
+                        "start": 69,
+                        "type": "Other"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "twitter.com/Manny_Alicandr\u2026",
+                        "end": 118,
+                        "expanded_url": "https://twitter.com/Manny_Alicandro/status/1324873177416273921",
+                        "start": 95,
+                        "url": "https://t.co/OouE4ebC4C"
+                    }
+                ]
+            },
+            "id": "1324905307122757632",
+            "lang": "en",
+            "public_metrics": {
+                "impression_count": 0,
+                "like_count": 3,
+                "quote_count": 0,
+                "reply_count": 1,
+                "retweet_count": 1
+            },
+            "reply_settings": "everyone",
+            "text": "*deep, forlorn sigh*\n\nWhat exactly do they think the \"Machine\" is in Rage Against the Machine? https://t.co/OouE4ebC4C"
+        },
+        {
+            "author_id": "2457460736",
+            "conversation_id": "1324905302936879106",
+            "created_at": "2020-11-07T02:43:34.000Z",
+            "edit_history_tweet_ids": [
+                "1324905302936879106"
+            ],
+            "entities": {
+                "mentions": [
+                    {
+                        "end": 14,
+                        "id": "14931637",
+                        "start": 3,
+                        "username": "MattBinder"
+                    }
+                ]
+            },
+            "id": "1324905302936879106",
+            "lang": "en",
+            "public_metrics": {
+                "impression_count": 0,
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 183
+            },
+            "referenced_tweets": [
+                {
+                    "id": "1324896780975284225",
+                    "type": "retweeted"
+                }
+            ],
+            "reply_settings": "everyone",
+            "text": "RT @MattBinder: this lady is singing a rage against the machine song while wearing a blue lives matter flag as a cape https://t.co/t1ROd8q8\u2026"
+        },
+        {
+            "author_id": "15826324",
+            "conversation_id": "1324905301947113474",
+            "created_at": "2020-11-07T02:43:34.000Z",
+            "edit_history_tweet_ids": [
+                "1324905301947113474"
+            ],
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 53,
+                        "normalized_text": "Rage Against the Machine",
+                        "probability": 0.9632,
+                        "start": 30,
+                        "type": "Other"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 80,
+                        "id": "310688255",
+                        "start": 67,
+                        "username": "mattalley413"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "twitter.com/Manny_Alicandr\u2026",
+                        "end": 131,
+                        "expanded_url": "https://twitter.com/Manny_Alicandro/status/1324873177416273921",
+                        "start": 108,
+                        "url": "https://t.co/S5bX0GZ0ae"
+                    }
+                ]
+            },
+            "id": "1324905301947113474",
+            "lang": "en",
+            "public_metrics": {
+                "impression_count": 0,
+                "like_count": 32,
+                "quote_count": 1,
+                "reply_count": 10,
+                "retweet_count": 1
+            },
+            "reply_settings": "everyone",
+            "text": "I don\u2019t think she understands Rage Against the Machine. At. All. \ud83d\ude02 @mattalley413 - you see this tomfoolery? https://t.co/S5bX0GZ0ae"
+        },
+        {
+            "author_id": "1009686423082020867",
+            "context_annotations": [
+                {
+                    "domain": {
+                        "description": "Named people in the world like Nelson Mandela",
+                        "id": "10",
+                        "name": "Person"
+                    },
+                    "entity": {
+                        "description": "45th US President, Donald Trump",
+                        "id": "799022225751871488",
+                        "name": "Donald Trump"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "Real world events. ",
+                        "id": "29",
+                        "name": "Events [Entity Service]"
+                    },
+                    "entity": {
+                        "description": "2020 US Presidential Election",
+                        "id": "1029453725360775168",
+                        "name": "2020 US Presidential Election"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "Politicians in the world, like Joe Biden",
+                        "id": "35",
+                        "name": "Politician"
+                    },
+                    "entity": {
+                        "description": "45th US President, Donald Trump",
+                        "id": "799022225751871488",
+                        "name": "Donald Trump"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A taxonomy of user interests. ",
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy"
+                    },
+                    "entity": {
+                        "description": "45th US President, Donald Trump",
+                        "id": "799022225751871488",
+                        "name": "Donald Trump"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A taxonomy of user interests. ",
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy"
+                    },
+                    "entity": {
+                        "description": "Politics",
+                        "id": "847878884917886977",
+                        "name": "Politics"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A taxonomy of user interests. ",
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy"
+                    },
+                    "entity": {
+                        "description": "2020 US Presidential Election",
+                        "id": "1029453725360775168",
+                        "name": "2020 US Presidential Election"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A taxonomy of user interests. ",
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy"
+                    },
+                    "entity": {
+                        "description": "Politician",
+                        "id": "1070032753834438656",
+                        "name": "Political figures"
+                    }
+                }
+            ],
+            "conversation_id": "1324905298189037570",
+            "created_at": "2020-11-07T02:43:33.000Z",
+            "edit_history_tweet_ids": [
+                "1324905298189037570"
+            ],
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 21,
+                        "normalized_text": "Trump",
+                        "probability": 0.9668,
+                        "start": 17,
+                        "type": "Person"
+                    },
+                    {
+                        "end": 87,
+                        "normalized_text": "Irate",
+                        "probability": 0.6736,
+                        "start": 83,
+                        "type": "Person"
+                    },
+                    {
+                        "end": 96,
+                        "normalized_text": "Fury",
+                        "probability": 0.4709,
+                        "start": 93,
+                        "type": "Person"
+                    },
+                    {
+                        "end": 105,
+                        "normalized_text": "Rage",
+                        "probability": 0.4427,
+                        "start": 102,
+                        "type": "Other"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 15,
+                        "id": "36555827",
+                        "start": 3,
+                        "username": "John_Henson"
+                    }
+                ]
+            },
+            "id": "1324905298189037570",
+            "lang": "en",
+            "public_metrics": {
+                "impression_count": 0,
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 13
+            },
+            "referenced_tweets": [
+                {
+                    "id": "1324904278587174912",
+                    "type": "retweeted"
+                }
+            ],
+            "reply_settings": "everyone",
+            "text": "RT @John_Henson: Trump\u2019s 5 stages of grief over losing the election:\n\n1) Anger\n\n2) Irate\n\n3) Fury\n\n4) Rage\n\n5) Handcuffs"
+        },
+        {
+            "author_id": "20728256",
+            "conversation_id": "1324905293440929792",
+            "created_at": "2020-11-07T02:43:32.000Z",
+            "edit_history_tweet_ids": [
+                "1324905293440929792"
+            ],
+            "entities": {
+                "mentions": [
+                    {
+                        "end": 12,
+                        "id": "15100219",
+                        "start": 3,
+                        "username": "GenePark"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "pic.twitter.com/5zF23OGUUp",
+                        "end": 138,
+                        "expanded_url": "https://twitter.com/GenePark/status/1324898702004269056/video/1",
+                        "media_key": "7_1324898496466612227",
+                        "start": 115,
+                        "url": "https://t.co/5zF23OGUUp"
+                    }
+                ]
+            },
+            "id": "1324905293440929792",
+            "lang": "en",
+            "public_metrics": {
+                "impression_count": 0,
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 6051
+            },
+            "referenced_tweets": [
+                {
+                    "id": "1324898702004269056",
+                    "type": "retweeted"
+                }
+            ],
+            "reply_settings": "everyone",
+            "text": "RT @GenePark: cleansing your TL with a guy listening to rage against the machine for the first time and getting it https://t.co/5zF23OGUUp"
+        },
+        {
+            "author_id": "1013600463168704514",
+            "conversation_id": "1324905291956285441",
+            "created_at": "2020-11-07T02:43:31.000Z",
+            "edit_history_tweet_ids": [
+                "1324905291956285441"
+            ],
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 29,
+                        "normalized_text": "MAGA",
+                        "probability": 0.5504,
+                        "start": 26,
+                        "type": "Other"
+                    },
+                    {
+                        "end": 117,
+                        "normalized_text": "Rage Against the Machine",
+                        "probability": 0.9357,
+                        "start": 94,
+                        "type": "Other"
+                    }
+                ]
+            },
+            "id": "1324905291956285441",
+            "lang": "en",
+            "public_metrics": {
+                "impression_count": 0,
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 5
+            },
+            "referenced_tweets": [
+                {
+                    "id": "1324905180937285632",
+                    "type": "retweeted"
+                }
+            ],
+            "reply_settings": "everyone",
+            "text": "RT @grahamwire: BREAKING: MAGA hats cut off blood to the part of your brain which understands Rage Against the Machine lyrics"
+        },
+        {
+            "author_id": "761969709461872640",
+            "conversation_id": "1324898521586171904",
+            "created_at": "2020-11-07T02:43:31.000Z",
+            "edit_history_tweet_ids": [
+                "1324905291012452352"
+            ],
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 31,
+                        "normalized_text": "Rage Against the",
+                        "probability": 0.6231,
+                        "start": 16,
+                        "type": "Other"
+                    },
+                    {
+                        "end": 38,
+                        "normalized_text": "Abacus",
+                        "probability": 0.3607,
+                        "start": 33,
+                        "type": "Other"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 15,
+                        "id": "881336677138128897",
+                        "start": 0,
+                        "username": "Kokomothegreat"
+                    }
+                ]
+            },
+            "id": "1324905291012452352",
+            "in_reply_to_user_id": "881336677138128897",
+            "lang": "en",
+            "public_metrics": {
+                "impression_count": 0,
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "referenced_tweets": [
+                {
+                    "id": "1324898521586171904",
+                    "type": "replied_to"
+                }
+            ],
+            "reply_settings": "everyone",
+            "text": "@Kokomothegreat Rage Against the Abacus."
+        },
+        {
+            "author_id": "15341168",
+            "conversation_id": "1324902559480426499",
+            "created_at": "2020-11-07T02:43:30.000Z",
+            "edit_history_tweet_ids": [
+                "1324905287032184834"
+            ],
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 154,
+                        "normalized_text": "Rage",
+                        "probability": 0.6687,
+                        "start": 151,
+                        "type": "Other"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 12,
+                        "id": "94103524",
+                        "start": 0,
+                        "username": "onlyanumber"
+                    }
+                ]
+            },
+            "id": "1324905287032184834",
+            "in_reply_to_user_id": "94103524",
+            "lang": "en",
+            "public_metrics": {
+                "impression_count": 0,
+                "like_count": 1,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "referenced_tweets": [
+                {
+                    "id": "1324903918090989569",
+                    "type": "replied_to"
+                }
+            ],
+            "reply_settings": "everyone",
+            "text": "@onlyanumber Tbh neither is a good look for them, and leaving the question open to interpretation proves it was a flawed rebuke\n\nBut who am I except a Rage fan facepalming loud enough to cause ripples in space time"
+        },
+        {
+            "author_id": "2868544624",
+            "conversation_id": "1324889625639473157",
+            "created_at": "2020-11-07T02:43:28.000Z",
+            "edit_history_tweet_ids": [
+                "1324905279503261698"
+            ],
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 36,
+                        "normalized_text": "Cornell",
+                        "probability": 0.5686,
+                        "start": 30,
+                        "type": "Person"
+                    },
+                    {
+                        "end": 57,
+                        "normalized_text": "Rage",
+                        "probability": 0.8609,
+                        "start": 54,
+                        "type": "Other"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 29,
+                        "id": "47036963",
+                        "start": 13,
+                        "username": "MichaelRyanRuiz"
+                    }
+                ]
+            },
+            "geo": {
+                "place_id": "2c6666cb9436b81b"
+            },
+            "id": "1324905279503261698",
+            "in_reply_to_user_id": "163923801",
+            "lang": "en",
+            "public_metrics": {
+                "impression_count": 0,
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 1,
+                "retweet_count": 0
+            },
+            "referenced_tweets": [
+                {
+                    "id": "1324904356383137798",
+                    "type": "replied_to"
+                }
+            ],
+            "reply_settings": "everyone",
+            "text": "@Go_Dawgs_91 @MichaelRyanRuiz Cornell didn\u2019t sing for Rage. At least not the Rage I\u2019ve heard."
+        },
+        {
+            "author_id": "1324901702730870784",
+            "conversation_id": "1324905272716873728",
+            "created_at": "2020-11-07T02:43:27.000Z",
+            "edit_history_tweet_ids": [
+                "1324905272716873728"
+            ],
+            "id": "1324905272716873728",
+            "lang": "en",
+            "public_metrics": {
+                "impression_count": 0,
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "reply_settings": "everyone",
+            "text": "I'm full of anger, rage, hate."
+        },
+        {
+            "author_id": "57936117",
+            "conversation_id": "1324897446674231298",
+            "created_at": "2020-11-07T02:43:25.000Z",
+            "edit_history_tweet_ids": [
+                "1324905266459123712"
+            ],
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 18,
+                        "normalized_text": "Gaim",
+                        "probability": 0.542,
+                        "start": 15,
+                        "type": "Other"
+                    },
+                    {
+                        "end": 73,
+                        "normalized_text": "Showa",
+                        "probability": 0.4898,
+                        "start": 69,
+                        "type": "Other"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 14,
+                        "id": "1355706361674412041",
+                        "start": 0,
+                        "username": "pockysquirrel"
+                    }
+                ]
+            },
+            "id": "1324905266459123712",
+            "in_reply_to_user_id": "51262250",
+            "lang": "en",
+            "public_metrics": {
+                "impression_count": 0,
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "referenced_tweets": [
+                {
+                    "id": "1324897446674231298",
+                    "type": "replied_to"
+                }
+            ],
+            "reply_settings": "everyone",
+            "text": "@pockysquirrel Gaim takes an attack to protect a single tiny flower; Showa rage dissipates"
+        },
+        {
+            "author_id": "432023731",
+            "conversation_id": "1324905264743636993",
+            "created_at": "2020-11-07T02:43:25.000Z",
+            "edit_history_tweet_ids": [
+                "1324905264743636993"
+            ],
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 103,
+                        "normalized_text": "Rage Against the Machine",
+                        "probability": 0.9369,
+                        "start": 80,
+                        "type": "Other"
+                    },
+                    {
+                        "end": 138,
+                        "normalized_text": "Maga-Idi",
+                        "probability": 0.5026,
+                        "start": 131,
+                        "type": "Other"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 14,
+                        "id": "976677366515642368",
+                        "start": 3,
+                        "username": "Thrillho22"
+                    }
+                ]
+            },
+            "id": "1324905264743636993",
+            "lang": "en",
+            "public_metrics": {
+                "impression_count": 0,
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 5
+            },
+            "referenced_tweets": [
+                {
+                    "id": "1324901365311737856",
+                    "type": "retweeted"
+                }
+            ],
+            "reply_settings": "everyone",
+            "text": "RT @Thrillho22: How do you wear a stupid \u201cblue lives matter\u201d flag while singing Rage Against the Machine word for word???? I swear Maga-Idi\u2026"
+        },
+        {
+            "author_id": "125785360",
+            "conversation_id": "1324905259253321730",
+            "created_at": "2020-11-07T02:43:24.000Z",
+            "edit_history_tweet_ids": [
+                "1324905259253321730"
+            ],
+            "entities": {
+                "mentions": [
+                    {
+                        "end": 12,
+                        "id": "15100219",
+                        "start": 3,
+                        "username": "GenePark"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "pic.twitter.com/5zF23OGUUp",
+                        "end": 138,
+                        "expanded_url": "https://twitter.com/GenePark/status/1324898702004269056/video/1",
+                        "media_key": "7_1324898496466612227",
+                        "start": 115,
+                        "url": "https://t.co/5zF23OGUUp"
+                    }
+                ]
+            },
+            "id": "1324905259253321730",
+            "lang": "en",
+            "public_metrics": {
+                "impression_count": 0,
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 6051
+            },
+            "referenced_tweets": [
+                {
+                    "id": "1324898702004269056",
+                    "type": "retweeted"
+                }
+            ],
+            "reply_settings": "everyone",
+            "text": "RT @GenePark: cleansing your TL with a guy listening to rage against the machine for the first time and getting it https://t.co/5zF23OGUUp"
+        },
+        {
+            "author_id": "1217725430188298240",
+            "conversation_id": "1324905258460438528",
+            "created_at": "2020-11-07T02:43:23.000Z",
+            "edit_history_tweet_ids": [
+                "1324905258460438528"
+            ],
+            "entities": {
+                "mentions": [
+                    {
+                        "end": 12,
+                        "id": "15100219",
+                        "start": 3,
+                        "username": "GenePark"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "pic.twitter.com/5zF23OGUUp",
+                        "end": 138,
+                        "expanded_url": "https://twitter.com/GenePark/status/1324898702004269056/video/1",
+                        "media_key": "7_1324898496466612227",
+                        "start": 115,
+                        "url": "https://t.co/5zF23OGUUp"
+                    }
+                ]
+            },
+            "id": "1324905258460438528",
+            "lang": "en",
+            "public_metrics": {
+                "impression_count": 0,
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 6051
+            },
+            "referenced_tweets": [
+                {
+                    "id": "1324898702004269056",
+                    "type": "retweeted"
+                }
+            ],
+            "reply_settings": "everyone",
+            "text": "RT @GenePark: cleansing your TL with a guy listening to rage against the machine for the first time and getting it https://t.co/5zF23OGUUp"
+        },
+        {
+            "author_id": "2713146114",
+            "conversation_id": "1324905251657318400",
+            "created_at": "2020-11-07T02:43:22.000Z",
+            "edit_history_tweet_ids": [
+                "1324905251657318400"
+            ],
+            "entities": {
+                "mentions": [
+                    {
+                        "end": 16,
+                        "id": "148593548",
+                        "start": 3,
+                        "username": "tressiemcphd"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "twitter.com/BrendanKeefe/s\u2026",
+                        "end": 52,
+                        "expanded_url": "https://twitter.com/BrendanKeefe/status/1324885446632083458",
+                        "start": 29,
+                        "url": "https://t.co/aXuqZ2QH8e"
+                    }
+                ]
+            },
+            "id": "1324905251657318400",
+            "lang": "en",
+            "public_metrics": {
+                "impression_count": 0,
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 67
+            },
+            "referenced_tweets": [
+                {
+                    "id": "1324904873146585090",
+                    "type": "retweeted"
+                }
+            ],
+            "reply_settings": "everyone",
+            "text": "RT @tressiemcphd: White rage https://t.co/aXuqZ2QH8e"
+        },
+        {
+            "author_id": "1265934451",
+            "conversation_id": "1324905249165860871",
+            "created_at": "2020-11-07T02:43:21.000Z",
+            "edit_history_tweet_ids": [
+                "1324905249165860871"
+            ],
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 63,
+                        "normalized_text": "Rage Against the Machine",
+                        "probability": 0.9635,
+                        "start": 40,
+                        "type": "Other"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 14,
+                        "id": "284422688",
+                        "start": 3,
+                        "username": "hutchinson"
+                    }
+                ]
+            },
+            "id": "1324905249165860871",
+            "lang": "en",
+            "public_metrics": {
+                "impression_count": 0,
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 205
+            },
+            "referenced_tweets": [
+                {
+                    "id": "1324899971053674497",
+                    "type": "retweeted"
+                }
+            ],
+            "reply_settings": "everyone",
+            "text": "RT @hutchinson: Trumpies banging out to Rage Against the Machine. What a time to be alive."
+        },
+        {
+            "author_id": "3222127730",
+            "conversation_id": "1324905242593390592",
+            "created_at": "2020-11-07T02:43:20.000Z",
+            "edit_history_tweet_ids": [
+                "1324905242593390592"
+            ],
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 150,
+                        "normalized_text": "Killing in the Name",
+                        "probability": 0.8916,
+                        "start": 132,
+                        "type": "Other"
+                    },
+                    {
+                        "end": 179,
+                        "normalized_text": "Rage Against the Machines",
+                        "probability": 0.5789,
+                        "start": 155,
+                        "type": "Organization"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "twitter.com/Manny_Alicandr\u2026",
+                        "end": 222,
+                        "expanded_url": "https://twitter.com/Manny_Alicandro/status/1324873177416273921",
+                        "start": 199,
+                        "url": "https://t.co/nwKCoy7hC5"
+                    }
+                ]
+            },
+            "id": "1324905242593390592",
+            "lang": "en",
+            "public_metrics": {
+                "impression_count": 0,
+                "like_count": 1,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "reply_settings": "everyone",
+            "text": "Love how this song is about abolishing the white supremacy within and abolishing the tyrannous government that oppresses you\n\nSong: Killing in the Name by Rage Against the Machines\n\nAmazing band btw https://t.co/nwKCoy7hC5"
+        },
+        {
+            "author_id": "26534854",
+            "conversation_id": "1324905238969528322",
+            "created_at": "2020-11-07T02:43:19.000Z",
+            "edit_history_tweet_ids": [
+                "1324905238969528322"
+            ],
+            "id": "1324905238969528322",
+            "lang": "en",
+            "public_metrics": {
+                "impression_count": 0,
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "reply_settings": "everyone",
+            "text": "Ok I left for a few hours and rage cleaned my garage so I could park the car inside to avoid sweeping 15cms of snow tomorrow. What'd I miss? Has it been called yet?"
+        },
+        {
+            "author_id": "416735965",
+            "conversation_id": "1324905222817386496",
+            "created_at": "2020-11-07T02:43:15.000Z",
+            "edit_history_tweet_ids": [
+                "1324905222817386496"
+            ],
+            "entities": {
+                "mentions": [
+                    {
+                        "end": 12,
+                        "id": "15100219",
+                        "start": 3,
+                        "username": "GenePark"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "pic.twitter.com/5zF23OGUUp",
+                        "end": 138,
+                        "expanded_url": "https://twitter.com/GenePark/status/1324898702004269056/video/1",
+                        "media_key": "7_1324898496466612227",
+                        "start": 115,
+                        "url": "https://t.co/5zF23OGUUp"
+                    }
+                ]
+            },
+            "id": "1324905222817386496",
+            "lang": "en",
+            "public_metrics": {
+                "impression_count": 0,
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 6051
+            },
+            "referenced_tweets": [
+                {
+                    "id": "1324898702004269056",
+                    "type": "retweeted"
+                }
+            ],
+            "reply_settings": "everyone",
+            "text": "RT @GenePark: cleansing your TL with a guy listening to rage against the machine for the first time and getting it https://t.co/5zF23OGUUp"
+        },
+        {
+            "author_id": "615792563",
+            "conversation_id": "1324905211706572801",
+            "created_at": "2020-11-07T02:43:12.000Z",
+            "edit_history_tweet_ids": [
+                "1324905211706572801"
+            ],
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 102,
+                        "normalized_text": "Rage Against the Machine",
+                        "probability": 0.9341,
+                        "start": 79,
+                        "type": "Other"
+                    },
+                    {
+                        "end": 125,
+                        "normalized_text": "Killing in the Name",
+                        "probability": 0.9817,
+                        "start": 107,
+                        "type": "Other"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "twitter.com/Manny_Alicandr\u2026",
+                        "end": 186,
+                        "expanded_url": "https://twitter.com/Manny_Alicandro/status/1324873177416273921",
+                        "start": 163,
+                        "url": "https://t.co/OJMCIs1fVQ"
+                    }
+                ]
+            },
+            "id": "1324905211706572801",
+            "lang": "en",
+            "public_metrics": {
+                "impression_count": 0,
+                "like_count": 9,
+                "quote_count": 0,
+                "reply_count": 1,
+                "retweet_count": 1
+            },
+            "reply_settings": "everyone",
+            "text": "The pure lack of self awareness to be dancing with a blue lives matter flag to Rage Against the Machine\u2019s \u201cKilling in the Name\u201d like listen to the lyrics idiots \ud83d\ude02 https://t.co/OJMCIs1fVQ"
+        },
+        {
+            "author_id": "278009058",
+            "conversation_id": "1324905203703803905",
+            "created_at": "2020-11-07T02:43:10.000Z",
+            "edit_history_tweet_ids": [
+                "1324905203703803905"
+            ],
+            "entities": {
+                "mentions": [
+                    {
+                        "end": 14,
+                        "id": "14931637",
+                        "start": 3,
+                        "username": "MattBinder"
+                    }
+                ]
+            },
+            "id": "1324905203703803905",
+            "lang": "en",
+            "public_metrics": {
+                "impression_count": 0,
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 183
+            },
+            "referenced_tweets": [
+                {
+                    "id": "1324896780975284225",
+                    "type": "retweeted"
+                }
+            ],
+            "reply_settings": "everyone",
+            "text": "RT @MattBinder: this lady is singing a rage against the machine song while wearing a blue lives matter flag as a cape https://t.co/t1ROd8q8\u2026"
+        },
+        {
+            "author_id": "1004014931518394368",
+            "conversation_id": "1324905202038829062",
+            "created_at": "2020-11-07T02:43:10.000Z",
+            "edit_history_tweet_ids": [
+                "1324905202038829062"
+            ],
+            "entities": {
+                "urls": [
+                    {
+                        "display_url": "twitter.com/Manny_Alicandr\u2026",
+                        "end": 179,
+                        "expanded_url": "https://twitter.com/Manny_Alicandro/status/1324873929446535169",
+                        "start": 156,
+                        "url": "https://t.co/igjUZOe6H0"
+                    }
+                ]
+            },
+            "id": "1324905202038829062",
+            "lang": "en",
+            "public_metrics": {
+                "impression_count": 0,
+                "like_count": 5,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "reply_settings": "everyone",
+            "text": "gotta love every time these people unknowingly jam out to rage against the machine like they\u2019re not part of the machine we\u2019re supposed to be raging against https://t.co/igjUZOe6H0"
+        },
+        {
+            "author_id": "14871516",
+            "conversation_id": "1324905201455689728",
+            "created_at": "2020-11-07T02:43:10.000Z",
+            "edit_history_tweet_ids": [
+                "1324905201455689728"
+            ],
+            "entities": {
+                "mentions": [
+                    {
+                        "end": 13,
+                        "id": "22743784",
+                        "start": 3,
+                        "username": "lildom911"
+                    }
+                ]
+            },
+            "id": "1324905201455689728",
+            "lang": "en",
+            "public_metrics": {
+                "impression_count": 0,
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 230
+            },
+            "referenced_tweets": [
+                {
+                    "id": "1324898324516761600",
+                    "type": "retweeted"
+                }
+            ],
+            "reply_settings": "everyone",
+            "text": "RT @lildom911: can\u2026 can someone please tell them about rage against the machine"
+        },
+        {
+            "author_id": "981226419043880964",
+            "conversation_id": "1324905196296790016",
+            "created_at": "2020-11-07T02:43:09.000Z",
+            "edit_history_tweet_ids": [
+                "1324905196296790016"
+            ],
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 41,
+                        "normalized_text": "Lars",
+                        "probability": 0.6833,
+                        "start": 38,
+                        "type": "Person"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 19,
+                        "id": "1089273432859164672",
+                        "start": 3,
+                        "username": "NotoriousBIGTIM"
+                    }
+                ]
+            },
+            "id": "1324905196296790016",
+            "lang": "en",
+            "public_metrics": {
+                "impression_count": 0,
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 3
+            },
+            "referenced_tweets": [
+                {
+                    "id": "1324904194281713665",
+                    "type": "retweeted"
+                }
+            ],
+            "reply_settings": "everyone",
+            "text": "RT @NotoriousBIGTIM: They need to ask Lars the real questions, how does he feel about the black people? Was the riots reflective of years o\u2026"
+        },
+        {
+            "author_id": "22219977",
+            "context_annotations": [
+                {
+                    "domain": {
+                        "description": "Named people in the world like Nelson Mandela",
+                        "id": "10",
+                        "name": "Person"
+                    },
+                    "entity": {
+                        "description": "US Representative from New York Alexandria Ocasio-Cortez",
+                        "id": "1011963575089262593",
+                        "name": "Alexandria Ocasio-Cortez"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "Politicians in the world, like Joe Biden",
+                        "id": "35",
+                        "name": "Politician"
+                    },
+                    "entity": {
+                        "description": "US Representative from New York Alexandria Ocasio-Cortez",
+                        "id": "1011963575089262593",
+                        "name": "Alexandria Ocasio-Cortez"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A taxonomy of user interests. ",
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy"
+                    },
+                    "entity": {
+                        "description": "Politics",
+                        "id": "847878884917886977",
+                        "name": "Politics"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A taxonomy of user interests. ",
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy"
+                    },
+                    "entity": {
+                        "description": "US Representative from New York Alexandria Ocasio-Cortez",
+                        "id": "1011963575089262593",
+                        "name": "Alexandria Ocasio-Cortez"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A taxonomy of user interests. ",
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy"
+                    },
+                    "entity": {
+                        "description": "Politician",
+                        "id": "1070032753834438656",
+                        "name": "Political figures"
+                    }
+                }
+            ],
+            "conversation_id": "1324881876201385984",
+            "created_at": "2020-11-07T02:43:08.000Z",
+            "edit_history_tweet_ids": [
+                "1324905195525070848"
+            ],
+            "entities": {
+                "mentions": [
+                    {
+                        "end": 8,
+                        "id": "139827217",
+                        "start": 0,
+                        "username": "Kappy94"
+                    },
+                    {
+                        "end": 13,
+                        "id": "138203134",
+                        "start": 9,
+                        "username": "AOC"
+                    }
+                ]
+            },
+            "id": "1324905195525070848",
+            "in_reply_to_user_id": "22219977",
+            "lang": "en",
+            "public_metrics": {
+                "impression_count": 0,
+                "like_count": 1,
+                "quote_count": 0,
+                "reply_count": 1,
+                "retweet_count": 0
+            },
+            "referenced_tweets": [
+                {
+                    "id": "1324904876250288128",
+                    "type": "replied_to"
+                }
+            ],
+            "reply_settings": "everyone",
+            "text": "@Kappy94 @AOC If moderates want to keep there seats, it looks like they'll have to appease progressives. That means we need to see some real changes in policing and the treatment of immigrants for one. Otherwise the rage in the streets will never go away."
+        },
+        {
+            "author_id": "3124691183",
+            "conversation_id": "1324905191464820737",
+            "created_at": "2020-11-07T02:43:07.000Z",
+            "edit_history_tweet_ids": [
+                "1324905191464820737"
+            ],
+            "entities": {
+                "mentions": [
+                    {
+                        "end": 12,
+                        "id": "15100219",
+                        "start": 3,
+                        "username": "GenePark"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "pic.twitter.com/5zF23OGUUp",
+                        "end": 138,
+                        "expanded_url": "https://twitter.com/GenePark/status/1324898702004269056/video/1",
+                        "media_key": "7_1324898496466612227",
+                        "start": 115,
+                        "url": "https://t.co/5zF23OGUUp"
+                    }
+                ]
+            },
+            "id": "1324905191464820737",
+            "lang": "en",
+            "public_metrics": {
+                "impression_count": 0,
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 6051
+            },
+            "referenced_tweets": [
+                {
+                    "id": "1324898702004269056",
+                    "type": "retweeted"
+                }
+            ],
+            "reply_settings": "everyone",
+            "text": "RT @GenePark: cleansing your TL with a guy listening to rage against the machine for the first time and getting it https://t.co/5zF23OGUUp"
+        }
+    ],
+    "meta": {
+        "newest_id": "1324905580431994880",
+        "next_token": "b26v89c19zqg8o3fosbttywuvpynqwvitswdk3ek1la4d",
+        "oldest_id": "1324905191464820737",
+        "result_count": 89
+    }
+}

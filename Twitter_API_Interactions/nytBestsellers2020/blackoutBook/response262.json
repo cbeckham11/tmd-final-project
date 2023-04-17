@@ -1,0 +1,5153 @@
+{
+    "data": [
+        {
+            "author_id": "365379938",
+            "context_annotations": [
+                {
+                    "domain": {
+                        "description": "A taxonomy of user interests. ",
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy"
+                    },
+                    "entity": {
+                        "id": "1196446161223028736",
+                        "name": "Social media"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "Real world events. ",
+                        "id": "29",
+                        "name": "Events [Entity Service]"
+                    },
+                    "entity": {
+                        "id": "1260821905491152896",
+                        "name": "Misinformation, debunk entity"
+                    }
+                }
+            ],
+            "conversation_id": "1326464188236095490",
+            "created_at": "2020-11-11T09:58:01.000Z",
+            "edit_history_tweet_ids": [
+                "1326464188236095490"
+            ],
+            "entities": {
+                "mentions": [
+                    {
+                        "end": 14,
+                        "id": "40275574",
+                        "start": 3,
+                        "username": "ayosogunro"
+                    }
+                ]
+            },
+            "id": "1326464188236095490",
+            "lang": "en",
+            "public_metrics": {
+                "impression_count": 0,
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 247
+            },
+            "referenced_tweets": [
+                {
+                    "id": "1326254078628945922",
+                    "type": "retweeted"
+                }
+            ],
+            "reply_settings": "everyone",
+            "text": "RT @ayosogunro: I will rather risk the possibility of fake news along with real news available on social media than entertain the idea of g\u2026"
+        },
+        {
+            "author_id": "1664870466",
+            "conversation_id": "1326464180283641857",
+            "created_at": "2020-11-11T09:57:59.000Z",
+            "edit_history_tweet_ids": [
+                "1326464180283641857"
+            ],
+            "entities": {
+                "mentions": [
+                    {
+                        "end": 18,
+                        "id": "3530404094",
+                        "start": 3,
+                        "username": "DavidJHarrisJr"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "davidharrisjr.com/steven/texas-c\u2026",
+                        "end": 59,
+                        "expanded_url": "https://davidharrisjr.com/steven/texas-charges-social-worker-with-134-felony-counts-involving-election-fraud/",
+                        "start": 36,
+                        "url": "https://t.co/NU4e9nCrDI"
+                    }
+                ]
+            },
+            "id": "1326464180283641857",
+            "lang": "en",
+            "public_metrics": {
+                "impression_count": 0,
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 1824
+            },
+            "referenced_tweets": [
+                {
+                    "id": "1326434493020794881",
+                    "type": "retweeted"
+                }
+            ],
+            "reply_settings": "everyone",
+            "text": "RT @DavidJHarrisJr: Media BLACKOUT!\nhttps://t.co/NU4e9nCrDI"
+        },
+        {
+            "author_id": "1352380699",
+            "context_annotations": [
+                {
+                    "domain": {
+                        "description": "Named people in the world like Nelson Mandela",
+                        "id": "10",
+                        "name": "Person"
+                    },
+                    "entity": {
+                        "description": "Halsey",
+                        "id": "807328679797760000",
+                        "name": "Halsey"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "Named people in the world like Nelson Mandela",
+                        "id": "10",
+                        "name": "Person"
+                    },
+                    "entity": {
+                        "description": "Post Malone",
+                        "id": "979116239246127105",
+                        "name": "Post Malone"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "Named people in the world like Nelson Mandela",
+                        "id": "10",
+                        "name": "Person"
+                    },
+                    "entity": {
+                        "id": "1229420774135496704",
+                        "name": "Freya Ridings"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A musician in the world, like Adele or Bob Dylan",
+                        "id": "54",
+                        "name": "Musician"
+                    },
+                    "entity": {
+                        "description": "Halsey",
+                        "id": "807328679797760000",
+                        "name": "Halsey"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A musician in the world, like Adele or Bob Dylan",
+                        "id": "54",
+                        "name": "Musician"
+                    },
+                    "entity": {
+                        "description": "Post Malone",
+                        "id": "979116239246127105",
+                        "name": "Post Malone"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A musician in the world, like Adele or Bob Dylan",
+                        "id": "54",
+                        "name": "Musician"
+                    },
+                    "entity": {
+                        "id": "1229420774135496704",
+                        "name": "Freya Ridings"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A category for a musical style, like Pop, Rock, or Rap",
+                        "id": "55",
+                        "name": "Music Genre"
+                    },
+                    "entity": {
+                        "description": "Pop",
+                        "id": "810938279801470977",
+                        "name": "Pop"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A taxonomy of user interests. ",
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy"
+                    },
+                    "entity": {
+                        "description": "Halsey",
+                        "id": "807328679797760000",
+                        "name": "Halsey"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A taxonomy of user interests. ",
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy"
+                    },
+                    "entity": {
+                        "description": "Hip-Hop/Rap",
+                        "id": "810937888334487552",
+                        "name": "Rap"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A taxonomy of user interests. ",
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy"
+                    },
+                    "entity": {
+                        "description": "Pop",
+                        "id": "810938279801470977",
+                        "name": "Pop"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A taxonomy of user interests. ",
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy"
+                    },
+                    "entity": {
+                        "description": "Music and radio",
+                        "id": "847524658970636288",
+                        "name": "Music"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A taxonomy of user interests. ",
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy"
+                    },
+                    "entity": {
+                        "description": "Post Malone",
+                        "id": "979116239246127105",
+                        "name": "Post Malone"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A taxonomy of user interests. ",
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy"
+                    },
+                    "entity": {
+                        "id": "1291184917221535744",
+                        "name": "Hip hop"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "Named people in the world like Nelson Mandela",
+                        "id": "10",
+                        "name": "Person"
+                    },
+                    "entity": {
+                        "description": "Beyonce",
+                        "id": "806592879661445120",
+                        "name": "Beyonc\u00e9"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A musician in the world, like Adele or Bob Dylan",
+                        "id": "54",
+                        "name": "Musician"
+                    },
+                    "entity": {
+                        "description": "Beyonce",
+                        "id": "806592879661445120",
+                        "name": "Beyonc\u00e9"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A taxonomy of user interests. ",
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy"
+                    },
+                    "entity": {
+                        "description": "Beyonce",
+                        "id": "806592879661445120",
+                        "name": "Beyonc\u00e9"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A taxonomy of user interests. ",
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy"
+                    },
+                    "entity": {
+                        "description": "Pop",
+                        "id": "810938279801470977",
+                        "name": "Pop"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A taxonomy of user interests. ",
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy"
+                    },
+                    "entity": {
+                        "description": "Music and radio",
+                        "id": "847524658970636288",
+                        "name": "Music"
+                    }
+                }
+            ],
+            "conversation_id": "1326436231044079617",
+            "created_at": "2020-11-11T09:57:59.000Z",
+            "edit_history_tweet_ids": [
+                "1326464179465834496"
+            ],
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 34,
+                        "normalized_text": "Fall apart",
+                        "probability": 0.8812,
+                        "start": 25,
+                        "type": "Other"
+                    },
+                    {
+                        "end": 45,
+                        "normalized_text": "Sunflower",
+                        "probability": 0.7645,
+                        "start": 37,
+                        "type": "Other"
+                    },
+                    {
+                        "end": 62,
+                        "normalized_text": "Halo",
+                        "probability": 0.7817,
+                        "start": 59,
+                        "type": "Other"
+                    },
+                    {
+                        "end": 83,
+                        "normalized_text": "Without you",
+                        "probability": 0.6807,
+                        "start": 73,
+                        "type": "Other"
+                    },
+                    {
+                        "end": 98,
+                        "normalized_text": "Freya Ridings",
+                        "probability": 0.8266,
+                        "start": 86,
+                        "type": "Other"
+                    },
+                    {
+                        "end": 108,
+                        "normalized_text": "Blackout",
+                        "probability": 0.8981,
+                        "start": 101,
+                        "type": "Other"
+                    },
+                    {
+                        "end": 120,
+                        "normalized_text": "Alan Walker",
+                        "probability": 0.8929,
+                        "start": 110,
+                        "type": "Person"
+                    },
+                    {
+                        "end": 128,
+                        "normalized_text": "Faded",
+                        "probability": 0.8718,
+                        "start": 124,
+                        "type": "Other"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 10,
+                        "id": "1639172127159975936",
+                        "start": 0,
+                        "username": "dejiimole"
+                    },
+                    {
+                        "end": 22,
+                        "id": "913812620",
+                        "start": 11,
+                        "username": "PostMalone"
+                    },
+                    {
+                        "end": 56,
+                        "id": "31239408",
+                        "start": 48,
+                        "username": "Beyonce"
+                    },
+                    {
+                        "end": 71,
+                        "id": "45709328",
+                        "start": 64,
+                        "username": "halsey"
+                    }
+                ]
+            },
+            "id": "1326464179465834496",
+            "in_reply_to_user_id": "966098301132181505",
+            "lang": "en",
+            "public_metrics": {
+                "impression_count": 0,
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "referenced_tweets": [
+                {
+                    "id": "1326436231044079617",
+                    "type": "replied_to"
+                }
+            ],
+            "reply_settings": "everyone",
+            "text": "@dejiimole @PostMalone - Fall apart, Sunflower \n@Beyonce - Halo\n@Halsey- Without you \nFreya Ridings- Blackout\nAlan Walker - Faded"
+        },
+        {
+            "author_id": "207641704",
+            "conversation_id": "1326464133441740800",
+            "created_at": "2020-11-11T09:57:48.000Z",
+            "edit_history_tweet_ids": [
+                "1326464133441740800"
+            ],
+            "entities": {
+                "mentions": [
+                    {
+                        "end": 18,
+                        "id": "3530404094",
+                        "start": 3,
+                        "username": "DavidJHarrisJr"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "davidharrisjr.com/steven/texas-c\u2026",
+                        "end": 59,
+                        "expanded_url": "https://davidharrisjr.com/steven/texas-charges-social-worker-with-134-felony-counts-involving-election-fraud/",
+                        "start": 36,
+                        "url": "https://t.co/NU4e9nCrDI"
+                    }
+                ]
+            },
+            "id": "1326464133441740800",
+            "lang": "en",
+            "public_metrics": {
+                "impression_count": 0,
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 1824
+            },
+            "referenced_tweets": [
+                {
+                    "id": "1326434493020794881",
+                    "type": "retweeted"
+                }
+            ],
+            "reply_settings": "everyone",
+            "text": "RT @DavidJHarrisJr: Media BLACKOUT!\nhttps://t.co/NU4e9nCrDI"
+        },
+        {
+            "author_id": "1366932752",
+            "conversation_id": "1326464119478874112",
+            "created_at": "2020-11-11T09:57:45.000Z",
+            "edit_history_tweet_ids": [
+                "1326464119478874112"
+            ],
+            "entities": {
+                "mentions": [
+                    {
+                        "end": 18,
+                        "id": "3530404094",
+                        "start": 3,
+                        "username": "DavidJHarrisJr"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "davidharrisjr.com/steven/texas-c\u2026",
+                        "end": 59,
+                        "expanded_url": "https://davidharrisjr.com/steven/texas-charges-social-worker-with-134-felony-counts-involving-election-fraud/",
+                        "start": 36,
+                        "url": "https://t.co/NU4e9nCrDI"
+                    }
+                ]
+            },
+            "id": "1326464119478874112",
+            "lang": "en",
+            "public_metrics": {
+                "impression_count": 0,
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 1824
+            },
+            "referenced_tweets": [
+                {
+                    "id": "1326434493020794881",
+                    "type": "retweeted"
+                }
+            ],
+            "reply_settings": "everyone",
+            "text": "RT @DavidJHarrisJr: Media BLACKOUT!\nhttps://t.co/NU4e9nCrDI"
+        },
+        {
+            "author_id": "1270510597",
+            "conversation_id": "1326464060687347712",
+            "created_at": "2020-11-11T09:57:31.000Z",
+            "edit_history_tweet_ids": [
+                "1326464060687347712"
+            ],
+            "entities": {
+                "mentions": [
+                    {
+                        "end": 18,
+                        "id": "3530404094",
+                        "start": 3,
+                        "username": "DavidJHarrisJr"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "davidharrisjr.com/steven/texas-c\u2026",
+                        "end": 59,
+                        "expanded_url": "https://davidharrisjr.com/steven/texas-charges-social-worker-with-134-felony-counts-involving-election-fraud/",
+                        "start": 36,
+                        "url": "https://t.co/NU4e9nCrDI"
+                    }
+                ]
+            },
+            "id": "1326464060687347712",
+            "lang": "en",
+            "public_metrics": {
+                "impression_count": 0,
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 1824
+            },
+            "referenced_tweets": [
+                {
+                    "id": "1326434493020794881",
+                    "type": "retweeted"
+                }
+            ],
+            "reply_settings": "everyone",
+            "text": "RT @DavidJHarrisJr: Media BLACKOUT!\nhttps://t.co/NU4e9nCrDI"
+        },
+        {
+            "author_id": "177801089",
+            "conversation_id": "1326455018552258560",
+            "created_at": "2020-11-11T09:57:31.000Z",
+            "edit_history_tweet_ids": [
+                "1326464059756191744"
+            ],
+            "entities": {
+                "mentions": [
+                    {
+                        "end": 13,
+                        "id": "249739824",
+                        "start": 0,
+                        "username": "putintintin1"
+                    }
+                ]
+            },
+            "id": "1326464059756191744",
+            "in_reply_to_user_id": "249739824",
+            "lang": "en",
+            "public_metrics": {
+                "impression_count": 0,
+                "like_count": 1,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "referenced_tweets": [
+                {
+                    "id": "1326463905682567168",
+                    "type": "replied_to"
+                }
+            ],
+            "reply_settings": "everyone",
+            "text": "@putintintin1 Yep and a media blackout as well."
+        },
+        {
+            "author_id": "41095525",
+            "conversation_id": "1326464002159939585",
+            "created_at": "2020-11-11T09:57:17.000Z",
+            "edit_history_tweet_ids": [
+                "1326464002159939585"
+            ],
+            "entities": {
+                "mentions": [
+                    {
+                        "end": 18,
+                        "id": "3530404094",
+                        "start": 3,
+                        "username": "DavidJHarrisJr"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "davidharrisjr.com/steven/texas-c\u2026",
+                        "end": 59,
+                        "expanded_url": "https://davidharrisjr.com/steven/texas-charges-social-worker-with-134-felony-counts-involving-election-fraud/",
+                        "start": 36,
+                        "url": "https://t.co/NU4e9nCrDI"
+                    }
+                ]
+            },
+            "id": "1326464002159939585",
+            "lang": "en",
+            "public_metrics": {
+                "impression_count": 0,
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 1824
+            },
+            "referenced_tweets": [
+                {
+                    "id": "1326434493020794881",
+                    "type": "retweeted"
+                }
+            ],
+            "reply_settings": "everyone",
+            "text": "RT @DavidJHarrisJr: Media BLACKOUT!\nhttps://t.co/NU4e9nCrDI"
+        },
+        {
+            "author_id": "260342450",
+            "conversation_id": "1326463969142386689",
+            "created_at": "2020-11-11T09:57:09.000Z",
+            "edit_history_tweet_ids": [
+                "1326463969142386689"
+            ],
+            "entities": {
+                "mentions": [
+                    {
+                        "end": 18,
+                        "id": "3530404094",
+                        "start": 3,
+                        "username": "DavidJHarrisJr"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "davidharrisjr.com/steven/texas-c\u2026",
+                        "end": 59,
+                        "expanded_url": "https://davidharrisjr.com/steven/texas-charges-social-worker-with-134-felony-counts-involving-election-fraud/",
+                        "start": 36,
+                        "url": "https://t.co/NU4e9nCrDI"
+                    }
+                ]
+            },
+            "id": "1326463969142386689",
+            "lang": "en",
+            "public_metrics": {
+                "impression_count": 0,
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 1824
+            },
+            "referenced_tweets": [
+                {
+                    "id": "1326434493020794881",
+                    "type": "retweeted"
+                }
+            ],
+            "reply_settings": "everyone",
+            "text": "RT @DavidJHarrisJr: Media BLACKOUT!\nhttps://t.co/NU4e9nCrDI"
+        },
+        {
+            "author_id": "1243717231583703040",
+            "context_annotations": [
+                {
+                    "domain": {
+                        "description": "Named people in the world like Nelson Mandela",
+                        "id": "10",
+                        "name": "Person"
+                    },
+                    "entity": {
+                        "description": "Fran\u00e7ois Asselineau",
+                        "id": "840172768968691714",
+                        "name": "Fran\u00e7ois Asselineau"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "Politicians in the world, like Joe Biden",
+                        "id": "35",
+                        "name": "Politician"
+                    },
+                    "entity": {
+                        "description": "Fran\u00e7ois Asselineau",
+                        "id": "840172768968691714",
+                        "name": "Fran\u00e7ois Asselineau"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A taxonomy of user interests. ",
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy"
+                    },
+                    "entity": {
+                        "description": "Fran\u00e7ois Asselineau",
+                        "id": "840172768968691714",
+                        "name": "Fran\u00e7ois Asselineau"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A taxonomy of user interests. ",
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy"
+                    },
+                    "entity": {
+                        "description": "Politics",
+                        "id": "847878884917886977",
+                        "name": "Politics"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A taxonomy of user interests. ",
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy"
+                    },
+                    "entity": {
+                        "description": "Politician",
+                        "id": "1070032753834438656",
+                        "name": "Political figures"
+                    }
+                }
+            ],
+            "conversation_id": "1326425074480652288",
+            "created_at": "2020-11-11T09:57:02.000Z",
+            "edit_history_tweet_ids": [
+                "1326463938150629377"
+            ],
+            "entities": {
+                "mentions": [
+                    {
+                        "end": 11,
+                        "id": "556441692",
+                        "start": 0,
+                        "username": "JeremyAnso"
+                    },
+                    {
+                        "end": 23,
+                        "id": "1131852846184435712",
+                        "start": 12,
+                        "username": "tradefutur"
+                    },
+                    {
+                        "end": 37,
+                        "id": "1249050892835475456",
+                        "start": 24,
+                        "username": "PublicGringo"
+                    }
+                ]
+            },
+            "id": "1326463938150629377",
+            "in_reply_to_user_id": "556441692",
+            "lang": "fr",
+            "public_metrics": {
+                "impression_count": 0,
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "referenced_tweets": [
+                {
+                    "id": "1326450932603736065",
+                    "type": "replied_to"
+                }
+            ],
+            "reply_settings": "everyone",
+            "text": "@JeremyAnso @tradefutur @PublicGringo en m\u00e9dias FR alternatifs il y a TVL, RT France et Asselineau qui en parlent, sinon blackout"
+        },
+        {
+            "author_id": "71301453",
+            "conversation_id": "1326463901605777410",
+            "created_at": "2020-11-11T09:56:53.000Z",
+            "edit_history_tweet_ids": [
+                "1326463901605777410"
+            ],
+            "entities": {
+                "mentions": [
+                    {
+                        "end": 18,
+                        "id": "1000002094592557058",
+                        "start": 3,
+                        "username": "CoutinhoSalome"
+                    }
+                ]
+            },
+            "id": "1326463901605777410",
+            "lang": "en",
+            "public_metrics": {
+                "impression_count": 0,
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 2
+            },
+            "referenced_tweets": [
+                {
+                    "id": "1326463321881645057",
+                    "type": "retweeted"
+                }
+            ],
+            "reply_settings": "everyone",
+            "text": "RT @CoutinhoSalome: \"I waited for something, but something died\nSo I waited for nothing, and nothing arrived\nIt's our dearest ally, it's ou\u2026"
+        },
+        {
+            "author_id": "4241457554",
+            "conversation_id": "1326463860119908352",
+            "created_at": "2020-11-11T09:56:43.000Z",
+            "edit_history_tweet_ids": [
+                "1326463860119908352"
+            ],
+            "entities": {
+                "mentions": [
+                    {
+                        "end": 18,
+                        "id": "3530404094",
+                        "start": 3,
+                        "username": "DavidJHarrisJr"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "davidharrisjr.com/steven/texas-c\u2026",
+                        "end": 59,
+                        "expanded_url": "https://davidharrisjr.com/steven/texas-charges-social-worker-with-134-felony-counts-involving-election-fraud/",
+                        "start": 36,
+                        "url": "https://t.co/NU4e9nCrDI"
+                    }
+                ]
+            },
+            "id": "1326463860119908352",
+            "lang": "en",
+            "public_metrics": {
+                "impression_count": 0,
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 1824
+            },
+            "referenced_tweets": [
+                {
+                    "id": "1326434493020794881",
+                    "type": "retweeted"
+                }
+            ],
+            "reply_settings": "everyone",
+            "text": "RT @DavidJHarrisJr: Media BLACKOUT!\nhttps://t.co/NU4e9nCrDI"
+        },
+        {
+            "author_id": "1293352430055432192",
+            "conversation_id": "1326463850473025537",
+            "created_at": "2020-11-11T09:56:41.000Z",
+            "edit_history_tweet_ids": [
+                "1326463850473025537"
+            ],
+            "entities": {
+                "mentions": [
+                    {
+                        "end": 18,
+                        "id": "3530404094",
+                        "start": 3,
+                        "username": "DavidJHarrisJr"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "davidharrisjr.com/steven/texas-c\u2026",
+                        "end": 59,
+                        "expanded_url": "https://davidharrisjr.com/steven/texas-charges-social-worker-with-134-felony-counts-involving-election-fraud/",
+                        "start": 36,
+                        "url": "https://t.co/NU4e9nCrDI"
+                    }
+                ]
+            },
+            "id": "1326463850473025537",
+            "lang": "en",
+            "public_metrics": {
+                "impression_count": 0,
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 1824
+            },
+            "referenced_tweets": [
+                {
+                    "id": "1326434493020794881",
+                    "type": "retweeted"
+                }
+            ],
+            "reply_settings": "everyone",
+            "text": "RT @DavidJHarrisJr: Media BLACKOUT!\nhttps://t.co/NU4e9nCrDI"
+        },
+        {
+            "author_id": "1286522135834484739",
+            "context_annotations": [
+                {
+                    "domain": {
+                        "description": "A taxonomy of user interests. ",
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy"
+                    },
+                    "entity": {
+                        "description": "Television",
+                        "id": "1072937043393560576",
+                        "name": "Television"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A taxonomy of user interests. ",
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy"
+                    },
+                    "entity": {
+                        "id": "1276514328007467008",
+                        "name": "Movies & TV"
+                    }
+                }
+            ],
+            "conversation_id": "1326234961901457408",
+            "created_at": "2020-11-11T09:56:37.000Z",
+            "edit_history_tweet_ids": [
+                "1326463835709071361"
+            ],
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 186,
+                        "normalized_text": "musharaf",
+                        "probability": 0.7277,
+                        "start": 179,
+                        "type": "Person"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 13,
+                        "id": "1547597900",
+                        "start": 0,
+                        "username": "TheHaqMaster"
+                    }
+                ]
+            },
+            "id": "1326463835709071361",
+            "in_reply_to_user_id": "1547597900",
+            "lang": "en",
+            "public_metrics": {
+                "impression_count": 0,
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 2,
+                "retweet_count": 0
+            },
+            "referenced_tweets": [
+                {
+                    "id": "1326234961901457408",
+                    "type": "replied_to"
+                }
+            ],
+            "reply_settings": "everyone",
+            "text": "@TheHaqMaster There were protests all around the country but since the media was blackout, none was shown on TV. Even if ur statement is true (which is not ofc) that doesn't make musharaf's action justified. He's the only certified traitor in our history."
+        },
+        {
+            "author_id": "767057510150922241",
+            "conversation_id": "1326463813105852422",
+            "created_at": "2020-11-11T09:56:32.000Z",
+            "edit_history_tweet_ids": [
+                "1326463813105852422"
+            ],
+            "entities": {
+                "mentions": [
+                    {
+                        "end": 18,
+                        "id": "3530404094",
+                        "start": 3,
+                        "username": "DavidJHarrisJr"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "davidharrisjr.com/steven/texas-c\u2026",
+                        "end": 59,
+                        "expanded_url": "https://davidharrisjr.com/steven/texas-charges-social-worker-with-134-felony-counts-involving-election-fraud/",
+                        "start": 36,
+                        "url": "https://t.co/NU4e9nCrDI"
+                    }
+                ]
+            },
+            "id": "1326463813105852422",
+            "lang": "en",
+            "public_metrics": {
+                "impression_count": 0,
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 1824
+            },
+            "referenced_tweets": [
+                {
+                    "id": "1326434493020794881",
+                    "type": "retweeted"
+                }
+            ],
+            "reply_settings": "everyone",
+            "text": "RT @DavidJHarrisJr: Media BLACKOUT!\nhttps://t.co/NU4e9nCrDI"
+        },
+        {
+            "author_id": "1239900993489428480",
+            "conversation_id": "1326463587238342656",
+            "created_at": "2020-11-11T09:55:38.000Z",
+            "edit_history_tweet_ids": [
+                "1326463587238342656"
+            ],
+            "entities": {
+                "mentions": [
+                    {
+                        "end": 18,
+                        "id": "3530404094",
+                        "start": 3,
+                        "username": "DavidJHarrisJr"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "davidharrisjr.com/steven/texas-c\u2026",
+                        "end": 59,
+                        "expanded_url": "https://davidharrisjr.com/steven/texas-charges-social-worker-with-134-felony-counts-involving-election-fraud/",
+                        "start": 36,
+                        "url": "https://t.co/NU4e9nCrDI"
+                    }
+                ]
+            },
+            "id": "1326463587238342656",
+            "lang": "en",
+            "public_metrics": {
+                "impression_count": 0,
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 1824
+            },
+            "referenced_tweets": [
+                {
+                    "id": "1326434493020794881",
+                    "type": "retweeted"
+                }
+            ],
+            "reply_settings": "everyone",
+            "text": "RT @DavidJHarrisJr: Media BLACKOUT!\nhttps://t.co/NU4e9nCrDI"
+        },
+        {
+            "author_id": "733231046",
+            "context_annotations": [
+                {
+                    "domain": {
+                        "description": "A taxonomy of user interests. ",
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy"
+                    },
+                    "entity": {
+                        "id": "1196446161223028736",
+                        "name": "Social media"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "Real world events. ",
+                        "id": "29",
+                        "name": "Events [Entity Service]"
+                    },
+                    "entity": {
+                        "id": "1260821905491152896",
+                        "name": "Misinformation, debunk entity"
+                    }
+                }
+            ],
+            "conversation_id": "1326463430652530690",
+            "created_at": "2020-11-11T09:55:01.000Z",
+            "edit_history_tweet_ids": [
+                "1326463430652530690"
+            ],
+            "entities": {
+                "mentions": [
+                    {
+                        "end": 14,
+                        "id": "40275574",
+                        "start": 3,
+                        "username": "ayosogunro"
+                    }
+                ]
+            },
+            "id": "1326463430652530690",
+            "lang": "en",
+            "public_metrics": {
+                "impression_count": 0,
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 247
+            },
+            "referenced_tweets": [
+                {
+                    "id": "1326254078628945922",
+                    "type": "retweeted"
+                }
+            ],
+            "reply_settings": "everyone",
+            "text": "RT @ayosogunro: I will rather risk the possibility of fake news along with real news available on social media than entertain the idea of g\u2026"
+        },
+        {
+            "author_id": "1000002094592557058",
+            "conversation_id": "1326463321881645057",
+            "created_at": "2020-11-11T09:54:35.000Z",
+            "edit_history_tweet_ids": [
+                "1326463321881645057"
+            ],
+            "id": "1326463321881645057",
+            "lang": "en",
+            "public_metrics": {
+                "impression_count": 0,
+                "like_count": 1,
+                "quote_count": 0,
+                "reply_count": 1,
+                "retweet_count": 2
+            },
+            "reply_settings": "everyone",
+            "text": "\"I waited for something, but something died\nSo I waited for nothing, and nothing arrived\nIt's our dearest ally, it's our closest friend\nIt's our darkest blackout, it's our final end\nMy dear sweet nothing, let's start anew\nFrom here on in, it's just me and you\""
+        },
+        {
+            "author_id": "381675632",
+            "conversation_id": "1326463311274258433",
+            "created_at": "2020-11-11T09:54:32.000Z",
+            "edit_history_tweet_ids": [
+                "1326463311274258433"
+            ],
+            "entities": {
+                "mentions": [
+                    {
+                        "end": 18,
+                        "id": "3530404094",
+                        "start": 3,
+                        "username": "DavidJHarrisJr"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "davidharrisjr.com/steven/texas-c\u2026",
+                        "end": 59,
+                        "expanded_url": "https://davidharrisjr.com/steven/texas-charges-social-worker-with-134-felony-counts-involving-election-fraud/",
+                        "start": 36,
+                        "url": "https://t.co/NU4e9nCrDI"
+                    }
+                ]
+            },
+            "id": "1326463311274258433",
+            "lang": "en",
+            "public_metrics": {
+                "impression_count": 0,
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 1824
+            },
+            "referenced_tweets": [
+                {
+                    "id": "1326434493020794881",
+                    "type": "retweeted"
+                }
+            ],
+            "reply_settings": "everyone",
+            "text": "RT @DavidJHarrisJr: Media BLACKOUT!\nhttps://t.co/NU4e9nCrDI"
+        },
+        {
+            "author_id": "1308787913765916675",
+            "conversation_id": "1326463269482213376",
+            "created_at": "2020-11-11T09:54:22.000Z",
+            "edit_history_tweet_ids": [
+                "1326463269482213376"
+            ],
+            "entities": {
+                "mentions": [
+                    {
+                        "end": 18,
+                        "id": "3530404094",
+                        "start": 3,
+                        "username": "DavidJHarrisJr"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "davidharrisjr.com/steven/texas-c\u2026",
+                        "end": 59,
+                        "expanded_url": "https://davidharrisjr.com/steven/texas-charges-social-worker-with-134-felony-counts-involving-election-fraud/",
+                        "start": 36,
+                        "url": "https://t.co/NU4e9nCrDI"
+                    }
+                ]
+            },
+            "id": "1326463269482213376",
+            "lang": "en",
+            "public_metrics": {
+                "impression_count": 0,
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 1824
+            },
+            "referenced_tweets": [
+                {
+                    "id": "1326434493020794881",
+                    "type": "retweeted"
+                }
+            ],
+            "reply_settings": "everyone",
+            "text": "RT @DavidJHarrisJr: Media BLACKOUT!\nhttps://t.co/NU4e9nCrDI"
+        },
+        {
+            "author_id": "947271257149583361",
+            "conversation_id": "1326463206668296192",
+            "created_at": "2020-11-11T09:54:07.000Z",
+            "edit_history_tweet_ids": [
+                "1326463206668296192"
+            ],
+            "entities": {
+                "mentions": [
+                    {
+                        "end": 18,
+                        "id": "3530404094",
+                        "start": 3,
+                        "username": "DavidJHarrisJr"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "davidharrisjr.com/steven/texas-c\u2026",
+                        "end": 59,
+                        "expanded_url": "https://davidharrisjr.com/steven/texas-charges-social-worker-with-134-felony-counts-involving-election-fraud/",
+                        "start": 36,
+                        "url": "https://t.co/NU4e9nCrDI"
+                    }
+                ]
+            },
+            "id": "1326463206668296192",
+            "lang": "en",
+            "public_metrics": {
+                "impression_count": 0,
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 1824
+            },
+            "referenced_tweets": [
+                {
+                    "id": "1326434493020794881",
+                    "type": "retweeted"
+                }
+            ],
+            "reply_settings": "everyone",
+            "text": "RT @DavidJHarrisJr: Media BLACKOUT!\nhttps://t.co/NU4e9nCrDI"
+        },
+        {
+            "author_id": "792680801183956992",
+            "context_annotations": [
+                {
+                    "domain": {
+                        "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+                        "id": "30",
+                        "name": "Entities [Entity Service]"
+                    },
+                    "entity": {
+                        "id": "781974596752842752",
+                        "name": "Services"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "Brands and Companies",
+                        "id": "47",
+                        "name": "Brand"
+                    },
+                    "entity": {
+                        "id": "10029202045",
+                        "name": "Facebook"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A taxonomy of user interests. ",
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy"
+                    },
+                    "entity": {
+                        "id": "10029202045",
+                        "name": "Facebook"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A taxonomy of user interests. ",
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy"
+                    },
+                    "entity": {
+                        "id": "1196446161223028736",
+                        "name": "Social media"
+                    }
+                }
+            ],
+            "conversation_id": "1326435581556105216",
+            "created_at": "2020-11-11T09:53:59.000Z",
+            "edit_history_tweet_ids": [
+                "1326463170551148544"
+            ],
+            "entities": {
+                "mentions": [
+                    {
+                        "end": 12,
+                        "id": "1241658090216439813",
+                        "start": 0,
+                        "username": "perrin_nini"
+                    }
+                ]
+            },
+            "id": "1326463170551148544",
+            "in_reply_to_user_id": "1241658090216439813",
+            "lang": "fr",
+            "public_metrics": {
+                "impression_count": 0,
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "referenced_tweets": [
+                {
+                    "id": "1326451406748999681",
+                    "type": "replied_to"
+                }
+            ],
+            "reply_settings": "everyone",
+            "text": "@perrin_nini @biobiobiobior Et tous ces lobotomis\u00e9s qui ne voient rien venir alors que tu essaies en vain de les avertir de ce qui vient...va peut \u00eatre falloir pr\u00e9voir de s'organiser localement ! si il survient un blackout, on aura tous l'air fin avec nos comptes twiter, FB et autres !"
+        },
+        {
+            "author_id": "883280690179063808",
+            "conversation_id": "1326463150401728512",
+            "created_at": "2020-11-11T09:53:54.000Z",
+            "edit_history_tweet_ids": [
+                "1326463150401728512"
+            ],
+            "entities": {
+                "mentions": [
+                    {
+                        "end": 18,
+                        "id": "3530404094",
+                        "start": 3,
+                        "username": "DavidJHarrisJr"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "davidharrisjr.com/steven/texas-c\u2026",
+                        "end": 59,
+                        "expanded_url": "https://davidharrisjr.com/steven/texas-charges-social-worker-with-134-felony-counts-involving-election-fraud/",
+                        "start": 36,
+                        "url": "https://t.co/NU4e9nCrDI"
+                    }
+                ]
+            },
+            "id": "1326463150401728512",
+            "lang": "en",
+            "public_metrics": {
+                "impression_count": 0,
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 1824
+            },
+            "referenced_tweets": [
+                {
+                    "id": "1326434493020794881",
+                    "type": "retweeted"
+                }
+            ],
+            "reply_settings": "everyone",
+            "text": "RT @DavidJHarrisJr: Media BLACKOUT!\nhttps://t.co/NU4e9nCrDI"
+        },
+        {
+            "author_id": "703662196681789443",
+            "conversation_id": "1326463110044061697",
+            "created_at": "2020-11-11T09:53:44.000Z",
+            "edit_history_tweet_ids": [
+                "1326463110044061697"
+            ],
+            "entities": {
+                "mentions": [
+                    {
+                        "end": 18,
+                        "id": "3530404094",
+                        "start": 3,
+                        "username": "DavidJHarrisJr"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "davidharrisjr.com/steven/texas-c\u2026",
+                        "end": 59,
+                        "expanded_url": "https://davidharrisjr.com/steven/texas-charges-social-worker-with-134-felony-counts-involving-election-fraud/",
+                        "start": 36,
+                        "url": "https://t.co/NU4e9nCrDI"
+                    }
+                ]
+            },
+            "id": "1326463110044061697",
+            "lang": "en",
+            "public_metrics": {
+                "impression_count": 0,
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 1824
+            },
+            "referenced_tweets": [
+                {
+                    "id": "1326434493020794881",
+                    "type": "retweeted"
+                }
+            ],
+            "reply_settings": "everyone",
+            "text": "RT @DavidJHarrisJr: Media BLACKOUT!\nhttps://t.co/NU4e9nCrDI"
+        },
+        {
+            "author_id": "584677942",
+            "context_annotations": [
+                {
+                    "domain": {
+                        "description": "Brands and Companies",
+                        "id": "47",
+                        "name": "Brand"
+                    },
+                    "entity": {
+                        "description": "Agence France-Presse",
+                        "id": "1066096626152828928",
+                        "name": "Agence France-Presse"
+                    }
+                }
+            ],
+            "conversation_id": "1326462892955328512",
+            "created_at": "2020-11-11T09:52:52.000Z",
+            "edit_history_tweet_ids": [
+                "1326462892955328512"
+            ],
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 45,
+                        "normalized_text": "Ethiopia",
+                        "probability": 0.9716,
+                        "start": 38,
+                        "type": "Place"
+                    },
+                    {
+                        "end": 137,
+                        "normalized_text": "Addis",
+                        "probability": 0.831,
+                        "start": 133,
+                        "type": "Place"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 14,
+                        "id": "366444204",
+                        "start": 3,
+                        "username": "nickeperry"
+                    },
+                    {
+                        "end": 59,
+                        "id": "380648579",
+                        "start": 55,
+                        "username": "AFP"
+                    }
+                ]
+            },
+            "id": "1326462892955328512",
+            "lang": "en",
+            "public_metrics": {
+                "impression_count": 0,
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 6
+            },
+            "referenced_tweets": [
+                {
+                    "id": "1326409398344970248",
+                    "type": "retweeted"
+                }
+            ],
+            "reply_settings": "everyone",
+            "text": "RT @nickeperry: Update on conflict in Ethiopia's north @AFP:\n* Communications blackout means difficult to verify competing claims;\n* Addis\u2026"
+        },
+        {
+            "author_id": "179990424",
+            "context_annotations": [
+                {
+                    "domain": {
+                        "description": "A taxonomy of user interests. ",
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy"
+                    },
+                    "entity": {
+                        "id": "1196446161223028736",
+                        "name": "Social media"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "Real world events. ",
+                        "id": "29",
+                        "name": "Events [Entity Service]"
+                    },
+                    "entity": {
+                        "id": "1260821905491152896",
+                        "name": "Misinformation, debunk entity"
+                    }
+                }
+            ],
+            "conversation_id": "1326462853579149313",
+            "created_at": "2020-11-11T09:52:43.000Z",
+            "edit_history_tweet_ids": [
+                "1326462853579149313"
+            ],
+            "entities": {
+                "mentions": [
+                    {
+                        "end": 14,
+                        "id": "40275574",
+                        "start": 3,
+                        "username": "ayosogunro"
+                    }
+                ]
+            },
+            "id": "1326462853579149313",
+            "lang": "en",
+            "public_metrics": {
+                "impression_count": 0,
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 247
+            },
+            "referenced_tweets": [
+                {
+                    "id": "1326254078628945922",
+                    "type": "retweeted"
+                }
+            ],
+            "reply_settings": "everyone",
+            "text": "RT @ayosogunro: I will rather risk the possibility of fake news along with real news available on social media than entertain the idea of g\u2026"
+        },
+        {
+            "author_id": "2331312164",
+            "conversation_id": "1326462814081347584",
+            "created_at": "2020-11-11T09:52:34.000Z",
+            "edit_history_tweet_ids": [
+                "1326462814081347584"
+            ],
+            "entities": {
+                "mentions": [
+                    {
+                        "end": 18,
+                        "id": "3530404094",
+                        "start": 3,
+                        "username": "DavidJHarrisJr"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "davidharrisjr.com/steven/texas-c\u2026",
+                        "end": 59,
+                        "expanded_url": "https://davidharrisjr.com/steven/texas-charges-social-worker-with-134-felony-counts-involving-election-fraud/",
+                        "start": 36,
+                        "url": "https://t.co/NU4e9nCrDI"
+                    }
+                ]
+            },
+            "id": "1326462814081347584",
+            "lang": "en",
+            "public_metrics": {
+                "impression_count": 0,
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 1824
+            },
+            "referenced_tweets": [
+                {
+                    "id": "1326434493020794881",
+                    "type": "retweeted"
+                }
+            ],
+            "reply_settings": "everyone",
+            "text": "RT @DavidJHarrisJr: Media BLACKOUT!\nhttps://t.co/NU4e9nCrDI"
+        },
+        {
+            "author_id": "15250273",
+            "context_annotations": [
+                {
+                    "domain": {
+                        "description": "Brands and Companies",
+                        "id": "47",
+                        "name": "Brand"
+                    },
+                    "entity": {
+                        "id": "1138483931286626305",
+                        "name": "Folha de S\u00e3o Paulo"
+                    }
+                }
+            ],
+            "conversation_id": "1326462782833909760",
+            "created_at": "2020-11-11T09:52:26.000Z",
+            "edit_history_tweet_ids": [
+                "1326462782833909760"
+            ],
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 83,
+                        "normalized_text": "Macap\u00e1 Metropolitan Region",
+                        "probability": 0.9064,
+                        "start": 58,
+                        "type": "Place"
+                    }
+                ],
+                "hashtags": [
+                    {
+                        "end": 38,
+                        "start": 27,
+                        "tag": "quilombola"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 12,
+                        "id": "138492825",
+                        "start": 3,
+                        "username": "proindio"
+                    },
+                    {
+                        "end": 117,
+                        "id": "14594813",
+                        "start": 111,
+                        "username": "folha"
+                    }
+                ]
+            },
+            "id": "1326462782833909760",
+            "lang": "en",
+            "public_metrics": {
+                "impression_count": 0,
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 6
+            },
+            "referenced_tweets": [
+                {
+                    "id": "1326460931925225472",
+                    "type": "retweeted"
+                }
+            ],
+            "reply_settings": "everyone",
+            "text": "RT @proindio: More than 20 #quilombola communities in the Macap\u00e1 Metropolitan Region remain without power. Via @folha https://t.co/zjmNLBEg\u2026"
+        },
+        {
+            "author_id": "159494523",
+            "conversation_id": "1326462709932634112",
+            "created_at": "2020-11-11T09:52:09.000Z",
+            "edit_history_tweet_ids": [
+                "1326462709932634112"
+            ],
+            "entities": {
+                "mentions": [
+                    {
+                        "end": 18,
+                        "id": "3530404094",
+                        "start": 3,
+                        "username": "DavidJHarrisJr"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "davidharrisjr.com/steven/texas-c\u2026",
+                        "end": 59,
+                        "expanded_url": "https://davidharrisjr.com/steven/texas-charges-social-worker-with-134-felony-counts-involving-election-fraud/",
+                        "start": 36,
+                        "url": "https://t.co/NU4e9nCrDI"
+                    }
+                ]
+            },
+            "id": "1326462709932634112",
+            "lang": "en",
+            "public_metrics": {
+                "impression_count": 0,
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 1824
+            },
+            "referenced_tweets": [
+                {
+                    "id": "1326434493020794881",
+                    "type": "retweeted"
+                }
+            ],
+            "reply_settings": "everyone",
+            "text": "RT @DavidJHarrisJr: Media BLACKOUT!\nhttps://t.co/NU4e9nCrDI"
+        },
+        {
+            "author_id": "435488360",
+            "conversation_id": "1326462682451513344",
+            "created_at": "2020-11-11T09:52:02.000Z",
+            "edit_history_tweet_ids": [
+                "1326462682451513344"
+            ],
+            "entities": {
+                "mentions": [
+                    {
+                        "end": 18,
+                        "id": "3530404094",
+                        "start": 3,
+                        "username": "DavidJHarrisJr"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "davidharrisjr.com/steven/texas-c\u2026",
+                        "end": 59,
+                        "expanded_url": "https://davidharrisjr.com/steven/texas-charges-social-worker-with-134-felony-counts-involving-election-fraud/",
+                        "start": 36,
+                        "url": "https://t.co/NU4e9nCrDI"
+                    }
+                ]
+            },
+            "id": "1326462682451513344",
+            "lang": "en",
+            "public_metrics": {
+                "impression_count": 0,
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 1824
+            },
+            "referenced_tweets": [
+                {
+                    "id": "1326434493020794881",
+                    "type": "retweeted"
+                }
+            ],
+            "reply_settings": "everyone",
+            "text": "RT @DavidJHarrisJr: Media BLACKOUT!\nhttps://t.co/NU4e9nCrDI"
+        },
+        {
+            "author_id": "35945807",
+            "conversation_id": "1326462675686223872",
+            "created_at": "2020-11-11T09:52:01.000Z",
+            "edit_history_tweet_ids": [
+                "1326462675686223872"
+            ],
+            "entities": {
+                "mentions": [
+                    {
+                        "end": 18,
+                        "id": "3530404094",
+                        "start": 3,
+                        "username": "DavidJHarrisJr"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "davidharrisjr.com/steven/texas-c\u2026",
+                        "end": 59,
+                        "expanded_url": "https://davidharrisjr.com/steven/texas-charges-social-worker-with-134-felony-counts-involving-election-fraud/",
+                        "start": 36,
+                        "url": "https://t.co/NU4e9nCrDI"
+                    }
+                ]
+            },
+            "id": "1326462675686223872",
+            "lang": "en",
+            "public_metrics": {
+                "impression_count": 0,
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 1824
+            },
+            "referenced_tweets": [
+                {
+                    "id": "1326434493020794881",
+                    "type": "retweeted"
+                }
+            ],
+            "reply_settings": "everyone",
+            "text": "RT @DavidJHarrisJr: Media BLACKOUT!\nhttps://t.co/NU4e9nCrDI"
+        },
+        {
+            "author_id": "370044874",
+            "conversation_id": "1326462654903320576",
+            "created_at": "2020-11-11T09:51:56.000Z",
+            "edit_history_tweet_ids": [
+                "1326462654903320576"
+            ],
+            "entities": {
+                "mentions": [
+                    {
+                        "end": 18,
+                        "id": "3530404094",
+                        "start": 3,
+                        "username": "DavidJHarrisJr"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "davidharrisjr.com/steven/texas-c\u2026",
+                        "end": 59,
+                        "expanded_url": "https://davidharrisjr.com/steven/texas-charges-social-worker-with-134-felony-counts-involving-election-fraud/",
+                        "start": 36,
+                        "url": "https://t.co/NU4e9nCrDI"
+                    }
+                ]
+            },
+            "id": "1326462654903320576",
+            "lang": "en",
+            "public_metrics": {
+                "impression_count": 0,
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 1824
+            },
+            "referenced_tweets": [
+                {
+                    "id": "1326434493020794881",
+                    "type": "retweeted"
+                }
+            ],
+            "reply_settings": "everyone",
+            "text": "RT @DavidJHarrisJr: Media BLACKOUT!\nhttps://t.co/NU4e9nCrDI"
+        },
+        {
+            "author_id": "41509298",
+            "conversation_id": "1326462572518895616",
+            "created_at": "2020-11-11T09:51:36.000Z",
+            "edit_history_tweet_ids": [
+                "1326462572518895616"
+            ],
+            "entities": {
+                "mentions": [
+                    {
+                        "end": 18,
+                        "id": "3530404094",
+                        "start": 3,
+                        "username": "DavidJHarrisJr"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "davidharrisjr.com/steven/texas-c\u2026",
+                        "end": 59,
+                        "expanded_url": "https://davidharrisjr.com/steven/texas-charges-social-worker-with-134-felony-counts-involving-election-fraud/",
+                        "start": 36,
+                        "url": "https://t.co/NU4e9nCrDI"
+                    }
+                ]
+            },
+            "id": "1326462572518895616",
+            "lang": "en",
+            "public_metrics": {
+                "impression_count": 0,
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 1824
+            },
+            "referenced_tweets": [
+                {
+                    "id": "1326434493020794881",
+                    "type": "retweeted"
+                }
+            ],
+            "reply_settings": "everyone",
+            "text": "RT @DavidJHarrisJr: Media BLACKOUT!\nhttps://t.co/NU4e9nCrDI"
+        },
+        {
+            "author_id": "1249760588877701123",
+            "conversation_id": "1326462567682895872",
+            "created_at": "2020-11-11T09:51:35.000Z",
+            "edit_history_tweet_ids": [
+                "1326462567682895872"
+            ],
+            "entities": {
+                "urls": [
+                    {
+                        "display_url": "grad.ua/blackout/88289\u2026",
+                        "end": 134,
+                        "expanded_url": "https://grad.ua/blackout/88289-otkljuchenie-sveta-v-odesse-na-12-nojabrja.html",
+                        "start": 111,
+                        "url": "https://t.co/gTeTwwPWUi"
+                    }
+                ]
+            },
+            "id": "1326462567682895872",
+            "lang": "ru",
+            "public_metrics": {
+                "impression_count": 0,
+                "like_count": 1,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 1
+            },
+            "reply_settings": "everyone",
+            "text": "\ud83d\udca1 \u041e\u0422\u041a\u041b\u042e\u0427\u0415\u041d\u0418\u0415 \u0421\u0412\u0415\u0422\u0410 \u0412 \u041e\u0414\u0415\u0421\u0421\u0415 \u041d\u0410 12 \u041d\u041e\u042f\u0411\u0420\u042f\n\u0412 \u0447\u0435\u0442\u0432\u0435\u0440\u0433 \u0431\u0435\u0437 \u0441\u0432\u0435\u0442\u0430 \u043e\u0441\u0442\u0430\u043d\u0435\u0442\u0441\u044f 925 \u0443\u043b\u0438\u0446 \u0438 28023 \u0434\u043e\u043c\u0430.\n\n\ud83d\udc47 \u043e\u0431\u043d\u043e\u0432\u043b\u044f\u0435\u0442\u0441\u044f \ud83d\udc47\nhttps://t.co/gTeTwwPWUi"
+        },
+        {
+            "author_id": "859730252",
+            "context_annotations": [
+                {
+                    "domain": {
+                        "description": "Top level interests and hobbies groupings, like Food or Travel",
+                        "id": "65",
+                        "name": "Interests and Hobbies Vertical"
+                    },
+                    "entity": {
+                        "description": "-",
+                        "id": "847868745150119936",
+                        "name": "Entertainment industry"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+                        "id": "30",
+                        "name": "Entities [Entity Service]"
+                    },
+                    "entity": {
+                        "description": "History",
+                        "id": "1047111583309029381",
+                        "name": "History"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A taxonomy of user interests. ",
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy"
+                    },
+                    "entity": {
+                        "description": "History",
+                        "id": "1047111583309029381",
+                        "name": "History"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A taxonomy of user interests. ",
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy"
+                    },
+                    "entity": {
+                        "id": "1192082698568814592",
+                        "name": "Animation"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A taxonomy of user interests. ",
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy"
+                    },
+                    "entity": {
+                        "id": "1278093262406815744",
+                        "name": "Fields of study"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A taxonomy of user interests. ",
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy"
+                    },
+                    "entity": {
+                        "id": "1280550787207147521",
+                        "name": "Arts & culture"
+                    }
+                }
+            ],
+            "conversation_id": "1326462519213518849",
+            "created_at": "2020-11-11T09:51:23.000Z",
+            "edit_history_tweet_ids": [
+                "1326462519213518849"
+            ],
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 20,
+                        "normalized_text": "Rhodesia",
+                        "probability": 0.9394,
+                        "start": 13,
+                        "type": "Place"
+                    },
+                    {
+                        "end": 38,
+                        "normalized_text": "Zimbabwe",
+                        "probability": 0.8904,
+                        "start": 31,
+                        "type": "Place"
+                    },
+                    {
+                        "end": 49,
+                        "normalized_text": "Ian Smith",
+                        "probability": 0.9705,
+                        "start": 41,
+                        "type": "Person"
+                    },
+                    {
+                        "end": 99,
+                        "normalized_text": "Declaration of Independence",
+                        "probability": 0.6808,
+                        "start": 73,
+                        "type": "Other"
+                    },
+                    {
+                        "end": 118,
+                        "normalized_text": "Britain",
+                        "probability": 0.9107,
+                        "start": 112,
+                        "type": "Place"
+                    },
+                    {
+                        "end": 159,
+                        "normalized_text": "Norman Mansbridge",
+                        "probability": 0.9282,
+                        "start": 143,
+                        "type": "Person"
+                    },
+                    {
+                        "end": 169,
+                        "normalized_text": "Blackout",
+                        "probability": 0.5865,
+                        "start": 162,
+                        "type": "Other"
+                    },
+                    {
+                        "end": 181,
+                        "normalized_text": "Rhodesia",
+                        "probability": 0.8144,
+                        "start": 174,
+                        "type": "Place"
+                    }
+                ],
+                "hashtags": [
+                    {
+                        "end": 4,
+                        "start": 0,
+                        "tag": "OTD"
+                    },
+                    {
+                        "end": 256,
+                        "start": 248,
+                        "tag": "history"
+                    },
+                    {
+                        "end": 266,
+                        "start": 257,
+                        "tag": "politics"
+                    },
+                    {
+                        "end": 279,
+                        "start": 267,
+                        "tag": "colonialism"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "pic.twitter.com/iPHAqjaerr",
+                        "end": 303,
+                        "expanded_url": "https://twitter.com/PunchBooks/status/1326462519213518849/photo/1",
+                        "media_key": "3_1326462360928870400",
+                        "start": 280,
+                        "url": "https://t.co/iPHAqjaerr"
+                    }
+                ]
+            },
+            "id": "1326462519213518849",
+            "lang": "en",
+            "public_metrics": {
+                "impression_count": 0,
+                "like_count": 5,
+                "quote_count": 0,
+                "reply_count": 1,
+                "retweet_count": 2
+            },
+            "reply_settings": "everyone",
+            "text": "#OTD 1965 in Rhodesia (today's Zimbabwe) Ian Smith issued the Unilateral Declaration of Independence (UDI) from Britain. This PUNCH cartoon by Norman Mansbridge 'Blackout in Rhodesia' shows the blinds being drawn on the country's black population. #history #politics #colonialism https://t.co/iPHAqjaerr"
+        },
+        {
+            "author_id": "1206764822194524162",
+            "conversation_id": "1326462446966550532",
+            "created_at": "2020-11-11T09:51:06.000Z",
+            "edit_history_tweet_ids": [
+                "1326462446966550532"
+            ],
+            "entities": {
+                "mentions": [
+                    {
+                        "end": 18,
+                        "id": "3530404094",
+                        "start": 3,
+                        "username": "DavidJHarrisJr"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "davidharrisjr.com/steven/texas-c\u2026",
+                        "end": 59,
+                        "expanded_url": "https://davidharrisjr.com/steven/texas-charges-social-worker-with-134-felony-counts-involving-election-fraud/",
+                        "start": 36,
+                        "url": "https://t.co/NU4e9nCrDI"
+                    }
+                ]
+            },
+            "id": "1326462446966550532",
+            "lang": "en",
+            "public_metrics": {
+                "impression_count": 0,
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 1824
+            },
+            "referenced_tweets": [
+                {
+                    "id": "1326434493020794881",
+                    "type": "retweeted"
+                }
+            ],
+            "reply_settings": "everyone",
+            "text": "RT @DavidJHarrisJr: Media BLACKOUT!\nhttps://t.co/NU4e9nCrDI"
+        },
+        {
+            "author_id": "38110096",
+            "conversation_id": "1326462427605635073",
+            "created_at": "2020-11-11T09:51:01.000Z",
+            "edit_history_tweet_ids": [
+                "1326462427605635073"
+            ],
+            "entities": {
+                "mentions": [
+                    {
+                        "end": 18,
+                        "id": "3530404094",
+                        "start": 3,
+                        "username": "DavidJHarrisJr"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "davidharrisjr.com/steven/texas-c\u2026",
+                        "end": 59,
+                        "expanded_url": "https://davidharrisjr.com/steven/texas-charges-social-worker-with-134-felony-counts-involving-election-fraud/",
+                        "start": 36,
+                        "url": "https://t.co/NU4e9nCrDI"
+                    }
+                ]
+            },
+            "id": "1326462427605635073",
+            "lang": "en",
+            "public_metrics": {
+                "impression_count": 0,
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 1824
+            },
+            "referenced_tweets": [
+                {
+                    "id": "1326434493020794881",
+                    "type": "retweeted"
+                }
+            ],
+            "reply_settings": "everyone",
+            "text": "RT @DavidJHarrisJr: Media BLACKOUT!\nhttps://t.co/NU4e9nCrDI"
+        },
+        {
+            "author_id": "194915128",
+            "conversation_id": "1326462386178584576",
+            "created_at": "2020-11-11T09:50:52.000Z",
+            "edit_history_tweet_ids": [
+                "1326462386178584576"
+            ],
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 24,
+                        "normalized_text": "Palmira",
+                        "probability": 0.3454,
+                        "start": 18,
+                        "type": "Other"
+                    }
+                ],
+                "hashtags": [
+                    {
+                        "end": 105,
+                        "start": 92,
+                        "tag": "society6shop"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 16,
+                        "id": "194915128",
+                        "start": 3,
+                        "username": "ARTSKRATCHES"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "buff.ly/3keNERK",
+                        "end": 66,
+                        "expanded_url": "https://buff.ly/3keNERK",
+                        "start": 43,
+                        "url": "https://t.co/Xb6KGK0LH9"
+                    },
+                    {
+                        "description": "Shop Artskratches Society6 store featuring unique designs on Art Prints. Worldwide shipping available.",
+                        "display_url": "buff.ly/2Dkv5sl",
+                        "end": 134,
+                        "expanded_url": "https://buff.ly/2Dkv5sl",
+                        "images": [
+                            {
+                                "height": 264,
+                                "url": "https://pbs.twimg.com/news_img/1594637122295808000/FtCO3mDb?format=jpg&name=orig",
+                                "width": 264
+                            },
+                            {
+                                "height": 150,
+                                "url": "https://pbs.twimg.com/news_img/1594637122295808000/FtCO3mDb?format=jpg&name=150x150",
+                                "width": 150
+                            }
+                        ],
+                        "start": 111,
+                        "status": 200,
+                        "title": "Prints by Artskratches | Society6",
+                        "unwound_url": "https://society6.com/yoyoart/prints",
+                        "url": "https://t.co/qxvw1Pz7tu"
+                    }
+                ]
+            },
+            "id": "1326462386178584576",
+            "lang": "en",
+            "public_metrics": {
+                "impression_count": 0,
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 2
+            },
+            "referenced_tweets": [
+                {
+                    "id": "1326462309187923969",
+                    "type": "retweeted"
+                }
+            ],
+            "reply_settings": "everyone",
+            "text": "RT @ARTSKRATCHES: Palmira Blackout Curtain https://t.co/Xb6KGK0LH9\n30% Off EVERYTHING in my #society6shop &gt; https://t.co/qxvw1Pz7tu \n#curta\u2026"
+        },
+        {
+            "author_id": "1895204172",
+            "conversation_id": "1326462374681866240",
+            "created_at": "2020-11-11T09:50:49.000Z",
+            "edit_history_tweet_ids": [
+                "1326462374681866240"
+            ],
+            "entities": {
+                "mentions": [
+                    {
+                        "end": 18,
+                        "id": "3530404094",
+                        "start": 3,
+                        "username": "DavidJHarrisJr"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "davidharrisjr.com/steven/texas-c\u2026",
+                        "end": 59,
+                        "expanded_url": "https://davidharrisjr.com/steven/texas-charges-social-worker-with-134-felony-counts-involving-election-fraud/",
+                        "start": 36,
+                        "url": "https://t.co/NU4e9nCrDI"
+                    }
+                ]
+            },
+            "id": "1326462374681866240",
+            "lang": "en",
+            "public_metrics": {
+                "impression_count": 0,
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 1824
+            },
+            "referenced_tweets": [
+                {
+                    "id": "1326434493020794881",
+                    "type": "retweeted"
+                }
+            ],
+            "reply_settings": "everyone",
+            "text": "RT @DavidJHarrisJr: Media BLACKOUT!\nhttps://t.co/NU4e9nCrDI"
+        },
+        {
+            "author_id": "194915128",
+            "context_annotations": [
+                {
+                    "domain": {
+                        "description": "Top level interests and hobbies groupings, like Food or Travel",
+                        "id": "65",
+                        "name": "Interests and Hobbies Vertical"
+                    },
+                    "entity": {
+                        "description": "-",
+                        "id": "847868745150119936",
+                        "name": "Entertainment industry"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "Top level interests and hobbies groupings, like Food or Travel",
+                        "id": "65",
+                        "name": "Interests and Hobbies Vertical"
+                    },
+                    "entity": {
+                        "description": "Home and garden",
+                        "id": "864911475436957696",
+                        "name": "Home and garden"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A taxonomy of user interests. ",
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy"
+                    },
+                    "entity": {
+                        "id": "1228032306784305152",
+                        "name": "Interior design"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A taxonomy of user interests. ",
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy"
+                    },
+                    "entity": {
+                        "id": "1265660441822281728",
+                        "name": "Art"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A taxonomy of user interests. ",
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy"
+                    },
+                    "entity": {
+                        "id": "1278016095144665089",
+                        "name": "At home"
+                    }
+                }
+            ],
+            "conversation_id": "1326462309187923969",
+            "created_at": "2020-11-11T09:50:33.000Z",
+            "edit_history_tweet_ids": [
+                "1326462309187923969"
+            ],
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 6,
+                        "normalized_text": "Palmira",
+                        "probability": 0.4127,
+                        "start": 0,
+                        "type": "Other"
+                    }
+                ],
+                "hashtags": [
+                    {
+                        "end": 87,
+                        "start": 74,
+                        "tag": "society6shop"
+                    },
+                    {
+                        "end": 127,
+                        "start": 118,
+                        "tag": "curtains"
+                    },
+                    {
+                        "end": 138,
+                        "start": 128,
+                        "tag": "homedecor"
+                    },
+                    {
+                        "end": 148,
+                        "start": 139,
+                        "tag": "society6"
+                    },
+                    {
+                        "end": 169,
+                        "start": 163,
+                        "tag": "sales"
+                    },
+                    {
+                        "end": 177,
+                        "start": 170,
+                        "tag": "buyart"
+                    },
+                    {
+                        "end": 191,
+                        "start": 178,
+                        "tag": "artskratches"
+                    },
+                    {
+                        "end": 202,
+                        "start": 192,
+                        "tag": "giftideas"
+                    },
+                    {
+                        "end": 212,
+                        "start": 203,
+                        "tag": "shopping"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 162,
+                        "id": "4228312714",
+                        "start": 149,
+                        "username": "society6home"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "buff.ly/3keNERK",
+                        "end": 48,
+                        "expanded_url": "https://buff.ly/3keNERK",
+                        "start": 25,
+                        "url": "https://t.co/Xb6KGK0LH9"
+                    },
+                    {
+                        "description": "Shop Artskratches Society6 store featuring unique designs on Art Prints. Worldwide shipping available.",
+                        "display_url": "buff.ly/2Dkv5sl",
+                        "end": 116,
+                        "expanded_url": "https://buff.ly/2Dkv5sl",
+                        "images": [
+                            {
+                                "height": 264,
+                                "url": "https://pbs.twimg.com/news_img/1594637122295808000/FtCO3mDb?format=jpg&name=orig",
+                                "width": 264
+                            },
+                            {
+                                "height": 150,
+                                "url": "https://pbs.twimg.com/news_img/1594637122295808000/FtCO3mDb?format=jpg&name=150x150",
+                                "width": 150
+                            }
+                        ],
+                        "start": 93,
+                        "status": 200,
+                        "title": "Prints by Artskratches | Society6",
+                        "unwound_url": "https://society6.com/yoyoart/prints",
+                        "url": "https://t.co/qxvw1Pz7tu"
+                    },
+                    {
+                        "display_url": "pic.twitter.com/DCLgmwqAEU",
+                        "end": 236,
+                        "expanded_url": "https://twitter.com/ARTSKRATCHES/status/1326462309187923969/photo/1",
+                        "media_key": "3_1326462307841544194",
+                        "start": 213,
+                        "url": "https://t.co/DCLgmwqAEU"
+                    }
+                ]
+            },
+            "id": "1326462309187923969",
+            "lang": "en",
+            "public_metrics": {
+                "impression_count": 0,
+                "like_count": 3,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 2
+            },
+            "reply_settings": "everyone",
+            "text": "Palmira Blackout Curtain https://t.co/Xb6KGK0LH9\n30% Off EVERYTHING in my #society6shop &gt; https://t.co/qxvw1Pz7tu \n#curtains #homedecor #society6 @Society6Home #sales #buyart #artskratches #giftideas #shopping https://t.co/DCLgmwqAEU"
+        },
+        {
+            "author_id": "2451342912",
+            "conversation_id": "1326462307908661250",
+            "created_at": "2020-11-11T09:50:33.000Z",
+            "edit_history_tweet_ids": [
+                "1326462307908661250"
+            ],
+            "entities": {
+                "mentions": [
+                    {
+                        "end": 18,
+                        "id": "3530404094",
+                        "start": 3,
+                        "username": "DavidJHarrisJr"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "davidharrisjr.com/steven/texas-c\u2026",
+                        "end": 59,
+                        "expanded_url": "https://davidharrisjr.com/steven/texas-charges-social-worker-with-134-felony-counts-involving-election-fraud/",
+                        "start": 36,
+                        "url": "https://t.co/NU4e9nCrDI"
+                    }
+                ]
+            },
+            "id": "1326462307908661250",
+            "lang": "en",
+            "public_metrics": {
+                "impression_count": 0,
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 1824
+            },
+            "referenced_tweets": [
+                {
+                    "id": "1326434493020794881",
+                    "type": "retweeted"
+                }
+            ],
+            "reply_settings": "everyone",
+            "text": "RT @DavidJHarrisJr: Media BLACKOUT!\nhttps://t.co/NU4e9nCrDI"
+        },
+        {
+            "author_id": "17243123",
+            "conversation_id": "1326462271925739520",
+            "created_at": "2020-11-11T09:50:24.000Z",
+            "edit_history_tweet_ids": [
+                "1326462271925739520"
+            ],
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 98,
+                        "normalized_text": "The Great Reset",
+                        "probability": 0.6089,
+                        "start": 84,
+                        "type": "Other"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 14,
+                        "id": "3092542756",
+                        "start": 3,
+                        "username": "trevor7979"
+                    }
+                ]
+            },
+            "id": "1326462271925739520",
+            "lang": "en",
+            "public_metrics": {
+                "impression_count": 0,
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 1
+            },
+            "referenced_tweets": [
+                {
+                    "id": "1326460884454166532",
+                    "type": "retweeted"
+                }
+            ],
+            "reply_settings": "everyone",
+            "text": "RT @trevor7979: Blackout on the Media channels on this. They are the mouth piece of The Great Reset bombarding us with Propaganda. Adverts\u2026"
+        },
+        {
+            "author_id": "1270634541124857857",
+            "conversation_id": "1326462040324628480",
+            "created_at": "2020-11-11T09:49:29.000Z",
+            "edit_history_tweet_ids": [
+                "1326462040324628480"
+            ],
+            "entities": {
+                "mentions": [
+                    {
+                        "end": 18,
+                        "id": "3530404094",
+                        "start": 3,
+                        "username": "DavidJHarrisJr"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "davidharrisjr.com/steven/texas-c\u2026",
+                        "end": 59,
+                        "expanded_url": "https://davidharrisjr.com/steven/texas-charges-social-worker-with-134-felony-counts-involving-election-fraud/",
+                        "start": 36,
+                        "url": "https://t.co/NU4e9nCrDI"
+                    }
+                ]
+            },
+            "id": "1326462040324628480",
+            "lang": "en",
+            "public_metrics": {
+                "impression_count": 0,
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 1824
+            },
+            "referenced_tweets": [
+                {
+                    "id": "1326434493020794881",
+                    "type": "retweeted"
+                }
+            ],
+            "reply_settings": "everyone",
+            "text": "RT @DavidJHarrisJr: Media BLACKOUT!\nhttps://t.co/NU4e9nCrDI"
+        },
+        {
+            "author_id": "1214296000514289664",
+            "conversation_id": "1326461944614760448",
+            "created_at": "2020-11-11T09:49:06.000Z",
+            "edit_history_tweet_ids": [
+                "1326461944614760448"
+            ],
+            "entities": {
+                "mentions": [
+                    {
+                        "end": 18,
+                        "id": "3530404094",
+                        "start": 3,
+                        "username": "DavidJHarrisJr"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "davidharrisjr.com/steven/texas-c\u2026",
+                        "end": 59,
+                        "expanded_url": "https://davidharrisjr.com/steven/texas-charges-social-worker-with-134-felony-counts-involving-election-fraud/",
+                        "start": 36,
+                        "url": "https://t.co/NU4e9nCrDI"
+                    }
+                ]
+            },
+            "id": "1326461944614760448",
+            "lang": "en",
+            "public_metrics": {
+                "impression_count": 0,
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 1824
+            },
+            "referenced_tweets": [
+                {
+                    "id": "1326434493020794881",
+                    "type": "retweeted"
+                }
+            ],
+            "reply_settings": "everyone",
+            "text": "RT @DavidJHarrisJr: Media BLACKOUT!\nhttps://t.co/NU4e9nCrDI"
+        },
+        {
+            "author_id": "873128571371372546",
+            "conversation_id": "1326461927434969089",
+            "created_at": "2020-11-11T09:49:02.000Z",
+            "edit_history_tweet_ids": [
+                "1326461927434969089"
+            ],
+            "entities": {
+                "mentions": [
+                    {
+                        "end": 18,
+                        "id": "3530404094",
+                        "start": 3,
+                        "username": "DavidJHarrisJr"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "davidharrisjr.com/steven/texas-c\u2026",
+                        "end": 59,
+                        "expanded_url": "https://davidharrisjr.com/steven/texas-charges-social-worker-with-134-felony-counts-involving-election-fraud/",
+                        "start": 36,
+                        "url": "https://t.co/NU4e9nCrDI"
+                    }
+                ]
+            },
+            "id": "1326461927434969089",
+            "lang": "en",
+            "public_metrics": {
+                "impression_count": 0,
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 1824
+            },
+            "referenced_tweets": [
+                {
+                    "id": "1326434493020794881",
+                    "type": "retweeted"
+                }
+            ],
+            "reply_settings": "everyone",
+            "text": "RT @DavidJHarrisJr: Media BLACKOUT!\nhttps://t.co/NU4e9nCrDI"
+        },
+        {
+            "author_id": "496988518",
+            "conversation_id": "1326461861785706496",
+            "created_at": "2020-11-11T09:48:46.000Z",
+            "edit_history_tweet_ids": [
+                "1326461861785706496"
+            ],
+            "entities": {
+                "mentions": [
+                    {
+                        "end": 18,
+                        "id": "3530404094",
+                        "start": 3,
+                        "username": "DavidJHarrisJr"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "davidharrisjr.com/steven/texas-c\u2026",
+                        "end": 59,
+                        "expanded_url": "https://davidharrisjr.com/steven/texas-charges-social-worker-with-134-felony-counts-involving-election-fraud/",
+                        "start": 36,
+                        "url": "https://t.co/NU4e9nCrDI"
+                    }
+                ]
+            },
+            "id": "1326461861785706496",
+            "lang": "en",
+            "public_metrics": {
+                "impression_count": 0,
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 1824
+            },
+            "referenced_tweets": [
+                {
+                    "id": "1326434493020794881",
+                    "type": "retweeted"
+                }
+            ],
+            "reply_settings": "everyone",
+            "text": "RT @DavidJHarrisJr: Media BLACKOUT!\nhttps://t.co/NU4e9nCrDI"
+        },
+        {
+            "author_id": "1032721099119718400",
+            "conversation_id": "1326461859923419136",
+            "created_at": "2020-11-11T09:48:46.000Z",
+            "edit_history_tweet_ids": [
+                "1326461859923419136"
+            ],
+            "entities": {
+                "mentions": [
+                    {
+                        "end": 16,
+                        "id": "580350272",
+                        "start": 3,
+                        "username": "QurratuNadia"
+                    },
+                    {
+                        "end": 28,
+                        "id": "323664519",
+                        "start": 18,
+                        "username": "AemaleenS"
+                    }
+                ]
+            },
+            "id": "1326461859923419136",
+            "lang": "in",
+            "public_metrics": {
+                "impression_count": 0,
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "reply_settings": "everyone",
+            "text": "RT @QurratuNadia: @AemaleenS Boleh ja lah Aida. Hahahahhaa pergi ja lah tidur hotel. Akak pun tidur hotel masa blackout awa pkpb hari tu. Lalu kat roadblock takda apa pun. Area Bukit Jalil juga."
+        },
+        {
+            "author_id": "1117931666",
+            "conversation_id": "1326461848166625281",
+            "created_at": "2020-11-11T09:48:43.000Z",
+            "edit_history_tweet_ids": [
+                "1326461848166625281"
+            ],
+            "entities": {
+                "mentions": [
+                    {
+                        "end": 18,
+                        "id": "3530404094",
+                        "start": 3,
+                        "username": "DavidJHarrisJr"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "davidharrisjr.com/steven/texas-c\u2026",
+                        "end": 59,
+                        "expanded_url": "https://davidharrisjr.com/steven/texas-charges-social-worker-with-134-felony-counts-involving-election-fraud/",
+                        "start": 36,
+                        "url": "https://t.co/NU4e9nCrDI"
+                    }
+                ]
+            },
+            "id": "1326461848166625281",
+            "lang": "en",
+            "public_metrics": {
+                "impression_count": 0,
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 1824
+            },
+            "referenced_tweets": [
+                {
+                    "id": "1326434493020794881",
+                    "type": "retweeted"
+                }
+            ],
+            "reply_settings": "everyone",
+            "text": "RT @DavidJHarrisJr: Media BLACKOUT!\nhttps://t.co/NU4e9nCrDI"
+        },
+        {
+            "author_id": "1222836079558111233",
+            "conversation_id": "1326461831456698368",
+            "created_at": "2020-11-11T09:48:39.000Z",
+            "edit_history_tweet_ids": [
+                "1326461831456698368"
+            ],
+            "entities": {
+                "mentions": [
+                    {
+                        "end": 18,
+                        "id": "3530404094",
+                        "start": 3,
+                        "username": "DavidJHarrisJr"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "davidharrisjr.com/steven/texas-c\u2026",
+                        "end": 59,
+                        "expanded_url": "https://davidharrisjr.com/steven/texas-charges-social-worker-with-134-felony-counts-involving-election-fraud/",
+                        "start": 36,
+                        "url": "https://t.co/NU4e9nCrDI"
+                    }
+                ]
+            },
+            "id": "1326461831456698368",
+            "lang": "en",
+            "public_metrics": {
+                "impression_count": 0,
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 1824
+            },
+            "referenced_tweets": [
+                {
+                    "id": "1326434493020794881",
+                    "type": "retweeted"
+                }
+            ],
+            "reply_settings": "everyone",
+            "text": "RT @DavidJHarrisJr: Media BLACKOUT!\nhttps://t.co/NU4e9nCrDI"
+        },
+        {
+            "author_id": "25992933",
+            "conversation_id": "1326461825987334145",
+            "created_at": "2020-11-11T09:48:38.000Z",
+            "edit_history_tweet_ids": [
+                "1326461825987334145"
+            ],
+            "entities": {
+                "mentions": [
+                    {
+                        "end": 18,
+                        "id": "3530404094",
+                        "start": 3,
+                        "username": "DavidJHarrisJr"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "davidharrisjr.com/steven/texas-c\u2026",
+                        "end": 59,
+                        "expanded_url": "https://davidharrisjr.com/steven/texas-charges-social-worker-with-134-felony-counts-involving-election-fraud/",
+                        "start": 36,
+                        "url": "https://t.co/NU4e9nCrDI"
+                    }
+                ]
+            },
+            "id": "1326461825987334145",
+            "lang": "en",
+            "public_metrics": {
+                "impression_count": 0,
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 1824
+            },
+            "referenced_tweets": [
+                {
+                    "id": "1326434493020794881",
+                    "type": "retweeted"
+                }
+            ],
+            "reply_settings": "everyone",
+            "text": "RT @DavidJHarrisJr: Media BLACKOUT!\nhttps://t.co/NU4e9nCrDI"
+        },
+        {
+            "author_id": "13960902",
+            "conversation_id": "1326461749244043266",
+            "created_at": "2020-11-11T09:48:20.000Z",
+            "edit_history_tweet_ids": [
+                "1326461749244043266"
+            ],
+            "entities": {
+                "mentions": [
+                    {
+                        "end": 18,
+                        "id": "3530404094",
+                        "start": 3,
+                        "username": "DavidJHarrisJr"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "davidharrisjr.com/steven/texas-c\u2026",
+                        "end": 59,
+                        "expanded_url": "https://davidharrisjr.com/steven/texas-charges-social-worker-with-134-felony-counts-involving-election-fraud/",
+                        "start": 36,
+                        "url": "https://t.co/NU4e9nCrDI"
+                    }
+                ]
+            },
+            "id": "1326461749244043266",
+            "lang": "en",
+            "public_metrics": {
+                "impression_count": 0,
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 1824
+            },
+            "referenced_tweets": [
+                {
+                    "id": "1326434493020794881",
+                    "type": "retweeted"
+                }
+            ],
+            "reply_settings": "everyone",
+            "text": "RT @DavidJHarrisJr: Media BLACKOUT!\nhttps://t.co/NU4e9nCrDI"
+        },
+        {
+            "author_id": "1177908744216178688",
+            "conversation_id": "1326461662782615552",
+            "created_at": "2020-11-11T09:47:59.000Z",
+            "edit_history_tweet_ids": [
+                "1326461662782615552"
+            ],
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 75,
+                        "normalized_text": "Pakistan",
+                        "probability": 0.855,
+                        "start": 68,
+                        "type": "Place"
+                    },
+                    {
+                        "end": 104,
+                        "normalized_text": "Balochistan",
+                        "probability": 0.9434,
+                        "start": 94,
+                        "type": "Place"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 17,
+                        "id": "1042463598503763973",
+                        "start": 3,
+                        "username": "IFazilaBaloch"
+                    }
+                ]
+            },
+            "id": "1326461662782615552",
+            "lang": "en",
+            "public_metrics": {
+                "impression_count": 0,
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 129
+            },
+            "referenced_tweets": [
+                {
+                    "id": "1326099990821920769",
+                    "type": "retweeted"
+                }
+            ],
+            "reply_settings": "everyone",
+            "text": "RT @IFazilaBaloch: This is how security forces of Islam Republic of Pakistan treats Baloch in Balochistan.\n\nPakistani forces atrocities in\u2026"
+        },
+        {
+            "author_id": "737191907047051264",
+            "conversation_id": "1326461599423426560",
+            "created_at": "2020-11-11T09:47:44.000Z",
+            "edit_history_tweet_ids": [
+                "1326461599423426560"
+            ],
+            "entities": {
+                "mentions": [
+                    {
+                        "end": 18,
+                        "id": "3530404094",
+                        "start": 3,
+                        "username": "DavidJHarrisJr"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "davidharrisjr.com/steven/texas-c\u2026",
+                        "end": 59,
+                        "expanded_url": "https://davidharrisjr.com/steven/texas-charges-social-worker-with-134-felony-counts-involving-election-fraud/",
+                        "start": 36,
+                        "url": "https://t.co/NU4e9nCrDI"
+                    }
+                ]
+            },
+            "id": "1326461599423426560",
+            "lang": "en",
+            "public_metrics": {
+                "impression_count": 0,
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 1824
+            },
+            "referenced_tweets": [
+                {
+                    "id": "1326434493020794881",
+                    "type": "retweeted"
+                }
+            ],
+            "reply_settings": "everyone",
+            "text": "RT @DavidJHarrisJr: Media BLACKOUT!\nhttps://t.co/NU4e9nCrDI"
+        },
+        {
+            "author_id": "256235928",
+            "context_annotations": [
+                {
+                    "domain": {
+                        "description": "Named people in the world like Nelson Mandela",
+                        "id": "10",
+                        "name": "Person"
+                    },
+                    "entity": {
+                        "description": "Candace Owens",
+                        "id": "988359847568490496",
+                        "name": "Candace Owens"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A journalist like 'Anderson Cooper'",
+                        "id": "94",
+                        "name": "Journalist"
+                    },
+                    "entity": {
+                        "description": "Candace Owens",
+                        "id": "988359847568490496",
+                        "name": "Candace Owens"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A taxonomy of user interests. ",
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy"
+                    },
+                    "entity": {
+                        "description": "Candace Owens",
+                        "id": "988359847568490496",
+                        "name": "Candace Owens"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A taxonomy of user interests. ",
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy"
+                    },
+                    "entity": {
+                        "description": "News",
+                        "id": "1046545033657081857",
+                        "name": "News"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A taxonomy of user interests. ",
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy"
+                    },
+                    "entity": {
+                        "description": "Journalism",
+                        "id": "1074755369530880001",
+                        "name": "Journalists"
+                    }
+                }
+            ],
+            "conversation_id": "1326461534277566464",
+            "created_at": "2020-11-11T09:47:28.000Z",
+            "edit_history_tweet_ids": [
+                "1326461534277566464"
+            ],
+            "entities": {
+                "mentions": [
+                    {
+                        "end": 16,
+                        "id": "878247600096509952",
+                        "start": 3,
+                        "username": "RealCandaceO"
+                    }
+                ]
+            },
+            "id": "1326461534277566464",
+            "lang": "en",
+            "public_metrics": {
+                "impression_count": 0,
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 11818
+            },
+            "referenced_tweets": [
+                {
+                    "id": "1301542478600904704",
+                    "type": "retweeted"
+                }
+            ],
+            "reply_settings": "everyone",
+            "text": "RT @RealCandaceO: You guys!! T minus 12 days until my first book FINALLY hits stands. \n\nHere\u2019s a little teaser regarding my favorite chapte\u2026"
+        },
+        {
+            "author_id": "768831270784737281",
+            "conversation_id": "1326461529055764481",
+            "created_at": "2020-11-11T09:47:27.000Z",
+            "edit_history_tweet_ids": [
+                "1326461529055764481"
+            ],
+            "entities": {
+                "mentions": [
+                    {
+                        "end": 18,
+                        "id": "3530404094",
+                        "start": 3,
+                        "username": "DavidJHarrisJr"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "davidharrisjr.com/steven/texas-c\u2026",
+                        "end": 59,
+                        "expanded_url": "https://davidharrisjr.com/steven/texas-charges-social-worker-with-134-felony-counts-involving-election-fraud/",
+                        "start": 36,
+                        "url": "https://t.co/NU4e9nCrDI"
+                    }
+                ]
+            },
+            "id": "1326461529055764481",
+            "lang": "en",
+            "public_metrics": {
+                "impression_count": 0,
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 1824
+            },
+            "referenced_tweets": [
+                {
+                    "id": "1326434493020794881",
+                    "type": "retweeted"
+                }
+            ],
+            "reply_settings": "everyone",
+            "text": "RT @DavidJHarrisJr: Media BLACKOUT!\nhttps://t.co/NU4e9nCrDI"
+        },
+        {
+            "author_id": "1081945529112821762",
+            "conversation_id": "1326461470520041472",
+            "created_at": "2020-11-11T09:47:13.000Z",
+            "edit_history_tweet_ids": [
+                "1326461470520041472"
+            ],
+            "entities": {
+                "mentions": [
+                    {
+                        "end": 18,
+                        "id": "3530404094",
+                        "start": 3,
+                        "username": "DavidJHarrisJr"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "davidharrisjr.com/steven/texas-c\u2026",
+                        "end": 59,
+                        "expanded_url": "https://davidharrisjr.com/steven/texas-charges-social-worker-with-134-felony-counts-involving-election-fraud/",
+                        "start": 36,
+                        "url": "https://t.co/NU4e9nCrDI"
+                    }
+                ]
+            },
+            "id": "1326461470520041472",
+            "lang": "en",
+            "public_metrics": {
+                "impression_count": 0,
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 1824
+            },
+            "referenced_tweets": [
+                {
+                    "id": "1326434493020794881",
+                    "type": "retweeted"
+                }
+            ],
+            "reply_settings": "everyone",
+            "text": "RT @DavidJHarrisJr: Media BLACKOUT!\nhttps://t.co/NU4e9nCrDI"
+        },
+        {
+            "author_id": "45563324",
+            "conversation_id": "1326461431387140097",
+            "created_at": "2020-11-11T09:47:04.000Z",
+            "edit_history_tweet_ids": [
+                "1326461431387140097"
+            ],
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 16,
+                        "normalized_text": "Blackout Film",
+                        "probability": 0.5546,
+                        "start": 4,
+                        "type": "Other"
+                    },
+                    {
+                        "end": 61,
+                        "normalized_text": "TheBlackout",
+                        "probability": 0.8775,
+                        "start": 51,
+                        "type": "Other"
+                    }
+                ],
+                "hashtags": [
+                    {
+                        "end": 62,
+                        "start": 50,
+                        "tag": "TheBlackout"
+                    },
+                    {
+                        "end": 68,
+                        "start": 63,
+                        "tag": "Film"
+                    },
+                    {
+                        "end": 77,
+                        "start": 69,
+                        "tag": "Trailer"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "dai.ly/x7xey3v/",
+                        "end": 48,
+                        "expanded_url": "https://dai.ly/x7xey3v/",
+                        "start": 25,
+                        "url": "https://t.co/CbfE8c7n0f"
+                    }
+                ]
+            },
+            "id": "1326461431387140097",
+            "lang": "en",
+            "public_metrics": {
+                "impression_count": 0,
+                "like_count": 2,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "reply_settings": "everyone",
+            "text": "The Blackout Film --&gt; https://t.co/CbfE8c7n0f  #TheBlackout #Film #Trailer"
+        },
+        {
+            "author_id": "2444521764",
+            "conversation_id": "1326461425330565121",
+            "created_at": "2020-11-11T09:47:02.000Z",
+            "edit_history_tweet_ids": [
+                "1326461425330565121"
+            ],
+            "entities": {
+                "mentions": [
+                    {
+                        "end": 18,
+                        "id": "3530404094",
+                        "start": 3,
+                        "username": "DavidJHarrisJr"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "davidharrisjr.com/steven/texas-c\u2026",
+                        "end": 59,
+                        "expanded_url": "https://davidharrisjr.com/steven/texas-charges-social-worker-with-134-felony-counts-involving-election-fraud/",
+                        "start": 36,
+                        "url": "https://t.co/NU4e9nCrDI"
+                    }
+                ]
+            },
+            "id": "1326461425330565121",
+            "lang": "en",
+            "public_metrics": {
+                "impression_count": 0,
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 1824
+            },
+            "referenced_tweets": [
+                {
+                    "id": "1326434493020794881",
+                    "type": "retweeted"
+                }
+            ],
+            "reply_settings": "everyone",
+            "text": "RT @DavidJHarrisJr: Media BLACKOUT!\nhttps://t.co/NU4e9nCrDI"
+        },
+        {
+            "author_id": "196699217",
+            "conversation_id": "1326461416652550144",
+            "created_at": "2020-11-11T09:47:00.000Z",
+            "edit_history_tweet_ids": [
+                "1326461416652550144"
+            ],
+            "entities": {
+                "mentions": [
+                    {
+                        "end": 18,
+                        "id": "3530404094",
+                        "start": 3,
+                        "username": "DavidJHarrisJr"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "davidharrisjr.com/steven/texas-c\u2026",
+                        "end": 59,
+                        "expanded_url": "https://davidharrisjr.com/steven/texas-charges-social-worker-with-134-felony-counts-involving-election-fraud/",
+                        "start": 36,
+                        "url": "https://t.co/NU4e9nCrDI"
+                    }
+                ]
+            },
+            "id": "1326461416652550144",
+            "lang": "en",
+            "public_metrics": {
+                "impression_count": 0,
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 1824
+            },
+            "referenced_tweets": [
+                {
+                    "id": "1326434493020794881",
+                    "type": "retweeted"
+                }
+            ],
+            "reply_settings": "everyone",
+            "text": "RT @DavidJHarrisJr: Media BLACKOUT!\nhttps://t.co/NU4e9nCrDI"
+        },
+        {
+            "author_id": "2359138141",
+            "context_annotations": [
+                {
+                    "domain": {
+                        "description": "Brands and Companies",
+                        "id": "47",
+                        "name": "Brand"
+                    },
+                    "entity": {
+                        "id": "1138483931286626305",
+                        "name": "Folha de S\u00e3o Paulo"
+                    }
+                }
+            ],
+            "conversation_id": "1326461365352017920",
+            "created_at": "2020-11-11T09:46:48.000Z",
+            "edit_history_tweet_ids": [
+                "1326461365352017920"
+            ],
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 83,
+                        "normalized_text": "Macap\u00e1 Metropolitan Region",
+                        "probability": 0.9064,
+                        "start": 58,
+                        "type": "Place"
+                    }
+                ],
+                "hashtags": [
+                    {
+                        "end": 38,
+                        "start": 27,
+                        "tag": "quilombola"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 12,
+                        "id": "138492825",
+                        "start": 3,
+                        "username": "proindio"
+                    },
+                    {
+                        "end": 117,
+                        "id": "14594813",
+                        "start": 111,
+                        "username": "folha"
+                    }
+                ]
+            },
+            "id": "1326461365352017920",
+            "lang": "en",
+            "public_metrics": {
+                "impression_count": 0,
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 6
+            },
+            "referenced_tweets": [
+                {
+                    "id": "1326460931925225472",
+                    "type": "retweeted"
+                }
+            ],
+            "reply_settings": "everyone",
+            "text": "RT @proindio: More than 20 #quilombola communities in the Macap\u00e1 Metropolitan Region remain without power. Via @folha https://t.co/zjmNLBEg\u2026"
+        },
+        {
+            "author_id": "792680801183956992",
+            "conversation_id": "1326270795996409856",
+            "created_at": "2020-11-11T09:46:47.000Z",
+            "edit_history_tweet_ids": [
+                "1326461361573023744"
+            ],
+            "entities": {
+                "mentions": [
+                    {
+                        "end": 13,
+                        "id": "2279483574",
+                        "start": 0,
+                        "username": "PENELOPPE192"
+                    },
+                    {
+                        "end": 27,
+                        "id": "1034485597",
+                        "start": 14,
+                        "username": "erictoulorge"
+                    }
+                ]
+            },
+            "id": "1326461361573023744",
+            "in_reply_to_user_id": "2279483574",
+            "lang": "fr",
+            "public_metrics": {
+                "impression_count": 0,
+                "like_count": 1,
+                "quote_count": 0,
+                "reply_count": 1,
+                "retweet_count": 0
+            },
+            "referenced_tweets": [
+                {
+                    "id": "1326270795996409856",
+                    "type": "replied_to"
+                }
+            ],
+            "reply_settings": "everyone",
+            "text": "@PENELOPPE192 @erictoulorge d'autant plus qu'un blackout n'est pas exclu !"
+        },
+        {
+            "author_id": "105914292",
+            "conversation_id": "1326461130588348416",
+            "created_at": "2020-11-11T09:45:52.000Z",
+            "edit_history_tweet_ids": [
+                "1326461130588348416"
+            ],
+            "entities": {
+                "mentions": [
+                    {
+                        "end": 18,
+                        "id": "3530404094",
+                        "start": 3,
+                        "username": "DavidJHarrisJr"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "davidharrisjr.com/steven/texas-c\u2026",
+                        "end": 59,
+                        "expanded_url": "https://davidharrisjr.com/steven/texas-charges-social-worker-with-134-felony-counts-involving-election-fraud/",
+                        "start": 36,
+                        "url": "https://t.co/NU4e9nCrDI"
+                    }
+                ]
+            },
+            "id": "1326461130588348416",
+            "lang": "en",
+            "public_metrics": {
+                "impression_count": 0,
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 1824
+            },
+            "referenced_tweets": [
+                {
+                    "id": "1326434493020794881",
+                    "type": "retweeted"
+                }
+            ],
+            "reply_settings": "everyone",
+            "text": "RT @DavidJHarrisJr: Media BLACKOUT!\nhttps://t.co/NU4e9nCrDI"
+        },
+        {
+            "author_id": "632473417",
+            "conversation_id": "1326461118399848457",
+            "created_at": "2020-11-11T09:45:49.000Z",
+            "edit_history_tweet_ids": [
+                "1326461118399848457"
+            ],
+            "entities": {
+                "mentions": [
+                    {
+                        "end": 18,
+                        "id": "3530404094",
+                        "start": 3,
+                        "username": "DavidJHarrisJr"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "davidharrisjr.com/steven/texas-c\u2026",
+                        "end": 59,
+                        "expanded_url": "https://davidharrisjr.com/steven/texas-charges-social-worker-with-134-felony-counts-involving-election-fraud/",
+                        "start": 36,
+                        "url": "https://t.co/NU4e9nCrDI"
+                    }
+                ]
+            },
+            "id": "1326461118399848457",
+            "lang": "en",
+            "public_metrics": {
+                "impression_count": 0,
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 1824
+            },
+            "referenced_tweets": [
+                {
+                    "id": "1326434493020794881",
+                    "type": "retweeted"
+                }
+            ],
+            "reply_settings": "everyone",
+            "text": "RT @DavidJHarrisJr: Media BLACKOUT!\nhttps://t.co/NU4e9nCrDI"
+        },
+        {
+            "author_id": "795606238331486208",
+            "context_annotations": [
+                {
+                    "domain": {
+                        "description": "A video game like Overwatch",
+                        "id": "71",
+                        "name": "Video Game"
+                    },
+                    "entity": {
+                        "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series, if applicable.\t\t\t",
+                        "id": "10027933222",
+                        "name": "Call of Duty"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A video game like Overwatch",
+                        "id": "71",
+                        "name": "Video Game"
+                    },
+                    "entity": {
+                        "description": "Call of Duty: Black Ops 4",
+                        "id": "997093174341337088",
+                        "name": "Call of Duty: Black Ops 4"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A taxonomy of user interests. ",
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy"
+                    },
+                    "entity": {
+                        "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series, if applicable.\t\t\t",
+                        "id": "10027933222",
+                        "name": "Call of Duty"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A taxonomy of user interests. ",
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy"
+                    },
+                    "entity": {
+                        "description": "Gaming",
+                        "id": "847527650667094017",
+                        "name": "Gaming"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A taxonomy of user interests. ",
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy"
+                    },
+                    "entity": {
+                        "id": "1070028159964262400",
+                        "name": "Video games"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+                        "id": "30",
+                        "name": "Entities [Entity Service]"
+                    },
+                    "entity": {
+                        "id": "781974596752842752",
+                        "name": "Services"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "Brands and Companies",
+                        "id": "47",
+                        "name": "Brand"
+                    },
+                    "entity": {
+                        "id": "10029382357",
+                        "name": "YouTube"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A taxonomy of user interests. ",
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy"
+                    },
+                    "entity": {
+                        "id": "10029382357",
+                        "name": "YouTube"
+                    }
+                }
+            ],
+            "conversation_id": "1326461095175999488",
+            "created_at": "2020-11-11T09:45:44.000Z",
+            "edit_history_tweet_ids": [
+                "1326461095175999488"
+            ],
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 71,
+                        "normalized_text": "Call of Duty Black Ops 4",
+                        "probability": 0.8316,
+                        "start": 48,
+                        "type": "Other"
+                    },
+                    {
+                        "end": 84,
+                        "normalized_text": "Blackout",
+                        "probability": 0.7838,
+                        "start": 77,
+                        "type": "Other"
+                    },
+                    {
+                        "end": 138,
+                        "normalized_text": "PodcastRecommen",
+                        "probability": 0.5872,
+                        "start": 124,
+                        "type": "Other"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 14,
+                        "id": "182969300",
+                        "start": 3,
+                        "username": "Bloodybits"
+                    },
+                    {
+                        "end": 29,
+                        "id": "992797816618561536",
+                        "start": 19,
+                        "username": "lime_link"
+                    },
+                    {
+                        "end": 46,
+                        "id": "1308669166652620800",
+                        "start": 34,
+                        "username": "mc_podcast_"
+                    },
+                    {
+                        "end": 122,
+                        "id": "10228272",
+                        "start": 114,
+                        "username": "YouTube"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "youtu.be/iAANyHYcvUw",
+                        "end": 109,
+                        "expanded_url": "https://youtu.be/iAANyHYcvUw",
+                        "start": 86,
+                        "status": 200,
+                        "unwound_url": "https://www.youtube.com/watch?v=iAANyHYcvUw&feature=youtu.be",
+                        "url": "https://t.co/06rP6i2pcc"
+                    }
+                ]
+            },
+            "id": "1326461095175999488",
+            "lang": "en",
+            "public_metrics": {
+                "impression_count": 0,
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 2
+            },
+            "referenced_tweets": [
+                {
+                    "id": "1326451735565623297",
+                    "type": "retweeted"
+                }
+            ],
+            "reply_settings": "everyone",
+            "text": "RT @bloodybits: RT @lime_link: RT @mc_podcast_: Call of Duty Black Ops 4 and Blackout https://t.co/06rP6i2pcc via @YouTube #PodcastRecommen\u2026"
+        },
+        {
+            "author_id": "885857077",
+            "conversation_id": "1326461047461568513",
+            "created_at": "2020-11-11T09:45:32.000Z",
+            "edit_history_tweet_ids": [
+                "1326461047461568513"
+            ],
+            "entities": {
+                "mentions": [
+                    {
+                        "end": 18,
+                        "id": "3530404094",
+                        "start": 3,
+                        "username": "DavidJHarrisJr"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "davidharrisjr.com/steven/texas-c\u2026",
+                        "end": 59,
+                        "expanded_url": "https://davidharrisjr.com/steven/texas-charges-social-worker-with-134-felony-counts-involving-election-fraud/",
+                        "start": 36,
+                        "url": "https://t.co/NU4e9nCrDI"
+                    }
+                ]
+            },
+            "id": "1326461047461568513",
+            "lang": "en",
+            "public_metrics": {
+                "impression_count": 0,
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 1824
+            },
+            "referenced_tweets": [
+                {
+                    "id": "1326434493020794881",
+                    "type": "retweeted"
+                }
+            ],
+            "reply_settings": "everyone",
+            "text": "RT @DavidJHarrisJr: Media BLACKOUT!\nhttps://t.co/NU4e9nCrDI"
+        },
+        {
+            "author_id": "22561023",
+            "context_annotations": [
+                {
+                    "domain": {
+                        "description": "Named people in the world like Nelson Mandela",
+                        "id": "10",
+                        "name": "Person"
+                    },
+                    "entity": {
+                        "description": "Professor",
+                        "id": "1138109518288568321",
+                        "name": "Laurence Tribe"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A taxonomy of user interests. ",
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy"
+                    },
+                    "entity": {
+                        "description": "Politics",
+                        "id": "847878884917886977",
+                        "name": "Politics"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A taxonomy of user interests. ",
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy"
+                    },
+                    "entity": {
+                        "description": "Politician",
+                        "id": "1070032753834438656",
+                        "name": "Political figures"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A taxonomy of user interests. ",
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy"
+                    },
+                    "entity": {
+                        "description": "Professor",
+                        "id": "1138109518288568321",
+                        "name": "Laurence Tribe"
+                    }
+                }
+            ],
+            "conversation_id": "1326367948047585285",
+            "created_at": "2020-11-11T09:45:26.000Z",
+            "edit_history_tweet_ids": [
+                "1326461020425089024"
+            ],
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 107,
+                        "normalized_text": "Voting Rights",
+                        "probability": 0.5657,
+                        "start": 95,
+                        "type": "Other"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 9,
+                        "id": "4091551984",
+                        "start": 0,
+                        "username": "tribelaw"
+                    }
+                ]
+            },
+            "id": "1326461020425089024",
+            "in_reply_to_user_id": "4091551984",
+            "lang": "en",
+            "public_metrics": {
+                "impression_count": 0,
+                "like_count": 1,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "referenced_tweets": [
+                {
+                    "id": "1326367948047585285",
+                    "type": "replied_to"
+                }
+            ],
+            "reply_settings": "everyone",
+            "text": "@tribelaw These justices may not be the sharpest knives in the drawer with blackout drunks and Voting Rights Act gutters, but they're sure as hell not stupid enough to cause millions of people to come after them with pitchforks."
+        },
+        {
+            "author_id": "1102461526366134272",
+            "context_annotations": [
+                {
+                    "domain": {
+                        "description": "Top level entities that describe a Brands industry",
+                        "id": "45",
+                        "name": "Brand Vertical"
+                    },
+                    "entity": {
+                        "id": "781974597310615553",
+                        "name": "Entertainment"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+                        "id": "30",
+                        "name": "Entities [Entity Service]"
+                    },
+                    "entity": {
+                        "id": "781974597105094656",
+                        "name": "TV/Movies Related - Entertainment"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "Brands and Companies",
+                        "id": "47",
+                        "name": "Brand"
+                    },
+                    "entity": {
+                        "description": "BBC",
+                        "id": "1065659570578612224",
+                        "name": "BBC"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A taxonomy of user interests. ",
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy"
+                    },
+                    "entity": {
+                        "description": "News",
+                        "id": "1046545033657081857",
+                        "name": "News"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A taxonomy of user interests. ",
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy"
+                    },
+                    "entity": {
+                        "description": "BBC",
+                        "id": "1065659570578612224",
+                        "name": "BBC"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A taxonomy of user interests. ",
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy"
+                    },
+                    "entity": {
+                        "id": "1196447117297905665",
+                        "name": "News outlets"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "Top level interests and hobbies groupings, like Food or Travel",
+                        "id": "65",
+                        "name": "Interests and Hobbies Vertical"
+                    },
+                    "entity": {
+                        "description": "Beauty",
+                        "id": "850395585941086209",
+                        "name": "Beauty"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+                        "id": "66",
+                        "name": "Interests and Hobbies Category"
+                    },
+                    "entity": {
+                        "description": "Make-up and Cosmetics",
+                        "id": "855442035314089988",
+                        "name": "Makeup"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+                        "id": "67",
+                        "name": "Interests and Hobbies"
+                    },
+                    "entity": {
+                        "description": "Foundation",
+                        "id": "856595706311606272",
+                        "name": "Foundation"
+                    }
+                }
+            ],
+            "conversation_id": "1326460969648869376",
+            "created_at": "2020-11-11T09:45:14.000Z",
+            "edit_history_tweet_ids": [
+                "1326460969648869376"
+            ],
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 73,
+                        "normalized_text": "Tigray",
+                        "probability": 0.3662,
+                        "start": 68,
+                        "type": "Place"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 26,
+                        "id": "1168167671151628290",
+                        "start": 13,
+                        "username": "AbiyAhmedAli"
+                    },
+                    {
+                        "end": 163,
+                        "id": "710425811925471232",
+                        "start": 150,
+                        "username": "RAbdiAnalyst"
+                    },
+                    {
+                        "end": 180,
+                        "id": "1032675577",
+                        "start": 167,
+                        "username": "TomGardner18"
+                    },
+                    {
+                        "end": 198,
+                        "id": "1032675577",
+                        "start": 185,
+                        "username": "TomGardner18"
+                    },
+                    {
+                        "end": 213,
+                        "id": "579711170",
+                        "start": 202,
+                        "username": "wdavison10"
+                    },
+                    {
+                        "end": 242,
+                        "id": "36670025",
+                        "start": 232,
+                        "username": "BBCAfrica"
+                    },
+                    {
+                        "end": 258,
+                        "id": "174174847",
+                        "start": 246,
+                        "username": "martinplaut"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "twitter.com/SMGebru/status\u2026",
+                        "end": 287,
+                        "expanded_url": "https://twitter.com/SMGebru/status/1326431214165762050",
+                        "start": 264,
+                        "url": "https://t.co/QKeRYzzZdU"
+                    }
+                ]
+            },
+            "id": "1326460969648869376",
+            "lang": "en",
+            "public_metrics": {
+                "impression_count": 0,
+                "like_count": 1,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "referenced_tweets": [
+                {
+                    "id": "1326431214165762050",
+                    "type": "quoted"
+                }
+            ],
+            "reply_settings": "everyone",
+            "text": "NotWoofers\n.\n@AbiyAhmedAli\n\u2019s media blackout is being extended from Tigray to the south (Gonder). He should have something to hide from the media. \n.\n@RAbdiAnalyst\n .\n@TomGardner18\n \n.\n@TomGardner18\n .\n@wdavison10\n \n.\n@AFPAfrica\n .\n@BBCAfrica\n .\n@martinplaut\nhone https://t.co/QKeRYzzZdU"
+        },
+        {
+            "author_id": "138492825",
+            "context_annotations": [
+                {
+                    "domain": {
+                        "description": "Brands and Companies",
+                        "id": "47",
+                        "name": "Brand"
+                    },
+                    "entity": {
+                        "id": "1138483931286626305",
+                        "name": "Folha de S\u00e3o Paulo"
+                    }
+                }
+            ],
+            "conversation_id": "1326460931925225472",
+            "created_at": "2020-11-11T09:45:05.000Z",
+            "edit_history_tweet_ids": [
+                "1326460931925225472"
+            ],
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 69,
+                        "normalized_text": "Macap\u00e1 Metropolitan Region",
+                        "probability": 0.9319,
+                        "start": 44,
+                        "type": "Place"
+                    }
+                ],
+                "hashtags": [
+                    {
+                        "end": 24,
+                        "start": 13,
+                        "tag": "quilombola"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 103,
+                        "id": "14594813",
+                        "start": 97,
+                        "username": "folha"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "www1.folha.uol.com.br/internacional/\u2026",
+                        "end": 127,
+                        "expanded_url": "https://www1.folha.uol.com.br/internacional/en/business/2020/11/on-the-7th-day-after-the-blackout-electricity-rotation-still-does-not-work-in-all-regions-of-amapa.shtml",
+                        "start": 104,
+                        "status": 200,
+                        "unwound_url": "https://www1.folha.uol.com.br/internacional/en/business/2020/11/on-the-7th-day-after-the-blackout-electricity-rotation-still-does-not-work-in-all-regions-of-amapa.shtml",
+                        "url": "https://t.co/zjmNLBEgCN"
+                    }
+                ]
+            },
+            "id": "1326460931925225472",
+            "lang": "en",
+            "public_metrics": {
+                "impression_count": 0,
+                "like_count": 16,
+                "quote_count": 1,
+                "reply_count": 0,
+                "retweet_count": 6
+            },
+            "reply_settings": "everyone",
+            "text": "More than 20 #quilombola communities in the Macap\u00e1 Metropolitan Region remain without power. Via @folha https://t.co/zjmNLBEgCN"
+        },
+        {
+            "author_id": "2179035314",
+            "conversation_id": "1326460915395522561",
+            "created_at": "2020-11-11T09:45:01.000Z",
+            "edit_history_tweet_ids": [
+                "1326460915395522561"
+            ],
+            "entities": {
+                "mentions": [
+                    {
+                        "end": 18,
+                        "id": "3530404094",
+                        "start": 3,
+                        "username": "DavidJHarrisJr"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "davidharrisjr.com/steven/texas-c\u2026",
+                        "end": 59,
+                        "expanded_url": "https://davidharrisjr.com/steven/texas-charges-social-worker-with-134-felony-counts-involving-election-fraud/",
+                        "start": 36,
+                        "url": "https://t.co/NU4e9nCrDI"
+                    }
+                ]
+            },
+            "id": "1326460915395522561",
+            "lang": "en",
+            "public_metrics": {
+                "impression_count": 0,
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 1824
+            },
+            "referenced_tweets": [
+                {
+                    "id": "1326434493020794881",
+                    "type": "retweeted"
+                }
+            ],
+            "reply_settings": "everyone",
+            "text": "RT @DavidJHarrisJr: Media BLACKOUT!\nhttps://t.co/NU4e9nCrDI"
+        },
+        {
+            "author_id": "3092542756",
+            "conversation_id": "1326460884454166532",
+            "created_at": "2020-11-11T09:44:53.000Z",
+            "edit_history_tweet_ids": [
+                "1326460884454166532"
+            ],
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 82,
+                        "normalized_text": "The Great Reset",
+                        "probability": 0.7375,
+                        "start": 68,
+                        "type": "Other"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "twitter.com/ChristineEasda\u2026",
+                        "end": 155,
+                        "expanded_url": "https://twitter.com/ChristineEasda1/status/1326458942323646464",
+                        "start": 132,
+                        "url": "https://t.co/nXH5VTmjtL"
+                    }
+                ]
+            },
+            "id": "1326460884454166532",
+            "lang": "en",
+            "public_metrics": {
+                "impression_count": 0,
+                "like_count": 5,
+                "quote_count": 1,
+                "reply_count": 0,
+                "retweet_count": 1
+            },
+            "referenced_tweets": [
+                {
+                    "id": "1326458942323646464",
+                    "type": "quoted"
+                }
+            ],
+            "reply_settings": "everyone",
+            "text": "Blackout on the Media channels on this. They are the mouth piece of The Great Reset bombarding us with Propaganda. Adverts as well. https://t.co/nXH5VTmjtL"
+        },
+        {
+            "author_id": "4300157005",
+            "conversation_id": "1326457472484306945",
+            "created_at": "2020-11-11T09:44:51.000Z",
+            "edit_history_tweet_ids": [
+                "1326460873456545793"
+            ],
+            "entities": {
+                "mentions": [
+                    {
+                        "end": 12,
+                        "id": "14930609",
+                        "start": 0,
+                        "username": "john_brewer"
+                    },
+                    {
+                        "end": 25,
+                        "id": "24787367",
+                        "start": 13,
+                        "username": "LionelMedia"
+                    }
+                ]
+            },
+            "id": "1326460873456545793",
+            "in_reply_to_user_id": "14930609",
+            "lang": "en",
+            "public_metrics": {
+                "impression_count": 0,
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "referenced_tweets": [
+                {
+                    "id": "1326457752848273409",
+                    "type": "replied_to"
+                }
+            ],
+            "reply_settings": "everyone",
+            "text": "@john_brewer @LionelMedia Erm... more like total blackout-gate!"
+        },
+        {
+            "author_id": "817551337693073415",
+            "conversation_id": "1326460800870060037",
+            "created_at": "2020-11-11T09:44:34.000Z",
+            "edit_history_tweet_ids": [
+                "1326460800870060037"
+            ],
+            "entities": {
+                "mentions": [
+                    {
+                        "end": 18,
+                        "id": "3530404094",
+                        "start": 3,
+                        "username": "DavidJHarrisJr"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "davidharrisjr.com/steven/texas-c\u2026",
+                        "end": 59,
+                        "expanded_url": "https://davidharrisjr.com/steven/texas-charges-social-worker-with-134-felony-counts-involving-election-fraud/",
+                        "start": 36,
+                        "url": "https://t.co/NU4e9nCrDI"
+                    }
+                ]
+            },
+            "id": "1326460800870060037",
+            "lang": "en",
+            "public_metrics": {
+                "impression_count": 0,
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 1824
+            },
+            "referenced_tweets": [
+                {
+                    "id": "1326434493020794881",
+                    "type": "retweeted"
+                }
+            ],
+            "reply_settings": "everyone",
+            "text": "RT @DavidJHarrisJr: Media BLACKOUT!\nhttps://t.co/NU4e9nCrDI"
+        },
+        {
+            "author_id": "1213662484164272130",
+            "conversation_id": "1326460767260954624",
+            "created_at": "2020-11-11T09:44:26.000Z",
+            "edit_history_tweet_ids": [
+                "1326460767260954624"
+            ],
+            "entities": {
+                "mentions": [
+                    {
+                        "end": 18,
+                        "id": "3530404094",
+                        "start": 3,
+                        "username": "DavidJHarrisJr"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "davidharrisjr.com/steven/texas-c\u2026",
+                        "end": 59,
+                        "expanded_url": "https://davidharrisjr.com/steven/texas-charges-social-worker-with-134-felony-counts-involving-election-fraud/",
+                        "start": 36,
+                        "url": "https://t.co/NU4e9nCrDI"
+                    }
+                ]
+            },
+            "id": "1326460767260954624",
+            "lang": "en",
+            "public_metrics": {
+                "impression_count": 0,
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 1824
+            },
+            "referenced_tweets": [
+                {
+                    "id": "1326434493020794881",
+                    "type": "retweeted"
+                }
+            ],
+            "reply_settings": "everyone",
+            "text": "RT @DavidJHarrisJr: Media BLACKOUT!\nhttps://t.co/NU4e9nCrDI"
+        },
+        {
+            "author_id": "1146422336129773571",
+            "conversation_id": "1326460731601145857",
+            "created_at": "2020-11-11T09:44:17.000Z",
+            "edit_history_tweet_ids": [
+                "1326460731601145857"
+            ],
+            "entities": {
+                "mentions": [
+                    {
+                        "end": 18,
+                        "id": "3530404094",
+                        "start": 3,
+                        "username": "DavidJHarrisJr"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "davidharrisjr.com/steven/texas-c\u2026",
+                        "end": 59,
+                        "expanded_url": "https://davidharrisjr.com/steven/texas-charges-social-worker-with-134-felony-counts-involving-election-fraud/",
+                        "start": 36,
+                        "url": "https://t.co/NU4e9nCrDI"
+                    }
+                ]
+            },
+            "id": "1326460731601145857",
+            "lang": "en",
+            "public_metrics": {
+                "impression_count": 0,
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 1824
+            },
+            "referenced_tweets": [
+                {
+                    "id": "1326434493020794881",
+                    "type": "retweeted"
+                }
+            ],
+            "reply_settings": "everyone",
+            "text": "RT @DavidJHarrisJr: Media BLACKOUT!\nhttps://t.co/NU4e9nCrDI"
+        },
+        {
+            "author_id": "1068375886947278849",
+            "conversation_id": "1326460714370834432",
+            "created_at": "2020-11-11T09:44:13.000Z",
+            "edit_history_tweet_ids": [
+                "1326460714370834432"
+            ],
+            "id": "1326460714370834432",
+            "lang": "in",
+            "public_metrics": {
+                "impression_count": 0,
+                "like_count": 2,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "reply_settings": "everyone",
+            "text": "dia main main ek dah 2 kali blackout dah ni harini"
+        },
+        {
+            "author_id": "623938838",
+            "conversation_id": "1326460698881298437",
+            "created_at": "2020-11-11T09:44:09.000Z",
+            "edit_history_tweet_ids": [
+                "1326460698881298437"
+            ],
+            "entities": {
+                "mentions": [
+                    {
+                        "end": 18,
+                        "id": "3530404094",
+                        "start": 3,
+                        "username": "DavidJHarrisJr"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "davidharrisjr.com/steven/texas-c\u2026",
+                        "end": 59,
+                        "expanded_url": "https://davidharrisjr.com/steven/texas-charges-social-worker-with-134-felony-counts-involving-election-fraud/",
+                        "start": 36,
+                        "url": "https://t.co/NU4e9nCrDI"
+                    }
+                ]
+            },
+            "id": "1326460698881298437",
+            "lang": "en",
+            "public_metrics": {
+                "impression_count": 0,
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 1824
+            },
+            "referenced_tweets": [
+                {
+                    "id": "1326434493020794881",
+                    "type": "retweeted"
+                }
+            ],
+            "reply_settings": "everyone",
+            "text": "RT @DavidJHarrisJr: Media BLACKOUT!\nhttps://t.co/NU4e9nCrDI"
+        },
+        {
+            "author_id": "27445712",
+            "conversation_id": "1326460643403239424",
+            "created_at": "2020-11-11T09:43:56.000Z",
+            "edit_history_tweet_ids": [
+                "1326460643403239424"
+            ],
+            "entities": {
+                "mentions": [
+                    {
+                        "end": 18,
+                        "id": "3530404094",
+                        "start": 3,
+                        "username": "DavidJHarrisJr"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "davidharrisjr.com/steven/texas-c\u2026",
+                        "end": 59,
+                        "expanded_url": "https://davidharrisjr.com/steven/texas-charges-social-worker-with-134-felony-counts-involving-election-fraud/",
+                        "start": 36,
+                        "url": "https://t.co/NU4e9nCrDI"
+                    }
+                ]
+            },
+            "id": "1326460643403239424",
+            "lang": "en",
+            "public_metrics": {
+                "impression_count": 0,
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 1824
+            },
+            "referenced_tweets": [
+                {
+                    "id": "1326434493020794881",
+                    "type": "retweeted"
+                }
+            ],
+            "reply_settings": "everyone",
+            "text": "RT @DavidJHarrisJr: Media BLACKOUT!\nhttps://t.co/NU4e9nCrDI"
+        },
+        {
+            "author_id": "332280176",
+            "conversation_id": "1326460584288727041",
+            "created_at": "2020-11-11T09:43:42.000Z",
+            "edit_history_tweet_ids": [
+                "1326460584288727041"
+            ],
+            "entities": {
+                "mentions": [
+                    {
+                        "end": 18,
+                        "id": "3530404094",
+                        "start": 3,
+                        "username": "DavidJHarrisJr"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "davidharrisjr.com/steven/texas-c\u2026",
+                        "end": 59,
+                        "expanded_url": "https://davidharrisjr.com/steven/texas-charges-social-worker-with-134-felony-counts-involving-election-fraud/",
+                        "start": 36,
+                        "url": "https://t.co/NU4e9nCrDI"
+                    }
+                ]
+            },
+            "id": "1326460584288727041",
+            "lang": "en",
+            "public_metrics": {
+                "impression_count": 0,
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 1824
+            },
+            "referenced_tweets": [
+                {
+                    "id": "1326434493020794881",
+                    "type": "retweeted"
+                }
+            ],
+            "reply_settings": "everyone",
+            "text": "RT @DavidJHarrisJr: Media BLACKOUT!\nhttps://t.co/NU4e9nCrDI"
+        },
+        {
+            "author_id": "817790835777531905",
+            "conversation_id": "1326460539451609088",
+            "created_at": "2020-11-11T09:43:31.000Z",
+            "edit_history_tweet_ids": [
+                "1326460539451609088"
+            ],
+            "entities": {
+                "mentions": [
+                    {
+                        "end": 18,
+                        "id": "3530404094",
+                        "start": 3,
+                        "username": "DavidJHarrisJr"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "davidharrisjr.com/steven/texas-c\u2026",
+                        "end": 59,
+                        "expanded_url": "https://davidharrisjr.com/steven/texas-charges-social-worker-with-134-felony-counts-involving-election-fraud/",
+                        "start": 36,
+                        "url": "https://t.co/NU4e9nCrDI"
+                    }
+                ]
+            },
+            "id": "1326460539451609088",
+            "lang": "en",
+            "public_metrics": {
+                "impression_count": 0,
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 1824
+            },
+            "referenced_tweets": [
+                {
+                    "id": "1326434493020794881",
+                    "type": "retweeted"
+                }
+            ],
+            "reply_settings": "everyone",
+            "text": "RT @DavidJHarrisJr: Media BLACKOUT!\nhttps://t.co/NU4e9nCrDI"
+        },
+        {
+            "author_id": "356360343",
+            "conversation_id": "1326460539007086596",
+            "created_at": "2020-11-11T09:43:31.000Z",
+            "edit_history_tweet_ids": [
+                "1326460539007086596"
+            ],
+            "entities": {
+                "mentions": [
+                    {
+                        "end": 18,
+                        "id": "3530404094",
+                        "start": 3,
+                        "username": "DavidJHarrisJr"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "davidharrisjr.com/steven/texas-c\u2026",
+                        "end": 59,
+                        "expanded_url": "https://davidharrisjr.com/steven/texas-charges-social-worker-with-134-felony-counts-involving-election-fraud/",
+                        "start": 36,
+                        "url": "https://t.co/NU4e9nCrDI"
+                    }
+                ]
+            },
+            "id": "1326460539007086596",
+            "lang": "en",
+            "public_metrics": {
+                "impression_count": 0,
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 1824
+            },
+            "referenced_tweets": [
+                {
+                    "id": "1326434493020794881",
+                    "type": "retweeted"
+                }
+            ],
+            "reply_settings": "everyone",
+            "text": "RT @DavidJHarrisJr: Media BLACKOUT!\nhttps://t.co/NU4e9nCrDI"
+        },
+        {
+            "author_id": "398735467",
+            "conversation_id": "1326460480190373889",
+            "created_at": "2020-11-11T09:43:17.000Z",
+            "edit_history_tweet_ids": [
+                "1326460480190373889"
+            ],
+            "entities": {
+                "mentions": [
+                    {
+                        "end": 18,
+                        "id": "3530404094",
+                        "start": 3,
+                        "username": "DavidJHarrisJr"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "davidharrisjr.com/steven/texas-c\u2026",
+                        "end": 59,
+                        "expanded_url": "https://davidharrisjr.com/steven/texas-charges-social-worker-with-134-felony-counts-involving-election-fraud/",
+                        "start": 36,
+                        "url": "https://t.co/NU4e9nCrDI"
+                    }
+                ]
+            },
+            "id": "1326460480190373889",
+            "lang": "en",
+            "public_metrics": {
+                "impression_count": 0,
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 1824
+            },
+            "referenced_tweets": [
+                {
+                    "id": "1326434493020794881",
+                    "type": "retweeted"
+                }
+            ],
+            "reply_settings": "everyone",
+            "text": "RT @DavidJHarrisJr: Media BLACKOUT!\nhttps://t.co/NU4e9nCrDI"
+        },
+        {
+            "author_id": "45201525",
+            "conversation_id": "1326460477426298881",
+            "created_at": "2020-11-11T09:43:16.000Z",
+            "edit_history_tweet_ids": [
+                "1326460477426298881"
+            ],
+            "entities": {
+                "mentions": [
+                    {
+                        "end": 18,
+                        "id": "3530404094",
+                        "start": 3,
+                        "username": "DavidJHarrisJr"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "davidharrisjr.com/steven/texas-c\u2026",
+                        "end": 59,
+                        "expanded_url": "https://davidharrisjr.com/steven/texas-charges-social-worker-with-134-felony-counts-involving-election-fraud/",
+                        "start": 36,
+                        "url": "https://t.co/NU4e9nCrDI"
+                    }
+                ]
+            },
+            "id": "1326460477426298881",
+            "lang": "en",
+            "public_metrics": {
+                "impression_count": 0,
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 1824
+            },
+            "referenced_tweets": [
+                {
+                    "id": "1326434493020794881",
+                    "type": "retweeted"
+                }
+            ],
+            "reply_settings": "everyone",
+            "text": "RT @DavidJHarrisJr: Media BLACKOUT!\nhttps://t.co/NU4e9nCrDI"
+        },
+        {
+            "author_id": "801806997884702721",
+            "conversation_id": "1326460470920876033",
+            "created_at": "2020-11-11T09:43:15.000Z",
+            "edit_history_tweet_ids": [
+                "1326460470920876033"
+            ],
+            "entities": {
+                "mentions": [
+                    {
+                        "end": 18,
+                        "id": "3530404094",
+                        "start": 3,
+                        "username": "DavidJHarrisJr"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "davidharrisjr.com/steven/texas-c\u2026",
+                        "end": 59,
+                        "expanded_url": "https://davidharrisjr.com/steven/texas-charges-social-worker-with-134-felony-counts-involving-election-fraud/",
+                        "start": 36,
+                        "url": "https://t.co/NU4e9nCrDI"
+                    }
+                ]
+            },
+            "id": "1326460470920876033",
+            "lang": "en",
+            "public_metrics": {
+                "impression_count": 0,
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 1824
+            },
+            "referenced_tweets": [
+                {
+                    "id": "1326434493020794881",
+                    "type": "retweeted"
+                }
+            ],
+            "reply_settings": "everyone",
+            "text": "RT @DavidJHarrisJr: Media BLACKOUT!\nhttps://t.co/NU4e9nCrDI"
+        },
+        {
+            "author_id": "2173522141",
+            "conversation_id": "1326460447768260608",
+            "created_at": "2020-11-11T09:43:09.000Z",
+            "edit_history_tweet_ids": [
+                "1326460447768260608"
+            ],
+            "entities": {
+                "mentions": [
+                    {
+                        "end": 18,
+                        "id": "3530404094",
+                        "start": 3,
+                        "username": "DavidJHarrisJr"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "davidharrisjr.com/steven/texas-c\u2026",
+                        "end": 59,
+                        "expanded_url": "https://davidharrisjr.com/steven/texas-charges-social-worker-with-134-felony-counts-involving-election-fraud/",
+                        "start": 36,
+                        "url": "https://t.co/NU4e9nCrDI"
+                    }
+                ]
+            },
+            "id": "1326460447768260608",
+            "lang": "en",
+            "public_metrics": {
+                "impression_count": 0,
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 1824
+            },
+            "referenced_tweets": [
+                {
+                    "id": "1326434493020794881",
+                    "type": "retweeted"
+                }
+            ],
+            "reply_settings": "everyone",
+            "text": "RT @DavidJHarrisJr: Media BLACKOUT!\nhttps://t.co/NU4e9nCrDI"
+        },
+        {
+            "author_id": "326898960",
+            "context_annotations": [
+                {
+                    "domain": {
+                        "description": "A taxonomy of user interests. ",
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy"
+                    },
+                    "entity": {
+                        "id": "1196446161223028736",
+                        "name": "Social media"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "Real world events. ",
+                        "id": "29",
+                        "name": "Events [Entity Service]"
+                    },
+                    "entity": {
+                        "id": "1260821905491152896",
+                        "name": "Misinformation, debunk entity"
+                    }
+                }
+            ],
+            "conversation_id": "1326460411517014016",
+            "created_at": "2020-11-11T09:43:01.000Z",
+            "edit_history_tweet_ids": [
+                "1326460411517014016"
+            ],
+            "entities": {
+                "mentions": [
+                    {
+                        "end": 14,
+                        "id": "40275574",
+                        "start": 3,
+                        "username": "ayosogunro"
+                    }
+                ]
+            },
+            "id": "1326460411517014016",
+            "lang": "en",
+            "public_metrics": {
+                "impression_count": 0,
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 247
+            },
+            "referenced_tweets": [
+                {
+                    "id": "1326254078628945922",
+                    "type": "retweeted"
+                }
+            ],
+            "reply_settings": "everyone",
+            "text": "RT @ayosogunro: I will rather risk the possibility of fake news along with real news available on social media than entertain the idea of g\u2026"
+        },
+        {
+            "author_id": "1313121392586563584",
+            "conversation_id": "1326460406378934272",
+            "created_at": "2020-11-11T09:42:59.000Z",
+            "edit_history_tweet_ids": [
+                "1326460406378934272"
+            ],
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 48,
+                        "normalized_text": "r7",
+                        "probability": 0.5613,
+                        "start": 47,
+                        "type": "Other"
+                    },
+                    {
+                        "end": 77,
+                        "normalized_text": "blackout",
+                        "probability": 0.6951,
+                        "start": 70,
+                        "type": "Other"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 17,
+                        "id": "1229981740619444224",
+                        "start": 3,
+                        "username": "camarotedauni"
+                    }
+                ]
+            },
+            "id": "1326460406378934272",
+            "lang": "pt",
+            "public_metrics": {
+                "impression_count": 0,
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 21
+            },
+            "referenced_tweets": [
+                {
+                    "id": "1326457593414430722",
+                    "type": "retweeted"
+                }
+            ],
+            "reply_settings": "everyone",
+            "text": "RT @camarotedauni: pra amanh\u00e3:\n- foco total no r7\n- sumam da tl, modo blackout total\n- precisamos focar 3x mais em hor\u00e1rios estrat\u00e9gicos\n-\u2026"
+        },
+        {
+            "author_id": "2845085782",
+            "conversation_id": "1326460391610855424",
+            "created_at": "2020-11-11T09:42:56.000Z",
+            "edit_history_tweet_ids": [
+                "1326460391610855424"
+            ],
+            "entities": {
+                "mentions": [
+                    {
+                        "end": 18,
+                        "id": "3530404094",
+                        "start": 3,
+                        "username": "DavidJHarrisJr"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "davidharrisjr.com/steven/texas-c\u2026",
+                        "end": 59,
+                        "expanded_url": "https://davidharrisjr.com/steven/texas-charges-social-worker-with-134-felony-counts-involving-election-fraud/",
+                        "start": 36,
+                        "url": "https://t.co/NU4e9nCrDI"
+                    }
+                ]
+            },
+            "id": "1326460391610855424",
+            "lang": "en",
+            "public_metrics": {
+                "impression_count": 0,
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 1824
+            },
+            "referenced_tweets": [
+                {
+                    "id": "1326434493020794881",
+                    "type": "retweeted"
+                }
+            ],
+            "reply_settings": "everyone",
+            "text": "RT @DavidJHarrisJr: Media BLACKOUT!\nhttps://t.co/NU4e9nCrDI"
+        },
+        {
+            "author_id": "16490066",
+            "conversation_id": "1326460337252560896",
+            "created_at": "2020-11-11T09:42:43.000Z",
+            "edit_history_tweet_ids": [
+                "1326460337252560896"
+            ],
+            "entities": {
+                "mentions": [
+                    {
+                        "end": 18,
+                        "id": "3530404094",
+                        "start": 3,
+                        "username": "DavidJHarrisJr"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "davidharrisjr.com/steven/texas-c\u2026",
+                        "end": 59,
+                        "expanded_url": "https://davidharrisjr.com/steven/texas-charges-social-worker-with-134-felony-counts-involving-election-fraud/",
+                        "start": 36,
+                        "url": "https://t.co/NU4e9nCrDI"
+                    }
+                ]
+            },
+            "id": "1326460337252560896",
+            "lang": "en",
+            "public_metrics": {
+                "impression_count": 0,
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 1824
+            },
+            "referenced_tweets": [
+                {
+                    "id": "1326434493020794881",
+                    "type": "retweeted"
+                }
+            ],
+            "reply_settings": "everyone",
+            "text": "RT @DavidJHarrisJr: Media BLACKOUT!\nhttps://t.co/NU4e9nCrDI"
+        },
+        {
+            "author_id": "251611632",
+            "conversation_id": "1326460334647902210",
+            "created_at": "2020-11-11T09:42:42.000Z",
+            "edit_history_tweet_ids": [
+                "1326460334647902210"
+            ],
+            "entities": {
+                "mentions": [
+                    {
+                        "end": 18,
+                        "id": "3530404094",
+                        "start": 3,
+                        "username": "DavidJHarrisJr"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "davidharrisjr.com/steven/texas-c\u2026",
+                        "end": 59,
+                        "expanded_url": "https://davidharrisjr.com/steven/texas-charges-social-worker-with-134-felony-counts-involving-election-fraud/",
+                        "start": 36,
+                        "url": "https://t.co/NU4e9nCrDI"
+                    }
+                ]
+            },
+            "id": "1326460334647902210",
+            "lang": "en",
+            "public_metrics": {
+                "impression_count": 0,
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 1824
+            },
+            "referenced_tweets": [
+                {
+                    "id": "1326434493020794881",
+                    "type": "retweeted"
+                }
+            ],
+            "reply_settings": "everyone",
+            "text": "RT @DavidJHarrisJr: Media BLACKOUT!\nhttps://t.co/NU4e9nCrDI"
+        }
+    ],
+    "meta": {
+        "newest_id": "1326464188236095490",
+        "next_token": "b26v89c19zqg8o3fosbunziwi5pqf4w8y36ctyfeihjst",
+        "oldest_id": "1326460334647902210",
+        "result_count": 89
+    }
+}

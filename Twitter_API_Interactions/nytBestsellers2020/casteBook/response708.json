@@ -1,0 +1,5279 @@
+{
+    "data": [
+        {
+            "author_id": "3150940290",
+            "context_annotations": [
+                {
+                    "domain": {
+                        "description": "Ongoing News Stories like 'Brexit'",
+                        "id": "123",
+                        "name": "Ongoing News Story"
+                    },
+                    "entity": {
+                        "id": "1220701888179359745",
+                        "name": "COVID-19"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A taxonomy of user interests. ",
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy"
+                    },
+                    "entity": {
+                        "description": "News",
+                        "id": "1046545033657081857",
+                        "name": "News"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A taxonomy of user interests. ",
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy"
+                    },
+                    "entity": {
+                        "id": "1220701888179359745",
+                        "name": "COVID-19"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A taxonomy of user interests. ",
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy"
+                    },
+                    "entity": {
+                        "id": "1286381671713894402",
+                        "name": "Asia Pacific"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A taxonomy of user interests. ",
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy"
+                    },
+                    "entity": {
+                        "id": "1291717277021216769",
+                        "name": "India national news"
+                    }
+                }
+            ],
+            "conversation_id": "1324026247727452163",
+            "created_at": "2020-11-04T16:30:31.000Z",
+            "edit_history_tweet_ids": [
+                "1324026247727452163"
+            ],
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 50,
+                        "normalized_text": "Bihar",
+                        "probability": 0.9697,
+                        "start": 46,
+                        "type": "Place"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 211,
+                        "id": "113571686",
+                        "start": 200,
+                        "username": "khanumarfa"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "thewire.in/video/watch-bi\u2026",
+                        "end": 268,
+                        "expanded_url": "https://thewire.in/video/watch-bihar-elections-who-are-muslim-voters-going-to-vote-for",
+                        "start": 245,
+                        "status": 200,
+                        "unwound_url": "https://thewire.in/video/watch-bihar-elections-who-are-muslim-voters-going-to-vote-for",
+                        "url": "https://t.co/4wV0pQxNVm"
+                    }
+                ]
+            },
+            "id": "1324026247727452163",
+            "lang": "en",
+            "public_metrics": {
+                "impression_count": 0,
+                "like_count": 35,
+                "quote_count": 0,
+                "reply_count": 1,
+                "retweet_count": 5
+            },
+            "reply_settings": "everyone",
+            "text": "In the year of a pandemic, with the people of Bihar facing many problems, the question of whether people will vote on the basis of caste or the issue of development remains to be seen.\n\nSenior editor @khanumarfa speaks to some special guests. \n\nhttps://t.co/4wV0pQxNVm"
+        },
+        {
+            "author_id": "14437621",
+            "conversation_id": "1324026157042335744",
+            "created_at": "2020-11-04T16:30:09.000Z",
+            "edit_history_tweet_ids": [
+                "1324026157042335744"
+            ],
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 138,
+                        "normalized_text": "deni",
+                        "probability": 0.8644,
+                        "start": 135,
+                        "type": "Place"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 15,
+                        "id": "110326494",
+                        "start": 3,
+                        "username": "BreeNewsome"
+                    }
+                ]
+            },
+            "id": "1324026157042335744",
+            "lang": "en",
+            "public_metrics": {
+                "impression_count": 0,
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 7708
+            },
+            "referenced_tweets": [
+                {
+                    "id": "1323872299712499712",
+                    "type": "retweeted"
+                }
+            ],
+            "reply_settings": "everyone",
+            "text": "RT @BreeNewsome: I actually don\u2019t agree that another candidate from the primary would\u2019ve done better. I think people continue to be in deni\u2026"
+        },
+        {
+            "author_id": "1453180627",
+            "context_annotations": [
+                {
+                    "domain": {
+                        "description": "Top level entities that describe a Brands industry",
+                        "id": "45",
+                        "name": "Brand Vertical"
+                    },
+                    "entity": {
+                        "id": "781974597310615553",
+                        "name": "Entertainment"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+                        "id": "30",
+                        "name": "Entities [Entity Service]"
+                    },
+                    "entity": {
+                        "id": "781974597105094656",
+                        "name": "TV/Movies Related - Entertainment"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "Brands and Companies",
+                        "id": "47",
+                        "name": "Brand"
+                    },
+                    "entity": {
+                        "description": "Republic",
+                        "id": "1100051652311011328",
+                        "name": "Republic"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "Brands and Companies",
+                        "id": "47",
+                        "name": "Brand"
+                    },
+                    "entity": {
+                        "description": "NDTV",
+                        "id": "1100409026628640768",
+                        "name": "NDTV"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "Brands and Companies",
+                        "id": "47",
+                        "name": "Brand"
+                    },
+                    "entity": {
+                        "description": "India Today",
+                        "id": "1106568395376332801",
+                        "name": "India Today"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "Brands and Companies",
+                        "id": "47",
+                        "name": "Brand"
+                    },
+                    "entity": {
+                        "id": "1138475962679537664",
+                        "name": "TIMES NOW"
+                    }
+                }
+            ],
+            "conversation_id": "1324026137987620864",
+            "created_at": "2020-11-04T16:30:05.000Z",
+            "edit_history_tweet_ids": [
+                "1324026137987620864"
+            ],
+            "entities": {
+                "mentions": [
+                    {
+                        "end": 11,
+                        "id": "83297832",
+                        "start": 3,
+                        "username": "porinju"
+                    },
+                    {
+                        "end": 45,
+                        "id": "811972460560019456",
+                        "start": 36,
+                        "username": "republic"
+                    },
+                    {
+                        "end": 55,
+                        "id": "240649814",
+                        "start": 46,
+                        "username": "TimesNow"
+                    },
+                    {
+                        "end": 82,
+                        "id": "37034483",
+                        "start": 77,
+                        "username": "ndtv"
+                    },
+                    {
+                        "end": 94,
+                        "id": "19897138",
+                        "start": 83,
+                        "username": "IndiaToday"
+                    }
+                ]
+            },
+            "id": "1324026137987620864",
+            "lang": "en",
+            "public_metrics": {
+                "impression_count": 0,
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 64
+            },
+            "referenced_tweets": [
+                {
+                    "id": "1323963634192539649",
+                    "type": "retweeted"
+                }
+            ],
+            "reply_settings": "everyone",
+            "text": "RT @porinju: The nation is divided! @republic @TimesNow etc on one side with @ndtv @IndiaToday etc on the other. The governments divide us\u2026"
+        },
+        {
+            "author_id": "278323894",
+            "conversation_id": "1324026122288455682",
+            "created_at": "2020-11-04T16:30:01.000Z",
+            "edit_history_tweet_ids": [
+                "1324026122288455682"
+            ],
+            "entities": {
+                "mentions": [
+                    {
+                        "end": 15,
+                        "id": "110326494",
+                        "start": 3,
+                        "username": "BreeNewsome"
+                    }
+                ]
+            },
+            "id": "1324026122288455682",
+            "lang": "en",
+            "public_metrics": {
+                "impression_count": 0,
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 1227
+            },
+            "referenced_tweets": [
+                {
+                    "id": "1324015579741773824",
+                    "type": "retweeted"
+                }
+            ],
+            "reply_settings": "everyone",
+            "text": "RT @BreeNewsome: It\u2019s always white leftists who scream the loudest to deny that racism remains the greatest barrier to mobilizing a working\u2026"
+        },
+        {
+            "author_id": "888514296",
+            "context_annotations": [
+                {
+                    "domain": {
+                        "description": "Named people in the world like Nelson Mandela",
+                        "id": "10",
+                        "name": "Person"
+                    },
+                    "entity": {
+                        "description": "US President Joe Biden",
+                        "id": "10040395078",
+                        "name": "Joe Biden"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "Politicians in the world, like Joe Biden",
+                        "id": "35",
+                        "name": "Politician"
+                    },
+                    "entity": {
+                        "description": "US President Joe Biden",
+                        "id": "10040395078",
+                        "name": "Joe Biden"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A taxonomy of user interests. ",
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy"
+                    },
+                    "entity": {
+                        "description": "US President Joe Biden",
+                        "id": "10040395078",
+                        "name": "Joe Biden"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A taxonomy of user interests. ",
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy"
+                    },
+                    "entity": {
+                        "description": "Politics",
+                        "id": "847878884917886977",
+                        "name": "Politics"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A taxonomy of user interests. ",
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy"
+                    },
+                    "entity": {
+                        "description": "Politician",
+                        "id": "1070032753834438656",
+                        "name": "Political figures"
+                    }
+                }
+            ],
+            "conversation_id": "1324026115623628800",
+            "created_at": "2020-11-04T16:29:59.000Z",
+            "edit_history_tweet_ids": [
+                "1324026115623628800"
+            ],
+            "entities": {
+                "mentions": [
+                    {
+                        "end": 19,
+                        "id": "496907366",
+                        "start": 3,
+                        "username": "C_ATLAN_TAPIERO"
+                    }
+                ]
+            },
+            "id": "1324026115623628800",
+            "lang": "fr",
+            "public_metrics": {
+                "impression_count": 0,
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 140
+            },
+            "referenced_tweets": [
+                {
+                    "id": "1323886768282808321",
+                    "type": "retweeted"
+                }
+            ],
+            "reply_settings": "everyone",
+            "text": "RT @C_ATLAN_TAPIERO: Si je suis le raisonnement d\u2019Ockrent plus les gens sont \u00e9duqu\u00e9s plus ils votent Biden? Et oui si les moins \u00e9duqu\u00e9s vot\u2026"
+        },
+        {
+            "author_id": "1231316611589603329",
+            "conversation_id": "1324026084405452802",
+            "created_at": "2020-11-04T16:29:52.000Z",
+            "edit_history_tweet_ids": [
+                "1324026084405452802"
+            ],
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 138,
+                        "normalized_text": "deni",
+                        "probability": 0.8644,
+                        "start": 135,
+                        "type": "Place"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 15,
+                        "id": "110326494",
+                        "start": 3,
+                        "username": "BreeNewsome"
+                    }
+                ]
+            },
+            "id": "1324026084405452802",
+            "lang": "en",
+            "public_metrics": {
+                "impression_count": 0,
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 7708
+            },
+            "referenced_tweets": [
+                {
+                    "id": "1323872299712499712",
+                    "type": "retweeted"
+                }
+            ],
+            "reply_settings": "everyone",
+            "text": "RT @BreeNewsome: I actually don\u2019t agree that another candidate from the primary would\u2019ve done better. I think people continue to be in deni\u2026"
+        },
+        {
+            "author_id": "3045261058",
+            "conversation_id": "1324026074599202816",
+            "created_at": "2020-11-04T16:29:50.000Z",
+            "edit_history_tweet_ids": [
+                "1324026074599202816"
+            ],
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 138,
+                        "normalized_text": "deni",
+                        "probability": 0.8644,
+                        "start": 135,
+                        "type": "Place"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 15,
+                        "id": "110326494",
+                        "start": 3,
+                        "username": "BreeNewsome"
+                    }
+                ]
+            },
+            "id": "1324026074599202816",
+            "lang": "en",
+            "public_metrics": {
+                "impression_count": 0,
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 7708
+            },
+            "referenced_tweets": [
+                {
+                    "id": "1323872299712499712",
+                    "type": "retweeted"
+                }
+            ],
+            "reply_settings": "everyone",
+            "text": "RT @BreeNewsome: I actually don\u2019t agree that another candidate from the primary would\u2019ve done better. I think people continue to be in deni\u2026"
+        },
+        {
+            "author_id": "752181320512667648",
+            "conversation_id": "1324026074037166080",
+            "created_at": "2020-11-04T16:29:49.000Z",
+            "edit_history_tweet_ids": [
+                "1324026074037166080"
+            ],
+            "entities": {
+                "mentions": [
+                    {
+                        "end": 15,
+                        "id": "110326494",
+                        "start": 3,
+                        "username": "BreeNewsome"
+                    }
+                ]
+            },
+            "id": "1324026074037166080",
+            "lang": "en",
+            "public_metrics": {
+                "impression_count": 0,
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 1227
+            },
+            "referenced_tweets": [
+                {
+                    "id": "1324015579741773824",
+                    "type": "retweeted"
+                }
+            ],
+            "reply_settings": "everyone",
+            "text": "RT @BreeNewsome: It\u2019s always white leftists who scream the loudest to deny that racism remains the greatest barrier to mobilizing a working\u2026"
+        },
+        {
+            "author_id": "20112872",
+            "conversation_id": "1324026050700054530",
+            "created_at": "2020-11-04T16:29:44.000Z",
+            "edit_history_tweet_ids": [
+                "1324026050700054530"
+            ],
+            "entities": {
+                "mentions": [
+                    {
+                        "end": 15,
+                        "id": "110326494",
+                        "start": 3,
+                        "username": "BreeNewsome"
+                    }
+                ]
+            },
+            "id": "1324026050700054530",
+            "lang": "en",
+            "public_metrics": {
+                "impression_count": 0,
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 1227
+            },
+            "referenced_tweets": [
+                {
+                    "id": "1324015579741773824",
+                    "type": "retweeted"
+                }
+            ],
+            "reply_settings": "everyone",
+            "text": "RT @BreeNewsome: It\u2019s always white leftists who scream the loudest to deny that racism remains the greatest barrier to mobilizing a working\u2026"
+        },
+        {
+            "author_id": "891121446",
+            "conversation_id": "1323987378621603841",
+            "created_at": "2020-11-04T16:29:40.000Z",
+            "edit_history_tweet_ids": [
+                "1324026035411832838"
+            ],
+            "entities": {
+                "mentions": [
+                    {
+                        "end": 11,
+                        "id": "1192128316356153344",
+                        "start": 0,
+                        "username": "MtimandeMa"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "pic.twitter.com/Wd2tffWBcG",
+                        "end": 80,
+                        "expanded_url": "https://twitter.com/OffClementSA/status/1324026035411832838/photo/1",
+                        "media_key": "3_1324026028562485251",
+                        "start": 57,
+                        "url": "https://t.co/Wd2tffWBcG"
+                    }
+                ]
+            },
+            "id": "1324026035411832838",
+            "in_reply_to_user_id": "1192128316356153344",
+            "lang": "tl",
+            "public_metrics": {
+                "impression_count": 0,
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "referenced_tweets": [
+                {
+                    "id": "1324017855176855554",
+                    "type": "replied_to"
+                }
+            ],
+            "reply_settings": "everyone",
+            "text": "@MtimandeMa Amaphi amademoni ntwana\n\nBa caste out ntwana https://t.co/Wd2tffWBcG"
+        },
+        {
+            "author_id": "562581691",
+            "conversation_id": "1324026012536131584",
+            "created_at": "2020-11-04T16:29:35.000Z",
+            "edit_history_tweet_ids": [
+                "1324026012536131584"
+            ],
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 138,
+                        "normalized_text": "deni",
+                        "probability": 0.8644,
+                        "start": 135,
+                        "type": "Place"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 15,
+                        "id": "110326494",
+                        "start": 3,
+                        "username": "BreeNewsome"
+                    }
+                ]
+            },
+            "id": "1324026012536131584",
+            "lang": "en",
+            "public_metrics": {
+                "impression_count": 0,
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 7708
+            },
+            "referenced_tweets": [
+                {
+                    "id": "1323872299712499712",
+                    "type": "retweeted"
+                }
+            ],
+            "reply_settings": "everyone",
+            "text": "RT @BreeNewsome: I actually don\u2019t agree that another candidate from the primary would\u2019ve done better. I think people continue to be in deni\u2026"
+        },
+        {
+            "author_id": "44271782",
+            "conversation_id": "1324026011718176774",
+            "created_at": "2020-11-04T16:29:35.000Z",
+            "edit_history_tweet_ids": [
+                "1324026011718176774"
+            ],
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 138,
+                        "normalized_text": "deni",
+                        "probability": 0.8644,
+                        "start": 135,
+                        "type": "Place"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 15,
+                        "id": "110326494",
+                        "start": 3,
+                        "username": "BreeNewsome"
+                    }
+                ]
+            },
+            "id": "1324026011718176774",
+            "lang": "en",
+            "public_metrics": {
+                "impression_count": 0,
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 7708
+            },
+            "referenced_tweets": [
+                {
+                    "id": "1323872299712499712",
+                    "type": "retweeted"
+                }
+            ],
+            "reply_settings": "everyone",
+            "text": "RT @BreeNewsome: I actually don\u2019t agree that another candidate from the primary would\u2019ve done better. I think people continue to be in deni\u2026"
+        },
+        {
+            "author_id": "3268919317",
+            "conversation_id": "1324025989026836480",
+            "created_at": "2020-11-04T16:29:29.000Z",
+            "edit_history_tweet_ids": [
+                "1324025989026836480"
+            ],
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 38,
+                        "normalized_text": "Dalit",
+                        "probability": 0.3715,
+                        "start": 34,
+                        "type": "Other"
+                    },
+                    {
+                        "end": 114,
+                        "normalized_text": "Thevar",
+                        "probability": 0.5866,
+                        "start": 109,
+                        "type": "Person"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 18,
+                        "id": "254913934",
+                        "start": 3,
+                        "username": "kirubamunusamy"
+                    }
+                ]
+            },
+            "id": "1324025989026836480",
+            "lang": "en",
+            "public_metrics": {
+                "impression_count": 0,
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 228
+            },
+            "referenced_tweets": [
+                {
+                    "id": "1315993733016543233",
+                    "type": "retweeted"
+                }
+            ],
+            "reply_settings": "everyone",
+            "text": "RT @kirubamunusamy: A 60-year-old Dalit man insulted, abused with caste names and made to fall at a dominant Thevar caste person's feet for\u2026"
+        },
+        {
+            "author_id": "3820250555",
+            "conversation_id": "1324025974254637058",
+            "created_at": "2020-11-04T16:29:26.000Z",
+            "edit_history_tweet_ids": [
+                "1324025974254637058"
+            ],
+            "entities": {
+                "mentions": [
+                    {
+                        "end": 15,
+                        "id": "110326494",
+                        "start": 3,
+                        "username": "BreeNewsome"
+                    }
+                ]
+            },
+            "id": "1324025974254637058",
+            "lang": "en",
+            "public_metrics": {
+                "impression_count": 0,
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 1227
+            },
+            "referenced_tweets": [
+                {
+                    "id": "1324015579741773824",
+                    "type": "retweeted"
+                }
+            ],
+            "reply_settings": "everyone",
+            "text": "RT @BreeNewsome: It\u2019s always white leftists who scream the loudest to deny that racism remains the greatest barrier to mobilizing a working\u2026"
+        },
+        {
+            "author_id": "540316720",
+            "conversation_id": "1324025968147734534",
+            "created_at": "2020-11-04T16:29:24.000Z",
+            "edit_history_tweet_ids": [
+                "1324025968147734534"
+            ],
+            "entities": {
+                "mentions": [
+                    {
+                        "end": 15,
+                        "id": "110326494",
+                        "start": 3,
+                        "username": "BreeNewsome"
+                    }
+                ]
+            },
+            "id": "1324025968147734534",
+            "lang": "en",
+            "public_metrics": {
+                "impression_count": 0,
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 1227
+            },
+            "referenced_tweets": [
+                {
+                    "id": "1324015579741773824",
+                    "type": "retweeted"
+                }
+            ],
+            "reply_settings": "everyone",
+            "text": "RT @BreeNewsome: It\u2019s always white leftists who scream the loudest to deny that racism remains the greatest barrier to mobilizing a working\u2026"
+        },
+        {
+            "author_id": "605796564",
+            "conversation_id": "1324025935046258688",
+            "created_at": "2020-11-04T16:29:16.000Z",
+            "edit_history_tweet_ids": [
+                "1324025935046258688"
+            ],
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 138,
+                        "normalized_text": "deni",
+                        "probability": 0.8644,
+                        "start": 135,
+                        "type": "Place"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 15,
+                        "id": "110326494",
+                        "start": 3,
+                        "username": "BreeNewsome"
+                    }
+                ]
+            },
+            "id": "1324025935046258688",
+            "lang": "en",
+            "public_metrics": {
+                "impression_count": 0,
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 7708
+            },
+            "referenced_tweets": [
+                {
+                    "id": "1323872299712499712",
+                    "type": "retweeted"
+                }
+            ],
+            "reply_settings": "everyone",
+            "text": "RT @BreeNewsome: I actually don\u2019t agree that another candidate from the primary would\u2019ve done better. I think people continue to be in deni\u2026"
+        },
+        {
+            "author_id": "222930511",
+            "conversation_id": "1324025905488883713",
+            "created_at": "2020-11-04T16:29:09.000Z",
+            "edit_history_tweet_ids": [
+                "1324025905488883713"
+            ],
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 138,
+                        "normalized_text": "deni",
+                        "probability": 0.8644,
+                        "start": 135,
+                        "type": "Place"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 15,
+                        "id": "110326494",
+                        "start": 3,
+                        "username": "BreeNewsome"
+                    }
+                ]
+            },
+            "id": "1324025905488883713",
+            "lang": "en",
+            "public_metrics": {
+                "impression_count": 0,
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 7708
+            },
+            "referenced_tweets": [
+                {
+                    "id": "1323872299712499712",
+                    "type": "retweeted"
+                }
+            ],
+            "reply_settings": "everyone",
+            "text": "RT @BreeNewsome: I actually don\u2019t agree that another candidate from the primary would\u2019ve done better. I think people continue to be in deni\u2026"
+        },
+        {
+            "author_id": "825072970410364928",
+            "conversation_id": "1324025892042088448",
+            "created_at": "2020-11-04T16:29:06.000Z",
+            "edit_history_tweet_ids": [
+                "1324025892042088448"
+            ],
+            "entities": {
+                "mentions": [
+                    {
+                        "end": 15,
+                        "id": "110326494",
+                        "start": 3,
+                        "username": "BreeNewsome"
+                    }
+                ]
+            },
+            "id": "1324025892042088448",
+            "lang": "en",
+            "public_metrics": {
+                "impression_count": 0,
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 1227
+            },
+            "referenced_tweets": [
+                {
+                    "id": "1324015579741773824",
+                    "type": "retweeted"
+                }
+            ],
+            "reply_settings": "everyone",
+            "text": "RT @BreeNewsome: It\u2019s always white leftists who scream the loudest to deny that racism remains the greatest barrier to mobilizing a working\u2026"
+        },
+        {
+            "author_id": "1063963083859730432",
+            "conversation_id": "1324025878700003329",
+            "created_at": "2020-11-04T16:29:03.000Z",
+            "edit_history_tweet_ids": [
+                "1324025878700003329"
+            ],
+            "entities": {
+                "urls": [
+                    {
+                        "display_url": "newindianexpress.com/nation/2020/no\u2026",
+                        "end": 23,
+                        "expanded_url": "https://www.newindianexpress.com/nation/2020/nov/02/assertive-in-western-up-yet-dalits-face-brunt-of-caste-atrocities-2218136.html",
+                        "start": 0,
+                        "url": "https://t.co/t5FqxuE6o5"
+                    }
+                ]
+            },
+            "id": "1324025878700003329",
+            "lang": "zxx",
+            "public_metrics": {
+                "impression_count": 0,
+                "like_count": 1,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "reply_settings": "everyone",
+            "text": "https://t.co/t5FqxuE6o5"
+        },
+        {
+            "author_id": "1048971437585784833",
+            "conversation_id": "1324025863206182912",
+            "created_at": "2020-11-04T16:28:59.000Z",
+            "edit_history_tweet_ids": [
+                "1324025863206182912"
+            ],
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 101,
+                        "normalized_text": "Caste\nUnited",
+                        "probability": 0.5896,
+                        "start": 90,
+                        "type": "Person"
+                    },
+                    {
+                        "end": 125,
+                        "normalized_text": "Kingkohli",
+                        "probability": 0.9,
+                        "start": 117,
+                        "type": "Person"
+                    }
+                ]
+            },
+            "id": "1324025863206182912",
+            "lang": "en",
+            "public_metrics": {
+                "impression_count": 0,
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 9
+            },
+            "referenced_tweets": [
+                {
+                    "id": "1324025804242649088",
+                    "type": "retweeted"
+                }
+            ],
+            "reply_settings": "everyone",
+            "text": "RT @ViratVasanth97: Divided By States\nDivided By Languages\nDivided By Religion\nDivided By Caste\nUnited By The Name - Kingkohli\n #HappyBirth\u2026"
+        },
+        {
+            "author_id": "260081330",
+            "conversation_id": "1324025814455779328",
+            "created_at": "2020-11-04T16:28:48.000Z",
+            "edit_history_tweet_ids": [
+                "1324025814455779328"
+            ],
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 138,
+                        "normalized_text": "deni",
+                        "probability": 0.8644,
+                        "start": 135,
+                        "type": "Place"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 15,
+                        "id": "110326494",
+                        "start": 3,
+                        "username": "BreeNewsome"
+                    }
+                ]
+            },
+            "id": "1324025814455779328",
+            "lang": "en",
+            "public_metrics": {
+                "impression_count": 0,
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 7708
+            },
+            "referenced_tweets": [
+                {
+                    "id": "1323872299712499712",
+                    "type": "retweeted"
+                }
+            ],
+            "reply_settings": "everyone",
+            "text": "RT @BreeNewsome: I actually don\u2019t agree that another candidate from the primary would\u2019ve done better. I think people continue to be in deni\u2026"
+        },
+        {
+            "author_id": "878265205435674624",
+            "context_annotations": [
+                {
+                    "domain": {
+                        "description": "Named people in the world like Nelson Mandela",
+                        "id": "10",
+                        "name": "Person"
+                    },
+                    "entity": {
+                        "description": "Virat Kohli",
+                        "id": "809501049715163136",
+                        "name": "Virat Kohli"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "Types of sports, like soccer and basketball",
+                        "id": "11",
+                        "name": "Sport"
+                    },
+                    "entity": {
+                        "id": "897814293395103744",
+                        "name": "Cricket"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "An athlete in the world, like Serena Williams or Lionel Messi",
+                        "id": "60",
+                        "name": "Athlete"
+                    },
+                    "entity": {
+                        "description": "Virat Kohli",
+                        "id": "809501049715163136",
+                        "name": "Virat Kohli"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A taxonomy of user interests. ",
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy"
+                    },
+                    "entity": {
+                        "description": "Virat Kohli",
+                        "id": "809501049715163136",
+                        "name": "Virat Kohli"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A taxonomy of user interests. ",
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy"
+                    },
+                    "entity": {
+                        "description": "Sports",
+                        "id": "847900493514891265",
+                        "name": "Sports"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A taxonomy of user interests. ",
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy"
+                    },
+                    "entity": {
+                        "id": "897814293395103744",
+                        "name": "Cricket"
+                    }
+                }
+            ],
+            "conversation_id": "1324025804242649088",
+            "created_at": "2020-11-04T16:28:45.000Z",
+            "edit_history_tweet_ids": [
+                "1324025804242649088"
+            ],
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 81,
+                        "normalized_text": "Caste\nUnited",
+                        "probability": 0.6098,
+                        "start": 70,
+                        "type": "Person"
+                    },
+                    {
+                        "end": 105,
+                        "normalized_text": "Kingkohli",
+                        "probability": 0.9161,
+                        "start": 97,
+                        "type": "Person"
+                    },
+                    {
+                        "end": 126,
+                        "normalized_text": "HappyBirthdayVirat",
+                        "probability": 0.8646,
+                        "start": 109,
+                        "type": "Person"
+                    }
+                ],
+                "hashtags": [
+                    {
+                        "end": 127,
+                        "start": 108,
+                        "tag": "HappyBirthdayVirat"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 139,
+                        "id": "71201743",
+                        "start": 130,
+                        "username": "imVkohli"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "pic.twitter.com/CW8DEDqn78",
+                        "end": 163,
+                        "expanded_url": "https://twitter.com/ViratVasanth97/status/1324025804242649088/photo/1",
+                        "media_key": "3_1324025791575859200",
+                        "start": 140,
+                        "url": "https://t.co/CW8DEDqn78"
+                    }
+                ]
+            },
+            "id": "1324025804242649088",
+            "lang": "en",
+            "public_metrics": {
+                "impression_count": 0,
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 9
+            },
+            "reply_settings": "everyone",
+            "text": "Divided By States\nDivided By Languages\nDivided By Religion\nDivided By Caste\nUnited By The Name - Kingkohli\n #HappyBirthdayVirat \u2022 @imVkohli https://t.co/CW8DEDqn78"
+        },
+        {
+            "author_id": "5469862",
+            "conversation_id": "1324025785322139649",
+            "created_at": "2020-11-04T16:28:41.000Z",
+            "edit_history_tweet_ids": [
+                "1324025785322139649"
+            ],
+            "entities": {
+                "mentions": [
+                    {
+                        "end": 15,
+                        "id": "110326494",
+                        "start": 3,
+                        "username": "BreeNewsome"
+                    }
+                ]
+            },
+            "id": "1324025785322139649",
+            "lang": "en",
+            "public_metrics": {
+                "impression_count": 0,
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 1227
+            },
+            "referenced_tweets": [
+                {
+                    "id": "1324015579741773824",
+                    "type": "retweeted"
+                }
+            ],
+            "reply_settings": "everyone",
+            "text": "RT @BreeNewsome: It\u2019s always white leftists who scream the loudest to deny that racism remains the greatest barrier to mobilizing a working\u2026"
+        },
+        {
+            "author_id": "1195718705218494468",
+            "conversation_id": "1324025773620121602",
+            "created_at": "2020-11-04T16:28:38.000Z",
+            "edit_history_tweet_ids": [
+                "1324025773620121602"
+            ],
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 138,
+                        "normalized_text": "deni",
+                        "probability": 0.8644,
+                        "start": 135,
+                        "type": "Place"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 15,
+                        "id": "110326494",
+                        "start": 3,
+                        "username": "BreeNewsome"
+                    }
+                ]
+            },
+            "id": "1324025773620121602",
+            "lang": "en",
+            "public_metrics": {
+                "impression_count": 0,
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 7708
+            },
+            "referenced_tweets": [
+                {
+                    "id": "1323872299712499712",
+                    "type": "retweeted"
+                }
+            ],
+            "reply_settings": "everyone",
+            "text": "RT @BreeNewsome: I actually don\u2019t agree that another candidate from the primary would\u2019ve done better. I think people continue to be in deni\u2026"
+        },
+        {
+            "author_id": "1063963083859730432",
+            "conversation_id": "1324025738706780161",
+            "created_at": "2020-11-04T16:28:29.000Z",
+            "edit_history_tweet_ids": [
+                "1324025738706780161"
+            ],
+            "entities": {
+                "urls": [
+                    {
+                        "display_url": "firstpost.com/world/caste-in\u2026",
+                        "end": 23,
+                        "expanded_url": "https://www.firstpost.com/world/caste-in-the-usa-episode-2-dalit-technologist-sam-cornelius-on-how-casteism-pervades-tech-world-in-india-and-us-8978201.html",
+                        "start": 0,
+                        "url": "https://t.co/r3dl9MRiaD"
+                    }
+                ]
+            },
+            "id": "1324025738706780161",
+            "lang": "zxx",
+            "public_metrics": {
+                "impression_count": 0,
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "reply_settings": "everyone",
+            "text": "https://t.co/r3dl9MRiaD"
+        },
+        {
+            "author_id": "3930375291",
+            "conversation_id": "1324025719144566786",
+            "created_at": "2020-11-04T16:28:25.000Z",
+            "edit_history_tweet_ids": [
+                "1324025719144566786"
+            ],
+            "entities": {
+                "mentions": [
+                    {
+                        "end": 16,
+                        "id": "3930375291",
+                        "start": 3,
+                        "username": "cubancoffeee"
+                    }
+                ]
+            },
+            "id": "1324025719144566786",
+            "lang": "en",
+            "public_metrics": {
+                "impression_count": 0,
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 1
+            },
+            "referenced_tweets": [
+                {
+                    "id": "1324007995731226628",
+                    "type": "retweeted"
+                }
+            ],
+            "reply_settings": "everyone",
+            "text": "RT @cubancoffeee: These very families violently uphold class &amp; caste structures dependent on antiblack &amp; antiindigenous theories their gran\u2026"
+        },
+        {
+            "author_id": "1306322902233440256",
+            "context_annotations": [
+                {
+                    "domain": {
+                        "description": "Top level entities that describe a Brands industry",
+                        "id": "45",
+                        "name": "Brand Vertical"
+                    },
+                    "entity": {
+                        "id": "781974597310615553",
+                        "name": "Entertainment"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+                        "id": "30",
+                        "name": "Entities [Entity Service]"
+                    },
+                    "entity": {
+                        "id": "781974597105094656",
+                        "name": "TV/Movies Related - Entertainment"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "Brands and Companies",
+                        "id": "47",
+                        "name": "Brand"
+                    },
+                    "entity": {
+                        "description": "Republic",
+                        "id": "1100051652311011328",
+                        "name": "Republic"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "Brands and Companies",
+                        "id": "47",
+                        "name": "Brand"
+                    },
+                    "entity": {
+                        "description": "NDTV",
+                        "id": "1100409026628640768",
+                        "name": "NDTV"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "Brands and Companies",
+                        "id": "47",
+                        "name": "Brand"
+                    },
+                    "entity": {
+                        "description": "India Today",
+                        "id": "1106568395376332801",
+                        "name": "India Today"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "Brands and Companies",
+                        "id": "47",
+                        "name": "Brand"
+                    },
+                    "entity": {
+                        "id": "1138475962679537664",
+                        "name": "TIMES NOW"
+                    }
+                }
+            ],
+            "conversation_id": "1324025717911293952",
+            "created_at": "2020-11-04T16:28:25.000Z",
+            "edit_history_tweet_ids": [
+                "1324025717911293952"
+            ],
+            "entities": {
+                "mentions": [
+                    {
+                        "end": 11,
+                        "id": "83297832",
+                        "start": 3,
+                        "username": "porinju"
+                    },
+                    {
+                        "end": 45,
+                        "id": "811972460560019456",
+                        "start": 36,
+                        "username": "republic"
+                    },
+                    {
+                        "end": 55,
+                        "id": "240649814",
+                        "start": 46,
+                        "username": "TimesNow"
+                    },
+                    {
+                        "end": 82,
+                        "id": "37034483",
+                        "start": 77,
+                        "username": "ndtv"
+                    },
+                    {
+                        "end": 94,
+                        "id": "19897138",
+                        "start": 83,
+                        "username": "IndiaToday"
+                    }
+                ]
+            },
+            "id": "1324025717911293952",
+            "lang": "en",
+            "public_metrics": {
+                "impression_count": 0,
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 64
+            },
+            "referenced_tweets": [
+                {
+                    "id": "1323963634192539649",
+                    "type": "retweeted"
+                }
+            ],
+            "reply_settings": "everyone",
+            "text": "RT @porinju: The nation is divided! @republic @TimesNow etc on one side with @ndtv @IndiaToday etc on the other. The governments divide us\u2026"
+        },
+        {
+            "author_id": "43200146",
+            "conversation_id": "1324025709577310208",
+            "created_at": "2020-11-04T16:28:23.000Z",
+            "edit_history_tweet_ids": [
+                "1324025709577310208"
+            ],
+            "entities": {
+                "mentions": [
+                    {
+                        "end": 15,
+                        "id": "110326494",
+                        "start": 3,
+                        "username": "BreeNewsome"
+                    }
+                ]
+            },
+            "id": "1324025709577310208",
+            "lang": "en",
+            "public_metrics": {
+                "impression_count": 0,
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 1227
+            },
+            "referenced_tweets": [
+                {
+                    "id": "1324015579741773824",
+                    "type": "retweeted"
+                }
+            ],
+            "reply_settings": "everyone",
+            "text": "RT @BreeNewsome: It\u2019s always white leftists who scream the loudest to deny that racism remains the greatest barrier to mobilizing a working\u2026"
+        },
+        {
+            "author_id": "1107718076198457344",
+            "conversation_id": "1324025706456690691",
+            "created_at": "2020-11-04T16:28:22.000Z",
+            "edit_history_tweet_ids": [
+                "1324025706456690691"
+            ],
+            "entities": {
+                "mentions": [
+                    {
+                        "end": 15,
+                        "id": "110326494",
+                        "start": 3,
+                        "username": "BreeNewsome"
+                    }
+                ]
+            },
+            "id": "1324025706456690691",
+            "lang": "en",
+            "public_metrics": {
+                "impression_count": 0,
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 1227
+            },
+            "referenced_tweets": [
+                {
+                    "id": "1324015579741773824",
+                    "type": "retweeted"
+                }
+            ],
+            "reply_settings": "everyone",
+            "text": "RT @BreeNewsome: It\u2019s always white leftists who scream the loudest to deny that racism remains the greatest barrier to mobilizing a working\u2026"
+        },
+        {
+            "author_id": "14772800",
+            "context_annotations": [
+                {
+                    "domain": {
+                        "description": "Named people in the world like Nelson Mandela",
+                        "id": "10",
+                        "name": "Person"
+                    },
+                    "entity": {
+                        "description": "Ava DuVernay",
+                        "id": "953280286963384320",
+                        "name": "Ava DuVernay"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A taxonomy of user interests. ",
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy"
+                    },
+                    "entity": {
+                        "description": "Ava DuVernay",
+                        "id": "953280286963384320",
+                        "name": "Ava DuVernay"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A taxonomy of user interests. ",
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy"
+                    },
+                    "entity": {
+                        "id": "1166410125994708993",
+                        "name": "Directors, producers & writers"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "Top level entities that describe a Brands industry",
+                        "id": "45",
+                        "name": "Brand Vertical"
+                    },
+                    "entity": {
+                        "id": "781974597310615553",
+                        "name": "Entertainment"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+                        "id": "30",
+                        "name": "Entities [Entity Service]"
+                    },
+                    "entity": {
+                        "id": "781974597105094656",
+                        "name": "TV/Movies Related - Entertainment"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "Brands and Companies",
+                        "id": "47",
+                        "name": "Brand"
+                    },
+                    "entity": {
+                        "id": "10026367762",
+                        "name": "Netflix"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A taxonomy of user interests. ",
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy"
+                    },
+                    "entity": {
+                        "id": "10026367762",
+                        "name": "Netflix"
+                    }
+                }
+            ],
+            "conversation_id": "1324025692003196928",
+            "created_at": "2020-11-04T16:28:19.000Z",
+            "edit_history_tweet_ids": [
+                "1324025692867203072"
+            ],
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 13,
+                        "normalized_text": "Caste",
+                        "probability": 0.9166,
+                        "start": 9,
+                        "type": "Other"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 35,
+                        "id": "60190930",
+                        "start": 19,
+                        "username": "Isabelwilkerson"
+                    },
+                    {
+                        "end": 89,
+                        "id": "16573941",
+                        "start": 81,
+                        "username": "netflix"
+                    },
+                    {
+                        "end": 108,
+                        "id": "14982804",
+                        "start": 104,
+                        "username": "ava"
+                    }
+                ]
+            },
+            "id": "1324025692867203072",
+            "in_reply_to_user_id": "14772800",
+            "lang": "en",
+            "public_metrics": {
+                "impression_count": 0,
+                "like_count": 1,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "referenced_tweets": [
+                {
+                    "id": "1324025692003196928",
+                    "type": "replied_to"
+                }
+            ],
+            "reply_settings": "everyone",
+            "text": "2. Read \"Caste\" by @Isabelwilkerson (and then you can compare it to the upcoming @netflix production by @ava \n3. Have thoughtful conversations with people who have different generational lived experiences than your own. If you don't know anyone, go back to #1 &amp; #2 to learn why."
+        },
+        {
+            "author_id": "1024287460342333440",
+            "conversation_id": "1324025678044504064",
+            "created_at": "2020-11-04T16:28:15.000Z",
+            "edit_history_tweet_ids": [
+                "1324025678044504064"
+            ],
+            "entities": {
+                "mentions": [
+                    {
+                        "end": 15,
+                        "id": "110326494",
+                        "start": 3,
+                        "username": "BreeNewsome"
+                    }
+                ]
+            },
+            "id": "1324025678044504064",
+            "lang": "en",
+            "public_metrics": {
+                "impression_count": 0,
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 1227
+            },
+            "referenced_tweets": [
+                {
+                    "id": "1324015579741773824",
+                    "type": "retweeted"
+                }
+            ],
+            "reply_settings": "everyone",
+            "text": "RT @BreeNewsome: It\u2019s always white leftists who scream the loudest to deny that racism remains the greatest barrier to mobilizing a working\u2026"
+        },
+        {
+            "author_id": "1023543623898542080",
+            "conversation_id": "1324025675259531265",
+            "created_at": "2020-11-04T16:28:14.000Z",
+            "edit_history_tweet_ids": [
+                "1324025675259531265"
+            ],
+            "entities": {
+                "mentions": [
+                    {
+                        "end": 19,
+                        "id": "764187379",
+                        "start": 3,
+                        "username": "RachelBitecofer"
+                    }
+                ]
+            },
+            "id": "1324025675259531265",
+            "lang": "en",
+            "public_metrics": {
+                "impression_count": 0,
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 55
+            },
+            "referenced_tweets": [
+                {
+                    "id": "1324005793629425664",
+                    "type": "retweeted"
+                }
+            ],
+            "reply_settings": "everyone",
+            "text": "RT @RachelBitecofer: 10. (see how that relates back to their culture war champion?) That the old days were far superior bc they could just\u2026"
+        },
+        {
+            "author_id": "1205865016165097472",
+            "conversation_id": "1324025655424622592",
+            "created_at": "2020-11-04T16:28:10.000Z",
+            "edit_history_tweet_ids": [
+                "1324025655424622592"
+            ],
+            "entities": {
+                "mentions": [
+                    {
+                        "end": 15,
+                        "id": "110326494",
+                        "start": 3,
+                        "username": "BreeNewsome"
+                    }
+                ]
+            },
+            "id": "1324025655424622592",
+            "lang": "en",
+            "public_metrics": {
+                "impression_count": 0,
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 1227
+            },
+            "referenced_tweets": [
+                {
+                    "id": "1324015579741773824",
+                    "type": "retweeted"
+                }
+            ],
+            "reply_settings": "everyone",
+            "text": "RT @BreeNewsome: It\u2019s always white leftists who scream the loudest to deny that racism remains the greatest barrier to mobilizing a working\u2026"
+        },
+        {
+            "author_id": "40099387",
+            "conversation_id": "1324025633501024256",
+            "created_at": "2020-11-04T16:28:04.000Z",
+            "edit_history_tweet_ids": [
+                "1324025633501024256"
+            ],
+            "entities": {
+                "mentions": [
+                    {
+                        "end": 15,
+                        "id": "110326494",
+                        "start": 3,
+                        "username": "BreeNewsome"
+                    }
+                ]
+            },
+            "id": "1324025633501024256",
+            "lang": "en",
+            "public_metrics": {
+                "impression_count": 0,
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 1227
+            },
+            "referenced_tweets": [
+                {
+                    "id": "1324015579741773824",
+                    "type": "retweeted"
+                }
+            ],
+            "reply_settings": "everyone",
+            "text": "RT @BreeNewsome: It\u2019s always white leftists who scream the loudest to deny that racism remains the greatest barrier to mobilizing a working\u2026"
+        },
+        {
+            "author_id": "1288927428174209025",
+            "conversation_id": "1324025624285999104",
+            "created_at": "2020-11-04T16:28:02.000Z",
+            "edit_history_tweet_ids": [
+                "1324025624285999104"
+            ],
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 35,
+                        "normalized_text": "Arnab Goswami",
+                        "probability": 0.8812,
+                        "start": 23,
+                        "type": "Person"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 18,
+                        "id": "1054216531553398785",
+                        "start": 3,
+                        "username": "vemula_radhika"
+                    }
+                ]
+            },
+            "id": "1324025624285999104",
+            "lang": "en",
+            "public_metrics": {
+                "impression_count": 0,
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 880
+            },
+            "referenced_tweets": [
+                {
+                    "id": "1323897491822047232",
+                    "type": "retweeted"
+                }
+            ],
+            "reply_settings": "everyone",
+            "text": "RT @vemula_radhika: Mr Arnab Goswami, while you are in Prison, please try to find out the other Prisoners Caste and Religion &amp; also ask the\u2026"
+        },
+        {
+            "author_id": "274588488",
+            "conversation_id": "1324025612013428738",
+            "created_at": "2020-11-04T16:27:59.000Z",
+            "edit_history_tweet_ids": [
+                "1324025612013428738"
+            ],
+            "entities": {
+                "mentions": [
+                    {
+                        "end": 15,
+                        "id": "110326494",
+                        "start": 3,
+                        "username": "BreeNewsome"
+                    }
+                ]
+            },
+            "id": "1324025612013428738",
+            "lang": "en",
+            "public_metrics": {
+                "impression_count": 0,
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 1227
+            },
+            "referenced_tweets": [
+                {
+                    "id": "1324015579741773824",
+                    "type": "retweeted"
+                }
+            ],
+            "reply_settings": "everyone",
+            "text": "RT @BreeNewsome: It\u2019s always white leftists who scream the loudest to deny that racism remains the greatest barrier to mobilizing a working\u2026"
+        },
+        {
+            "author_id": "1084695402",
+            "conversation_id": "1324025575938220032",
+            "created_at": "2020-11-04T16:27:51.000Z",
+            "edit_history_tweet_ids": [
+                "1324025575938220032"
+            ],
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 138,
+                        "normalized_text": "deni",
+                        "probability": 0.8644,
+                        "start": 135,
+                        "type": "Place"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 15,
+                        "id": "110326494",
+                        "start": 3,
+                        "username": "BreeNewsome"
+                    }
+                ]
+            },
+            "id": "1324025575938220032",
+            "lang": "en",
+            "public_metrics": {
+                "impression_count": 0,
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 7708
+            },
+            "referenced_tweets": [
+                {
+                    "id": "1323872299712499712",
+                    "type": "retweeted"
+                }
+            ],
+            "reply_settings": "everyone",
+            "text": "RT @BreeNewsome: I actually don\u2019t agree that another candidate from the primary would\u2019ve done better. I think people continue to be in deni\u2026"
+        },
+        {
+            "author_id": "578785653",
+            "conversation_id": "1324025559219728385",
+            "created_at": "2020-11-04T16:27:47.000Z",
+            "edit_history_tweet_ids": [
+                "1324025559219728385"
+            ],
+            "entities": {
+                "mentions": [
+                    {
+                        "end": 15,
+                        "id": "110326494",
+                        "start": 3,
+                        "username": "BreeNewsome"
+                    }
+                ]
+            },
+            "id": "1324025559219728385",
+            "lang": "en",
+            "public_metrics": {
+                "impression_count": 0,
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 691
+            },
+            "referenced_tweets": [
+                {
+                    "id": "1323894956872925187",
+                    "type": "retweeted"
+                }
+            ],
+            "reply_settings": "everyone",
+            "text": "RT @BreeNewsome: People love to make the argument or ask why so many would vote against their interests but people are not examining the ma\u2026"
+        },
+        {
+            "author_id": "68493706",
+            "conversation_id": "1324025546926256128",
+            "created_at": "2020-11-04T16:27:44.000Z",
+            "edit_history_tweet_ids": [
+                "1324025546926256128"
+            ],
+            "entities": {
+                "mentions": [
+                    {
+                        "end": 15,
+                        "id": "110326494",
+                        "start": 3,
+                        "username": "BreeNewsome"
+                    }
+                ]
+            },
+            "id": "1324025546926256128",
+            "lang": "en",
+            "public_metrics": {
+                "impression_count": 0,
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 1227
+            },
+            "referenced_tweets": [
+                {
+                    "id": "1324015579741773824",
+                    "type": "retweeted"
+                }
+            ],
+            "reply_settings": "everyone",
+            "text": "RT @BreeNewsome: It\u2019s always white leftists who scream the loudest to deny that racism remains the greatest barrier to mobilizing a working\u2026"
+        },
+        {
+            "author_id": "922797809442611200",
+            "context_annotations": [
+                {
+                    "domain": {
+                        "description": "Named people in the world like Nelson Mandela",
+                        "id": "10",
+                        "name": "Person"
+                    },
+                    "entity": {
+                        "description": "Prime Minister of India Narendra Modi",
+                        "id": "806566669166350336",
+                        "name": "Narendra Modi"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "Politicians in the world, like Joe Biden",
+                        "id": "35",
+                        "name": "Politician"
+                    },
+                    "entity": {
+                        "description": "Prime Minister of India Narendra Modi",
+                        "id": "806566669166350336",
+                        "name": "Narendra Modi"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A taxonomy of user interests. ",
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy"
+                    },
+                    "entity": {
+                        "description": "Prime Minister of India Narendra Modi",
+                        "id": "806566669166350336",
+                        "name": "Narendra Modi"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A taxonomy of user interests. ",
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy"
+                    },
+                    "entity": {
+                        "description": "Politics",
+                        "id": "847878884917886977",
+                        "name": "Politics"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A taxonomy of user interests. ",
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy"
+                    },
+                    "entity": {
+                        "description": "Politician",
+                        "id": "1070032753834438656",
+                        "name": "Political figures"
+                    }
+                }
+            ],
+            "conversation_id": "1324025540324388865",
+            "created_at": "2020-11-04T16:27:42.000Z",
+            "edit_history_tweet_ids": [
+                "1324025540324388865"
+            ],
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 20,
+                        "normalized_text": "Modi ji",
+                        "probability": 0.5357,
+                        "start": 14,
+                        "type": "Person"
+                    },
+                    {
+                        "end": 36,
+                        "normalized_text": "Nitish ji",
+                        "probability": 0.5272,
+                        "start": 28,
+                        "type": "Other"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 12,
+                        "id": "1153045459",
+                        "start": 3,
+                        "username": "INCIndia"
+                    }
+                ]
+            },
+            "id": "1324025540324388865",
+            "lang": "en",
+            "public_metrics": {
+                "impression_count": 0,
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 307
+            },
+            "referenced_tweets": [
+                {
+                    "id": "1323961945209237508",
+                    "type": "retweeted"
+                }
+            ],
+            "reply_settings": "everyone",
+            "text": "RT @INCIndia: Modi ji &amp; Nitish ji only run the govt for few businessmen, not for the poor or labourers. I am here to tell you that when the\u2026"
+        },
+        {
+            "author_id": "922957740007415809",
+            "conversation_id": "1324025485379072000",
+            "created_at": "2020-11-04T16:27:29.000Z",
+            "edit_history_tweet_ids": [
+                "1324025485379072000"
+            ],
+            "entities": {
+                "mentions": [
+                    {
+                        "end": 15,
+                        "id": "110326494",
+                        "start": 3,
+                        "username": "BreeNewsome"
+                    }
+                ]
+            },
+            "id": "1324025485379072000",
+            "lang": "en",
+            "public_metrics": {
+                "impression_count": 0,
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 1227
+            },
+            "referenced_tweets": [
+                {
+                    "id": "1324015579741773824",
+                    "type": "retweeted"
+                }
+            ],
+            "reply_settings": "everyone",
+            "text": "RT @BreeNewsome: It\u2019s always white leftists who scream the loudest to deny that racism remains the greatest barrier to mobilizing a working\u2026"
+        },
+        {
+            "author_id": "823643014413373440",
+            "conversation_id": "1324025464831250432",
+            "created_at": "2020-11-04T16:27:24.000Z",
+            "edit_history_tweet_ids": [
+                "1324025464831250432"
+            ],
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 138,
+                        "normalized_text": "deni",
+                        "probability": 0.8644,
+                        "start": 135,
+                        "type": "Place"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 15,
+                        "id": "110326494",
+                        "start": 3,
+                        "username": "BreeNewsome"
+                    }
+                ]
+            },
+            "id": "1324025464831250432",
+            "lang": "en",
+            "public_metrics": {
+                "impression_count": 0,
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 7708
+            },
+            "referenced_tweets": [
+                {
+                    "id": "1323872299712499712",
+                    "type": "retweeted"
+                }
+            ],
+            "reply_settings": "everyone",
+            "text": "RT @BreeNewsome: I actually don\u2019t agree that another candidate from the primary would\u2019ve done better. I think people continue to be in deni\u2026"
+        },
+        {
+            "author_id": "26142597",
+            "conversation_id": "1324024111006420993",
+            "created_at": "2020-11-04T16:27:20.000Z",
+            "edit_history_tweet_ids": [
+                "1324025448205029377"
+            ],
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 87,
+                        "normalized_text": "Cuba",
+                        "probability": 0.9856,
+                        "start": 84,
+                        "type": "Place"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 14,
+                        "id": "27875696",
+                        "start": 0,
+                        "username": "HoneyBadger10"
+                    }
+                ]
+            },
+            "id": "1324025448205029377",
+            "in_reply_to_user_id": "27875696",
+            "lang": "en",
+            "public_metrics": {
+                "impression_count": 0,
+                "like_count": 1,
+                "quote_count": 0,
+                "reply_count": 1,
+                "retweet_count": 0
+            },
+            "referenced_tweets": [
+                {
+                    "id": "1324024111006420993",
+                    "type": "replied_to"
+                }
+            ],
+            "reply_settings": "everyone",
+            "text": "@HoneyBadger10 It\u2019s not like they didn\u2019t come from a similar racial caste system in Cuba... it\u2019s literally in their genetics"
+        },
+        {
+            "author_id": "1240020308247142401",
+            "conversation_id": "1323957313959591936",
+            "created_at": "2020-11-04T16:27:18.000Z",
+            "edit_history_tweet_ids": [
+                "1324025439426383873"
+            ],
+            "entities": {
+                "mentions": [
+                    {
+                        "end": 13,
+                        "id": "53753452",
+                        "start": 0,
+                        "username": "alvaro_caste"
+                    },
+                    {
+                        "end": 26,
+                        "id": "824983858923917313",
+                        "start": 14,
+                        "username": "PrimoECosta"
+                    }
+                ]
+            },
+            "id": "1324025439426383873",
+            "in_reply_to_user_id": "53753452",
+            "lang": "es",
+            "public_metrics": {
+                "impression_count": 0,
+                "like_count": 1,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "referenced_tweets": [
+                {
+                    "id": "1323957313959591936",
+                    "type": "replied_to"
+                }
+            ],
+            "reply_settings": "everyone",
+            "text": "@alvaro_caste @PrimoECosta pa que le pilles m\u00e1s la ca\u00edda al asunto. Tienen votos por correo que apenas empiezan a contar"
+        },
+        {
+            "author_id": "24538952",
+            "conversation_id": "1324025427342471168",
+            "created_at": "2020-11-04T16:27:15.000Z",
+            "edit_history_tweet_ids": [
+                "1324025427342471168"
+            ],
+            "id": "1324025427342471168",
+            "lang": "en",
+            "public_metrics": {
+                "impression_count": 0,
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 2
+            },
+            "referenced_tweets": [
+                {
+                    "id": "1324002831397957634",
+                    "type": "retweeted"
+                }
+            ],
+            "reply_settings": "everyone",
+            "text": "RT @KathleenOstaNEP: \u201cIt is also tempting to vilify a single despot at the sight of injustice when, in fact, it is the actions, or more com\u2026"
+        },
+        {
+            "author_id": "373365639",
+            "conversation_id": "1324018553561870336",
+            "created_at": "2020-11-04T16:27:14.000Z",
+            "edit_history_tweet_ids": [
+                "1324025422816763904"
+            ],
+            "entities": {
+                "mentions": [
+                    {
+                        "end": 13,
+                        "id": "1119252466527285250",
+                        "start": 0,
+                        "username": "_Th3_D0ct0r_"
+                    },
+                    {
+                        "end": 29,
+                        "id": "996238973063151617",
+                        "start": 14,
+                        "username": "TheThakurSaheb"
+                    }
+                ]
+            },
+            "id": "1324025422816763904",
+            "in_reply_to_user_id": "1119252466527285250",
+            "lang": "eu",
+            "public_metrics": {
+                "impression_count": 0,
+                "like_count": 1,
+                "quote_count": 0,
+                "reply_count": 1,
+                "retweet_count": 0
+            },
+            "referenced_tweets": [
+                {
+                    "id": "1324020979991891969",
+                    "type": "replied_to"
+                }
+            ],
+            "reply_settings": "everyone",
+            "text": "@_Th3_D0ct0r_ @TheThakurSaheb General caste ka future"
+        },
+        {
+            "author_id": "755433526770724864",
+            "conversation_id": "1324025405016256512",
+            "created_at": "2020-11-04T16:27:10.000Z",
+            "edit_history_tweet_ids": [
+                "1324025405016256512"
+            ],
+            "entities": {
+                "mentions": [
+                    {
+                        "end": 19,
+                        "id": "764187379",
+                        "start": 3,
+                        "username": "RachelBitecofer"
+                    }
+                ]
+            },
+            "id": "1324025405016256512",
+            "lang": "en",
+            "public_metrics": {
+                "impression_count": 0,
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 55
+            },
+            "referenced_tweets": [
+                {
+                    "id": "1324005793629425664",
+                    "type": "retweeted"
+                }
+            ],
+            "reply_settings": "everyone",
+            "text": "RT @RachelBitecofer: 10. (see how that relates back to their culture war champion?) That the old days were far superior bc they could just\u2026"
+        },
+        {
+            "author_id": "971651774397296640",
+            "conversation_id": "1324025403875360768",
+            "created_at": "2020-11-04T16:27:10.000Z",
+            "edit_history_tweet_ids": [
+                "1324025403875360768"
+            ],
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 138,
+                        "normalized_text": "deni",
+                        "probability": 0.8644,
+                        "start": 135,
+                        "type": "Place"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 15,
+                        "id": "110326494",
+                        "start": 3,
+                        "username": "BreeNewsome"
+                    }
+                ]
+            },
+            "id": "1324025403875360768",
+            "lang": "en",
+            "public_metrics": {
+                "impression_count": 0,
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 7708
+            },
+            "referenced_tweets": [
+                {
+                    "id": "1323872299712499712",
+                    "type": "retweeted"
+                }
+            ],
+            "reply_settings": "everyone",
+            "text": "RT @BreeNewsome: I actually don\u2019t agree that another candidate from the primary would\u2019ve done better. I think people continue to be in deni\u2026"
+        },
+        {
+            "author_id": "1042096818044071936",
+            "context_annotations": [
+                {
+                    "domain": {
+                        "description": "Named people in the world like Nelson Mandela",
+                        "id": "10",
+                        "name": "Person"
+                    },
+                    "entity": {
+                        "description": "Prime Minister of India Narendra Modi",
+                        "id": "806566669166350336",
+                        "name": "Narendra Modi"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "Politicians in the world, like Joe Biden",
+                        "id": "35",
+                        "name": "Politician"
+                    },
+                    "entity": {
+                        "description": "Prime Minister of India Narendra Modi",
+                        "id": "806566669166350336",
+                        "name": "Narendra Modi"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A taxonomy of user interests. ",
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy"
+                    },
+                    "entity": {
+                        "description": "Prime Minister of India Narendra Modi",
+                        "id": "806566669166350336",
+                        "name": "Narendra Modi"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A taxonomy of user interests. ",
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy"
+                    },
+                    "entity": {
+                        "description": "Politics",
+                        "id": "847878884917886977",
+                        "name": "Politics"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A taxonomy of user interests. ",
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy"
+                    },
+                    "entity": {
+                        "description": "Politician",
+                        "id": "1070032753834438656",
+                        "name": "Political figures"
+                    }
+                }
+            ],
+            "conversation_id": "1324025381016403968",
+            "created_at": "2020-11-04T16:27:04.000Z",
+            "edit_history_tweet_ids": [
+                "1324025381016403968"
+            ],
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 20,
+                        "normalized_text": "Modi ji",
+                        "probability": 0.5357,
+                        "start": 14,
+                        "type": "Person"
+                    },
+                    {
+                        "end": 36,
+                        "normalized_text": "Nitish ji",
+                        "probability": 0.5272,
+                        "start": 28,
+                        "type": "Other"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 12,
+                        "id": "1153045459",
+                        "start": 3,
+                        "username": "INCIndia"
+                    }
+                ]
+            },
+            "id": "1324025381016403968",
+            "lang": "en",
+            "public_metrics": {
+                "impression_count": 0,
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 307
+            },
+            "referenced_tweets": [
+                {
+                    "id": "1323961945209237508",
+                    "type": "retweeted"
+                }
+            ],
+            "reply_settings": "everyone",
+            "text": "RT @INCIndia: Modi ji &amp; Nitish ji only run the govt for few businessmen, not for the poor or labourers. I am here to tell you that when the\u2026"
+        },
+        {
+            "author_id": "615556963",
+            "conversation_id": "1324025366604926976",
+            "created_at": "2020-11-04T16:27:01.000Z",
+            "edit_history_tweet_ids": [
+                "1324025366604926976"
+            ],
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 138,
+                        "normalized_text": "deni",
+                        "probability": 0.8644,
+                        "start": 135,
+                        "type": "Place"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 15,
+                        "id": "110326494",
+                        "start": 3,
+                        "username": "BreeNewsome"
+                    }
+                ]
+            },
+            "id": "1324025366604926976",
+            "lang": "en",
+            "public_metrics": {
+                "impression_count": 0,
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 7708
+            },
+            "referenced_tweets": [
+                {
+                    "id": "1323872299712499712",
+                    "type": "retweeted"
+                }
+            ],
+            "reply_settings": "everyone",
+            "text": "RT @BreeNewsome: I actually don\u2019t agree that another candidate from the primary would\u2019ve done better. I think people continue to be in deni\u2026"
+        },
+        {
+            "author_id": "922797809442611200",
+            "context_annotations": [
+                {
+                    "domain": {
+                        "description": "Named people in the world like Nelson Mandela",
+                        "id": "10",
+                        "name": "Person"
+                    },
+                    "entity": {
+                        "description": "Prime Minister of India Narendra Modi",
+                        "id": "806566669166350336",
+                        "name": "Narendra Modi"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "Politicians in the world, like Joe Biden",
+                        "id": "35",
+                        "name": "Politician"
+                    },
+                    "entity": {
+                        "description": "Prime Minister of India Narendra Modi",
+                        "id": "806566669166350336",
+                        "name": "Narendra Modi"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A taxonomy of user interests. ",
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy"
+                    },
+                    "entity": {
+                        "description": "Prime Minister of India Narendra Modi",
+                        "id": "806566669166350336",
+                        "name": "Narendra Modi"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A taxonomy of user interests. ",
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy"
+                    },
+                    "entity": {
+                        "description": "Politics",
+                        "id": "847878884917886977",
+                        "name": "Politics"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A taxonomy of user interests. ",
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy"
+                    },
+                    "entity": {
+                        "description": "Politician",
+                        "id": "1070032753834438656",
+                        "name": "Political figures"
+                    }
+                }
+            ],
+            "conversation_id": "1324025364759212033",
+            "created_at": "2020-11-04T16:27:00.000Z",
+            "edit_history_tweet_ids": [
+                "1324025364759212033"
+            ],
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 25,
+                        "normalized_text": "Modi ji",
+                        "probability": 0.5282,
+                        "start": 19,
+                        "type": "Person"
+                    },
+                    {
+                        "end": 41,
+                        "normalized_text": "Nitish ji",
+                        "probability": 0.5272,
+                        "start": 33,
+                        "type": "Other"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 17,
+                        "id": "559356907",
+                        "start": 3,
+                        "username": "jamilhussan_a"
+                    }
+                ]
+            },
+            "id": "1324025364759212033",
+            "lang": "en",
+            "public_metrics": {
+                "impression_count": 0,
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 117
+            },
+            "referenced_tweets": [
+                {
+                    "id": "1323971644998602757",
+                    "type": "retweeted"
+                }
+            ],
+            "reply_settings": "everyone",
+            "text": "RT @jamilhussan_a: Modi ji &amp; Nitish ji only run the govt for few businessmen, not for the poor or labourers. I am here to tell you that whe\u2026"
+        },
+        {
+            "author_id": "30297596",
+            "conversation_id": "1324025361785450498",
+            "created_at": "2020-11-04T16:27:00.000Z",
+            "edit_history_tweet_ids": [
+                "1324025361785450498"
+            ],
+            "entities": {
+                "mentions": [
+                    {
+                        "end": 15,
+                        "id": "110326494",
+                        "start": 3,
+                        "username": "BreeNewsome"
+                    }
+                ]
+            },
+            "id": "1324025361785450498",
+            "lang": "en",
+            "public_metrics": {
+                "impression_count": 0,
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 1227
+            },
+            "referenced_tweets": [
+                {
+                    "id": "1324015579741773824",
+                    "type": "retweeted"
+                }
+            ],
+            "reply_settings": "everyone",
+            "text": "RT @BreeNewsome: It\u2019s always white leftists who scream the loudest to deny that racism remains the greatest barrier to mobilizing a working\u2026"
+        },
+        {
+            "author_id": "40089260",
+            "conversation_id": "1324025314763280384",
+            "created_at": "2020-11-04T16:26:48.000Z",
+            "edit_history_tweet_ids": [
+                "1324025314763280384"
+            ],
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 138,
+                        "normalized_text": "deni",
+                        "probability": 0.8644,
+                        "start": 135,
+                        "type": "Place"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 15,
+                        "id": "110326494",
+                        "start": 3,
+                        "username": "BreeNewsome"
+                    }
+                ]
+            },
+            "id": "1324025314763280384",
+            "lang": "en",
+            "public_metrics": {
+                "impression_count": 0,
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 7708
+            },
+            "referenced_tweets": [
+                {
+                    "id": "1323872299712499712",
+                    "type": "retweeted"
+                }
+            ],
+            "reply_settings": "everyone",
+            "text": "RT @BreeNewsome: I actually don\u2019t agree that another candidate from the primary would\u2019ve done better. I think people continue to be in deni\u2026"
+        },
+        {
+            "author_id": "3003688676",
+            "context_annotations": [
+                {
+                    "domain": {
+                        "description": "A taxonomy of user interests. ",
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy"
+                    },
+                    "entity": {
+                        "description": "News",
+                        "id": "1046545033657081857",
+                        "name": "News"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A taxonomy of user interests. ",
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy"
+                    },
+                    "entity": {
+                        "description": "Journalism",
+                        "id": "1074755369530880001",
+                        "name": "Journalists"
+                    }
+                }
+            ],
+            "conversation_id": "1324025295330930688",
+            "created_at": "2020-11-04T16:26:44.000Z",
+            "edit_history_tweet_ids": [
+                "1324025295330930688"
+            ],
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 90,
+                        "normalized_text": "UP Government",
+                        "probability": 0.5726,
+                        "start": 78,
+                        "type": "Organization"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 18,
+                        "id": "1438541268645261318",
+                        "start": 3,
+                        "username": "nagdeve_anurag"
+                    },
+                    {
+                        "end": 61,
+                        "id": "1927110241",
+                        "start": 51,
+                        "username": "PJkanojia"
+                    }
+                ]
+            },
+            "id": "1324025295330930688",
+            "lang": "en",
+            "public_metrics": {
+                "impression_count": 0,
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 1
+            },
+            "referenced_tweets": [
+                {
+                    "id": "1324025129475534848",
+                    "type": "retweeted"
+                }
+            ],
+            "reply_settings": "everyone",
+            "text": "RT @nagdeve_anurag: Where were you when Journalist @PJkanojia was arrested by UP Government? You didn't speak for him. And Now you are aski\u2026"
+        },
+        {
+            "author_id": "414199061",
+            "conversation_id": "1324025284736200706",
+            "created_at": "2020-11-04T16:26:41.000Z",
+            "edit_history_tweet_ids": [
+                "1324025284736200706"
+            ],
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 138,
+                        "normalized_text": "deni",
+                        "probability": 0.8644,
+                        "start": 135,
+                        "type": "Place"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 15,
+                        "id": "110326494",
+                        "start": 3,
+                        "username": "BreeNewsome"
+                    }
+                ]
+            },
+            "id": "1324025284736200706",
+            "lang": "en",
+            "public_metrics": {
+                "impression_count": 0,
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 7708
+            },
+            "referenced_tweets": [
+                {
+                    "id": "1323872299712499712",
+                    "type": "retweeted"
+                }
+            ],
+            "reply_settings": "everyone",
+            "text": "RT @BreeNewsome: I actually don\u2019t agree that another candidate from the primary would\u2019ve done better. I think people continue to be in deni\u2026"
+        },
+        {
+            "author_id": "52587986",
+            "conversation_id": "1324025278398525440",
+            "created_at": "2020-11-04T16:26:40.000Z",
+            "edit_history_tweet_ids": [
+                "1324025278398525440"
+            ],
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 138,
+                        "normalized_text": "deni",
+                        "probability": 0.8644,
+                        "start": 135,
+                        "type": "Place"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 15,
+                        "id": "110326494",
+                        "start": 3,
+                        "username": "BreeNewsome"
+                    }
+                ]
+            },
+            "id": "1324025278398525440",
+            "lang": "en",
+            "public_metrics": {
+                "impression_count": 0,
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 7708
+            },
+            "referenced_tweets": [
+                {
+                    "id": "1323872299712499712",
+                    "type": "retweeted"
+                }
+            ],
+            "reply_settings": "everyone",
+            "text": "RT @BreeNewsome: I actually don\u2019t agree that another candidate from the primary would\u2019ve done better. I think people continue to be in deni\u2026"
+        },
+        {
+            "author_id": "40782090",
+            "conversation_id": "1324025226318020616",
+            "created_at": "2020-11-04T16:26:27.000Z",
+            "edit_history_tweet_ids": [
+                "1324025226318020616"
+            ],
+            "entities": {
+                "mentions": [
+                    {
+                        "end": 15,
+                        "id": "110326494",
+                        "start": 3,
+                        "username": "BreeNewsome"
+                    }
+                ]
+            },
+            "id": "1324025226318020616",
+            "lang": "en",
+            "public_metrics": {
+                "impression_count": 0,
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 1227
+            },
+            "referenced_tweets": [
+                {
+                    "id": "1324015579741773824",
+                    "type": "retweeted"
+                }
+            ],
+            "reply_settings": "everyone",
+            "text": "RT @BreeNewsome: It\u2019s always white leftists who scream the loudest to deny that racism remains the greatest barrier to mobilizing a working\u2026"
+        },
+        {
+            "author_id": "18439534",
+            "conversation_id": "1324025193749225478",
+            "created_at": "2020-11-04T16:26:20.000Z",
+            "edit_history_tweet_ids": [
+                "1324025193749225478"
+            ],
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 138,
+                        "normalized_text": "deni",
+                        "probability": 0.8644,
+                        "start": 135,
+                        "type": "Place"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 15,
+                        "id": "110326494",
+                        "start": 3,
+                        "username": "BreeNewsome"
+                    }
+                ]
+            },
+            "id": "1324025193749225478",
+            "lang": "en",
+            "public_metrics": {
+                "impression_count": 0,
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 7708
+            },
+            "referenced_tweets": [
+                {
+                    "id": "1323872299712499712",
+                    "type": "retweeted"
+                }
+            ],
+            "reply_settings": "everyone",
+            "text": "RT @BreeNewsome: I actually don\u2019t agree that another candidate from the primary would\u2019ve done better. I think people continue to be in deni\u2026"
+        },
+        {
+            "author_id": "2383570830",
+            "conversation_id": "1324025175231389696",
+            "created_at": "2020-11-04T16:26:15.000Z",
+            "edit_history_tweet_ids": [
+                "1324025175231389696"
+            ],
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 20,
+                        "normalized_text": "Democrats",
+                        "probability": 0.5594,
+                        "start": 12,
+                        "type": "Organization"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 10,
+                        "id": "60945565",
+                        "start": 3,
+                        "username": "wjfarr"
+                    }
+                ]
+            },
+            "id": "1324025175231389696",
+            "lang": "en",
+            "public_metrics": {
+                "impression_count": 0,
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 1
+            },
+            "referenced_tweets": [
+                {
+                    "id": "1324018255841927169",
+                    "type": "retweeted"
+                }
+            ],
+            "reply_settings": "everyone",
+            "text": "RT @wjfarr: Democrats must offer an affirmative vision of how they will materially enhance the wellbeing of all people in a way that compet\u2026"
+        },
+        {
+            "author_id": "125913796",
+            "conversation_id": "1324025156138774529",
+            "created_at": "2020-11-04T16:26:11.000Z",
+            "edit_history_tweet_ids": [
+                "1324025156138774529"
+            ],
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 35,
+                        "normalized_text": "Arnab Goswami",
+                        "probability": 0.8812,
+                        "start": 23,
+                        "type": "Person"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 18,
+                        "id": "1054216531553398785",
+                        "start": 3,
+                        "username": "vemula_radhika"
+                    }
+                ]
+            },
+            "id": "1324025156138774529",
+            "lang": "en",
+            "public_metrics": {
+                "impression_count": 0,
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 880
+            },
+            "referenced_tweets": [
+                {
+                    "id": "1323897491822047232",
+                    "type": "retweeted"
+                }
+            ],
+            "reply_settings": "everyone",
+            "text": "RT @vemula_radhika: Mr Arnab Goswami, while you are in Prison, please try to find out the other Prisoners Caste and Religion &amp; also ask the\u2026"
+        },
+        {
+            "author_id": "1308561614866714631",
+            "conversation_id": "1324025145829269508",
+            "created_at": "2020-11-04T16:26:08.000Z",
+            "edit_history_tweet_ids": [
+                "1324025145829269508"
+            ],
+            "entities": {
+                "mentions": [
+                    {
+                        "end": 19,
+                        "id": "764187379",
+                        "start": 3,
+                        "username": "RachelBitecofer"
+                    }
+                ]
+            },
+            "id": "1324025145829269508",
+            "lang": "en",
+            "public_metrics": {
+                "impression_count": 0,
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 55
+            },
+            "referenced_tweets": [
+                {
+                    "id": "1324005793629425664",
+                    "type": "retweeted"
+                }
+            ],
+            "reply_settings": "everyone",
+            "text": "RT @RachelBitecofer: 10. (see how that relates back to their culture war champion?) That the old days were far superior bc they could just\u2026"
+        },
+        {
+            "author_id": "23519396",
+            "conversation_id": "1324025139688853509",
+            "created_at": "2020-11-04T16:26:07.000Z",
+            "edit_history_tweet_ids": [
+                "1324025139688853509"
+            ],
+            "id": "1324025139688853509",
+            "lang": "en",
+            "public_metrics": {
+                "impression_count": 0,
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 6
+            },
+            "referenced_tweets": [
+                {
+                    "id": "1324000306930266114",
+                    "type": "retweeted"
+                }
+            ],
+            "reply_settings": "everyone",
+            "text": "RT @KathleenOstaNEP: \u201cSo the real question would be,' he said finally, 'if people were given the choice between democracy and whiteness, ho\u2026"
+        },
+        {
+            "author_id": "769769085890469889",
+            "context_annotations": [
+                {
+                    "domain": {
+                        "description": "A taxonomy of user interests. ",
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy"
+                    },
+                    "entity": {
+                        "description": "News",
+                        "id": "1046545033657081857",
+                        "name": "News"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A taxonomy of user interests. ",
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy"
+                    },
+                    "entity": {
+                        "description": "Journalism",
+                        "id": "1074755369530880001",
+                        "name": "Journalists"
+                    }
+                }
+            ],
+            "conversation_id": "1324025129475534848",
+            "created_at": "2020-11-04T16:26:04.000Z",
+            "edit_history_tweet_ids": [
+                "1324025129475534848"
+            ],
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 59,
+                        "normalized_text": "UP",
+                        "probability": 0.6432,
+                        "start": 58,
+                        "type": "Organization"
+                    },
+                    {
+                        "end": 150,
+                        "normalized_text": "Arnab Goswami",
+                        "probability": 0.9414,
+                        "start": 138,
+                        "type": "Person"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 41,
+                        "id": "1927110241",
+                        "start": 31,
+                        "username": "PJkanojia"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "twitter.com/IGuruPrakash/s\u2026",
+                        "end": 260,
+                        "expanded_url": "https://twitter.com/IGuruPrakash/status/1323875903655583746",
+                        "start": 237,
+                        "url": "https://t.co/xsMQq5wOxD"
+                    }
+                ]
+            },
+            "id": "1324025129475534848",
+            "lang": "en",
+            "public_metrics": {
+                "impression_count": 0,
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 1
+            },
+            "referenced_tweets": [
+                {
+                    "id": "1323875903655583746",
+                    "type": "quoted"
+                }
+            ],
+            "reply_settings": "everyone",
+            "text": "Where were you when Journalist @PJkanojia was arrested by UP Government? You didn't speak for him. And Now you are asking for Justice for Arnab Goswami. Shame on you. You are not a genuine Dalit you are a Dalal and slave of Upper Caste. https://t.co/xsMQq5wOxD"
+        },
+        {
+            "author_id": "23519396",
+            "context_annotations": [
+                {
+                    "domain": {
+                        "description": "Television shows from around the world",
+                        "id": "3",
+                        "name": "TV Shows"
+                    },
+                    "entity": {
+                        "description": "Talent seekers compete with one another to become the nation's next singing sensation.\nPhoto via @TheXFactor",
+                        "id": "10027594399",
+                        "name": "The X Factor"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "Television shows from around the world",
+                        "id": "3",
+                        "name": "TV Shows"
+                    },
+                    "entity": {
+                        "id": "10030490510",
+                        "name": "The X Factor (TV3)"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A taxonomy of user interests. ",
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy"
+                    },
+                    "entity": {
+                        "description": "US National News",
+                        "id": "1003932601839579136",
+                        "name": "US national news"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A taxonomy of user interests. ",
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy"
+                    },
+                    "entity": {
+                        "description": "News",
+                        "id": "1046545033657081857",
+                        "name": "News"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A taxonomy of user interests. ",
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy"
+                    },
+                    "entity": {
+                        "id": "1286379401228124160",
+                        "name": "Americas"
+                    }
+                }
+            ],
+            "conversation_id": "1324025119002513411",
+            "created_at": "2020-11-04T16:26:02.000Z",
+            "edit_history_tweet_ids": [
+                "1324025119002513411"
+            ],
+            "id": "1324025119002513411",
+            "lang": "en",
+            "public_metrics": {
+                "impression_count": 0,
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 1
+            },
+            "referenced_tweets": [
+                {
+                    "id": "1324000583347556352",
+                    "type": "retweeted"
+                }
+            ],
+            "reply_settings": "everyone",
+            "text": "RT @KathleenOstaNEP: \u201cCaste, along with its faithful servant race, is an x-factor in most any American equation, and any answer one might e\u2026"
+        },
+        {
+            "author_id": "1085419967548477440",
+            "conversation_id": "1324025111394082818",
+            "created_at": "2020-11-04T16:26:00.000Z",
+            "edit_history_tweet_ids": [
+                "1324025111394082818"
+            ],
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 138,
+                        "normalized_text": "deni",
+                        "probability": 0.8644,
+                        "start": 135,
+                        "type": "Place"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 15,
+                        "id": "110326494",
+                        "start": 3,
+                        "username": "BreeNewsome"
+                    }
+                ]
+            },
+            "id": "1324025111394082818",
+            "lang": "en",
+            "public_metrics": {
+                "impression_count": 0,
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 7708
+            },
+            "referenced_tweets": [
+                {
+                    "id": "1323872299712499712",
+                    "type": "retweeted"
+                }
+            ],
+            "reply_settings": "everyone",
+            "text": "RT @BreeNewsome: I actually don\u2019t agree that another candidate from the primary would\u2019ve done better. I think people continue to be in deni\u2026"
+        },
+        {
+            "author_id": "303418148",
+            "context_annotations": [
+                {
+                    "domain": {
+                        "description": "A taxonomy of user interests. ",
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy"
+                    },
+                    "entity": {
+                        "description": "US National News",
+                        "id": "1003932601839579136",
+                        "name": "US national news"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A taxonomy of user interests. ",
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy"
+                    },
+                    "entity": {
+                        "description": "News",
+                        "id": "1046545033657081857",
+                        "name": "News"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A taxonomy of user interests. ",
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy"
+                    },
+                    "entity": {
+                        "id": "1286379401228124160",
+                        "name": "Americas"
+                    }
+                }
+            ],
+            "conversation_id": "1324025103542341635",
+            "created_at": "2020-11-04T16:25:58.000Z",
+            "edit_history_tweet_ids": [
+                "1324025103542341635"
+            ],
+            "entities": {
+                "urls": [
+                    {
+                        "display_url": "npr.org/2020/08/04/898\u2026",
+                        "end": 50,
+                        "expanded_url": "https://www.npr.org/2020/08/04/898574852/its-more-than-racism-isabel-wilkerson-explains-america-s-caste-system",
+                        "start": 27,
+                        "url": "https://t.co/vxMuQh4ORc"
+                    },
+                    {
+                        "display_url": "twitter.com/BreeNewsome/st\u2026",
+                        "end": 74,
+                        "expanded_url": "https://twitter.com/BreeNewsome/status/1323893154731483136",
+                        "start": 51,
+                        "url": "https://t.co/Z26seBjqEU"
+                    }
+                ]
+            },
+            "id": "1324025103542341635",
+            "lang": "en",
+            "public_metrics": {
+                "impression_count": 0,
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "referenced_tweets": [
+                {
+                    "id": "1323893154731483136",
+                    "type": "quoted"
+                }
+            ],
+            "reply_settings": "everyone",
+            "text": "good thread and good read\n\nhttps://t.co/vxMuQh4ORc https://t.co/Z26seBjqEU"
+        },
+        {
+            "author_id": "168505436",
+            "conversation_id": "1324025084609286149",
+            "created_at": "2020-11-04T16:25:54.000Z",
+            "edit_history_tweet_ids": [
+                "1324025084609286149"
+            ],
+            "entities": {
+                "mentions": [
+                    {
+                        "end": 15,
+                        "id": "110326494",
+                        "start": 3,
+                        "username": "BreeNewsome"
+                    }
+                ]
+            },
+            "id": "1324025084609286149",
+            "lang": "en",
+            "public_metrics": {
+                "impression_count": 0,
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 1227
+            },
+            "referenced_tweets": [
+                {
+                    "id": "1324015579741773824",
+                    "type": "retweeted"
+                }
+            ],
+            "reply_settings": "everyone",
+            "text": "RT @BreeNewsome: It\u2019s always white leftists who scream the loudest to deny that racism remains the greatest barrier to mobilizing a working\u2026"
+        },
+        {
+            "author_id": "113668468",
+            "context_annotations": [
+                {
+                    "domain": {
+                        "description": "Top level entities that describe a Brands industry",
+                        "id": "45",
+                        "name": "Brand Vertical"
+                    },
+                    "entity": {
+                        "id": "781974597310615553",
+                        "name": "Entertainment"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+                        "id": "30",
+                        "name": "Entities [Entity Service]"
+                    },
+                    "entity": {
+                        "id": "781974597105094656",
+                        "name": "TV/Movies Related - Entertainment"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "Brands and Companies",
+                        "id": "47",
+                        "name": "Brand"
+                    },
+                    "entity": {
+                        "description": "Republic",
+                        "id": "1100051652311011328",
+                        "name": "Republic"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "Brands and Companies",
+                        "id": "47",
+                        "name": "Brand"
+                    },
+                    "entity": {
+                        "description": "NDTV",
+                        "id": "1100409026628640768",
+                        "name": "NDTV"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "Brands and Companies",
+                        "id": "47",
+                        "name": "Brand"
+                    },
+                    "entity": {
+                        "description": "India Today",
+                        "id": "1106568395376332801",
+                        "name": "India Today"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "Brands and Companies",
+                        "id": "47",
+                        "name": "Brand"
+                    },
+                    "entity": {
+                        "id": "1138475962679537664",
+                        "name": "TIMES NOW"
+                    }
+                }
+            ],
+            "conversation_id": "1324025061133578240",
+            "created_at": "2020-11-04T16:25:48.000Z",
+            "edit_history_tweet_ids": [
+                "1324025061133578240"
+            ],
+            "entities": {
+                "mentions": [
+                    {
+                        "end": 11,
+                        "id": "83297832",
+                        "start": 3,
+                        "username": "porinju"
+                    },
+                    {
+                        "end": 45,
+                        "id": "811972460560019456",
+                        "start": 36,
+                        "username": "republic"
+                    },
+                    {
+                        "end": 55,
+                        "id": "240649814",
+                        "start": 46,
+                        "username": "TimesNow"
+                    },
+                    {
+                        "end": 82,
+                        "id": "37034483",
+                        "start": 77,
+                        "username": "ndtv"
+                    },
+                    {
+                        "end": 94,
+                        "id": "19897138",
+                        "start": 83,
+                        "username": "IndiaToday"
+                    }
+                ]
+            },
+            "id": "1324025061133578240",
+            "lang": "en",
+            "public_metrics": {
+                "impression_count": 0,
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 64
+            },
+            "referenced_tweets": [
+                {
+                    "id": "1323963634192539649",
+                    "type": "retweeted"
+                }
+            ],
+            "reply_settings": "everyone",
+            "text": "RT @porinju: The nation is divided! @republic @TimesNow etc on one side with @ndtv @IndiaToday etc on the other. The governments divide us\u2026"
+        },
+        {
+            "author_id": "16804541",
+            "context_annotations": [
+                {
+                    "domain": {
+                        "description": "Named people in the world like Nelson Mandela",
+                        "id": "10",
+                        "name": "Person"
+                    },
+                    "entity": {
+                        "description": "Shashi Tharoor",
+                        "id": "1111318377945923584",
+                        "name": "Shashi Tharoor"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "Politicians in the world, like Joe Biden",
+                        "id": "35",
+                        "name": "Politician"
+                    },
+                    "entity": {
+                        "description": "Shashi Tharoor",
+                        "id": "1111318377945923584",
+                        "name": "Shashi Tharoor"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A taxonomy of user interests. ",
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy"
+                    },
+                    "entity": {
+                        "description": "Politics",
+                        "id": "847878884917886977",
+                        "name": "Politics"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A taxonomy of user interests. ",
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy"
+                    },
+                    "entity": {
+                        "description": "Politician",
+                        "id": "1070032753834438656",
+                        "name": "Political figures"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A taxonomy of user interests. ",
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy"
+                    },
+                    "entity": {
+                        "description": "Shashi Tharoor",
+                        "id": "1111318377945923584",
+                        "name": "Shashi Tharoor"
+                    }
+                }
+            ],
+            "conversation_id": "1324025054892421121",
+            "created_at": "2020-11-04T16:25:46.000Z",
+            "edit_history_tweet_ids": [
+                "1324025054892421121"
+            ],
+            "entities": {
+                "mentions": [
+                    {
+                        "end": 13,
+                        "id": "1552087633",
+                        "start": 3,
+                        "username": "top_gun55"
+                    },
+                    {
+                        "end": 29,
+                        "id": "24705126",
+                        "start": 15,
+                        "username": "ShashiTharoor"
+                    },
+                    {
+                        "end": 39,
+                        "id": "60247413",
+                        "start": 30,
+                        "username": "sunetrac"
+                    },
+                    {
+                        "end": 49,
+                        "id": "36327407",
+                        "start": 40,
+                        "username": "htTweets"
+                    }
+                ]
+            },
+            "id": "1324025054892421121",
+            "lang": "en",
+            "public_metrics": {
+                "impression_count": 0,
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 2
+            },
+            "referenced_tweets": [
+                {
+                    "id": "1324002048380080128",
+                    "type": "retweeted"
+                }
+            ],
+            "reply_settings": "everyone",
+            "text": "RT @top_gun55: @ShashiTharoor @sunetrac @htTweets It has become more important to be a \u2018backward caste\u2019, a \u2018tribal\u2019, or a religious chauvin\u2026"
+        },
+        {
+            "author_id": "1311740460646326272",
+            "conversation_id": "1324025045035855878",
+            "created_at": "2020-11-04T16:25:44.000Z",
+            "edit_history_tweet_ids": [
+                "1324025045035855878"
+            ],
+            "entities": {
+                "urls": [
+                    {
+                        "display_url": "twitter.com/ARanganathan72\u2026",
+                        "end": 304,
+                        "expanded_url": "https://twitter.com/ARanganathan72/status/1323955961678061568",
+                        "start": 281,
+                        "url": "https://t.co/37IYkaqBBf"
+                    }
+                ]
+            },
+            "id": "1324025045035855878",
+            "lang": "en",
+            "public_metrics": {
+                "impression_count": 0,
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "reply_settings": "everyone",
+            "text": "It's not about Political Party. It's about who has the power. The very reason they become powerful is we the people of this country. But, we are divided on spectrum of reasons. Caste, Religion, State, Region, Language, Color of our skin etc. However, the most horny are ideologues https://t.co/37IYkaqBBf"
+        },
+        {
+            "author_id": "1375188714",
+            "conversation_id": "1323988363855220741",
+            "created_at": "2020-11-04T16:25:40.000Z",
+            "edit_history_tweet_ids": [
+                "1324025027663171584"
+            ],
+            "entities": {
+                "mentions": [
+                    {
+                        "end": 16,
+                        "id": "1064586387020759040",
+                        "start": 0,
+                        "username": "more_of_a_loner"
+                    }
+                ]
+            },
+            "id": "1324025027663171584",
+            "in_reply_to_user_id": "1064586387020759040",
+            "lang": "en",
+            "public_metrics": {
+                "impression_count": 0,
+                "like_count": 1,
+                "quote_count": 0,
+                "reply_count": 1,
+                "retweet_count": 0
+            },
+            "referenced_tweets": [
+                {
+                    "id": "1324003753670905866",
+                    "type": "replied_to"
+                }
+            ],
+            "reply_settings": "everyone",
+            "text": "@more_of_a_loner You weren't bothering me with caste. I loved it \ud83d\ude03 so there is absolutely no way that you could bother me with talking about amazing shows \ud83d\ude03"
+        },
+        {
+            "author_id": "149763376",
+            "context_annotations": [
+                {
+                    "domain": {
+                        "description": "Named people in the world like Nelson Mandela",
+                        "id": "10",
+                        "name": "Person"
+                    },
+                    "entity": {
+                        "description": "45th US President, Donald Trump",
+                        "id": "799022225751871488",
+                        "name": "Donald Trump"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "Politicians in the world, like Joe Biden",
+                        "id": "35",
+                        "name": "Politician"
+                    },
+                    "entity": {
+                        "description": "45th US President, Donald Trump",
+                        "id": "799022225751871488",
+                        "name": "Donald Trump"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "Ongoing News Stories like 'Brexit'",
+                        "id": "123",
+                        "name": "Ongoing News Story"
+                    },
+                    "entity": {
+                        "id": "1220701888179359745",
+                        "name": "COVID-19"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A taxonomy of user interests. ",
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy"
+                    },
+                    "entity": {
+                        "description": "45th US President, Donald Trump",
+                        "id": "799022225751871488",
+                        "name": "Donald Trump"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A taxonomy of user interests. ",
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy"
+                    },
+                    "entity": {
+                        "description": "Politics",
+                        "id": "847878884917886977",
+                        "name": "Politics"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A taxonomy of user interests. ",
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy"
+                    },
+                    "entity": {
+                        "description": "US National News",
+                        "id": "1003932601839579136",
+                        "name": "US national news"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A taxonomy of user interests. ",
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy"
+                    },
+                    "entity": {
+                        "description": "News",
+                        "id": "1046545033657081857",
+                        "name": "News"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A taxonomy of user interests. ",
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy"
+                    },
+                    "entity": {
+                        "description": "Politician",
+                        "id": "1070032753834438656",
+                        "name": "Political figures"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A taxonomy of user interests. ",
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy"
+                    },
+                    "entity": {
+                        "id": "1220701888179359745",
+                        "name": "COVID-19"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A taxonomy of user interests. ",
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy"
+                    },
+                    "entity": {
+                        "id": "1286379401228124160",
+                        "name": "Americas"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "Named people in the world like Nelson Mandela",
+                        "id": "10",
+                        "name": "Person"
+                    },
+                    "entity": {
+                        "description": "US President Joe Biden",
+                        "id": "10040395078",
+                        "name": "Joe Biden"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "Politicians in the world, like Joe Biden",
+                        "id": "35",
+                        "name": "Politician"
+                    },
+                    "entity": {
+                        "description": "US President Joe Biden",
+                        "id": "10040395078",
+                        "name": "Joe Biden"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A taxonomy of user interests. ",
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy"
+                    },
+                    "entity": {
+                        "description": "US President Joe Biden",
+                        "id": "10040395078",
+                        "name": "Joe Biden"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A taxonomy of user interests. ",
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy"
+                    },
+                    "entity": {
+                        "description": "Politics",
+                        "id": "847878884917886977",
+                        "name": "Politics"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A taxonomy of user interests. ",
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy"
+                    },
+                    "entity": {
+                        "description": "Politician",
+                        "id": "1070032753834438656",
+                        "name": "Political figures"
+                    }
+                }
+            ],
+            "conversation_id": "1324025023938650120",
+            "created_at": "2020-11-04T16:25:39.000Z",
+            "edit_history_tweet_ids": [
+                "1324025023938650120"
+            ],
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 64,
+                        "normalized_text": "Biden",
+                        "probability": 0.8927,
+                        "start": 60,
+                        "type": "Person"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 14,
+                        "id": "2968626209",
+                        "start": 3,
+                        "username": "Fly_Sistah"
+                    },
+                    {
+                        "end": 32,
+                        "id": "786309892990574592",
+                        "start": 16,
+                        "username": "SteveSchmidtSES"
+                    },
+                    {
+                        "end": 49,
+                        "id": "25073877",
+                        "start": 33,
+                        "username": "realDonaldTrump"
+                    },
+                    {
+                        "end": 59,
+                        "id": "939091",
+                        "start": 50,
+                        "username": "JoeBiden"
+                    }
+                ]
+            },
+            "id": "1324025023938650120",
+            "lang": "en",
+            "public_metrics": {
+                "impression_count": 0,
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 6
+            },
+            "referenced_tweets": [
+                {
+                    "id": "1324002230601732097",
+                    "type": "retweeted"
+                }
+            ],
+            "reply_settings": "everyone",
+            "text": "RT @Fly_Sistah: @SteveSchmidtSES @realDonaldTrump @JoeBiden Biden will win but we will need to reckon with people who always support white\u2026"
+        },
+        {
+            "author_id": "125940194",
+            "conversation_id": "1324022381376081921",
+            "created_at": "2020-11-04T16:25:35.000Z",
+            "edit_history_tweet_ids": [
+                "1324025006016274433"
+            ],
+            "entities": {
+                "mentions": [
+                    {
+                        "end": 9,
+                        "id": "922120340032991232",
+                        "start": 0,
+                        "username": "INCBihar"
+                    },
+                    {
+                        "end": 26,
+                        "id": "2359140223",
+                        "start": 10,
+                        "username": "GeorgekurianINC"
+                    }
+                ]
+            },
+            "id": "1324025006016274433",
+            "in_reply_to_user_id": "922120340032991232",
+            "lang": "en",
+            "public_metrics": {
+                "impression_count": 0,
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "referenced_tweets": [
+                {
+                    "id": "1324022381376081921",
+                    "type": "replied_to"
+                }
+            ],
+            "reply_settings": "everyone",
+            "text": "@INCBihar @GeorgekurianINC Manipulation of merit by higher caste is there resulting many scams in education and selection for service in government"
+        },
+        {
+            "author_id": "199369202",
+            "conversation_id": "1324024978841366528",
+            "created_at": "2020-11-04T16:25:28.000Z",
+            "edit_history_tweet_ids": [
+                "1324024978841366528"
+            ],
+            "entities": {
+                "mentions": [
+                    {
+                        "end": 13,
+                        "id": "1215216378765955072",
+                        "start": 3,
+                        "username": "DamniKain"
+                    }
+                ]
+            },
+            "id": "1324024978841366528",
+            "lang": "en",
+            "public_metrics": {
+                "impression_count": 0,
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 16
+            },
+            "referenced_tweets": [
+                {
+                    "id": "1323987248811945985",
+                    "type": "retweeted"
+                }
+            ],
+            "reply_settings": "everyone",
+            "text": "RT @DamniKain: 'Caste-less politics' does not reflect modernity. Modernity should mean the abolition of hierarchical principles which degra\u2026"
+        },
+        {
+            "author_id": "23519396",
+            "conversation_id": "1324024948210470919",
+            "created_at": "2020-11-04T16:25:21.000Z",
+            "edit_history_tweet_ids": [
+                "1324024948210470919"
+            ],
+            "id": "1324024948210470919",
+            "lang": "en",
+            "public_metrics": {
+                "impression_count": 0,
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 2
+            },
+            "referenced_tweets": [
+                {
+                    "id": "1324002831397957634",
+                    "type": "retweeted"
+                }
+            ],
+            "reply_settings": "everyone",
+            "text": "RT @KathleenOstaNEP: \u201cIt is also tempting to vilify a single despot at the sight of injustice when, in fact, it is the actions, or more com\u2026"
+        },
+        {
+            "author_id": "2888752140",
+            "context_annotations": [
+                {
+                    "domain": {
+                        "description": "Named people in the world like Nelson Mandela",
+                        "id": "10",
+                        "name": "Person"
+                    },
+                    "entity": {
+                        "description": "Prime Minister of India Narendra Modi",
+                        "id": "806566669166350336",
+                        "name": "Narendra Modi"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "Politicians in the world, like Joe Biden",
+                        "id": "35",
+                        "name": "Politician"
+                    },
+                    "entity": {
+                        "description": "Prime Minister of India Narendra Modi",
+                        "id": "806566669166350336",
+                        "name": "Narendra Modi"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A taxonomy of user interests. ",
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy"
+                    },
+                    "entity": {
+                        "description": "Prime Minister of India Narendra Modi",
+                        "id": "806566669166350336",
+                        "name": "Narendra Modi"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A taxonomy of user interests. ",
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy"
+                    },
+                    "entity": {
+                        "description": "Politics",
+                        "id": "847878884917886977",
+                        "name": "Politics"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A taxonomy of user interests. ",
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy"
+                    },
+                    "entity": {
+                        "description": "Politician",
+                        "id": "1070032753834438656",
+                        "name": "Political figures"
+                    }
+                }
+            ],
+            "conversation_id": "1324024945031012354",
+            "created_at": "2020-11-04T16:25:20.000Z",
+            "edit_history_tweet_ids": [
+                "1324024945031012354"
+            ],
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 20,
+                        "normalized_text": "Modi ji",
+                        "probability": 0.5357,
+                        "start": 14,
+                        "type": "Person"
+                    },
+                    {
+                        "end": 36,
+                        "normalized_text": "Nitish ji",
+                        "probability": 0.5272,
+                        "start": 28,
+                        "type": "Other"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 12,
+                        "id": "1153045459",
+                        "start": 3,
+                        "username": "INCIndia"
+                    }
+                ]
+            },
+            "id": "1324024945031012354",
+            "lang": "en",
+            "public_metrics": {
+                "impression_count": 0,
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 307
+            },
+            "referenced_tweets": [
+                {
+                    "id": "1323961945209237508",
+                    "type": "retweeted"
+                }
+            ],
+            "reply_settings": "everyone",
+            "text": "RT @INCIndia: Modi ji &amp; Nitish ji only run the govt for few businessmen, not for the poor or labourers. I am here to tell you that when the\u2026"
+        },
+        {
+            "author_id": "38881813",
+            "conversation_id": "1324007365931266050",
+            "created_at": "2020-11-04T16:25:16.000Z",
+            "edit_history_tweet_ids": [
+                "1324024926165106690"
+            ],
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 110,
+                        "normalized_text": "North India",
+                        "probability": 0.8627,
+                        "start": 100,
+                        "type": "Place"
+                    },
+                    {
+                        "end": 130,
+                        "normalized_text": "North India",
+                        "probability": 0.7892,
+                        "start": 120,
+                        "type": "Place"
+                    },
+                    {
+                        "end": 175,
+                        "normalized_text": "Maharashtra",
+                        "probability": 0.9289,
+                        "start": 165,
+                        "type": "Place"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 12,
+                        "id": "863852553888518144",
+                        "start": 0,
+                        "username": "pallavirank"
+                    },
+                    {
+                        "end": 26,
+                        "id": "1036892277426278400",
+                        "start": 13,
+                        "username": "ServeOutWide"
+                    }
+                ]
+            },
+            "id": "1324024926165106690",
+            "in_reply_to_user_id": "863852553888518144",
+            "lang": "en",
+            "public_metrics": {
+                "impression_count": 0,
+                "like_count": 1,
+                "quote_count": 0,
+                "reply_count": 2,
+                "retweet_count": 0
+            },
+            "referenced_tweets": [
+                {
+                    "id": "1324021046102564864",
+                    "type": "replied_to"
+                }
+            ],
+            "reply_settings": "everyone",
+            "text": "@pallavirank @ServeOutWide I have no idea about Sputh Indian politics. I think caste is an issue in North India, and by North India I mean kind of anywhere North of Maharashtra \ud83d\ude2d and the more non urban a place is, the more it matters I think."
+        },
+        {
+            "author_id": "866617624020570113",
+            "conversation_id": "1324024814986698752",
+            "created_at": "2020-11-04T16:24:49.000Z",
+            "edit_history_tweet_ids": [
+                "1324024814986698752"
+            ],
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 35,
+                        "normalized_text": "Arnab Goswami",
+                        "probability": 0.8812,
+                        "start": 23,
+                        "type": "Person"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 18,
+                        "id": "1054216531553398785",
+                        "start": 3,
+                        "username": "vemula_radhika"
+                    }
+                ]
+            },
+            "id": "1324024814986698752",
+            "lang": "en",
+            "public_metrics": {
+                "impression_count": 0,
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 880
+            },
+            "referenced_tweets": [
+                {
+                    "id": "1323897491822047232",
+                    "type": "retweeted"
+                }
+            ],
+            "reply_settings": "everyone",
+            "text": "RT @vemula_radhika: Mr Arnab Goswami, while you are in Prison, please try to find out the other Prisoners Caste and Religion &amp; also ask the\u2026"
+        },
+        {
+            "author_id": "1285932130309214209",
+            "context_annotations": [
+                {
+                    "domain": {
+                        "description": "Named people in the world like Nelson Mandela",
+                        "id": "10",
+                        "name": "Person"
+                    },
+                    "entity": {
+                        "description": "45th US President, Donald Trump",
+                        "id": "799022225751871488",
+                        "name": "Donald Trump"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "Real world events. ",
+                        "id": "29",
+                        "name": "Events [Entity Service]"
+                    },
+                    "entity": {
+                        "description": "2020 US Presidential Election",
+                        "id": "1029453725360775168",
+                        "name": "2020 US Presidential Election"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "Politicians in the world, like Joe Biden",
+                        "id": "35",
+                        "name": "Politician"
+                    },
+                    "entity": {
+                        "description": "45th US President, Donald Trump",
+                        "id": "799022225751871488",
+                        "name": "Donald Trump"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A taxonomy of user interests. ",
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy"
+                    },
+                    "entity": {
+                        "description": "45th US President, Donald Trump",
+                        "id": "799022225751871488",
+                        "name": "Donald Trump"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A taxonomy of user interests. ",
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy"
+                    },
+                    "entity": {
+                        "description": "Politics",
+                        "id": "847878884917886977",
+                        "name": "Politics"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A taxonomy of user interests. ",
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy"
+                    },
+                    "entity": {
+                        "description": "2020 US Presidential Election",
+                        "id": "1029453725360775168",
+                        "name": "2020 US Presidential Election"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A taxonomy of user interests. ",
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy"
+                    },
+                    "entity": {
+                        "description": "Politician",
+                        "id": "1070032753834438656",
+                        "name": "Political figures"
+                    }
+                }
+            ],
+            "conversation_id": "1323895895029616641",
+            "created_at": "2020-11-04T16:24:40.000Z",
+            "edit_history_tweet_ids": [
+                "1324024775811964933"
+            ],
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 260,
+                        "normalized_text": "Trump",
+                        "probability": 0.9727,
+                        "start": 256,
+                        "type": "Person"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 14,
+                        "id": "385822659",
+                        "start": 0,
+                        "username": "AustinLynch88"
+                    },
+                    {
+                        "end": 26,
+                        "id": "188105034",
+                        "start": 15,
+                        "username": "TrishaaLoo"
+                    },
+                    {
+                        "end": 43,
+                        "id": "762389795037294592",
+                        "start": 27,
+                        "username": "TheRightMelissa"
+                    },
+                    {
+                        "end": 55,
+                        "id": "895302740",
+                        "start": 44,
+                        "username": "GretchinTN"
+                    }
+                ]
+            },
+            "id": "1324024775811964933",
+            "in_reply_to_user_id": "385822659",
+            "lang": "en",
+            "public_metrics": {
+                "impression_count": 0,
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "referenced_tweets": [
+                {
+                    "id": "1323898491618402304",
+                    "type": "replied_to"
+                }
+            ],
+            "reply_settings": "everyone",
+            "text": "@AustinLynch88 @TrishaaLoo @TheRightMelissa @GretchinTN Nah bro the votes that he's trying to get rid of weren't actually caste after the election. In certain states, mail in voting isn't counted till afterwards, and mail in votes usually lean democratic. Trump is saying that these votes are fraud and shouldn't count. PLEASE explain"
+        },
+        {
+            "author_id": "448480827",
+            "conversation_id": "1324024758581792772",
+            "created_at": "2020-11-04T16:24:36.000Z",
+            "edit_history_tweet_ids": [
+                "1324024758581792772"
+            ],
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 138,
+                        "normalized_text": "deni",
+                        "probability": 0.8644,
+                        "start": 135,
+                        "type": "Place"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 15,
+                        "id": "110326494",
+                        "start": 3,
+                        "username": "BreeNewsome"
+                    }
+                ]
+            },
+            "id": "1324024758581792772",
+            "lang": "en",
+            "public_metrics": {
+                "impression_count": 0,
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 7708
+            },
+            "referenced_tweets": [
+                {
+                    "id": "1323872299712499712",
+                    "type": "retweeted"
+                }
+            ],
+            "reply_settings": "everyone",
+            "text": "RT @BreeNewsome: I actually don\u2019t agree that another candidate from the primary would\u2019ve done better. I think people continue to be in deni\u2026"
+        },
+        {
+            "author_id": "1315249783347408897",
+            "conversation_id": "1324024726239412224",
+            "created_at": "2020-11-04T16:24:28.000Z",
+            "edit_history_tweet_ids": [
+                "1324024726239412224"
+            ],
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 23,
+                        "normalized_text": "BJP",
+                        "probability": 0.9535,
+                        "start": 21,
+                        "type": "Organization"
+                    },
+                    {
+                        "end": 67,
+                        "normalized_text": "LoveJihad",
+                        "probability": 0.4879,
+                        "start": 59,
+                        "type": "Place"
+                    }
+                ],
+                "hashtags": [
+                    {
+                        "end": 68,
+                        "start": 58,
+                        "tag": "LoveJihad"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 19,
+                        "id": "942276706647158785",
+                        "start": 3,
+                        "username": "EMAbdulRahiman1"
+                    }
+                ]
+            },
+            "id": "1324024726239412224",
+            "lang": "en",
+            "public_metrics": {
+                "impression_count": 0,
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 80
+            },
+            "referenced_tweets": [
+                {
+                    "id": "1323314924701900805",
+                    "type": "retweeted"
+                }
+            ],
+            "reply_settings": "everyone",
+            "text": "RT @EMAbdulRahiman1: BJP states move to enact law against #LoveJihad. This is nother step of hate politics. Though most parents prefer arra\u2026",
+            "withheld": {
+                "copyright": false,
+                "country_codes": [
+                    "IN"
+                ]
+            }
+        },
+        {
+            "author_id": "1267853288143085569",
+            "conversation_id": "1324024718849052675",
+            "created_at": "2020-11-04T16:24:26.000Z",
+            "edit_history_tweet_ids": [
+                "1324024718849052675"
+            ],
+            "entities": {
+                "mentions": [
+                    {
+                        "end": 15,
+                        "id": "110326494",
+                        "start": 3,
+                        "username": "BreeNewsome"
+                    }
+                ]
+            },
+            "id": "1324024718849052675",
+            "lang": "en",
+            "public_metrics": {
+                "impression_count": 0,
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 1227
+            },
+            "referenced_tweets": [
+                {
+                    "id": "1324015579741773824",
+                    "type": "retweeted"
+                }
+            ],
+            "reply_settings": "everyone",
+            "text": "RT @BreeNewsome: It\u2019s always white leftists who scream the loudest to deny that racism remains the greatest barrier to mobilizing a working\u2026"
+        },
+        {
+            "author_id": "1255526830393765899",
+            "conversation_id": "1324024679334510592",
+            "created_at": "2020-11-04T16:24:17.000Z",
+            "edit_history_tweet_ids": [
+                "1324024679334510592"
+            ],
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 35,
+                        "normalized_text": "Arnab Goswami",
+                        "probability": 0.8812,
+                        "start": 23,
+                        "type": "Person"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 18,
+                        "id": "1054216531553398785",
+                        "start": 3,
+                        "username": "vemula_radhika"
+                    }
+                ]
+            },
+            "id": "1324024679334510592",
+            "lang": "en",
+            "public_metrics": {
+                "impression_count": 0,
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 880
+            },
+            "referenced_tweets": [
+                {
+                    "id": "1323897491822047232",
+                    "type": "retweeted"
+                }
+            ],
+            "reply_settings": "everyone",
+            "text": "RT @vemula_radhika: Mr Arnab Goswami, while you are in Prison, please try to find out the other Prisoners Caste and Religion &amp; also ask the\u2026"
+        },
+        {
+            "author_id": "17021779",
+            "conversation_id": "1324024654244335616",
+            "created_at": "2020-11-04T16:24:11.000Z",
+            "edit_history_tweet_ids": [
+                "1324024654244335616"
+            ],
+            "entities": {
+                "mentions": [
+                    {
+                        "end": 15,
+                        "id": "110326494",
+                        "start": 3,
+                        "username": "BreeNewsome"
+                    }
+                ]
+            },
+            "id": "1324024654244335616",
+            "lang": "en",
+            "public_metrics": {
+                "impression_count": 0,
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 1227
+            },
+            "referenced_tweets": [
+                {
+                    "id": "1324015579741773824",
+                    "type": "retweeted"
+                }
+            ],
+            "reply_settings": "everyone",
+            "text": "RT @BreeNewsome: It\u2019s always white leftists who scream the loudest to deny that racism remains the greatest barrier to mobilizing a working\u2026"
+        },
+        {
+            "author_id": "797757316493938688",
+            "context_annotations": [
+                {
+                    "domain": {
+                        "description": "Named people in the world like Nelson Mandela",
+                        "id": "10",
+                        "name": "Person"
+                    },
+                    "entity": {
+                        "description": "45th US President, Donald Trump",
+                        "id": "799022225751871488",
+                        "name": "Donald Trump"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "Politicians in the world, like Joe Biden",
+                        "id": "35",
+                        "name": "Politician"
+                    },
+                    "entity": {
+                        "description": "45th US President, Donald Trump",
+                        "id": "799022225751871488",
+                        "name": "Donald Trump"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A taxonomy of user interests. ",
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy"
+                    },
+                    "entity": {
+                        "description": "45th US President, Donald Trump",
+                        "id": "799022225751871488",
+                        "name": "Donald Trump"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A taxonomy of user interests. ",
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy"
+                    },
+                    "entity": {
+                        "description": "Politics",
+                        "id": "847878884917886977",
+                        "name": "Politics"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A taxonomy of user interests. ",
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy"
+                    },
+                    "entity": {
+                        "description": "Politician",
+                        "id": "1070032753834438656",
+                        "name": "Political figures"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "Named people in the world like Nelson Mandela",
+                        "id": "10",
+                        "name": "Person"
+                    },
+                    "entity": {
+                        "description": "Marine Le Pen",
+                        "id": "822153193526169600",
+                        "name": "Marine Le Pen"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "Politicians in the world, like Joe Biden",
+                        "id": "35",
+                        "name": "Politician"
+                    },
+                    "entity": {
+                        "description": "Marine Le Pen",
+                        "id": "822153193526169600",
+                        "name": "Marine Le Pen"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A taxonomy of user interests. ",
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy"
+                    },
+                    "entity": {
+                        "description": "Marine Le Pen",
+                        "id": "822153193526169600",
+                        "name": "Marine Le Pen"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A taxonomy of user interests. ",
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy"
+                    },
+                    "entity": {
+                        "description": "Politics",
+                        "id": "847878884917886977",
+                        "name": "Politics"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A taxonomy of user interests. ",
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy"
+                    },
+                    "entity": {
+                        "description": "Politician",
+                        "id": "1070032753834438656",
+                        "name": "Political figures"
+                    }
+                }
+            ],
+            "conversation_id": "1324024638486253568",
+            "created_at": "2020-11-04T16:24:07.000Z",
+            "edit_history_tweet_ids": [
+                "1324024638486253568"
+            ],
+            "entities": {
+                "mentions": [
+                    {
+                        "end": 19,
+                        "id": "727425382169849856",
+                        "start": 3,
+                        "username": "Olivier_Monteil"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "twitter.com/NatGermain/sta\u2026",
+                        "end": 131,
+                        "expanded_url": "https://twitter.com/NatGermain/status/1323896790379384833",
+                        "start": 108,
+                        "url": "https://t.co/hCOBGSP0IA"
+                    }
+                ]
+            },
+            "id": "1324024638486253568",
+            "lang": "fr",
+            "public_metrics": {
+                "impression_count": 0,
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 83
+            },
+            "referenced_tweets": [
+                {
+                    "id": "1323901028337672192",
+                    "type": "retweeted"
+                }
+            ],
+            "reply_settings": "everyone",
+            "text": "RT @Olivier_Monteil: Remarquable intervention de Marine ce matin, qui remet la caste m\u00e9diatique a sa place. https://t.co/hCOBGSP0IA"
+        },
+        {
+            "author_id": "2189606485",
+            "conversation_id": "1324024623697047560",
+            "created_at": "2020-11-04T16:24:04.000Z",
+            "edit_history_tweet_ids": [
+                "1324024623697047560"
+            ],
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 138,
+                        "normalized_text": "deni",
+                        "probability": 0.8644,
+                        "start": 135,
+                        "type": "Place"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 15,
+                        "id": "110326494",
+                        "start": 3,
+                        "username": "BreeNewsome"
+                    }
+                ]
+            },
+            "id": "1324024623697047560",
+            "lang": "en",
+            "public_metrics": {
+                "impression_count": 0,
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 7708
+            },
+            "referenced_tweets": [
+                {
+                    "id": "1323872299712499712",
+                    "type": "retweeted"
+                }
+            ],
+            "reply_settings": "everyone",
+            "text": "RT @BreeNewsome: I actually don\u2019t agree that another candidate from the primary would\u2019ve done better. I think people continue to be in deni\u2026"
+        },
+        {
+            "author_id": "1063963083859730432",
+            "conversation_id": "1324024621600067586",
+            "created_at": "2020-11-04T16:24:03.000Z",
+            "edit_history_tweet_ids": [
+                "1324024621600067586"
+            ],
+            "entities": {
+                "urls": [
+                    {
+                        "display_url": "nbcnews.com/news/world/ind\u2026",
+                        "end": 23,
+                        "expanded_url": "https://www.nbcnews.com/news/world/india-dalits-still-feel-bottom-caste-ladder-n1239846",
+                        "start": 0,
+                        "url": "https://t.co/gWpJcURJGM"
+                    }
+                ]
+            },
+            "id": "1324024621600067586",
+            "lang": "zxx",
+            "public_metrics": {
+                "impression_count": 0,
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "reply_settings": "everyone",
+            "text": "https://t.co/gWpJcURJGM"
+        },
+        {
+            "author_id": "173263586",
+            "conversation_id": "1324024616101289984",
+            "created_at": "2020-11-04T16:24:02.000Z",
+            "edit_history_tweet_ids": [
+                "1324024616101289984"
+            ],
+            "entities": {
+                "mentions": [
+                    {
+                        "end": 15,
+                        "id": "110326494",
+                        "start": 3,
+                        "username": "BreeNewsome"
+                    }
+                ]
+            },
+            "id": "1324024616101289984",
+            "lang": "en",
+            "public_metrics": {
+                "impression_count": 0,
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 1227
+            },
+            "referenced_tweets": [
+                {
+                    "id": "1324015579741773824",
+                    "type": "retweeted"
+                }
+            ],
+            "reply_settings": "everyone",
+            "text": "RT @BreeNewsome: It\u2019s always white leftists who scream the loudest to deny that racism remains the greatest barrier to mobilizing a working\u2026"
+        },
+        {
+            "author_id": "40539075",
+            "conversation_id": "1324024601161203713",
+            "created_at": "2020-11-04T16:23:58.000Z",
+            "edit_history_tweet_ids": [
+                "1324024601161203713"
+            ],
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 138,
+                        "normalized_text": "deni",
+                        "probability": 0.8644,
+                        "start": 135,
+                        "type": "Place"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 15,
+                        "id": "110326494",
+                        "start": 3,
+                        "username": "BreeNewsome"
+                    }
+                ]
+            },
+            "id": "1324024601161203713",
+            "lang": "en",
+            "public_metrics": {
+                "impression_count": 0,
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 7708
+            },
+            "referenced_tweets": [
+                {
+                    "id": "1323872299712499712",
+                    "type": "retweeted"
+                }
+            ],
+            "reply_settings": "everyone",
+            "text": "RT @BreeNewsome: I actually don\u2019t agree that another candidate from the primary would\u2019ve done better. I think people continue to be in deni\u2026"
+        },
+        {
+            "author_id": "18077906",
+            "conversation_id": "1324024589782077441",
+            "created_at": "2020-11-04T16:23:56.000Z",
+            "edit_history_tweet_ids": [
+                "1324024589782077441"
+            ],
+            "entities": {
+                "mentions": [
+                    {
+                        "end": 15,
+                        "id": "110326494",
+                        "start": 3,
+                        "username": "BreeNewsome"
+                    }
+                ]
+            },
+            "id": "1324024589782077441",
+            "lang": "en",
+            "public_metrics": {
+                "impression_count": 0,
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 1227
+            },
+            "referenced_tweets": [
+                {
+                    "id": "1324015579741773824",
+                    "type": "retweeted"
+                }
+            ],
+            "reply_settings": "everyone",
+            "text": "RT @BreeNewsome: It\u2019s always white leftists who scream the loudest to deny that racism remains the greatest barrier to mobilizing a working\u2026"
+        },
+        {
+            "author_id": "413527916",
+            "conversation_id": "1324024542906454019",
+            "created_at": "2020-11-04T16:23:44.000Z",
+            "edit_history_tweet_ids": [
+                "1324024542906454019"
+            ],
+            "entities": {
+                "mentions": [
+                    {
+                        "end": 15,
+                        "id": "110326494",
+                        "start": 3,
+                        "username": "BreeNewsome"
+                    }
+                ]
+            },
+            "id": "1324024542906454019",
+            "lang": "en",
+            "public_metrics": {
+                "impression_count": 0,
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 1227
+            },
+            "referenced_tweets": [
+                {
+                    "id": "1324015579741773824",
+                    "type": "retweeted"
+                }
+            ],
+            "reply_settings": "everyone",
+            "text": "RT @BreeNewsome: It\u2019s always white leftists who scream the loudest to deny that racism remains the greatest barrier to mobilizing a working\u2026"
+        },
+        {
+            "author_id": "921039264225398788",
+            "context_annotations": [
+                {
+                    "domain": {
+                        "description": "Television shows from around the world",
+                        "id": "3",
+                        "name": "TV Shows"
+                    },
+                    "entity": {
+                        "description": "Talent seekers compete with one another to become the nation's next singing sensation.\nPhoto via @TheXFactor",
+                        "id": "10027594399",
+                        "name": "The X Factor"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "Television shows from around the world",
+                        "id": "3",
+                        "name": "TV Shows"
+                    },
+                    "entity": {
+                        "id": "10030490510",
+                        "name": "The X Factor (TV3)"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A taxonomy of user interests. ",
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy"
+                    },
+                    "entity": {
+                        "description": "US National News",
+                        "id": "1003932601839579136",
+                        "name": "US national news"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A taxonomy of user interests. ",
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy"
+                    },
+                    "entity": {
+                        "description": "News",
+                        "id": "1046545033657081857",
+                        "name": "News"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A taxonomy of user interests. ",
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy"
+                    },
+                    "entity": {
+                        "id": "1286379401228124160",
+                        "name": "Americas"
+                    }
+                }
+            ],
+            "conversation_id": "1324024529996468224",
+            "created_at": "2020-11-04T16:23:41.000Z",
+            "edit_history_tweet_ids": [
+                "1324024529996468224"
+            ],
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 34,
+                        "normalized_text": "Caste",
+                        "probability": 0.8694,
+                        "start": 30,
+                        "type": "Other"
+                    },
+                    {
+                        "end": 55,
+                        "normalized_text": "Isabel Wilkerson",
+                        "probability": 0.9688,
+                        "start": 40,
+                        "type": "Person"
+                    }
+                ]
+            },
+            "id": "1324024529996468224",
+            "lang": "en",
+            "public_metrics": {
+                "impression_count": 0,
+                "like_count": 4,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 1
+            },
+            "reply_settings": "everyone",
+            "text": "I'm spending the day reading \"Caste\" by Isabel Wilkerson\n\n\u201cCaste, along with its faithful servant race, is an x-factor in most any American equation, and any answer one might ever come up with to address our current challenges is flawed without it.\u201d"
+        },
+        {
+            "author_id": "184966267",
+            "conversation_id": "1324024529019039744",
+            "created_at": "2020-11-04T16:23:41.000Z",
+            "edit_history_tweet_ids": [
+                "1324024529019039744"
+            ],
+            "id": "1324024529019039744",
+            "lang": "en",
+            "public_metrics": {
+                "impression_count": 0,
+                "like_count": 8,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "reply_settings": "everyone",
+            "text": "Heading to work. Might I gently suggest that if you are surprised, shocked, or disbelieving of the results thus far, you haven\u2019t taken a hard look at this country and what rights people are willing to sacrifice in exchange for maintaining a caste-based system."
+        }
+    ],
+    "meta": {
+        "newest_id": "1324026247727452163",
+        "next_token": "b26v89c19zqg8o3fosbttfqx33aer0vqdh5x2b9lzd8ql",
+        "oldest_id": "1324024529019039744",
+        "result_count": 93
+    }
+}

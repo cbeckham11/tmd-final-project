@@ -1,0 +1,4640 @@
+{
+    "data": [
+        {
+            "author_id": "1213618155714531329",
+            "context_annotations": [
+                {
+                    "domain": {
+                        "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+                        "id": "30",
+                        "name": "Entities [Entity Service]"
+                    },
+                    "entity": {
+                        "id": "781974596752842752",
+                        "name": "Services"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "Brands and Companies",
+                        "id": "47",
+                        "name": "Brand"
+                    },
+                    "entity": {
+                        "id": "10041893684",
+                        "name": "Instagram"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A taxonomy of user interests. ",
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy"
+                    },
+                    "entity": {
+                        "id": "10041893684",
+                        "name": "Instagram"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A taxonomy of user interests. ",
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy"
+                    },
+                    "entity": {
+                        "id": "1196446161223028736",
+                        "name": "Social media"
+                    }
+                }
+            ],
+            "conversation_id": "1323756215663579140",
+            "created_at": "2020-11-04T05:02:20.000Z",
+            "edit_history_tweet_ids": [
+                "1323853060775575554"
+            ],
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 45,
+                        "normalized_text": "blackout",
+                        "probability": 0.6005,
+                        "start": 38,
+                        "type": "Other"
+                    },
+                    {
+                        "end": 72,
+                        "normalized_text": "Raffa",
+                        "probability": 0.9338,
+                        "start": 68,
+                        "type": "Person"
+                    },
+                    {
+                        "end": 85,
+                        "normalized_text": "Instagram",
+                        "probability": 0.9081,
+                        "start": 77,
+                        "type": "Other"
+                    },
+                    {
+                        "end": 167,
+                        "normalized_text": "Raffa",
+                        "probability": 0.9144,
+                        "start": 163,
+                        "type": "Person"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 14,
+                        "id": "1129169713790160897",
+                        "start": 0,
+                        "username": "robynfenty88_"
+                    },
+                    {
+                        "end": 35,
+                        "id": "1412878922",
+                        "start": 24,
+                        "username": "YssaTayara"
+                    }
+                ]
+            },
+            "id": "1323853060775575554",
+            "in_reply_to_user_id": "1129169713790160897",
+            "lang": "pt",
+            "public_metrics": {
+                "impression_count": 0,
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "referenced_tweets": [
+                {
+                    "id": "1323761549153083394",
+                    "type": "replied_to"
+                }
+            ],
+            "reply_settings": "everyone",
+            "text": "@robynfenty88_ @bblmc43 @YssaTayara O blackout falou umas parada do Raffa no Instagram, diminuindo o trampo dele, e falando que nunca ajudou em nada, e xingando o Raffa e tals !"
+        },
+        {
+            "author_id": "1083270762490867712",
+            "conversation_id": "1323852627206045696",
+            "created_at": "2020-11-04T05:02:17.000Z",
+            "edit_history_tweet_ids": [
+                "1323853050667180034"
+            ],
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 37,
+                        "normalized_text": "Diya",
+                        "probability": 0.2495,
+                        "start": 34,
+                        "type": "Other"
+                    },
+                    {
+                        "end": 80,
+                        "normalized_text": "Punjab",
+                        "probability": 0.9707,
+                        "start": 75,
+                        "type": "Place"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 14,
+                        "id": "924948315145256961",
+                        "start": 0,
+                        "username": "lakey_musings"
+                    }
+                ]
+            },
+            "id": "1323853050667180034",
+            "in_reply_to_user_id": "924948315145256961",
+            "lang": "en",
+            "public_metrics": {
+                "impression_count": 0,
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 1,
+                "retweet_count": 1
+            },
+            "referenced_tweets": [
+                {
+                    "id": "1323852627206045696",
+                    "type": "replied_to"
+                }
+            ],
+            "reply_settings": "everyone",
+            "text": "@lakey_musings Akha band ne govt. Diya.. now center is not sending coal to Punjab. We have just few days of coal left for electricity.. there will be huge blackout all over"
+        },
+        {
+            "author_id": "750741639967019008",
+            "context_annotations": [
+                {
+                    "domain": {
+                        "description": "Named people in the world like Nelson Mandela",
+                        "id": "10",
+                        "name": "Person"
+                    },
+                    "entity": {
+                        "description": "US President Joe Biden",
+                        "id": "10040395078",
+                        "name": "Joe Biden"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "Politicians in the world, like Joe Biden",
+                        "id": "35",
+                        "name": "Politician"
+                    },
+                    "entity": {
+                        "description": "US President Joe Biden",
+                        "id": "10040395078",
+                        "name": "Joe Biden"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A taxonomy of user interests. ",
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy"
+                    },
+                    "entity": {
+                        "description": "US President Joe Biden",
+                        "id": "10040395078",
+                        "name": "Joe Biden"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A taxonomy of user interests. ",
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy"
+                    },
+                    "entity": {
+                        "description": "Politics",
+                        "id": "847878884917886977",
+                        "name": "Politics"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A taxonomy of user interests. ",
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy"
+                    },
+                    "entity": {
+                        "description": "Politician",
+                        "id": "1070032753834438656",
+                        "name": "Political figures"
+                    }
+                }
+            ],
+            "conversation_id": "1323852900582391808",
+            "created_at": "2020-11-04T05:01:42.000Z",
+            "edit_history_tweet_ids": [
+                "1323852900582391808"
+            ],
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 75,
+                        "normalized_text": "Joe Biden",
+                        "probability": 0.9758,
+                        "start": 67,
+                        "type": "Person"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 13,
+                        "id": "16106584",
+                        "start": 3,
+                        "username": "stillgray"
+                    }
+                ]
+            },
+            "id": "1323852900582391808",
+            "lang": "en",
+            "public_metrics": {
+                "impression_count": 0,
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 216
+            },
+            "referenced_tweets": [
+                {
+                    "id": "1323846277348552709",
+                    "type": "retweeted"
+                }
+            ],
+            "reply_settings": "everyone",
+            "text": "RT @stillgray: The average person has no idea what's going on with Joe Biden. The lack of information about him is shocking and you can tha\u2026"
+        },
+        {
+            "author_id": "1291824500762275840",
+            "context_annotations": [
+                {
+                    "domain": {
+                        "description": "Named people in the world like Nelson Mandela",
+                        "id": "10",
+                        "name": "Person"
+                    },
+                    "entity": {
+                        "description": "US President Joe Biden",
+                        "id": "10040395078",
+                        "name": "Joe Biden"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "Politicians in the world, like Joe Biden",
+                        "id": "35",
+                        "name": "Politician"
+                    },
+                    "entity": {
+                        "description": "US President Joe Biden",
+                        "id": "10040395078",
+                        "name": "Joe Biden"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A taxonomy of user interests. ",
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy"
+                    },
+                    "entity": {
+                        "description": "US President Joe Biden",
+                        "id": "10040395078",
+                        "name": "Joe Biden"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A taxonomy of user interests. ",
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy"
+                    },
+                    "entity": {
+                        "description": "Politics",
+                        "id": "847878884917886977",
+                        "name": "Politics"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A taxonomy of user interests. ",
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy"
+                    },
+                    "entity": {
+                        "description": "Politician",
+                        "id": "1070032753834438656",
+                        "name": "Political figures"
+                    }
+                }
+            ],
+            "conversation_id": "1323852879053008896",
+            "created_at": "2020-11-04T05:01:37.000Z",
+            "edit_history_tweet_ids": [
+                "1323852879053008896"
+            ],
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 75,
+                        "normalized_text": "Joe Biden",
+                        "probability": 0.9758,
+                        "start": 67,
+                        "type": "Person"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 13,
+                        "id": "16106584",
+                        "start": 3,
+                        "username": "stillgray"
+                    }
+                ]
+            },
+            "id": "1323852879053008896",
+            "lang": "en",
+            "public_metrics": {
+                "impression_count": 0,
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 216
+            },
+            "referenced_tweets": [
+                {
+                    "id": "1323846277348552709",
+                    "type": "retweeted"
+                }
+            ],
+            "reply_settings": "everyone",
+            "text": "RT @stillgray: The average person has no idea what's going on with Joe Biden. The lack of information about him is shocking and you can tha\u2026"
+        },
+        {
+            "author_id": "779508899548270592",
+            "conversation_id": "1323852785755004928",
+            "created_at": "2020-11-04T05:01:14.000Z",
+            "edit_history_tweet_ids": [
+                "1323852785755004928"
+            ],
+            "entities": {
+                "urls": [
+                    {
+                        "display_url": "twitter.com/Jasiby_xoxo/st\u2026",
+                        "end": 61,
+                        "expanded_url": "https://twitter.com/Jasiby_xoxo/status/1323748046505615360",
+                        "start": 38,
+                        "url": "https://t.co/rCPZprYRv0"
+                    }
+                ]
+            },
+            "id": "1323852785755004928",
+            "lang": "en",
+            "public_metrics": {
+                "impression_count": 0,
+                "like_count": 9,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 2
+            },
+            "reply_settings": "everyone",
+            "text": "And if it doesn\u2019t I\u2019ll still blackout https://t.co/rCPZprYRv0"
+        },
+        {
+            "author_id": "3603704955",
+            "conversation_id": "1323848676964519937",
+            "created_at": "2020-11-04T05:01:08.000Z",
+            "edit_history_tweet_ids": [
+                "1323852760211693570"
+            ],
+            "entities": {
+                "mentions": [
+                    {
+                        "end": 13,
+                        "id": "24784627",
+                        "start": 0,
+                        "username": "Sonitasaurus"
+                    },
+                    {
+                        "end": 24,
+                        "id": "833468875",
+                        "start": 14,
+                        "username": "AdamTwelv"
+                    }
+                ]
+            },
+            "id": "1323852760211693570",
+            "in_reply_to_user_id": "24784627",
+            "lang": "en",
+            "public_metrics": {
+                "impression_count": 0,
+                "like_count": 2,
+                "quote_count": 0,
+                "reply_count": 2,
+                "retweet_count": 0
+            },
+            "referenced_tweets": [
+                {
+                    "id": "1323852559833042946",
+                    "type": "replied_to"
+                }
+            ],
+            "reply_settings": "everyone",
+            "text": "@Sonitasaurus @AdamTwelv The fuck you been blackout?"
+        },
+        {
+            "author_id": "2326191415",
+            "context_annotations": [
+                {
+                    "domain": {
+                        "description": "Real world events. ",
+                        "id": "29",
+                        "name": "Events [Entity Service]"
+                    },
+                    "entity": {
+                        "description": "2020 US Presidential Election",
+                        "id": "1029453725360775168",
+                        "name": "2020 US Presidential Election"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "Real world events. ",
+                        "id": "29",
+                        "name": "Events [Entity Service]"
+                    },
+                    "entity": {
+                        "id": "1318573265820921857",
+                        "name": "2020 US Election Day"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A taxonomy of user interests. ",
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy"
+                    },
+                    "entity": {
+                        "description": "2020 US Presidential Election",
+                        "id": "1029453725360775168",
+                        "name": "2020 US Presidential Election"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "Named people in the world like Nelson Mandela",
+                        "id": "10",
+                        "name": "Person"
+                    },
+                    "entity": {
+                        "description": "Former US President Barack Obama",
+                        "id": "10038764303",
+                        "name": "Barack Obama"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "Politicians in the world, like Joe Biden",
+                        "id": "35",
+                        "name": "Politician"
+                    },
+                    "entity": {
+                        "description": "Former US President Barack Obama",
+                        "id": "10038764303",
+                        "name": "Barack Obama"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A taxonomy of user interests. ",
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy"
+                    },
+                    "entity": {
+                        "description": "Former US President Barack Obama",
+                        "id": "10038764303",
+                        "name": "Barack Obama"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A taxonomy of user interests. ",
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy"
+                    },
+                    "entity": {
+                        "description": "Politics",
+                        "id": "847878884917886977",
+                        "name": "Politics"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A taxonomy of user interests. ",
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy"
+                    },
+                    "entity": {
+                        "description": "Politician",
+                        "id": "1070032753834438656",
+                        "name": "Political figures"
+                    }
+                }
+            ],
+            "conversation_id": "1323852636592984064",
+            "created_at": "2020-11-04T05:00:39.000Z",
+            "edit_history_tweet_ids": [
+                "1323852636592984064"
+            ],
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 71,
+                        "normalized_text": "Obama",
+                        "probability": 0.9788,
+                        "start": 67,
+                        "type": "Person"
+                    }
+                ],
+                "hashtags": [
+                    {
+                        "end": 117,
+                        "start": 103,
+                        "tag": "ElectionNight"
+                    },
+                    {
+                        "end": 131,
+                        "start": 118,
+                        "tag": "Election2020"
+                    },
+                    {
+                        "end": 148,
+                        "start": 132,
+                        "tag": "electionanxiety"
+                    }
+                ]
+            },
+            "id": "1323852636592984064",
+            "lang": "en",
+            "public_metrics": {
+                "impression_count": 0,
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "reply_settings": "everyone",
+            "text": "Election night 2012 I got blackout drunk with a friend celebrating Obama\u2019s win. Those were good times. #ElectionNight #Election2020 #electionanxiety"
+        },
+        {
+            "author_id": "4710127832",
+            "context_annotations": [
+                {
+                    "domain": {
+                        "description": "Named people in the world like Nelson Mandela",
+                        "id": "10",
+                        "name": "Person"
+                    },
+                    "entity": {
+                        "description": "US President Joe Biden",
+                        "id": "10040395078",
+                        "name": "Joe Biden"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "Politicians in the world, like Joe Biden",
+                        "id": "35",
+                        "name": "Politician"
+                    },
+                    "entity": {
+                        "description": "US President Joe Biden",
+                        "id": "10040395078",
+                        "name": "Joe Biden"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A taxonomy of user interests. ",
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy"
+                    },
+                    "entity": {
+                        "description": "US President Joe Biden",
+                        "id": "10040395078",
+                        "name": "Joe Biden"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A taxonomy of user interests. ",
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy"
+                    },
+                    "entity": {
+                        "description": "Politics",
+                        "id": "847878884917886977",
+                        "name": "Politics"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A taxonomy of user interests. ",
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy"
+                    },
+                    "entity": {
+                        "description": "Politician",
+                        "id": "1070032753834438656",
+                        "name": "Political figures"
+                    }
+                }
+            ],
+            "conversation_id": "1323852549506572294",
+            "created_at": "2020-11-04T05:00:18.000Z",
+            "edit_history_tweet_ids": [
+                "1323852549506572294"
+            ],
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 75,
+                        "normalized_text": "Joe Biden",
+                        "probability": 0.9758,
+                        "start": 67,
+                        "type": "Person"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 13,
+                        "id": "16106584",
+                        "start": 3,
+                        "username": "stillgray"
+                    }
+                ]
+            },
+            "id": "1323852549506572294",
+            "lang": "en",
+            "public_metrics": {
+                "impression_count": 0,
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 216
+            },
+            "referenced_tweets": [
+                {
+                    "id": "1323846277348552709",
+                    "type": "retweeted"
+                }
+            ],
+            "reply_settings": "everyone",
+            "text": "RT @stillgray: The average person has no idea what's going on with Joe Biden. The lack of information about him is shocking and you can tha\u2026"
+        },
+        {
+            "author_id": "247387223",
+            "context_annotations": [
+                {
+                    "domain": {
+                        "description": "Top level interests and hobbies groupings, like Food or Travel",
+                        "id": "65",
+                        "name": "Interests and Hobbies Vertical"
+                    },
+                    "entity": {
+                        "description": "Drinks",
+                        "id": "834828264786898945",
+                        "name": "Drinks"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+                        "id": "67",
+                        "name": "Interests and Hobbies"
+                    },
+                    "entity": {
+                        "description": "Drink Experience",
+                        "id": "1006278636842782720",
+                        "name": "Drink Experience"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "Top level interests and hobbies groupings, like Food or Travel",
+                        "id": "65",
+                        "name": "Interests and Hobbies Vertical"
+                    },
+                    "entity": {
+                        "description": "Drinks",
+                        "id": "834828264786898945",
+                        "name": "Drinks"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+                        "id": "66",
+                        "name": "Interests and Hobbies Category"
+                    },
+                    "entity": {
+                        "description": "Generic Drinks",
+                        "id": "834828445238431744",
+                        "name": "Generic Drinks"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+                        "id": "67",
+                        "name": "Interests and Hobbies"
+                    },
+                    "entity": {
+                        "description": "Beer",
+                        "id": "850142258871418880",
+                        "name": "Beer"
+                    }
+                }
+            ],
+            "conversation_id": "1323851405824716800",
+            "created_at": "2020-11-04T04:59:48.000Z",
+            "edit_history_tweet_ids": [
+                "1323852424218468353"
+            ],
+            "entities": {
+                "mentions": [
+                    {
+                        "end": 12,
+                        "id": "82005827",
+                        "start": 0,
+                        "username": "azninthesun"
+                    }
+                ]
+            },
+            "id": "1323852424218468353",
+            "in_reply_to_user_id": "82005827",
+            "lang": "en",
+            "public_metrics": {
+                "impression_count": 0,
+                "like_count": 1,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "referenced_tweets": [
+                {
+                    "id": "1323851405824716800",
+                    "type": "replied_to"
+                }
+            ],
+            "reply_settings": "everyone",
+            "text": "@azninthesun thanks for putting this on my timeline. i read some replies and now i\u2019m transitioning from one beer an hour drinking to blackout drinking"
+        },
+        {
+            "author_id": "96486121",
+            "context_annotations": [
+                {
+                    "domain": {
+                        "description": "Named people in the world like Nelson Mandela",
+                        "id": "10",
+                        "name": "Person"
+                    },
+                    "entity": {
+                        "description": "US President Joe Biden",
+                        "id": "10040395078",
+                        "name": "Joe Biden"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "Politicians in the world, like Joe Biden",
+                        "id": "35",
+                        "name": "Politician"
+                    },
+                    "entity": {
+                        "description": "US President Joe Biden",
+                        "id": "10040395078",
+                        "name": "Joe Biden"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A taxonomy of user interests. ",
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy"
+                    },
+                    "entity": {
+                        "description": "US President Joe Biden",
+                        "id": "10040395078",
+                        "name": "Joe Biden"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A taxonomy of user interests. ",
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy"
+                    },
+                    "entity": {
+                        "description": "Politics",
+                        "id": "847878884917886977",
+                        "name": "Politics"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A taxonomy of user interests. ",
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy"
+                    },
+                    "entity": {
+                        "description": "Politician",
+                        "id": "1070032753834438656",
+                        "name": "Political figures"
+                    }
+                }
+            ],
+            "conversation_id": "1323852423765643265",
+            "created_at": "2020-11-04T04:59:48.000Z",
+            "edit_history_tweet_ids": [
+                "1323852423765643265"
+            ],
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 75,
+                        "normalized_text": "Joe Biden",
+                        "probability": 0.9758,
+                        "start": 67,
+                        "type": "Person"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 13,
+                        "id": "16106584",
+                        "start": 3,
+                        "username": "stillgray"
+                    }
+                ]
+            },
+            "id": "1323852423765643265",
+            "lang": "en",
+            "public_metrics": {
+                "impression_count": 0,
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 216
+            },
+            "referenced_tweets": [
+                {
+                    "id": "1323846277348552709",
+                    "type": "retweeted"
+                }
+            ],
+            "reply_settings": "everyone",
+            "text": "RT @stillgray: The average person has no idea what's going on with Joe Biden. The lack of information about him is shocking and you can tha\u2026"
+        },
+        {
+            "author_id": "506346648",
+            "context_annotations": [
+                {
+                    "domain": {
+                        "description": "Top level interests and hobbies groupings, like Food or Travel",
+                        "id": "65",
+                        "name": "Interests and Hobbies Vertical"
+                    },
+                    "entity": {
+                        "description": "Drinks",
+                        "id": "834828264786898945",
+                        "name": "Drinks"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+                        "id": "67",
+                        "name": "Interests and Hobbies"
+                    },
+                    "entity": {
+                        "description": "Drink Experience",
+                        "id": "1006278636842782720",
+                        "name": "Drink Experience"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "Top level interests and hobbies groupings, like Food or Travel",
+                        "id": "65",
+                        "name": "Interests and Hobbies Vertical"
+                    },
+                    "entity": {
+                        "description": "Drinks",
+                        "id": "834828264786898945",
+                        "name": "Drinks"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+                        "id": "66",
+                        "name": "Interests and Hobbies Category"
+                    },
+                    "entity": {
+                        "description": "Generic Drinks",
+                        "id": "834828445238431744",
+                        "name": "Generic Drinks"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+                        "id": "67",
+                        "name": "Interests and Hobbies"
+                    },
+                    "entity": {
+                        "description": "Whiskey",
+                        "id": "850401418141761536",
+                        "name": "Whiskey"
+                    }
+                }
+            ],
+            "conversation_id": "1323830515250556929",
+            "created_at": "2020-11-04T04:59:33.000Z",
+            "edit_history_tweet_ids": [
+                "1323852361815760897"
+            ],
+            "entities": {
+                "mentions": [
+                    {
+                        "end": 11,
+                        "id": "254186356",
+                        "start": 0,
+                        "username": "billburton"
+                    },
+                    {
+                        "end": 21,
+                        "id": "44148567",
+                        "start": 12,
+                        "username": "jshrimp3"
+                    }
+                ]
+            },
+            "id": "1323852361815760897",
+            "in_reply_to_user_id": "254186356",
+            "lang": "en",
+            "public_metrics": {
+                "impression_count": 0,
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "referenced_tweets": [
+                {
+                    "id": "1323830515250556929",
+                    "type": "replied_to"
+                }
+            ],
+            "reply_settings": "everyone",
+            "text": "@billburton @jshrimp3 ...accurate on the drinking part. Though I'm not blackout and it's bourbon."
+        },
+        {
+            "author_id": "272101938",
+            "context_annotations": [
+                {
+                    "domain": {
+                        "description": "Named people in the world like Nelson Mandela",
+                        "id": "10",
+                        "name": "Person"
+                    },
+                    "entity": {
+                        "description": "US President Joe Biden",
+                        "id": "10040395078",
+                        "name": "Joe Biden"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "Politicians in the world, like Joe Biden",
+                        "id": "35",
+                        "name": "Politician"
+                    },
+                    "entity": {
+                        "description": "US President Joe Biden",
+                        "id": "10040395078",
+                        "name": "Joe Biden"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A taxonomy of user interests. ",
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy"
+                    },
+                    "entity": {
+                        "description": "US President Joe Biden",
+                        "id": "10040395078",
+                        "name": "Joe Biden"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A taxonomy of user interests. ",
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy"
+                    },
+                    "entity": {
+                        "description": "Politics",
+                        "id": "847878884917886977",
+                        "name": "Politics"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A taxonomy of user interests. ",
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy"
+                    },
+                    "entity": {
+                        "description": "Politician",
+                        "id": "1070032753834438656",
+                        "name": "Political figures"
+                    }
+                }
+            ],
+            "conversation_id": "1323852240738660354",
+            "created_at": "2020-11-04T04:59:04.000Z",
+            "edit_history_tweet_ids": [
+                "1323852240738660354"
+            ],
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 75,
+                        "normalized_text": "Joe Biden",
+                        "probability": 0.9758,
+                        "start": 67,
+                        "type": "Person"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 13,
+                        "id": "16106584",
+                        "start": 3,
+                        "username": "stillgray"
+                    }
+                ]
+            },
+            "id": "1323852240738660354",
+            "lang": "en",
+            "public_metrics": {
+                "impression_count": 0,
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 216
+            },
+            "referenced_tweets": [
+                {
+                    "id": "1323846277348552709",
+                    "type": "retweeted"
+                }
+            ],
+            "reply_settings": "everyone",
+            "text": "RT @stillgray: The average person has no idea what's going on with Joe Biden. The lack of information about him is shocking and you can tha\u2026"
+        },
+        {
+            "author_id": "910966443914792961",
+            "conversation_id": "1323851080346800130",
+            "created_at": "2020-11-04T04:58:31.000Z",
+            "edit_history_tweet_ids": [
+                "1323852099780812802"
+            ],
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 36,
+                        "normalized_text": "blackout",
+                        "probability": 0.8708,
+                        "start": 29,
+                        "type": "Other"
+                    }
+                ]
+            },
+            "id": "1323852099780812802",
+            "in_reply_to_user_id": "1318573001143652352",
+            "lang": "pt",
+            "public_metrics": {
+                "impression_count": 0,
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "referenced_tweets": [
+                {
+                    "id": "1323851464507379713",
+                    "type": "replied_to"
+                }
+            ],
+            "reply_settings": "everyone",
+            "text": "@DaPeruca quero que ativem o blackout"
+        },
+        {
+            "author_id": "824435160355655680",
+            "context_annotations": [
+                {
+                    "domain": {
+                        "description": "Named people in the world like Nelson Mandela",
+                        "id": "10",
+                        "name": "Person"
+                    },
+                    "entity": {
+                        "description": "Candace Owens",
+                        "id": "988359847568490496",
+                        "name": "Candace Owens"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A journalist like 'Anderson Cooper'",
+                        "id": "94",
+                        "name": "Journalist"
+                    },
+                    "entity": {
+                        "description": "Candace Owens",
+                        "id": "988359847568490496",
+                        "name": "Candace Owens"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A taxonomy of user interests. ",
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy"
+                    },
+                    "entity": {
+                        "description": "Candace Owens",
+                        "id": "988359847568490496",
+                        "name": "Candace Owens"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A taxonomy of user interests. ",
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy"
+                    },
+                    "entity": {
+                        "description": "News",
+                        "id": "1046545033657081857",
+                        "name": "News"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A taxonomy of user interests. ",
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy"
+                    },
+                    "entity": {
+                        "description": "Journalism",
+                        "id": "1074755369530880001",
+                        "name": "Journalists"
+                    }
+                }
+            ],
+            "conversation_id": "1323852097939537921",
+            "created_at": "2020-11-04T04:58:30.000Z",
+            "edit_history_tweet_ids": [
+                "1323852097939537921"
+            ],
+            "entities": {
+                "mentions": [
+                    {
+                        "end": 16,
+                        "id": "878247600096509952",
+                        "start": 3,
+                        "username": "RealCandaceO"
+                    }
+                ]
+            },
+            "id": "1323852097939537921",
+            "lang": "en",
+            "public_metrics": {
+                "impression_count": 0,
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 11818
+            },
+            "referenced_tweets": [
+                {
+                    "id": "1301542478600904704",
+                    "type": "retweeted"
+                }
+            ],
+            "reply_settings": "everyone",
+            "text": "RT @RealCandaceO: You guys!! T minus 12 days until my first book FINALLY hits stands. \n\nHere\u2019s a little teaser regarding my favorite chapte\u2026"
+        },
+        {
+            "author_id": "1260813242651119618",
+            "context_annotations": [
+                {
+                    "domain": {
+                        "description": "Named people in the world like Nelson Mandela",
+                        "id": "10",
+                        "name": "Person"
+                    },
+                    "entity": {
+                        "description": "45th US President, Donald Trump",
+                        "id": "799022225751871488",
+                        "name": "Donald Trump"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "Politicians in the world, like Joe Biden",
+                        "id": "35",
+                        "name": "Politician"
+                    },
+                    "entity": {
+                        "description": "45th US President, Donald Trump",
+                        "id": "799022225751871488",
+                        "name": "Donald Trump"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A taxonomy of user interests. ",
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy"
+                    },
+                    "entity": {
+                        "description": "45th US President, Donald Trump",
+                        "id": "799022225751871488",
+                        "name": "Donald Trump"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A taxonomy of user interests. ",
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy"
+                    },
+                    "entity": {
+                        "description": "Politics",
+                        "id": "847878884917886977",
+                        "name": "Politics"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A taxonomy of user interests. ",
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy"
+                    },
+                    "entity": {
+                        "description": "Politician",
+                        "id": "1070032753834438656",
+                        "name": "Political figures"
+                    }
+                }
+            ],
+            "conversation_id": "1323851966166962178",
+            "created_at": "2020-11-04T04:57:59.000Z",
+            "edit_history_tweet_ids": [
+                "1323851966166962178"
+            ],
+            "id": "1323851966166962178",
+            "lang": "in",
+            "public_metrics": {
+                "impression_count": 0,
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "reply_settings": "everyone",
+            "text": "bye bye trump, kecuali dia guna teknik blackout"
+        },
+        {
+            "author_id": "1166353316118433792",
+            "conversation_id": "1323851935204610049",
+            "created_at": "2020-11-04T04:57:51.000Z",
+            "edit_history_tweet_ids": [
+                "1323851935204610049"
+            ],
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 20,
+                        "normalized_text": "Nikol",
+                        "probability": 0.4658,
+                        "start": 16,
+                        "type": "Other"
+                    },
+                    {
+                        "end": 63,
+                        "normalized_text": "Armenia",
+                        "probability": 0.857,
+                        "start": 57,
+                        "type": "Place"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 14,
+                        "id": "608688804",
+                        "start": 3,
+                        "username": "LxvelySima"
+                    }
+                ]
+            },
+            "id": "1323851935204610049",
+            "lang": "en",
+            "public_metrics": {
+                "impression_count": 0,
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 12
+            },
+            "referenced_tweets": [
+                {
+                    "id": "1323783226758991875",
+                    "type": "retweeted"
+                }
+            ],
+            "reply_settings": "everyone",
+            "text": "RT @LxvelySima: Nikol got his position from the streets. Armenia CHOSE him. You got your position from your father and made your wife the V\u2026"
+        },
+        {
+            "author_id": "1080997357221597185",
+            "context_annotations": [
+                {
+                    "domain": {
+                        "description": "Named people in the world like Nelson Mandela",
+                        "id": "10",
+                        "name": "Person"
+                    },
+                    "entity": {
+                        "description": "US President Joe Biden",
+                        "id": "10040395078",
+                        "name": "Joe Biden"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "Politicians in the world, like Joe Biden",
+                        "id": "35",
+                        "name": "Politician"
+                    },
+                    "entity": {
+                        "description": "US President Joe Biden",
+                        "id": "10040395078",
+                        "name": "Joe Biden"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A taxonomy of user interests. ",
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy"
+                    },
+                    "entity": {
+                        "description": "US President Joe Biden",
+                        "id": "10040395078",
+                        "name": "Joe Biden"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A taxonomy of user interests. ",
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy"
+                    },
+                    "entity": {
+                        "description": "Politics",
+                        "id": "847878884917886977",
+                        "name": "Politics"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A taxonomy of user interests. ",
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy"
+                    },
+                    "entity": {
+                        "description": "Politician",
+                        "id": "1070032753834438656",
+                        "name": "Political figures"
+                    }
+                }
+            ],
+            "conversation_id": "1323851901247524864",
+            "created_at": "2020-11-04T04:57:43.000Z",
+            "edit_history_tweet_ids": [
+                "1323851901247524864"
+            ],
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 75,
+                        "normalized_text": "Joe Biden",
+                        "probability": 0.9758,
+                        "start": 67,
+                        "type": "Person"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 13,
+                        "id": "16106584",
+                        "start": 3,
+                        "username": "stillgray"
+                    }
+                ]
+            },
+            "id": "1323851901247524864",
+            "lang": "en",
+            "public_metrics": {
+                "impression_count": 0,
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 216
+            },
+            "referenced_tweets": [
+                {
+                    "id": "1323846277348552709",
+                    "type": "retweeted"
+                }
+            ],
+            "reply_settings": "everyone",
+            "text": "RT @stillgray: The average person has no idea what's going on with Joe Biden. The lack of information about him is shocking and you can tha\u2026"
+        },
+        {
+            "author_id": "1226688221037371392",
+            "conversation_id": "1323851075343056899",
+            "created_at": "2020-11-04T04:57:42.000Z",
+            "edit_history_tweet_ids": [
+                "1323851894733852672"
+            ],
+            "entities": {
+                "mentions": [
+                    {
+                        "end": 8,
+                        "id": "1521586763818582017",
+                        "start": 0,
+                        "username": "onnaa18"
+                    }
+                ]
+            },
+            "id": "1323851894733852672",
+            "in_reply_to_user_id": "1232769423292936194",
+            "lang": "en",
+            "public_metrics": {
+                "impression_count": 0,
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "referenced_tweets": [
+                {
+                    "id": "1323851075343056899",
+                    "type": "replied_to"
+                }
+            ],
+            "reply_settings": "everyone",
+            "text": "@onnaa18 So I basically it\u2019s gone be a blackout\ud83d\udc86\ud83c\udffe\u200d\u2640\ufe0f"
+        },
+        {
+            "author_id": "1189683273057755137",
+            "context_annotations": [
+                {
+                    "domain": {
+                        "description": "Named people in the world like Nelson Mandela",
+                        "id": "10",
+                        "name": "Person"
+                    },
+                    "entity": {
+                        "description": "US President Joe Biden",
+                        "id": "10040395078",
+                        "name": "Joe Biden"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "Politicians in the world, like Joe Biden",
+                        "id": "35",
+                        "name": "Politician"
+                    },
+                    "entity": {
+                        "description": "US President Joe Biden",
+                        "id": "10040395078",
+                        "name": "Joe Biden"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A taxonomy of user interests. ",
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy"
+                    },
+                    "entity": {
+                        "description": "US President Joe Biden",
+                        "id": "10040395078",
+                        "name": "Joe Biden"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A taxonomy of user interests. ",
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy"
+                    },
+                    "entity": {
+                        "description": "Politics",
+                        "id": "847878884917886977",
+                        "name": "Politics"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A taxonomy of user interests. ",
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy"
+                    },
+                    "entity": {
+                        "description": "Politician",
+                        "id": "1070032753834438656",
+                        "name": "Political figures"
+                    }
+                }
+            ],
+            "conversation_id": "1323851807341178882",
+            "created_at": "2020-11-04T04:57:21.000Z",
+            "edit_history_tweet_ids": [
+                "1323851807341178882"
+            ],
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 75,
+                        "normalized_text": "Joe Biden",
+                        "probability": 0.9758,
+                        "start": 67,
+                        "type": "Person"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 13,
+                        "id": "16106584",
+                        "start": 3,
+                        "username": "stillgray"
+                    }
+                ]
+            },
+            "id": "1323851807341178882",
+            "lang": "en",
+            "public_metrics": {
+                "impression_count": 0,
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 216
+            },
+            "referenced_tweets": [
+                {
+                    "id": "1323846277348552709",
+                    "type": "retweeted"
+                }
+            ],
+            "reply_settings": "everyone",
+            "text": "RT @stillgray: The average person has no idea what's going on with Joe Biden. The lack of information about him is shocking and you can tha\u2026"
+        },
+        {
+            "author_id": "898413144",
+            "context_annotations": [
+                {
+                    "domain": {
+                        "description": "Named people in the world like Nelson Mandela",
+                        "id": "10",
+                        "name": "Person"
+                    },
+                    "entity": {
+                        "description": "US President Joe Biden",
+                        "id": "10040395078",
+                        "name": "Joe Biden"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "Politicians in the world, like Joe Biden",
+                        "id": "35",
+                        "name": "Politician"
+                    },
+                    "entity": {
+                        "description": "US President Joe Biden",
+                        "id": "10040395078",
+                        "name": "Joe Biden"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A taxonomy of user interests. ",
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy"
+                    },
+                    "entity": {
+                        "description": "US President Joe Biden",
+                        "id": "10040395078",
+                        "name": "Joe Biden"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A taxonomy of user interests. ",
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy"
+                    },
+                    "entity": {
+                        "description": "Politics",
+                        "id": "847878884917886977",
+                        "name": "Politics"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A taxonomy of user interests. ",
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy"
+                    },
+                    "entity": {
+                        "description": "Politician",
+                        "id": "1070032753834438656",
+                        "name": "Political figures"
+                    }
+                }
+            ],
+            "conversation_id": "1323851706996842497",
+            "created_at": "2020-11-04T04:56:57.000Z",
+            "edit_history_tweet_ids": [
+                "1323851706996842497"
+            ],
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 75,
+                        "normalized_text": "Joe Biden",
+                        "probability": 0.9758,
+                        "start": 67,
+                        "type": "Person"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 13,
+                        "id": "16106584",
+                        "start": 3,
+                        "username": "stillgray"
+                    }
+                ]
+            },
+            "id": "1323851706996842497",
+            "lang": "en",
+            "public_metrics": {
+                "impression_count": 0,
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 216
+            },
+            "referenced_tweets": [
+                {
+                    "id": "1323846277348552709",
+                    "type": "retweeted"
+                }
+            ],
+            "reply_settings": "everyone",
+            "text": "RT @stillgray: The average person has no idea what's going on with Joe Biden. The lack of information about him is shocking and you can tha\u2026"
+        },
+        {
+            "author_id": "968201258984120320",
+            "conversation_id": "1323851697576435712",
+            "created_at": "2020-11-04T04:56:55.000Z",
+            "edit_history_tweet_ids": [
+                "1323851697576435712"
+            ],
+            "entities": {
+                "urls": [
+                    {
+                        "display_url": "pic.twitter.com/cukRzDXE6A",
+                        "end": 85,
+                        "expanded_url": "https://twitter.com/LEXASBELOVA/status/1323851697576435712/photo/1",
+                        "media_key": "3_1323851694044860416",
+                        "start": 62,
+                        "url": "https://t.co/cukRzDXE6A"
+                    }
+                ]
+            },
+            "id": "1323851697576435712",
+            "lang": "en",
+            "public_metrics": {
+                "impression_count": 0,
+                "like_count": 4,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "reply_settings": "everyone",
+            "text": "how do you lose 300 thousand ballots did you fucking blackout https://t.co/cukRzDXE6A"
+        },
+        {
+            "author_id": "4731588974",
+            "context_annotations": [
+                {
+                    "domain": {
+                        "description": "Named people in the world like Nelson Mandela",
+                        "id": "10",
+                        "name": "Person"
+                    },
+                    "entity": {
+                        "description": "US President Joe Biden",
+                        "id": "10040395078",
+                        "name": "Joe Biden"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "Politicians in the world, like Joe Biden",
+                        "id": "35",
+                        "name": "Politician"
+                    },
+                    "entity": {
+                        "description": "US President Joe Biden",
+                        "id": "10040395078",
+                        "name": "Joe Biden"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A taxonomy of user interests. ",
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy"
+                    },
+                    "entity": {
+                        "description": "US President Joe Biden",
+                        "id": "10040395078",
+                        "name": "Joe Biden"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A taxonomy of user interests. ",
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy"
+                    },
+                    "entity": {
+                        "description": "Politics",
+                        "id": "847878884917886977",
+                        "name": "Politics"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A taxonomy of user interests. ",
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy"
+                    },
+                    "entity": {
+                        "description": "Politician",
+                        "id": "1070032753834438656",
+                        "name": "Political figures"
+                    }
+                }
+            ],
+            "conversation_id": "1323851654995841024",
+            "created_at": "2020-11-04T04:56:45.000Z",
+            "edit_history_tweet_ids": [
+                "1323851654995841024"
+            ],
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 75,
+                        "normalized_text": "Joe Biden",
+                        "probability": 0.9758,
+                        "start": 67,
+                        "type": "Person"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 13,
+                        "id": "16106584",
+                        "start": 3,
+                        "username": "stillgray"
+                    }
+                ]
+            },
+            "id": "1323851654995841024",
+            "lang": "en",
+            "public_metrics": {
+                "impression_count": 0,
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 216
+            },
+            "referenced_tweets": [
+                {
+                    "id": "1323846277348552709",
+                    "type": "retweeted"
+                }
+            ],
+            "reply_settings": "everyone",
+            "text": "RT @stillgray: The average person has no idea what's going on with Joe Biden. The lack of information about him is shocking and you can tha\u2026"
+        },
+        {
+            "author_id": "3235340431",
+            "conversation_id": "1323851337885364225",
+            "created_at": "2020-11-04T04:56:30.000Z",
+            "edit_history_tweet_ids": [
+                "1323851593926602753"
+            ],
+            "id": "1323851593926602753",
+            "in_reply_to_user_id": "1066891086910484481",
+            "lang": "en",
+            "public_metrics": {
+                "impression_count": 0,
+                "like_count": 1,
+                "quote_count": 0,
+                "reply_count": 1,
+                "retweet_count": 0
+            },
+            "referenced_tweets": [
+                {
+                    "id": "1323851337885364225",
+                    "type": "replied_to"
+                }
+            ],
+            "reply_settings": "everyone",
+            "text": "@zachbarri im coming over and we can blackout together\ud83d\ude43"
+        },
+        {
+            "author_id": "1054074446397419520",
+            "context_annotations": [
+                {
+                    "domain": {
+                        "description": "Named people in the world like Nelson Mandela",
+                        "id": "10",
+                        "name": "Person"
+                    },
+                    "entity": {
+                        "description": "US President Joe Biden",
+                        "id": "10040395078",
+                        "name": "Joe Biden"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "Politicians in the world, like Joe Biden",
+                        "id": "35",
+                        "name": "Politician"
+                    },
+                    "entity": {
+                        "description": "US President Joe Biden",
+                        "id": "10040395078",
+                        "name": "Joe Biden"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A taxonomy of user interests. ",
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy"
+                    },
+                    "entity": {
+                        "description": "US President Joe Biden",
+                        "id": "10040395078",
+                        "name": "Joe Biden"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A taxonomy of user interests. ",
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy"
+                    },
+                    "entity": {
+                        "description": "Politics",
+                        "id": "847878884917886977",
+                        "name": "Politics"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A taxonomy of user interests. ",
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy"
+                    },
+                    "entity": {
+                        "description": "Politician",
+                        "id": "1070032753834438656",
+                        "name": "Political figures"
+                    }
+                }
+            ],
+            "conversation_id": "1323851500830007296",
+            "created_at": "2020-11-04T04:56:08.000Z",
+            "edit_history_tweet_ids": [
+                "1323851500830007296"
+            ],
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 75,
+                        "normalized_text": "Joe Biden",
+                        "probability": 0.9758,
+                        "start": 67,
+                        "type": "Person"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 13,
+                        "id": "16106584",
+                        "start": 3,
+                        "username": "stillgray"
+                    }
+                ]
+            },
+            "id": "1323851500830007296",
+            "lang": "en",
+            "public_metrics": {
+                "impression_count": 0,
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 216
+            },
+            "referenced_tweets": [
+                {
+                    "id": "1323846277348552709",
+                    "type": "retweeted"
+                }
+            ],
+            "reply_settings": "everyone",
+            "text": "RT @stillgray: The average person has no idea what's going on with Joe Biden. The lack of information about him is shocking and you can tha\u2026"
+        },
+        {
+            "author_id": "897113624405303302",
+            "conversation_id": "1323851460027842563",
+            "created_at": "2020-11-04T04:55:58.000Z",
+            "edit_history_tweet_ids": [
+                "1323851460027842563"
+            ],
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 28,
+                        "normalized_text": "Azerbaijan",
+                        "probability": 0.9024,
+                        "start": 19,
+                        "type": "Place"
+                    },
+                    {
+                        "end": 123,
+                        "normalized_text": "StopAzerbaijaniAggression",
+                        "probability": 0.4595,
+                        "start": 99,
+                        "type": "Place"
+                    },
+                    {
+                        "end": 138,
+                        "normalized_text": "ArtsakhStrong",
+                        "probability": 0.4248,
+                        "start": 126,
+                        "type": "Place"
+                    }
+                ],
+                "hashtags": [
+                    {
+                        "end": 124,
+                        "start": 98,
+                        "tag": "StopAzerbaijaniAggression"
+                    },
+                    {
+                        "end": 139,
+                        "start": 125,
+                        "tag": "ArtsakhStrong"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 17,
+                        "id": "2334514621",
+                        "start": 3,
+                        "username": "LexarLexar321"
+                    }
+                ]
+            },
+            "id": "1323851460027842563",
+            "lang": "en",
+            "public_metrics": {
+                "impression_count": 0,
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 8
+            },
+            "referenced_tweets": [
+                {
+                    "id": "1323844401664176128",
+                    "type": "retweeted"
+                }
+            ],
+            "reply_settings": "everyone",
+            "text": "RT @LexarLexar321: Azerbaijan has kept its population in an information blackout for 27 days now! #StopAzerbaijaniAggression #ArtsakhStrong\u2026"
+        },
+        {
+            "author_id": "316739994",
+            "context_annotations": [
+                {
+                    "domain": {
+                        "description": "Named people in the world like Nelson Mandela",
+                        "id": "10",
+                        "name": "Person"
+                    },
+                    "entity": {
+                        "description": "US President Joe Biden",
+                        "id": "10040395078",
+                        "name": "Joe Biden"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "Politicians in the world, like Joe Biden",
+                        "id": "35",
+                        "name": "Politician"
+                    },
+                    "entity": {
+                        "description": "US President Joe Biden",
+                        "id": "10040395078",
+                        "name": "Joe Biden"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A taxonomy of user interests. ",
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy"
+                    },
+                    "entity": {
+                        "description": "US President Joe Biden",
+                        "id": "10040395078",
+                        "name": "Joe Biden"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A taxonomy of user interests. ",
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy"
+                    },
+                    "entity": {
+                        "description": "Politics",
+                        "id": "847878884917886977",
+                        "name": "Politics"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A taxonomy of user interests. ",
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy"
+                    },
+                    "entity": {
+                        "description": "Politician",
+                        "id": "1070032753834438656",
+                        "name": "Political figures"
+                    }
+                }
+            ],
+            "conversation_id": "1323851451601506304",
+            "created_at": "2020-11-04T04:55:56.000Z",
+            "edit_history_tweet_ids": [
+                "1323851451601506304"
+            ],
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 75,
+                        "normalized_text": "Joe Biden",
+                        "probability": 0.9758,
+                        "start": 67,
+                        "type": "Person"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 13,
+                        "id": "16106584",
+                        "start": 3,
+                        "username": "stillgray"
+                    }
+                ]
+            },
+            "id": "1323851451601506304",
+            "lang": "en",
+            "public_metrics": {
+                "impression_count": 0,
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 216
+            },
+            "referenced_tweets": [
+                {
+                    "id": "1323846277348552709",
+                    "type": "retweeted"
+                }
+            ],
+            "reply_settings": "everyone",
+            "text": "RT @stillgray: The average person has no idea what's going on with Joe Biden. The lack of information about him is shocking and you can tha\u2026"
+        },
+        {
+            "author_id": "114160239",
+            "context_annotations": [
+                {
+                    "domain": {
+                        "description": "Named people in the world like Nelson Mandela",
+                        "id": "10",
+                        "name": "Person"
+                    },
+                    "entity": {
+                        "description": "US President Joe Biden",
+                        "id": "10040395078",
+                        "name": "Joe Biden"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "Politicians in the world, like Joe Biden",
+                        "id": "35",
+                        "name": "Politician"
+                    },
+                    "entity": {
+                        "description": "US President Joe Biden",
+                        "id": "10040395078",
+                        "name": "Joe Biden"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A taxonomy of user interests. ",
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy"
+                    },
+                    "entity": {
+                        "description": "US President Joe Biden",
+                        "id": "10040395078",
+                        "name": "Joe Biden"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A taxonomy of user interests. ",
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy"
+                    },
+                    "entity": {
+                        "description": "Politics",
+                        "id": "847878884917886977",
+                        "name": "Politics"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A taxonomy of user interests. ",
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy"
+                    },
+                    "entity": {
+                        "description": "Politician",
+                        "id": "1070032753834438656",
+                        "name": "Political figures"
+                    }
+                }
+            ],
+            "conversation_id": "1323851424342695938",
+            "created_at": "2020-11-04T04:55:50.000Z",
+            "edit_history_tweet_ids": [
+                "1323851424342695938"
+            ],
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 75,
+                        "normalized_text": "Joe Biden",
+                        "probability": 0.9758,
+                        "start": 67,
+                        "type": "Person"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 13,
+                        "id": "16106584",
+                        "start": 3,
+                        "username": "stillgray"
+                    }
+                ]
+            },
+            "id": "1323851424342695938",
+            "lang": "en",
+            "public_metrics": {
+                "impression_count": 0,
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 216
+            },
+            "referenced_tweets": [
+                {
+                    "id": "1323846277348552709",
+                    "type": "retweeted"
+                }
+            ],
+            "reply_settings": "everyone",
+            "text": "RT @stillgray: The average person has no idea what's going on with Joe Biden. The lack of information about him is shocking and you can tha\u2026"
+        },
+        {
+            "author_id": "856315544961679360",
+            "context_annotations": [
+                {
+                    "domain": {
+                        "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+                        "id": "30",
+                        "name": "Entities [Entity Service]"
+                    },
+                    "entity": {
+                        "description": "Food",
+                        "id": "825047692124442624",
+                        "name": "Food"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "Top level interests and hobbies groupings, like Food or Travel",
+                        "id": "65",
+                        "name": "Interests and Hobbies Vertical"
+                    },
+                    "entity": {
+                        "description": "Drinks",
+                        "id": "834828264786898945",
+                        "name": "Drinks"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+                        "id": "66",
+                        "name": "Interests and Hobbies Category"
+                    },
+                    "entity": {
+                        "description": "Generic Drinks",
+                        "id": "834828445238431744",
+                        "name": "Generic Drinks"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+                        "id": "67",
+                        "name": "Interests and Hobbies"
+                    },
+                    "entity": {
+                        "description": "Wine",
+                        "id": "841378993408425985",
+                        "name": "Wine"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A taxonomy of user interests. ",
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy"
+                    },
+                    "entity": {
+                        "description": "Drinks",
+                        "id": "834828264786898945",
+                        "name": "Drinks"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A taxonomy of user interests. ",
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy"
+                    },
+                    "entity": {
+                        "description": "Wine",
+                        "id": "841378993408425985",
+                        "name": "Wine"
+                    }
+                }
+            ],
+            "conversation_id": "1323806174077177856",
+            "created_at": "2020-11-04T04:55:39.000Z",
+            "edit_history_tweet_ids": [
+                "1323851377588789256"
+            ],
+            "id": "1323851377588789256",
+            "in_reply_to_user_id": "856315544961679360",
+            "lang": "en",
+            "public_metrics": {
+                "impression_count": 0,
+                "like_count": 2,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "referenced_tweets": [
+                {
+                    "id": "1323806174077177856",
+                    "type": "replied_to"
+                }
+            ],
+            "reply_settings": "everyone",
+            "text": "and by blackout drunk I mean drink 3 glasses of wine and immediately go to sleep"
+        },
+        {
+            "author_id": "1022415938770096128",
+            "context_annotations": [
+                {
+                    "domain": {
+                        "description": "Named people in the world like Nelson Mandela",
+                        "id": "10",
+                        "name": "Person"
+                    },
+                    "entity": {
+                        "description": "US President Joe Biden",
+                        "id": "10040395078",
+                        "name": "Joe Biden"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "Politicians in the world, like Joe Biden",
+                        "id": "35",
+                        "name": "Politician"
+                    },
+                    "entity": {
+                        "description": "US President Joe Biden",
+                        "id": "10040395078",
+                        "name": "Joe Biden"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A taxonomy of user interests. ",
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy"
+                    },
+                    "entity": {
+                        "description": "US President Joe Biden",
+                        "id": "10040395078",
+                        "name": "Joe Biden"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A taxonomy of user interests. ",
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy"
+                    },
+                    "entity": {
+                        "description": "Politics",
+                        "id": "847878884917886977",
+                        "name": "Politics"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A taxonomy of user interests. ",
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy"
+                    },
+                    "entity": {
+                        "description": "Politician",
+                        "id": "1070032753834438656",
+                        "name": "Political figures"
+                    }
+                }
+            ],
+            "conversation_id": "1323851312254078978",
+            "created_at": "2020-11-04T04:55:23.000Z",
+            "edit_history_tweet_ids": [
+                "1323851312254078978"
+            ],
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 75,
+                        "normalized_text": "Joe Biden",
+                        "probability": 0.9758,
+                        "start": 67,
+                        "type": "Person"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 13,
+                        "id": "16106584",
+                        "start": 3,
+                        "username": "stillgray"
+                    }
+                ]
+            },
+            "id": "1323851312254078978",
+            "lang": "en",
+            "public_metrics": {
+                "impression_count": 0,
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 216
+            },
+            "referenced_tweets": [
+                {
+                    "id": "1323846277348552709",
+                    "type": "retweeted"
+                }
+            ],
+            "reply_settings": "everyone",
+            "text": "RT @stillgray: The average person has no idea what's going on with Joe Biden. The lack of information about him is shocking and you can tha\u2026"
+        },
+        {
+            "author_id": "1074908317884010496",
+            "context_annotations": [
+                {
+                    "domain": {
+                        "description": "Named people in the world like Nelson Mandela",
+                        "id": "10",
+                        "name": "Person"
+                    },
+                    "entity": {
+                        "description": "US President Joe Biden",
+                        "id": "10040395078",
+                        "name": "Joe Biden"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "Politicians in the world, like Joe Biden",
+                        "id": "35",
+                        "name": "Politician"
+                    },
+                    "entity": {
+                        "description": "US President Joe Biden",
+                        "id": "10040395078",
+                        "name": "Joe Biden"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A taxonomy of user interests. ",
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy"
+                    },
+                    "entity": {
+                        "description": "US President Joe Biden",
+                        "id": "10040395078",
+                        "name": "Joe Biden"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A taxonomy of user interests. ",
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy"
+                    },
+                    "entity": {
+                        "description": "Politics",
+                        "id": "847878884917886977",
+                        "name": "Politics"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A taxonomy of user interests. ",
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy"
+                    },
+                    "entity": {
+                        "description": "Politician",
+                        "id": "1070032753834438656",
+                        "name": "Political figures"
+                    }
+                }
+            ],
+            "conversation_id": "1323851188769562626",
+            "created_at": "2020-11-04T04:54:54.000Z",
+            "edit_history_tweet_ids": [
+                "1323851188769562626"
+            ],
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 75,
+                        "normalized_text": "Joe Biden",
+                        "probability": 0.9758,
+                        "start": 67,
+                        "type": "Person"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 13,
+                        "id": "16106584",
+                        "start": 3,
+                        "username": "stillgray"
+                    }
+                ]
+            },
+            "id": "1323851188769562626",
+            "lang": "en",
+            "public_metrics": {
+                "impression_count": 0,
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 216
+            },
+            "referenced_tweets": [
+                {
+                    "id": "1323846277348552709",
+                    "type": "retweeted"
+                }
+            ],
+            "reply_settings": "everyone",
+            "text": "RT @stillgray: The average person has no idea what's going on with Joe Biden. The lack of information about him is shocking and you can tha\u2026"
+        },
+        {
+            "author_id": "1223469869972115463",
+            "conversation_id": "1323851003611901954",
+            "created_at": "2020-11-04T04:54:09.000Z",
+            "edit_history_tweet_ids": [
+                "1323851003611901954"
+            ],
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 63,
+                        "normalized_text": "blackout",
+                        "probability": 0.6066,
+                        "start": 56,
+                        "type": "Other"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 14,
+                        "id": "3232891752",
+                        "start": 3,
+                        "username": "tahsizzles"
+                    }
+                ]
+            },
+            "id": "1323851003611901954",
+            "lang": "en",
+            "public_metrics": {
+                "impression_count": 0,
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 20
+            },
+            "referenced_tweets": [
+                {
+                    "id": "1323720239826169856",
+                    "type": "retweeted"
+                }
+            ],
+            "reply_settings": "everyone",
+            "text": "RT @tahsizzles: if you didn\u2019t vote this year but posted blackout tuesday, your performative activism is obvious lol"
+        },
+        {
+            "author_id": "160985825",
+            "context_annotations": [
+                {
+                    "domain": {
+                        "description": "Named people in the world like Nelson Mandela",
+                        "id": "10",
+                        "name": "Person"
+                    },
+                    "entity": {
+                        "description": "US President Joe Biden",
+                        "id": "10040395078",
+                        "name": "Joe Biden"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "Politicians in the world, like Joe Biden",
+                        "id": "35",
+                        "name": "Politician"
+                    },
+                    "entity": {
+                        "description": "US President Joe Biden",
+                        "id": "10040395078",
+                        "name": "Joe Biden"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A taxonomy of user interests. ",
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy"
+                    },
+                    "entity": {
+                        "description": "US President Joe Biden",
+                        "id": "10040395078",
+                        "name": "Joe Biden"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A taxonomy of user interests. ",
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy"
+                    },
+                    "entity": {
+                        "description": "Politics",
+                        "id": "847878884917886977",
+                        "name": "Politics"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A taxonomy of user interests. ",
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy"
+                    },
+                    "entity": {
+                        "description": "Politician",
+                        "id": "1070032753834438656",
+                        "name": "Political figures"
+                    }
+                }
+            ],
+            "conversation_id": "1323850956438528005",
+            "created_at": "2020-11-04T04:53:58.000Z",
+            "edit_history_tweet_ids": [
+                "1323850956438528005"
+            ],
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 75,
+                        "normalized_text": "Joe Biden",
+                        "probability": 0.9758,
+                        "start": 67,
+                        "type": "Person"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 13,
+                        "id": "16106584",
+                        "start": 3,
+                        "username": "stillgray"
+                    }
+                ]
+            },
+            "id": "1323850956438528005",
+            "lang": "en",
+            "public_metrics": {
+                "impression_count": 0,
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 216
+            },
+            "referenced_tweets": [
+                {
+                    "id": "1323846277348552709",
+                    "type": "retweeted"
+                }
+            ],
+            "reply_settings": "everyone",
+            "text": "RT @stillgray: The average person has no idea what's going on with Joe Biden. The lack of information about him is shocking and you can tha\u2026"
+        },
+        {
+            "author_id": "189404173",
+            "context_annotations": [
+                {
+                    "domain": {
+                        "description": "Named people in the world like Nelson Mandela",
+                        "id": "10",
+                        "name": "Person"
+                    },
+                    "entity": {
+                        "description": "US President Joe Biden",
+                        "id": "10040395078",
+                        "name": "Joe Biden"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "Politicians in the world, like Joe Biden",
+                        "id": "35",
+                        "name": "Politician"
+                    },
+                    "entity": {
+                        "description": "US President Joe Biden",
+                        "id": "10040395078",
+                        "name": "Joe Biden"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A taxonomy of user interests. ",
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy"
+                    },
+                    "entity": {
+                        "description": "US President Joe Biden",
+                        "id": "10040395078",
+                        "name": "Joe Biden"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A taxonomy of user interests. ",
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy"
+                    },
+                    "entity": {
+                        "description": "Politics",
+                        "id": "847878884917886977",
+                        "name": "Politics"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A taxonomy of user interests. ",
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy"
+                    },
+                    "entity": {
+                        "description": "Politician",
+                        "id": "1070032753834438656",
+                        "name": "Political figures"
+                    }
+                }
+            ],
+            "conversation_id": "1323850944971419649",
+            "created_at": "2020-11-04T04:53:55.000Z",
+            "edit_history_tweet_ids": [
+                "1323850944971419649"
+            ],
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 75,
+                        "normalized_text": "Joe Biden",
+                        "probability": 0.9758,
+                        "start": 67,
+                        "type": "Person"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 13,
+                        "id": "16106584",
+                        "start": 3,
+                        "username": "stillgray"
+                    }
+                ]
+            },
+            "id": "1323850944971419649",
+            "lang": "en",
+            "public_metrics": {
+                "impression_count": 0,
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 216
+            },
+            "referenced_tweets": [
+                {
+                    "id": "1323846277348552709",
+                    "type": "retweeted"
+                }
+            ],
+            "reply_settings": "everyone",
+            "text": "RT @stillgray: The average person has no idea what's going on with Joe Biden. The lack of information about him is shocking and you can tha\u2026"
+        },
+        {
+            "author_id": "2895188002",
+            "conversation_id": "1323850192135835648",
+            "created_at": "2020-11-04T04:53:53.000Z",
+            "edit_history_tweet_ids": [
+                "1323850936138215424"
+            ],
+            "entities": {
+                "mentions": [
+                    {
+                        "end": 11,
+                        "id": "16551457",
+                        "start": 0,
+                        "username": "GeoGantArt"
+                    }
+                ]
+            },
+            "id": "1323850936138215424",
+            "in_reply_to_user_id": "16551457",
+            "lang": "en",
+            "public_metrics": {
+                "impression_count": 0,
+                "like_count": 1,
+                "quote_count": 0,
+                "reply_count": 1,
+                "retweet_count": 0
+            },
+            "referenced_tweets": [
+                {
+                    "id": "1323850192135835648",
+                    "type": "replied_to"
+                }
+            ],
+            "reply_settings": "everyone",
+            "text": "@geogantart To lower your tolerance and make it easy to get blackout drunk on nights like this?"
+        },
+        {
+            "author_id": "450419912",
+            "conversation_id": "1323850897311600641",
+            "created_at": "2020-11-04T04:53:44.000Z",
+            "edit_history_tweet_ids": [
+                "1323850897311600641"
+            ],
+            "entities": {
+                "hashtags": [
+                    {
+                        "end": 86,
+                        "start": 77,
+                        "tag": "Blackout"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 19,
+                        "id": "3230235736",
+                        "start": 3,
+                        "username": "FehringerMartin"
+                    },
+                    {
+                        "end": 97,
+                        "id": "46085533",
+                        "start": 88,
+                        "username": "cducsubt"
+                    },
+                    {
+                        "end": 102,
+                        "id": "7531562",
+                        "start": 98,
+                        "username": "spd"
+                    }
+                ]
+            },
+            "id": "1323850897311600641",
+            "lang": "de",
+            "public_metrics": {
+                "impression_count": 0,
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 4
+            },
+            "referenced_tweets": [
+                {
+                    "id": "1323683108907061248",
+                    "type": "retweeted"
+                }
+            ],
+            "reply_settings": "everyone",
+            "text": "RT @FehringerMartin: Ohne fast 5% des Strombedarfes aus Kernkraft h\u00e4tten wir #Blackout; @cducsubt @spd sollten mal tief Nachdenken \u00fcber die\u2026"
+        },
+        {
+            "author_id": "1076306385099476994",
+            "conversation_id": "1323850737902854144",
+            "created_at": "2020-11-04T04:53:06.000Z",
+            "edit_history_tweet_ids": [
+                "1323850737902854144"
+            ],
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 46,
+                        "normalized_text": "TrumpWinsPennsylvania",
+                        "probability": 0.6564,
+                        "start": 26,
+                        "type": "Person"
+                    }
+                ],
+                "hashtags": [
+                    {
+                        "end": 6,
+                        "start": 0,
+                        "tag": "Media"
+                    },
+                    {
+                        "end": 47,
+                        "start": 25,
+                        "tag": "TrumpWinsPennsylvania"
+                    },
+                    {
+                        "end": 57,
+                        "start": 53,
+                        "tag": "msm"
+                    },
+                    {
+                        "end": 73,
+                        "start": 64,
+                        "tag": "blackout"
+                    },
+                    {
+                        "end": 135,
+                        "start": 110,
+                        "tag": "HahaDonWinsAnywayBitches"
+                    }
+                ]
+            },
+            "id": "1323850737902854144",
+            "lang": "en",
+            "public_metrics": {
+                "impression_count": 0,
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "reply_settings": "everyone",
+            "text": "#Media refuses to report #TrumpWinsPennsylvania with #msm total #blackout &amp; all-out bigtech censorship. \n\n#HahaDonWinsAnywayBitches"
+        },
+        {
+            "author_id": "33680589",
+            "context_annotations": [
+                {
+                    "domain": {
+                        "description": "Real world events. ",
+                        "id": "29",
+                        "name": "Events [Entity Service]"
+                    },
+                    "entity": {
+                        "description": "2020 US Presidential Election",
+                        "id": "1029453725360775168",
+                        "name": "2020 US Presidential Election"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A taxonomy of user interests. ",
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy"
+                    },
+                    "entity": {
+                        "description": "2020 US Presidential Election",
+                        "id": "1029453725360775168",
+                        "name": "2020 US Presidential Election"
+                    }
+                }
+            ],
+            "conversation_id": "1323850698577137665",
+            "created_at": "2020-11-04T04:52:57.000Z",
+            "edit_history_tweet_ids": [
+                "1323850698577137665"
+            ],
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 138,
+                        "normalized_text": "severa",
+                        "probability": 0.4164,
+                        "start": 133,
+                        "type": "Person"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 18,
+                        "id": "817743559457730560",
+                        "start": 3,
+                        "username": "indivisibleHOU"
+                    }
+                ]
+            },
+            "id": "1323850698577137665",
+            "lang": "en",
+            "public_metrics": {
+                "impression_count": 0,
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 30
+            },
+            "referenced_tweets": [
+                {
+                    "id": "1323843286642139137",
+                    "type": "retweeted"
+                }
+            ],
+            "reply_settings": "everyone",
+            "text": "RT @indivisibleHOU: There is a reasonably good chance of a blue shift from mail in ballots, and that we won't know final results for severa\u2026"
+        },
+        {
+            "author_id": "2244716664",
+            "conversation_id": "1323844066296041472",
+            "created_at": "2020-11-04T04:52:53.000Z",
+            "edit_history_tweet_ids": [
+                "1323850681430650882"
+            ],
+            "entities": {
+                "mentions": [
+                    {
+                        "end": 9,
+                        "id": "379871937",
+                        "start": 0,
+                        "username": "cbcrosby"
+                    }
+                ]
+            },
+            "id": "1323850681430650882",
+            "in_reply_to_user_id": "379871937",
+            "lang": "en",
+            "public_metrics": {
+                "impression_count": 0,
+                "like_count": 1,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "referenced_tweets": [
+                {
+                    "id": "1323848946452586496",
+                    "type": "replied_to"
+                }
+            ],
+            "reply_settings": "everyone",
+            "text": "@cbcrosby eat, pray, blackout &lt;3"
+        },
+        {
+            "author_id": "1010978334744797184",
+            "conversation_id": "1323850635339390983",
+            "created_at": "2020-11-04T04:52:42.000Z",
+            "edit_history_tweet_ids": [
+                "1323850635339390983"
+            ],
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 63,
+                        "normalized_text": "blackout",
+                        "probability": 0.6066,
+                        "start": 56,
+                        "type": "Other"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 14,
+                        "id": "3232891752",
+                        "start": 3,
+                        "username": "tahsizzles"
+                    }
+                ]
+            },
+            "id": "1323850635339390983",
+            "lang": "en",
+            "public_metrics": {
+                "impression_count": 0,
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 20
+            },
+            "referenced_tweets": [
+                {
+                    "id": "1323720239826169856",
+                    "type": "retweeted"
+                }
+            ],
+            "reply_settings": "everyone",
+            "text": "RT @tahsizzles: if you didn\u2019t vote this year but posted blackout tuesday, your performative activism is obvious lol"
+        },
+        {
+            "author_id": "107556345",
+            "conversation_id": "1323850625512312832",
+            "created_at": "2020-11-04T04:52:39.000Z",
+            "edit_history_tweet_ids": [
+                "1323850625512312832"
+            ],
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 29,
+                        "normalized_text": "Klonopin",
+                        "probability": 0.5107,
+                        "start": 22,
+                        "type": "Other"
+                    }
+                ]
+            },
+            "id": "1323850625512312832",
+            "lang": "en",
+            "public_metrics": {
+                "impression_count": 0,
+                "like_count": 5,
+                "quote_count": 1,
+                "reply_count": 1,
+                "retweet_count": 0
+            },
+            "reply_settings": "everyone",
+            "text": "When I return from my Klonopin blackout, we better have some answers"
+        },
+        {
+            "author_id": "19470319",
+            "context_annotations": [
+                {
+                    "domain": {
+                        "description": "Named people in the world like Nelson Mandela",
+                        "id": "10",
+                        "name": "Person"
+                    },
+                    "entity": {
+                        "description": "US President Joe Biden",
+                        "id": "10040395078",
+                        "name": "Joe Biden"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "Politicians in the world, like Joe Biden",
+                        "id": "35",
+                        "name": "Politician"
+                    },
+                    "entity": {
+                        "description": "US President Joe Biden",
+                        "id": "10040395078",
+                        "name": "Joe Biden"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A taxonomy of user interests. ",
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy"
+                    },
+                    "entity": {
+                        "description": "US President Joe Biden",
+                        "id": "10040395078",
+                        "name": "Joe Biden"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A taxonomy of user interests. ",
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy"
+                    },
+                    "entity": {
+                        "description": "Politics",
+                        "id": "847878884917886977",
+                        "name": "Politics"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A taxonomy of user interests. ",
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy"
+                    },
+                    "entity": {
+                        "description": "Politician",
+                        "id": "1070032753834438656",
+                        "name": "Political figures"
+                    }
+                }
+            ],
+            "conversation_id": "1323850591764942848",
+            "created_at": "2020-11-04T04:52:31.000Z",
+            "edit_history_tweet_ids": [
+                "1323850591764942848"
+            ],
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 75,
+                        "normalized_text": "Joe Biden",
+                        "probability": 0.9758,
+                        "start": 67,
+                        "type": "Person"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 13,
+                        "id": "16106584",
+                        "start": 3,
+                        "username": "stillgray"
+                    }
+                ]
+            },
+            "id": "1323850591764942848",
+            "lang": "en",
+            "public_metrics": {
+                "impression_count": 0,
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 216
+            },
+            "referenced_tweets": [
+                {
+                    "id": "1323846277348552709",
+                    "type": "retweeted"
+                }
+            ],
+            "reply_settings": "everyone",
+            "text": "RT @stillgray: The average person has no idea what's going on with Joe Biden. The lack of information about him is shocking and you can tha\u2026"
+        },
+        {
+            "author_id": "331196194",
+            "context_annotations": [
+                {
+                    "domain": {
+                        "description": "Named people in the world like Nelson Mandela",
+                        "id": "10",
+                        "name": "Person"
+                    },
+                    "entity": {
+                        "description": "US President Joe Biden",
+                        "id": "10040395078",
+                        "name": "Joe Biden"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "Politicians in the world, like Joe Biden",
+                        "id": "35",
+                        "name": "Politician"
+                    },
+                    "entity": {
+                        "description": "US President Joe Biden",
+                        "id": "10040395078",
+                        "name": "Joe Biden"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A taxonomy of user interests. ",
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy"
+                    },
+                    "entity": {
+                        "description": "US President Joe Biden",
+                        "id": "10040395078",
+                        "name": "Joe Biden"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A taxonomy of user interests. ",
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy"
+                    },
+                    "entity": {
+                        "description": "Politics",
+                        "id": "847878884917886977",
+                        "name": "Politics"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A taxonomy of user interests. ",
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy"
+                    },
+                    "entity": {
+                        "description": "Politician",
+                        "id": "1070032753834438656",
+                        "name": "Political figures"
+                    }
+                }
+            ],
+            "conversation_id": "1323850519450914819",
+            "created_at": "2020-11-04T04:52:14.000Z",
+            "edit_history_tweet_ids": [
+                "1323850519450914819"
+            ],
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 75,
+                        "normalized_text": "Joe Biden",
+                        "probability": 0.9758,
+                        "start": 67,
+                        "type": "Person"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 13,
+                        "id": "16106584",
+                        "start": 3,
+                        "username": "stillgray"
+                    }
+                ]
+            },
+            "id": "1323850519450914819",
+            "lang": "en",
+            "public_metrics": {
+                "impression_count": 0,
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 216
+            },
+            "referenced_tweets": [
+                {
+                    "id": "1323846277348552709",
+                    "type": "retweeted"
+                }
+            ],
+            "reply_settings": "everyone",
+            "text": "RT @stillgray: The average person has no idea what's going on with Joe Biden. The lack of information about him is shocking and you can tha\u2026"
+        },
+        {
+            "author_id": "849865380013023233",
+            "conversation_id": "1323848466423054337",
+            "created_at": "2020-11-04T04:51:52.000Z",
+            "edit_history_tweet_ids": [
+                "1323850428996591617"
+            ],
+            "entities": {
+                "urls": [
+                    {
+                        "display_url": "pic.twitter.com/E5R0RXw1Xm",
+                        "end": 173,
+                        "expanded_url": "https://twitter.com/vontae_nass/status/1323850428996591617/video/1",
+                        "media_key": "7_1323850393084899328",
+                        "start": 150,
+                        "url": "https://t.co/E5R0RXw1Xm"
+                    }
+                ]
+            },
+            "id": "1323850428996591617",
+            "in_reply_to_user_id": "849865380013023233",
+            "lang": "en",
+            "public_metrics": {
+                "impression_count": 0,
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 1,
+                "retweet_count": 0
+            },
+            "referenced_tweets": [
+                {
+                    "id": "1323848466423054337",
+                    "type": "replied_to"
+                }
+            ],
+            "reply_settings": "everyone",
+            "text": "What can I say ..well for starters I got another 5 decades left in me taking note of my talent to a blackout for long periods of my life I\u2019ll be fine https://t.co/E5R0RXw1Xm"
+        },
+        {
+            "author_id": "226772224",
+            "context_annotations": [
+                {
+                    "domain": {
+                        "description": "Named people in the world like Nelson Mandela",
+                        "id": "10",
+                        "name": "Person"
+                    },
+                    "entity": {
+                        "description": "US President Joe Biden",
+                        "id": "10040395078",
+                        "name": "Joe Biden"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "Politicians in the world, like Joe Biden",
+                        "id": "35",
+                        "name": "Politician"
+                    },
+                    "entity": {
+                        "description": "US President Joe Biden",
+                        "id": "10040395078",
+                        "name": "Joe Biden"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A taxonomy of user interests. ",
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy"
+                    },
+                    "entity": {
+                        "description": "US President Joe Biden",
+                        "id": "10040395078",
+                        "name": "Joe Biden"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A taxonomy of user interests. ",
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy"
+                    },
+                    "entity": {
+                        "description": "Politics",
+                        "id": "847878884917886977",
+                        "name": "Politics"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A taxonomy of user interests. ",
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy"
+                    },
+                    "entity": {
+                        "description": "Politician",
+                        "id": "1070032753834438656",
+                        "name": "Political figures"
+                    }
+                }
+            ],
+            "conversation_id": "1323850428509954049",
+            "created_at": "2020-11-04T04:51:52.000Z",
+            "edit_history_tweet_ids": [
+                "1323850428509954049"
+            ],
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 75,
+                        "normalized_text": "Joe Biden",
+                        "probability": 0.9758,
+                        "start": 67,
+                        "type": "Person"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 13,
+                        "id": "16106584",
+                        "start": 3,
+                        "username": "stillgray"
+                    }
+                ]
+            },
+            "id": "1323850428509954049",
+            "lang": "en",
+            "public_metrics": {
+                "impression_count": 0,
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 216
+            },
+            "referenced_tweets": [
+                {
+                    "id": "1323846277348552709",
+                    "type": "retweeted"
+                }
+            ],
+            "reply_settings": "everyone",
+            "text": "RT @stillgray: The average person has no idea what's going on with Joe Biden. The lack of information about him is shocking and you can tha\u2026"
+        },
+        {
+            "author_id": "732833339657342978",
+            "context_annotations": [
+                {
+                    "domain": {
+                        "description": "Named people in the world like Nelson Mandela",
+                        "id": "10",
+                        "name": "Person"
+                    },
+                    "entity": {
+                        "description": "US President Joe Biden",
+                        "id": "10040395078",
+                        "name": "Joe Biden"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "Politicians in the world, like Joe Biden",
+                        "id": "35",
+                        "name": "Politician"
+                    },
+                    "entity": {
+                        "description": "US President Joe Biden",
+                        "id": "10040395078",
+                        "name": "Joe Biden"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A taxonomy of user interests. ",
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy"
+                    },
+                    "entity": {
+                        "description": "US President Joe Biden",
+                        "id": "10040395078",
+                        "name": "Joe Biden"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A taxonomy of user interests. ",
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy"
+                    },
+                    "entity": {
+                        "description": "Politics",
+                        "id": "847878884917886977",
+                        "name": "Politics"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A taxonomy of user interests. ",
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy"
+                    },
+                    "entity": {
+                        "description": "Politician",
+                        "id": "1070032753834438656",
+                        "name": "Political figures"
+                    }
+                }
+            ],
+            "conversation_id": "1323850388060004353",
+            "created_at": "2020-11-04T04:51:43.000Z",
+            "edit_history_tweet_ids": [
+                "1323850388060004353"
+            ],
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 75,
+                        "normalized_text": "Joe Biden",
+                        "probability": 0.9758,
+                        "start": 67,
+                        "type": "Person"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 13,
+                        "id": "16106584",
+                        "start": 3,
+                        "username": "stillgray"
+                    }
+                ]
+            },
+            "id": "1323850388060004353",
+            "lang": "en",
+            "public_metrics": {
+                "impression_count": 0,
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 216
+            },
+            "referenced_tweets": [
+                {
+                    "id": "1323846277348552709",
+                    "type": "retweeted"
+                }
+            ],
+            "reply_settings": "everyone",
+            "text": "RT @stillgray: The average person has no idea what's going on with Joe Biden. The lack of information about him is shocking and you can tha\u2026"
+        },
+        {
+            "author_id": "1135522503655186432",
+            "conversation_id": "1323850380585824257",
+            "created_at": "2020-11-04T04:51:41.000Z",
+            "edit_history_tweet_ids": [
+                "1323850380585824257"
+            ],
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 7,
+                        "normalized_text": "Blackout",
+                        "probability": 0.8588,
+                        "start": 0,
+                        "type": "Other"
+                    }
+                ]
+            },
+            "id": "1323850380585824257",
+            "lang": "en",
+            "public_metrics": {
+                "impression_count": 0,
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "reply_settings": "everyone",
+            "text": "Blackout"
+        },
+        {
+            "author_id": "267986612",
+            "context_annotations": [
+                {
+                    "domain": {
+                        "description": "Named people in the world like Nelson Mandela",
+                        "id": "10",
+                        "name": "Person"
+                    },
+                    "entity": {
+                        "description": "Candace Owens",
+                        "id": "988359847568490496",
+                        "name": "Candace Owens"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A journalist like 'Anderson Cooper'",
+                        "id": "94",
+                        "name": "Journalist"
+                    },
+                    "entity": {
+                        "description": "Candace Owens",
+                        "id": "988359847568490496",
+                        "name": "Candace Owens"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A taxonomy of user interests. ",
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy"
+                    },
+                    "entity": {
+                        "description": "Candace Owens",
+                        "id": "988359847568490496",
+                        "name": "Candace Owens"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A taxonomy of user interests. ",
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy"
+                    },
+                    "entity": {
+                        "description": "News",
+                        "id": "1046545033657081857",
+                        "name": "News"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A taxonomy of user interests. ",
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy"
+                    },
+                    "entity": {
+                        "description": "Journalism",
+                        "id": "1074755369530880001",
+                        "name": "Journalists"
+                    }
+                }
+            ],
+            "conversation_id": "1323850360528711683",
+            "created_at": "2020-11-04T04:51:36.000Z",
+            "edit_history_tweet_ids": [
+                "1323850360528711683"
+            ],
+            "entities": {
+                "mentions": [
+                    {
+                        "end": 16,
+                        "id": "878247600096509952",
+                        "start": 3,
+                        "username": "RealCandaceO"
+                    }
+                ]
+            },
+            "id": "1323850360528711683",
+            "lang": "en",
+            "public_metrics": {
+                "impression_count": 0,
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 11818
+            },
+            "referenced_tweets": [
+                {
+                    "id": "1301542478600904704",
+                    "type": "retweeted"
+                }
+            ],
+            "reply_settings": "everyone",
+            "text": "RT @RealCandaceO: You guys!! T minus 12 days until my first book FINALLY hits stands. \n\nHere\u2019s a little teaser regarding my favorite chapte\u2026"
+        },
+        {
+            "author_id": "752464568",
+            "conversation_id": "1323850228932337664",
+            "created_at": "2020-11-04T04:51:05.000Z",
+            "edit_history_tweet_ids": [
+                "1323850228932337664"
+            ],
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 63,
+                        "normalized_text": "blackout",
+                        "probability": 0.6066,
+                        "start": 56,
+                        "type": "Other"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 14,
+                        "id": "3232891752",
+                        "start": 3,
+                        "username": "tahsizzles"
+                    }
+                ]
+            },
+            "id": "1323850228932337664",
+            "lang": "en",
+            "public_metrics": {
+                "impression_count": 0,
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 20
+            },
+            "referenced_tweets": [
+                {
+                    "id": "1323720239826169856",
+                    "type": "retweeted"
+                }
+            ],
+            "reply_settings": "everyone",
+            "text": "RT @tahsizzles: if you didn\u2019t vote this year but posted blackout tuesday, your performative activism is obvious lol"
+        },
+        {
+            "author_id": "998941009965998081",
+            "context_annotations": [
+                {
+                    "domain": {
+                        "description": "Named people in the world like Nelson Mandela",
+                        "id": "10",
+                        "name": "Person"
+                    },
+                    "entity": {
+                        "description": "US President Joe Biden",
+                        "id": "10040395078",
+                        "name": "Joe Biden"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "Politicians in the world, like Joe Biden",
+                        "id": "35",
+                        "name": "Politician"
+                    },
+                    "entity": {
+                        "description": "US President Joe Biden",
+                        "id": "10040395078",
+                        "name": "Joe Biden"
+                    }
+                }
+            ],
+            "conversation_id": "1323850215254884352",
+            "created_at": "2020-11-04T04:51:01.000Z",
+            "edit_history_tweet_ids": [
+                "1323850215254884352"
+            ],
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 75,
+                        "normalized_text": "Joe Biden",
+                        "probability": 0.9758,
+                        "start": 67,
+                        "type": "Person"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 13,
+                        "id": "16106584",
+                        "start": 3,
+                        "username": "stillgray"
+                    }
+                ]
+            },
+            "id": "1323850215254884352",
+            "lang": "en",
+            "public_metrics": {
+                "impression_count": 0,
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 216
+            },
+            "referenced_tweets": [
+                {
+                    "id": "1323846277348552709",
+                    "type": "retweeted"
+                }
+            ],
+            "reply_settings": "everyone",
+            "text": "RT @stillgray: The average person has no idea what's going on with Joe Biden. The lack of information about him is shocking and you can tha\u2026"
+        },
+        {
+            "author_id": "859760446630440961",
+            "conversation_id": "1323850182182739969",
+            "created_at": "2020-11-04T04:50:54.000Z",
+            "edit_history_tweet_ids": [
+                "1323850182182739969"
+            ],
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 78,
+                        "normalized_text": "Ethiopia",
+                        "probability": 0.943,
+                        "start": 71,
+                        "type": "Place"
+                    }
+                ],
+                "hashtags": [
+                    {
+                        "end": 79,
+                        "start": 70,
+                        "tag": "Ethiopia"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 13,
+                        "id": "815297463695327234",
+                        "start": 3,
+                        "username": "netblocks"
+                    }
+                ]
+            },
+            "id": "1323850182182739969",
+            "lang": "en",
+            "public_metrics": {
+                "impression_count": 0,
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 177
+            },
+            "referenced_tweets": [
+                {
+                    "id": "1323799930947964928",
+                    "type": "retweeted"
+                }
+            ],
+            "reply_settings": "everyone",
+            "text": "RT @netblocks: Confirmed: Subnational internet blackout registered in #Ethiopia from 1 a.m. local time corroborating reports of network and\u2026"
+        },
+        {
+            "author_id": "1080479720",
+            "context_annotations": [
+                {
+                    "domain": {
+                        "description": "Named people in the world like Nelson Mandela",
+                        "id": "10",
+                        "name": "Person"
+                    },
+                    "entity": {
+                        "description": "US President Joe Biden",
+                        "id": "10040395078",
+                        "name": "Joe Biden"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "Politicians in the world, like Joe Biden",
+                        "id": "35",
+                        "name": "Politician"
+                    },
+                    "entity": {
+                        "description": "US President Joe Biden",
+                        "id": "10040395078",
+                        "name": "Joe Biden"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A taxonomy of user interests. ",
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy"
+                    },
+                    "entity": {
+                        "description": "US President Joe Biden",
+                        "id": "10040395078",
+                        "name": "Joe Biden"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A taxonomy of user interests. ",
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy"
+                    },
+                    "entity": {
+                        "description": "Politics",
+                        "id": "847878884917886977",
+                        "name": "Politics"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A taxonomy of user interests. ",
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy"
+                    },
+                    "entity": {
+                        "description": "Politician",
+                        "id": "1070032753834438656",
+                        "name": "Political figures"
+                    }
+                }
+            ],
+            "conversation_id": "1323850101652008960",
+            "created_at": "2020-11-04T04:50:34.000Z",
+            "edit_history_tweet_ids": [
+                "1323850101652008960"
+            ],
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 75,
+                        "normalized_text": "Joe Biden",
+                        "probability": 0.9758,
+                        "start": 67,
+                        "type": "Person"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 13,
+                        "id": "16106584",
+                        "start": 3,
+                        "username": "stillgray"
+                    }
+                ]
+            },
+            "id": "1323850101652008960",
+            "lang": "en",
+            "public_metrics": {
+                "impression_count": 0,
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 216
+            },
+            "referenced_tweets": [
+                {
+                    "id": "1323846277348552709",
+                    "type": "retweeted"
+                }
+            ],
+            "reply_settings": "everyone",
+            "text": "RT @stillgray: The average person has no idea what's going on with Joe Biden. The lack of information about him is shocking and you can tha\u2026"
+        },
+        {
+            "author_id": "1967802792",
+            "conversation_id": "1323850092567236608",
+            "created_at": "2020-11-04T04:50:32.000Z",
+            "edit_history_tweet_ids": [
+                "1323850092567236608"
+            ],
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 40,
+                        "normalized_text": "FaceTime",
+                        "probability": 0.9534,
+                        "start": 33,
+                        "type": "Other"
+                    }
+                ]
+            },
+            "id": "1323850092567236608",
+            "lang": "en",
+            "public_metrics": {
+                "impression_count": 0,
+                "like_count": 3,
+                "quote_count": 1,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "reply_settings": "everyone",
+            "text": "Which one of my friends wants to FaceTime me till we get blackout drunk ?"
+        },
+        {
+            "author_id": "4356097936",
+            "context_annotations": [
+                {
+                    "domain": {
+                        "description": "Named people in the world like Nelson Mandela",
+                        "id": "10",
+                        "name": "Person"
+                    },
+                    "entity": {
+                        "description": "US President Joe Biden",
+                        "id": "10040395078",
+                        "name": "Joe Biden"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "Politicians in the world, like Joe Biden",
+                        "id": "35",
+                        "name": "Politician"
+                    },
+                    "entity": {
+                        "description": "US President Joe Biden",
+                        "id": "10040395078",
+                        "name": "Joe Biden"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A taxonomy of user interests. ",
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy"
+                    },
+                    "entity": {
+                        "description": "US President Joe Biden",
+                        "id": "10040395078",
+                        "name": "Joe Biden"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A taxonomy of user interests. ",
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy"
+                    },
+                    "entity": {
+                        "description": "Politics",
+                        "id": "847878884917886977",
+                        "name": "Politics"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A taxonomy of user interests. ",
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy"
+                    },
+                    "entity": {
+                        "description": "Politician",
+                        "id": "1070032753834438656",
+                        "name": "Political figures"
+                    }
+                }
+            ],
+            "conversation_id": "1323850027295453187",
+            "created_at": "2020-11-04T04:50:17.000Z",
+            "edit_history_tweet_ids": [
+                "1323850027295453187"
+            ],
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 75,
+                        "normalized_text": "Joe Biden",
+                        "probability": 0.9758,
+                        "start": 67,
+                        "type": "Person"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 13,
+                        "id": "16106584",
+                        "start": 3,
+                        "username": "stillgray"
+                    }
+                ]
+            },
+            "id": "1323850027295453187",
+            "lang": "en",
+            "public_metrics": {
+                "impression_count": 0,
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 216
+            },
+            "referenced_tweets": [
+                {
+                    "id": "1323846277348552709",
+                    "type": "retweeted"
+                }
+            ],
+            "reply_settings": "everyone",
+            "text": "RT @stillgray: The average person has no idea what's going on with Joe Biden. The lack of information about him is shocking and you can tha\u2026"
+        },
+        {
+            "author_id": "510367275",
+            "context_annotations": [
+                {
+                    "domain": {
+                        "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+                        "id": "30",
+                        "name": "Entities [Entity Service]"
+                    },
+                    "entity": {
+                        "id": "781974596752842752",
+                        "name": "Services"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "Brands and Companies",
+                        "id": "47",
+                        "name": "Brand"
+                    },
+                    "entity": {
+                        "id": "10029382357",
+                        "name": "YouTube"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A taxonomy of user interests. ",
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy"
+                    },
+                    "entity": {
+                        "id": "10029382357",
+                        "name": "YouTube"
+                    }
+                }
+            ],
+            "conversation_id": "1323850026255306752",
+            "created_at": "2020-11-04T04:50:16.000Z",
+            "edit_history_tweet_ids": [
+                "1323850026255306752"
+            ],
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 3,
+                        "normalized_text": "Noto",
+                        "probability": 0.4798,
+                        "start": 0,
+                        "type": "Other"
+                    },
+                    {
+                        "end": 13,
+                        "normalized_text": "Payback",
+                        "probability": 0.4673,
+                        "start": 7,
+                        "type": "Other"
+                    },
+                    {
+                        "end": 92,
+                        "normalized_text": "Blackout",
+                        "probability": 0.7955,
+                        "start": 85,
+                        "type": "Other"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 51,
+                        "id": "10228272",
+                        "start": 43,
+                        "username": "YouTube"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "youtu.be/NyjJ52hMvTg",
+                        "end": 38,
+                        "expanded_url": "https://youtu.be/NyjJ52hMvTg",
+                        "start": 15,
+                        "status": 200,
+                        "unwound_url": "https://www.youtube.com/watch?v=NyjJ52hMvTg&feature=youtu.be",
+                        "url": "https://t.co/HoXE7J7MPO"
+                    }
+                ]
+            },
+            "id": "1323850026255306752",
+            "lang": "en",
+            "public_metrics": {
+                "impression_count": 0,
+                "like_count": 2,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "reply_settings": "everyone",
+            "text": "Noto's Payback https://t.co/HoXE7J7MPO via @YouTube \n\nFunniest thing you ever see on Blackout !!! \ud83d\ude02\ud83d\ude02\ud83d\ude02"
+        },
+        {
+            "author_id": "1313735295813120002",
+            "conversation_id": "1323849980189179905",
+            "created_at": "2020-11-04T04:50:05.000Z",
+            "edit_history_tweet_ids": [
+                "1323849980189179905"
+            ],
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 28,
+                        "normalized_text": "Azerbaijan",
+                        "probability": 0.9024,
+                        "start": 19,
+                        "type": "Place"
+                    },
+                    {
+                        "end": 123,
+                        "normalized_text": "StopAzerbaijaniAggression",
+                        "probability": 0.4595,
+                        "start": 99,
+                        "type": "Place"
+                    },
+                    {
+                        "end": 138,
+                        "normalized_text": "ArtsakhStrong",
+                        "probability": 0.4248,
+                        "start": 126,
+                        "type": "Place"
+                    }
+                ],
+                "hashtags": [
+                    {
+                        "end": 124,
+                        "start": 98,
+                        "tag": "StopAzerbaijaniAggression"
+                    },
+                    {
+                        "end": 139,
+                        "start": 125,
+                        "tag": "ArtsakhStrong"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 17,
+                        "id": "2334514621",
+                        "start": 3,
+                        "username": "LexarLexar321"
+                    }
+                ]
+            },
+            "id": "1323849980189179905",
+            "lang": "en",
+            "public_metrics": {
+                "impression_count": 0,
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 8
+            },
+            "referenced_tweets": [
+                {
+                    "id": "1323844401664176128",
+                    "type": "retweeted"
+                }
+            ],
+            "reply_settings": "everyone",
+            "text": "RT @LexarLexar321: Azerbaijan has kept its population in an information blackout for 27 days now! #StopAzerbaijaniAggression #ArtsakhStrong\u2026"
+        },
+        {
+            "author_id": "1267262743008198656",
+            "context_annotations": [
+                {
+                    "domain": {
+                        "description": "Named people in the world like Nelson Mandela",
+                        "id": "10",
+                        "name": "Person"
+                    },
+                    "entity": {
+                        "description": "US President Joe Biden",
+                        "id": "10040395078",
+                        "name": "Joe Biden"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "Politicians in the world, like Joe Biden",
+                        "id": "35",
+                        "name": "Politician"
+                    },
+                    "entity": {
+                        "description": "US President Joe Biden",
+                        "id": "10040395078",
+                        "name": "Joe Biden"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A taxonomy of user interests. ",
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy"
+                    },
+                    "entity": {
+                        "description": "US President Joe Biden",
+                        "id": "10040395078",
+                        "name": "Joe Biden"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A taxonomy of user interests. ",
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy"
+                    },
+                    "entity": {
+                        "description": "Politics",
+                        "id": "847878884917886977",
+                        "name": "Politics"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A taxonomy of user interests. ",
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy"
+                    },
+                    "entity": {
+                        "description": "Politician",
+                        "id": "1070032753834438656",
+                        "name": "Political figures"
+                    }
+                }
+            ],
+            "conversation_id": "1323849971481878528",
+            "created_at": "2020-11-04T04:50:03.000Z",
+            "edit_history_tweet_ids": [
+                "1323849971481878528"
+            ],
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 75,
+                        "normalized_text": "Joe Biden",
+                        "probability": 0.9758,
+                        "start": 67,
+                        "type": "Person"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 13,
+                        "id": "16106584",
+                        "start": 3,
+                        "username": "stillgray"
+                    }
+                ]
+            },
+            "id": "1323849971481878528",
+            "lang": "en",
+            "public_metrics": {
+                "impression_count": 0,
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 216
+            },
+            "referenced_tweets": [
+                {
+                    "id": "1323846277348552709",
+                    "type": "retweeted"
+                }
+            ],
+            "reply_settings": "everyone",
+            "text": "RT @stillgray: The average person has no idea what's going on with Joe Biden. The lack of information about him is shocking and you can tha\u2026"
+        },
+        {
+            "author_id": "818491548484542464",
+            "context_annotations": [
+                {
+                    "domain": {
+                        "description": "Real world events. ",
+                        "id": "29",
+                        "name": "Events [Entity Service]"
+                    },
+                    "entity": {
+                        "description": "2020 US Presidential Election",
+                        "id": "1029453725360775168",
+                        "name": "2020 US Presidential Election"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A taxonomy of user interests. ",
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy"
+                    },
+                    "entity": {
+                        "description": "2020 US Presidential Election",
+                        "id": "1029453725360775168",
+                        "name": "2020 US Presidential Election"
+                    }
+                }
+            ],
+            "conversation_id": "1323849958512971776",
+            "created_at": "2020-11-04T04:50:00.000Z",
+            "edit_history_tweet_ids": [
+                "1323849958512971776"
+            ],
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 138,
+                        "normalized_text": "severa",
+                        "probability": 0.4164,
+                        "start": 133,
+                        "type": "Person"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 18,
+                        "id": "817743559457730560",
+                        "start": 3,
+                        "username": "indivisibleHOU"
+                    }
+                ]
+            },
+            "id": "1323849958512971776",
+            "lang": "en",
+            "public_metrics": {
+                "impression_count": 0,
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 30
+            },
+            "referenced_tweets": [
+                {
+                    "id": "1323843286642139137",
+                    "type": "retweeted"
+                }
+            ],
+            "reply_settings": "everyone",
+            "text": "RT @indivisibleHOU: There is a reasonably good chance of a blue shift from mail in ballots, and that we won't know final results for severa\u2026"
+        },
+        {
+            "author_id": "44346105",
+            "context_annotations": [
+                {
+                    "domain": {
+                        "description": "Named people in the world like Nelson Mandela",
+                        "id": "10",
+                        "name": "Person"
+                    },
+                    "entity": {
+                        "description": "US President Joe Biden",
+                        "id": "10040395078",
+                        "name": "Joe Biden"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "Politicians in the world, like Joe Biden",
+                        "id": "35",
+                        "name": "Politician"
+                    },
+                    "entity": {
+                        "description": "US President Joe Biden",
+                        "id": "10040395078",
+                        "name": "Joe Biden"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A taxonomy of user interests. ",
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy"
+                    },
+                    "entity": {
+                        "description": "US President Joe Biden",
+                        "id": "10040395078",
+                        "name": "Joe Biden"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A taxonomy of user interests. ",
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy"
+                    },
+                    "entity": {
+                        "description": "Politics",
+                        "id": "847878884917886977",
+                        "name": "Politics"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A taxonomy of user interests. ",
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy"
+                    },
+                    "entity": {
+                        "description": "Politician",
+                        "id": "1070032753834438656",
+                        "name": "Political figures"
+                    }
+                }
+            ],
+            "conversation_id": "1323849932432793600",
+            "created_at": "2020-11-04T04:49:54.000Z",
+            "edit_history_tweet_ids": [
+                "1323849932432793600"
+            ],
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 75,
+                        "normalized_text": "Joe Biden",
+                        "probability": 0.9758,
+                        "start": 67,
+                        "type": "Person"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 13,
+                        "id": "16106584",
+                        "start": 3,
+                        "username": "stillgray"
+                    }
+                ]
+            },
+            "id": "1323849932432793600",
+            "lang": "en",
+            "public_metrics": {
+                "impression_count": 0,
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 216
+            },
+            "referenced_tweets": [
+                {
+                    "id": "1323846277348552709",
+                    "type": "retweeted"
+                }
+            ],
+            "reply_settings": "everyone",
+            "text": "RT @stillgray: The average person has no idea what's going on with Joe Biden. The lack of information about him is shocking and you can tha\u2026"
+        }
+    ],
+    "meta": {
+        "newest_id": "1323853060775575554",
+        "next_token": "b26v89c19zqg8o3fosbter7e55ozi4jjsjzgyazqikeil",
+        "oldest_id": "1323849932432793600",
+        "result_count": 58
+    }
+}

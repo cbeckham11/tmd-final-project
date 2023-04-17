@@ -1,0 +1,1348 @@
+{
+    "data": [
+        {
+            "author_id": "892986968472211456",
+            "conversation_id": "1327303828052594688",
+            "created_at": "2020-11-13T17:34:27.000Z",
+            "edit_history_tweet_ids": [
+                "1327303828052594688"
+            ],
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 68,
+                        "normalized_text": "Juan Carlos",
+                        "probability": 0.6183,
+                        "start": 58,
+                        "type": "Person"
+                    },
+                    {
+                        "end": 80,
+                        "normalized_text": "M\u00f3stoles",
+                        "probability": 0.3975,
+                        "start": 73,
+                        "type": "Other"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 17,
+                        "id": "350954800",
+                        "start": 3,
+                        "username": "Toni_blackout"
+                    }
+                ]
+            },
+            "id": "1327303828052594688",
+            "lang": "es",
+            "public_metrics": {
+                "impression_count": 0,
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 79
+            },
+            "referenced_tweets": [
+                {
+                    "id": "1327299762379501570",
+                    "type": "retweeted"
+                }
+            ],
+            "reply_settings": "everyone",
+            "text": "RT @Toni_blackout: Alguien que trabaje en el Hospital Rey Juan Carlos de M\u00f3stoles?\n\nHan ingresado al abuelo, estoy a m\u00e1s de 600km y mis cu\u00f1\u2026"
+        },
+        {
+            "author_id": "1082618236737212416",
+            "conversation_id": "1327303783043403776",
+            "created_at": "2020-11-13T17:34:16.000Z",
+            "edit_history_tweet_ids": [
+                "1327303783043403776"
+            ],
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 33,
+                        "normalized_text": "philippine",
+                        "probability": 0.4196,
+                        "start": 24,
+                        "type": "Place"
+                    },
+                    {
+                        "end": 74,
+                        "normalized_text": "cagayan",
+                        "probability": 0.6563,
+                        "start": 68,
+                        "type": "Place"
+                    },
+                    {
+                        "end": 193,
+                        "normalized_text": "CagayanNeedsHelp",
+                        "probability": 0.5228,
+                        "start": 178,
+                        "type": "Place"
+                    },
+                    {
+                        "end": 203,
+                        "normalized_text": "RescuePH",
+                        "probability": 0.5649,
+                        "start": 196,
+                        "type": "Other"
+                    }
+                ],
+                "hashtags": [
+                    {
+                        "end": 194,
+                        "start": 177,
+                        "tag": "CagayanNeedsHelp"
+                    },
+                    {
+                        "end": 204,
+                        "start": 195,
+                        "tag": "RescuePH"
+                    }
+                ]
+            },
+            "id": "1327303783043403776",
+            "lang": "en",
+            "public_metrics": {
+                "impression_count": 0,
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "reply_settings": "everyone",
+            "text": "oh god please people at philippine airforce please rescue people in cagayan. they need aerial help na, boats can\u2019t get in sa area + blackout parin dun. PLEASE HELP THEM NOW!!!\n\n#CagayanNeedsHelp #RescuePH"
+        },
+        {
+            "author_id": "344247978",
+            "context_annotations": [
+                {
+                    "domain": {
+                        "description": "Named people in the world like Nelson Mandela",
+                        "id": "10",
+                        "name": "Person"
+                    },
+                    "entity": {
+                        "description": "45th US President, Donald Trump",
+                        "id": "799022225751871488",
+                        "name": "Donald Trump"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "Politicians in the world, like Joe Biden",
+                        "id": "35",
+                        "name": "Politician"
+                    },
+                    "entity": {
+                        "description": "45th US President, Donald Trump",
+                        "id": "799022225751871488",
+                        "name": "Donald Trump"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A taxonomy of user interests. ",
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy"
+                    },
+                    "entity": {
+                        "description": "45th US President, Donald Trump",
+                        "id": "799022225751871488",
+                        "name": "Donald Trump"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A taxonomy of user interests. ",
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy"
+                    },
+                    "entity": {
+                        "description": "Politics",
+                        "id": "847878884917886977",
+                        "name": "Politics"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A taxonomy of user interests. ",
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy"
+                    },
+                    "entity": {
+                        "description": "US National News",
+                        "id": "1003932601839579136",
+                        "name": "US national news"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A taxonomy of user interests. ",
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy"
+                    },
+                    "entity": {
+                        "description": "News",
+                        "id": "1046545033657081857",
+                        "name": "News"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A taxonomy of user interests. ",
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy"
+                    },
+                    "entity": {
+                        "description": "Politician",
+                        "id": "1070032753834438656",
+                        "name": "Political figures"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A taxonomy of user interests. ",
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy"
+                    },
+                    "entity": {
+                        "id": "1286379401228124160",
+                        "name": "Americas"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "Real world events. ",
+                        "id": "29",
+                        "name": "Events [Entity Service]"
+                    },
+                    "entity": {
+                        "id": "1260821905491152896",
+                        "name": "Misinformation, debunk entity"
+                    }
+                }
+            ],
+            "conversation_id": "1327303731734478853",
+            "created_at": "2020-11-13T17:34:04.000Z",
+            "edit_history_tweet_ids": [
+                "1327303731734478853"
+            ],
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 11,
+                        "normalized_text": "America",
+                        "probability": 0.7681,
+                        "start": 5,
+                        "type": "Place"
+                    },
+                    {
+                        "end": 142,
+                        "normalized_text": "Trump",
+                        "probability": 0.9691,
+                        "start": 138,
+                        "type": "Person"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "twitter.com/JTMLX/status/1\u2026",
+                        "end": 254,
+                        "expanded_url": "https://twitter.com/JTMLX/status/1327303292364341250",
+                        "start": 231,
+                        "url": "https://t.co/Uev2CbPkd5"
+                    }
+                ]
+            },
+            "id": "1327303731734478853",
+            "lang": "en",
+            "public_metrics": {
+                "impression_count": 0,
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 1,
+                "retweet_count": 0
+            },
+            "referenced_tweets": [
+                {
+                    "id": "1327303292364341250",
+                    "type": "quoted"
+                }
+            ],
+            "reply_settings": "everyone",
+            "text": "What America is now experiencing is a massive failure of character \u2014 a nationwide blackout of integrity \u2014 among elected Republicans. From Trump, a graceless and deceptive insistence on victory after a loss that was not even close. https://t.co/Uev2CbPkd5"
+        },
+        {
+            "author_id": "344247978",
+            "context_annotations": [
+                {
+                    "domain": {
+                        "description": "Named people in the world like Nelson Mandela",
+                        "id": "10",
+                        "name": "Person"
+                    },
+                    "entity": {
+                        "description": "45th US President, Donald Trump",
+                        "id": "799022225751871488",
+                        "name": "Donald Trump"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "Politicians in the world, like Joe Biden",
+                        "id": "35",
+                        "name": "Politician"
+                    },
+                    "entity": {
+                        "description": "45th US President, Donald Trump",
+                        "id": "799022225751871488",
+                        "name": "Donald Trump"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A taxonomy of user interests. ",
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy"
+                    },
+                    "entity": {
+                        "description": "45th US President, Donald Trump",
+                        "id": "799022225751871488",
+                        "name": "Donald Trump"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A taxonomy of user interests. ",
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy"
+                    },
+                    "entity": {
+                        "description": "Politics",
+                        "id": "847878884917886977",
+                        "name": "Politics"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A taxonomy of user interests. ",
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy"
+                    },
+                    "entity": {
+                        "description": "US National News",
+                        "id": "1003932601839579136",
+                        "name": "US national news"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A taxonomy of user interests. ",
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy"
+                    },
+                    "entity": {
+                        "description": "News",
+                        "id": "1046545033657081857",
+                        "name": "News"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A taxonomy of user interests. ",
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy"
+                    },
+                    "entity": {
+                        "description": "Politician",
+                        "id": "1070032753834438656",
+                        "name": "Political figures"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A taxonomy of user interests. ",
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy"
+                    },
+                    "entity": {
+                        "id": "1286379401228124160",
+                        "name": "Americas"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "Real world events. ",
+                        "id": "29",
+                        "name": "Events [Entity Service]"
+                    },
+                    "entity": {
+                        "id": "1260821905491152896",
+                        "name": "Misinformation, debunk entity"
+                    }
+                }
+            ],
+            "conversation_id": "1327303292364341250",
+            "created_at": "2020-11-13T17:33:52.000Z",
+            "edit_history_tweet_ids": [
+                "1327303679766978560"
+            ],
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 11,
+                        "normalized_text": "America",
+                        "probability": 0.7635,
+                        "start": 5,
+                        "type": "Place"
+                    },
+                    {
+                        "end": 142,
+                        "normalized_text": "Trump",
+                        "probability": 0.9689,
+                        "start": 138,
+                        "type": "Person"
+                    }
+                ]
+            },
+            "id": "1327303679766978560",
+            "in_reply_to_user_id": "344247978",
+            "lang": "en",
+            "public_metrics": {
+                "impression_count": 0,
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "referenced_tweets": [
+                {
+                    "id": "1327303292364341250",
+                    "type": "replied_to"
+                }
+            ],
+            "reply_settings": "everyone",
+            "text": "What America is now experiencing is a massive failure of character \u2014 a nationwide blackout of integrity \u2014 among elected Republicans. From Trump, a graceless and deceptive insistence on victory after a loss that was not even close."
+        },
+        {
+            "author_id": "940287182618660864",
+            "conversation_id": "1327302261790420993",
+            "created_at": "2020-11-13T17:33:46.000Z",
+            "edit_history_tweet_ids": [
+                "1327303655490465794"
+            ],
+            "entities": {
+                "mentions": [
+                    {
+                        "end": 11,
+                        "id": "2460748922",
+                        "start": 0,
+                        "username": "alexiaraye"
+                    }
+                ]
+            },
+            "id": "1327303655490465794",
+            "in_reply_to_user_id": "2460748922",
+            "lang": "en",
+            "public_metrics": {
+                "impression_count": 0,
+                "like_count": 14,
+                "quote_count": 0,
+                "reply_count": 1,
+                "retweet_count": 0
+            },
+            "referenced_tweets": [
+                {
+                    "id": "1327302261790420993",
+                    "type": "replied_to"
+                }
+            ],
+            "reply_settings": "everyone",
+            "text": "@alexiaraye I blackout every time I drive. If the heat and music are on, game over"
+        },
+        {
+            "author_id": "1487707080",
+            "conversation_id": "1327294801897607169",
+            "created_at": "2020-11-13T17:33:41.000Z",
+            "edit_history_tweet_ids": [
+                "1327303635324190720"
+            ],
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 38,
+                        "normalized_text": "AirForce",
+                        "probability": 0.6199,
+                        "start": 31,
+                        "type": "Organization"
+                    },
+                    {
+                        "end": 75,
+                        "normalized_text": "Aerial",
+                        "probability": 0.604,
+                        "start": 70,
+                        "type": "Other"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 12,
+                        "id": "47211842",
+                        "start": 0,
+                        "username": "lenirobredo"
+                    },
+                    {
+                        "end": 20,
+                        "id": "200500716",
+                        "start": 13,
+                        "username": "roigie"
+                    }
+                ]
+            },
+            "id": "1327303635324190720",
+            "in_reply_to_user_id": "47211842",
+            "lang": "en",
+            "public_metrics": {
+                "impression_count": 0,
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "referenced_tweets": [
+                {
+                    "id": "1327294801897607169",
+                    "type": "replied_to"
+                }
+            ],
+            "reply_settings": "everyone",
+            "text": "@lenirobredo @roigie I thought AirForce were also trained for that?? \nAerial rescue is the last resort if there are some areas that have grounded waters unless they will go for a total electricity blackout which will makes it harder. Need a lot of flashlights for this naman po kung ganun."
+        },
+        {
+            "author_id": "1016964424513609730",
+            "context_annotations": [
+                {
+                    "domain": {
+                        "description": "Named people in the world like Nelson Mandela",
+                        "id": "10",
+                        "name": "Person"
+                    },
+                    "entity": {
+                        "id": "1136982495591723008",
+                        "name": "Rahul Gandhi"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "Named people in the world like Nelson Mandela",
+                        "id": "10",
+                        "name": "Person"
+                    },
+                    "entity": {
+                        "id": "1138115936014127104",
+                        "name": "Piyush Goyal"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "Politicians in the world, like Joe Biden",
+                        "id": "35",
+                        "name": "Politician"
+                    },
+                    "entity": {
+                        "id": "1136982495591723008",
+                        "name": "Rahul Gandhi"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "Politicians in the world, like Joe Biden",
+                        "id": "35",
+                        "name": "Politician"
+                    },
+                    "entity": {
+                        "id": "1138115936014127104",
+                        "name": "Piyush Goyal"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+                        "id": "66",
+                        "name": "Interests and Hobbies Category"
+                    },
+                    "entity": {
+                        "id": "1206695792582414336",
+                        "name": "Railway transport"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A section of a government, like The Supreme Court",
+                        "id": "88",
+                        "name": "Political Body"
+                    },
+                    "entity": {
+                        "id": "1137025566706561027",
+                        "name": "PMO India"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A taxonomy of user interests. ",
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy"
+                    },
+                    "entity": {
+                        "id": "781974597302226944",
+                        "name": "Transportation"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A taxonomy of user interests. ",
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy"
+                    },
+                    "entity": {
+                        "description": "Politics",
+                        "id": "847878884917886977",
+                        "name": "Politics"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A taxonomy of user interests. ",
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy"
+                    },
+                    "entity": {
+                        "description": "Political Body",
+                        "id": "1068583660914266113",
+                        "name": "Government institutions"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A taxonomy of user interests. ",
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy"
+                    },
+                    "entity": {
+                        "description": "Politician",
+                        "id": "1070032753834438656",
+                        "name": "Political figures"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A taxonomy of user interests. ",
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy"
+                    },
+                    "entity": {
+                        "id": "1136982495591723008",
+                        "name": "Rahul Gandhi"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A taxonomy of user interests. ",
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy"
+                    },
+                    "entity": {
+                        "id": "1137025566706561027",
+                        "name": "PMO India"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A taxonomy of user interests. ",
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy"
+                    },
+                    "entity": {
+                        "id": "1138115936014127104",
+                        "name": "Piyush Goyal"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A taxonomy of user interests. ",
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy"
+                    },
+                    "entity": {
+                        "id": "1206695792582414336",
+                        "name": "Railway transport"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "Named people in the world like Nelson Mandela",
+                        "id": "10",
+                        "name": "Person"
+                    },
+                    "entity": {
+                        "description": "Prime Minister of India Narendra Modi",
+                        "id": "806566669166350336",
+                        "name": "Narendra Modi"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "Politicians in the world, like Joe Biden",
+                        "id": "35",
+                        "name": "Politician"
+                    },
+                    "entity": {
+                        "description": "Prime Minister of India Narendra Modi",
+                        "id": "806566669166350336",
+                        "name": "Narendra Modi"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A taxonomy of user interests. ",
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy"
+                    },
+                    "entity": {
+                        "description": "Prime Minister of India Narendra Modi",
+                        "id": "806566669166350336",
+                        "name": "Narendra Modi"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A taxonomy of user interests. ",
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy"
+                    },
+                    "entity": {
+                        "description": "Politics",
+                        "id": "847878884917886977",
+                        "name": "Politics"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A taxonomy of user interests. ",
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy"
+                    },
+                    "entity": {
+                        "description": "Politician",
+                        "id": "1070032753834438656",
+                        "name": "Political figures"
+                    }
+                }
+            ],
+            "conversation_id": "1327303634086891520",
+            "created_at": "2020-11-13T17:33:41.000Z",
+            "edit_history_tweet_ids": [
+                "1327303634086891520"
+            ],
+            "entities": {
+                "hashtags": [
+                    {
+                        "end": 111,
+                        "start": 84,
+                        "tag": "BlackDiwali4RailApprentice"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 121,
+                        "id": "471741741",
+                        "start": 112,
+                        "username": "PMOIndia"
+                    },
+                    {
+                        "end": 134,
+                        "id": "1324334436",
+                        "start": 122,
+                        "username": "PiyushGoyal"
+                    },
+                    {
+                        "end": 148,
+                        "id": "2602959463",
+                        "start": 135,
+                        "username": "RailMinIndia"
+                    },
+                    {
+                        "end": 160,
+                        "id": "315648972",
+                        "start": 149,
+                        "username": "AIRF_COMMS"
+                    },
+                    {
+                        "end": 173,
+                        "id": "3171712086",
+                        "start": 161,
+                        "username": "RahulGandhi"
+                    },
+                    {
+                        "end": 185,
+                        "id": "808508030295875584",
+                        "start": 174,
+                        "username": "pilot_army"
+                    },
+                    {
+                        "end": 197,
+                        "id": "542670106",
+                        "start": 186,
+                        "username": "neuroayush"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "pic.twitter.com/pSRjP6RdS6",
+                        "end": 221,
+                        "expanded_url": "https://twitter.com/Jyoti30105684/status/1327258827935268868/photo/1",
+                        "media_key": "3_1327258812030410752",
+                        "start": 198,
+                        "url": "https://t.co/pSRjP6RdS6"
+                    }
+                ]
+            },
+            "id": "1327303634086891520",
+            "lang": "hi",
+            "public_metrics": {
+                "impression_count": 0,
+                "like_count": 2,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 2
+            },
+            "reply_settings": "everyone",
+            "text": "\u0926\u0947\u0936 \u092e\u0947 \u092a\u0939\u0932\u0940 \u092c\u093e\u0930 \u0930\u0947\u0932 \u0905\u092a\u094d\u0930\u0947\u0902\u091f\u093f\u0938 \u0915\u0940 BlackOut\n\u0926\u0940\u0935\u093e\u0932\u0940 \u0964 \u0930\u0947\u0932 \u0905\u092a\u094d\u0930\u0947\u0902\u091f\u093f\u0938 \u0915\u0947 \u0938\u093e\u0925 \u0928\u094d\u092f\u093e\u092f \u0915\u0930\u094b\u0964\u0964\n#BlackDiwali4RailApprentice\n@PMOIndia @PiyushGoyal @RailMinIndia @AIRF_COMMS @RahulGandhi @pilot_army @neuroayush https://t.co/pSRjP6RdS6"
+        },
+        {
+            "author_id": "21753940",
+            "context_annotations": [
+                {
+                    "domain": {
+                        "description": "A video game like Overwatch",
+                        "id": "71",
+                        "name": "Video Game"
+                    },
+                    "entity": {
+                        "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series, if applicable.\t\t\t",
+                        "id": "10027933222",
+                        "name": "Call of Duty"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A video game like Overwatch",
+                        "id": "71",
+                        "name": "Video Game"
+                    },
+                    "entity": {
+                        "description": "Call of Duty: Black Ops 4",
+                        "id": "997093174341337088",
+                        "name": "Call of Duty: Black Ops 4"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A taxonomy of user interests. ",
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy"
+                    },
+                    "entity": {
+                        "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series, if applicable.\t\t\t",
+                        "id": "10027933222",
+                        "name": "Call of Duty"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A taxonomy of user interests. ",
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy"
+                    },
+                    "entity": {
+                        "description": "Gaming",
+                        "id": "847527650667094017",
+                        "name": "Gaming"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A taxonomy of user interests. ",
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy"
+                    },
+                    "entity": {
+                        "id": "1070028159964262400",
+                        "name": "Video games"
+                    }
+                }
+            ],
+            "conversation_id": "1327303630639288332",
+            "created_at": "2020-11-13T17:33:40.000Z",
+            "edit_history_tweet_ids": [
+                "1327303630639288332"
+            ],
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 73,
+                        "normalized_text": "Black Ops Cold War",
+                        "probability": 0.8971,
+                        "start": 56,
+                        "type": "Other"
+                    },
+                    {
+                        "end": 89,
+                        "normalized_text": "Modern Warfare",
+                        "probability": 0.952,
+                        "start": 76,
+                        "type": "Other"
+                    },
+                    {
+                        "end": 165,
+                        "normalized_text": "Cold War",
+                        "probability": 0.7681,
+                        "start": 158,
+                        "type": "Other"
+                    },
+                    {
+                        "end": 186,
+                        "normalized_text": "BO4",
+                        "probability": 0.6867,
+                        "start": 184,
+                        "type": "Other"
+                    },
+                    {
+                        "end": 195,
+                        "normalized_text": "Blackout",
+                        "probability": 0.6482,
+                        "start": 188,
+                        "type": "Other"
+                    },
+                    {
+                        "end": 283,
+                        "normalized_text": "CoDBOCW",
+                        "probability": 0.7594,
+                        "start": 277,
+                        "type": "Other"
+                    }
+                ],
+                "hashtags": [
+                    {
+                        "end": 284,
+                        "start": 276,
+                        "tag": "CoDBOCW"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 55,
+                        "id": "290097288",
+                        "start": 44,
+                        "username": "CallofDuty"
+                    }
+                ]
+            },
+            "id": "1327303630639288332",
+            "lang": "en",
+            "public_metrics": {
+                "impression_count": 0,
+                "like_count": 4,
+                "quote_count": 0,
+                "reply_count": 2,
+                "retweet_count": 0
+            },
+            "reply_settings": "everyone",
+            "text": "Putting it out there now. I REALLY dnt like @CallofDuty Black Ops Cold War. Modern Warfare is a MUCH better game!!! FEELS BETTER! LOOKS BETTER! PLAYS BETTER! Cold War feels/looks like BO4/Blackout turned into MW...Everything is tiny like micro machines, slow ADS &amp; clunky #CoDBOCW"
+        },
+        {
+            "author_id": "1251745115736948736",
+            "conversation_id": "1327303570136342528",
+            "created_at": "2020-11-13T17:33:25.000Z",
+            "edit_history_tweet_ids": [
+                "1327303570136342528"
+            ],
+            "entities": {
+                "mentions": [
+                    {
+                        "end": 13,
+                        "id": "1270028390184050688",
+                        "start": 3,
+                        "username": "daliamilf"
+                    }
+                ]
+            },
+            "id": "1327303570136342528",
+            "lang": "en",
+            "public_metrics": {
+                "impression_count": 0,
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 477
+            },
+            "referenced_tweets": [
+                {
+                    "id": "1327294331640709120",
+                    "type": "retweeted"
+                }
+            ],
+            "reply_settings": "everyone",
+            "text": "RT @daliamilf: Retweet!!.  Not tomorrow. Not in a few days. NOW. People are drowning in their own homes, it is dark and cold because of a c\u2026"
+        },
+        {
+            "author_id": "1070998007368310784",
+            "conversation_id": "1327299762379501570",
+            "created_at": "2020-11-13T17:33:22.000Z",
+            "edit_history_tweet_ids": [
+                "1327303554286104585"
+            ],
+            "entities": {
+                "mentions": [
+                    {
+                        "end": 14,
+                        "id": "350954800",
+                        "start": 0,
+                        "username": "Toni_blackout"
+                    }
+                ]
+            },
+            "id": "1327303554286104585",
+            "in_reply_to_user_id": "350954800",
+            "lang": "es",
+            "public_metrics": {
+                "impression_count": 0,
+                "like_count": 2,
+                "quote_count": 0,
+                "reply_count": 1,
+                "retweet_count": 0
+            },
+            "referenced_tweets": [
+                {
+                    "id": "1327299762379501570",
+                    "type": "replied_to"
+                }
+            ],
+            "reply_settings": "everyone",
+            "text": "@Toni_blackout Espero q se quede en un susto. \ud83d\ude18"
+        },
+        {
+            "author_id": "1031938277333508096",
+            "conversation_id": "1327303547134816258",
+            "created_at": "2020-11-13T17:33:20.000Z",
+            "edit_history_tweet_ids": [
+                "1327303547134816258"
+            ],
+            "entities": {
+                "hashtags": [
+                    {
+                        "end": 111,
+                        "start": 99,
+                        "tag": "WarOnTigray"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 11,
+                        "id": "2506174975",
+                        "start": 3,
+                        "username": "meazaG_"
+                    },
+                    {
+                        "end": 56,
+                        "id": "1168167671151628290",
+                        "start": 43,
+                        "username": "AbiyAhmedAli"
+                    }
+                ]
+            },
+            "id": "1327303547134816258",
+            "lang": "en",
+            "public_metrics": {
+                "impression_count": 0,
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 55
+            },
+            "referenced_tweets": [
+                {
+                    "id": "1327292207683002368",
+                    "type": "retweeted"
+                }
+            ],
+            "reply_settings": "everyone",
+            "text": "RT @meazaG_: 11 days in darkness. Dictator @AbiyAhmedAli &amp; his cronies still continue on their #WarOnTigray.  \n\nCivilians BOMBED \nElectrici\u2026"
+        },
+        {
+            "author_id": "1325078544389603330",
+            "conversation_id": "1327303521541079040",
+            "created_at": "2020-11-13T17:33:14.000Z",
+            "edit_history_tweet_ids": [
+                "1327303521541079040"
+            ],
+            "entities": {
+                "hashtags": [
+                    {
+                        "end": 111,
+                        "start": 99,
+                        "tag": "WarOnTigray"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 11,
+                        "id": "2506174975",
+                        "start": 3,
+                        "username": "meazaG_"
+                    },
+                    {
+                        "end": 56,
+                        "id": "1168167671151628290",
+                        "start": 43,
+                        "username": "AbiyAhmedAli"
+                    }
+                ]
+            },
+            "id": "1327303521541079040",
+            "lang": "en",
+            "public_metrics": {
+                "impression_count": 0,
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 55
+            },
+            "referenced_tweets": [
+                {
+                    "id": "1327292207683002368",
+                    "type": "retweeted"
+                }
+            ],
+            "reply_settings": "everyone",
+            "text": "RT @meazaG_: 11 days in darkness. Dictator @AbiyAhmedAli &amp; his cronies still continue on their #WarOnTigray.  \n\nCivilians BOMBED \nElectrici\u2026"
+        },
+        {
+            "author_id": "1419954722",
+            "conversation_id": "1327303520249253888",
+            "created_at": "2020-11-13T17:33:13.000Z",
+            "edit_history_tweet_ids": [
+                "1327303520249253888"
+            ],
+            "entities": {
+                "mentions": [
+                    {
+                        "end": 14,
+                        "id": "98290850",
+                        "start": 3,
+                        "username": "kikorustia"
+                    }
+                ]
+            },
+            "id": "1327303520249253888",
+            "lang": "en",
+            "public_metrics": {
+                "impression_count": 0,
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 864
+            },
+            "referenced_tweets": [
+                {
+                    "id": "1327290093174878209",
+                    "type": "retweeted"
+                }
+            ],
+            "reply_settings": "everyone",
+            "text": "RT @kikorustia: Ako lang ba or parang may news blackout ang Cagayan? \n\nWe\u2019ve seen some, but given the extent of the damage we\u2019ve seen in th\u2026"
+        },
+        {
+            "author_id": "1070998007368310784",
+            "conversation_id": "1327303481208737794",
+            "created_at": "2020-11-13T17:33:04.000Z",
+            "edit_history_tweet_ids": [
+                "1327303481208737794"
+            ],
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 68,
+                        "normalized_text": "Juan Carlos",
+                        "probability": 0.6183,
+                        "start": 58,
+                        "type": "Person"
+                    },
+                    {
+                        "end": 80,
+                        "normalized_text": "M\u00f3stoles",
+                        "probability": 0.3975,
+                        "start": 73,
+                        "type": "Other"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 17,
+                        "id": "350954800",
+                        "start": 3,
+                        "username": "Toni_blackout"
+                    }
+                ]
+            },
+            "id": "1327303481208737794",
+            "lang": "es",
+            "public_metrics": {
+                "impression_count": 0,
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 79
+            },
+            "referenced_tweets": [
+                {
+                    "id": "1327299762379501570",
+                    "type": "retweeted"
+                }
+            ],
+            "reply_settings": "everyone",
+            "text": "RT @Toni_blackout: Alguien que trabaje en el Hospital Rey Juan Carlos de M\u00f3stoles?\n\nHan ingresado al abuelo, estoy a m\u00e1s de 600km y mis cu\u00f1\u2026"
+        },
+        {
+            "author_id": "813225212921511936",
+            "conversation_id": "1327303461495480321",
+            "created_at": "2020-11-13T17:32:59.000Z",
+            "edit_history_tweet_ids": [
+                "1327303461495480321"
+            ],
+            "entities": {
+                "mentions": [
+                    {
+                        "end": 13,
+                        "id": "1270028390184050688",
+                        "start": 3,
+                        "username": "daliamilf"
+                    }
+                ]
+            },
+            "id": "1327303461495480321",
+            "lang": "en",
+            "public_metrics": {
+                "impression_count": 0,
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 477
+            },
+            "referenced_tweets": [
+                {
+                    "id": "1327294331640709120",
+                    "type": "retweeted"
+                }
+            ],
+            "reply_settings": "everyone",
+            "text": "RT @daliamilf: Retweet!!.  Not tomorrow. Not in a few days. NOW. People are drowning in their own homes, it is dark and cold because of a c\u2026"
+        },
+        {
+            "author_id": "706952520527171584",
+            "context_annotations": [
+                {
+                    "domain": {
+                        "description": "Ongoing News Stories like 'Brexit'",
+                        "id": "123",
+                        "name": "Ongoing News Story"
+                    },
+                    "entity": {
+                        "id": "1220701888179359745",
+                        "name": "COVID-19"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A taxonomy of user interests. ",
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy"
+                    },
+                    "entity": {
+                        "id": "1220701888179359745",
+                        "name": "COVID-19"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "Real world events. ",
+                        "id": "29",
+                        "name": "Events [Entity Service]"
+                    },
+                    "entity": {
+                        "description": "This page is a timeline of Tweets with the latest information and updates on COVID-19 from experts, journalists, health authorities and other trusted sources from around the world. For more on COVID-19, visit: twitter.com/explore/tabs/covid-19",
+                        "id": "1219057585707315201",
+                        "name": "COVID-19: Latest news updates from around the world"
+                    }
+                }
+            ],
+            "conversation_id": "1327303428079570950",
+            "created_at": "2020-11-13T17:32:52.000Z",
+            "edit_history_tweet_ids": [
+                "1327303428079570950"
+            ],
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 62,
+                        "normalized_text": "London",
+                        "probability": 0.9618,
+                        "start": 57,
+                        "type": "Place"
+                    },
+                    {
+                        "end": 73,
+                        "normalized_text": "WW2",
+                        "probability": 0.9602,
+                        "start": 71,
+                        "type": "Other"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "twitter.com/mkraju/status/\u2026",
+                        "end": 108,
+                        "expanded_url": "https://twitter.com/mkraju/status/1327301865101533185",
+                        "start": 85,
+                        "url": "https://t.co/oeqICJvr6q"
+                    }
+                ]
+            },
+            "id": "1327303428079570950",
+            "lang": "en",
+            "public_metrics": {
+                "impression_count": 0,
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "referenced_tweets": [
+                {
+                    "id": "1327301865101533185",
+                    "type": "quoted"
+                }
+            ],
+            "reply_settings": "everyone",
+            "text": "She would have refused to close her blackout curtains in London during WW2, because. https://t.co/oeqICJvr6q"
+        }
+    ],
+    "meta": {
+        "newest_id": "1327303828052594688",
+        "next_token": "b26v89c19zqg8o3fosbv32ybnvl0a13dk9h26rpyefw59",
+        "oldest_id": "1327303428079570950",
+        "result_count": 16
+    }
+}

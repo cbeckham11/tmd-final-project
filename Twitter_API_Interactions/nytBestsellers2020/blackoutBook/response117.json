@@ -1,0 +1,180 @@
+{
+    "data": [
+        {
+            "author_id": "933430618209239040",
+            "context_annotations": [
+                {
+                    "domain": {
+                        "description": "Top level interests and hobbies groupings, like Food or Travel",
+                        "id": "65",
+                        "name": "Interests and Hobbies Vertical"
+                    },
+                    "entity": {
+                        "description": "Education through the lens of those passionate about resources and news. This topic excludes Education policy and reform.",
+                        "id": "847546154439000064",
+                        "name": "Education"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+                        "id": "66",
+                        "name": "Interests and Hobbies Category"
+                    },
+                    "entity": {
+                        "description": "Online education",
+                        "id": "852291840472629248",
+                        "name": "Online education"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A taxonomy of user interests. ",
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy"
+                    },
+                    "entity": {
+                        "description": "Education through the lens of those passionate about resources and news. This topic excludes Education policy and reform.",
+                        "id": "847546154439000064",
+                        "name": "Education"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A taxonomy of user interests. ",
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy"
+                    },
+                    "entity": {
+                        "description": "Online education",
+                        "id": "852291840472629248",
+                        "name": "Online education"
+                    }
+                }
+            ],
+            "conversation_id": "1327289839855702017",
+            "created_at": "2020-11-13T16:38:52.000Z",
+            "edit_history_tweet_ids": [
+                "1327289839855702017"
+            ],
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 57,
+                        "normalized_text": "Meralco",
+                        "probability": 0.5313,
+                        "start": 51,
+                        "type": "Other"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 13,
+                        "id": "1069565459882602496",
+                        "start": 3,
+                        "username": "kentsugii"
+                    }
+                ]
+            },
+            "id": "1327289839855702017",
+            "lang": "en",
+            "public_metrics": {
+                "impression_count": 0,
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 697
+            },
+            "referenced_tweets": [
+                {
+                    "id": "1326565934295773184",
+                    "type": "retweeted"
+                }
+            ],
+            "reply_settings": "everyone",
+            "text": "RT @kentsugii: Privileged teenagers really blaming Meralco for the blackout??? I'm convinced y'all not learning from online classes"
+        },
+        {
+            "author_id": "368726373",
+            "conversation_id": "1327289833308479488",
+            "created_at": "2020-11-13T16:38:50.000Z",
+            "edit_history_tweet_ids": [
+                "1327289833308479488"
+            ],
+            "id": "1327289833308479488",
+            "lang": "en",
+            "public_metrics": {
+                "impression_count": 0,
+                "like_count": 17,
+                "quote_count": 0,
+                "reply_count": 2,
+                "retweet_count": 0
+            },
+            "reply_settings": "everyone",
+            "text": "I love this cute little thing me and my friends do every Friday where we text each other \u201cI can\u2019t go out I\u2019m broke\u201d and \u201cugh I can\u2019t blackout this Sunday\u201d and then somehow Monday comes and we\u2019re all hungover from Sunday and can no longer afford groceries for the week"
+        },
+        {
+            "author_id": "259149049",
+            "conversation_id": "1326715105636196357",
+            "created_at": "2020-11-13T16:38:26.000Z",
+            "edit_history_tweet_ids": [
+                "1327289732942995458"
+            ],
+            "entities": {
+                "mentions": [
+                    {
+                        "end": 16,
+                        "id": "1299113739535384578",
+                        "start": 0,
+                        "username": "Maurici12819419"
+                    },
+                    {
+                        "end": 33,
+                        "id": "2898854756",
+                        "start": 17,
+                        "username": "BicireporteraDF"
+                    },
+                    {
+                        "end": 44,
+                        "id": "16373971",
+                        "start": 34,
+                        "username": "vastatrix"
+                    },
+                    {
+                        "end": 59,
+                        "id": "271670509",
+                        "start": 45,
+                        "username": "blackout_cass"
+                    }
+                ]
+            },
+            "geo": {
+                "place_id": "d3bf364c09703d00"
+            },
+            "id": "1327289732942995458",
+            "in_reply_to_user_id": "1299113739535384578",
+            "lang": "es",
+            "public_metrics": {
+                "impression_count": 0,
+                "like_count": 3,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "referenced_tweets": [
+                {
+                    "id": "1327251323700572162",
+                    "type": "replied_to"
+                }
+            ],
+            "reply_settings": "everyone",
+            "text": "@Maurici12819419 @BicireporteraDF @vastatrix @blackout_cass Eres un INVALIDO MENTAL"
+        }
+    ],
+    "meta": {
+        "newest_id": "1327289839855702017",
+        "next_token": "b26v89c19zqg8o3fosbv30w032scsl990z29iiw8lhegt",
+        "oldest_id": "1327289732942995458",
+        "result_count": 3
+    }
+}

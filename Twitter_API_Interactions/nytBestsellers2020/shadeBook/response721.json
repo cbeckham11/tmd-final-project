@@ -1,0 +1,5133 @@
+{
+    "data": [
+        {
+            "author_id": "759440555910664192",
+            "context_annotations": [
+                {
+                    "domain": {
+                        "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+                        "id": "30",
+                        "name": "Entities [Entity Service]"
+                    },
+                    "entity": {
+                        "id": "781974596752842752",
+                        "name": "Services"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "Brands and Companies",
+                        "id": "47",
+                        "name": "Brand"
+                    },
+                    "entity": {
+                        "id": "10045225402",
+                        "name": "Twitter"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A taxonomy of user interests. ",
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy"
+                    },
+                    "entity": {
+                        "id": "10045225402",
+                        "name": "Twitter"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A taxonomy of user interests. ",
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy"
+                    },
+                    "entity": {
+                        "id": "1196446161223028736",
+                        "name": "Social media"
+                    }
+                }
+            ],
+            "conversation_id": "1325981785734344704",
+            "created_at": "2020-11-10T02:01:07.000Z",
+            "edit_history_tweet_ids": [
+                "1325981785734344704"
+            ],
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 6,
+                        "normalized_text": "Twitter",
+                        "probability": 0.9429,
+                        "start": 0,
+                        "type": "Other"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "pic.twitter.com/7Kvn0h8e22",
+                        "end": 49,
+                        "expanded_url": "https://twitter.com/graceoflabrador/status/1325981785734344704/photo/1",
+                        "media_key": "3_1325981781435146241",
+                        "start": 26,
+                        "url": "https://t.co/7Kvn0h8e22"
+                    }
+                ]
+            },
+            "id": "1325981785734344704",
+            "lang": "en",
+            "public_metrics": {
+                "impression_count": 0,
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "reply_settings": "everyone",
+            "text": "Twitter shade! \ud83d\ude02\ud83d\ude02\ud83d\ude02\ud83e\udd76\ud83d\ude02\ud83d\ude02\ud83e\udd37\u200d\u2640\ufe0f https://t.co/7Kvn0h8e22"
+        },
+        {
+            "author_id": "165021042",
+            "context_annotations": [
+                {
+                    "domain": {
+                        "description": "Television shows from around the world",
+                        "id": "3",
+                        "name": "TV Shows"
+                    },
+                    "entity": {
+                        "description": "Replays of classic NFL games.",
+                        "id": "10000612773",
+                        "name": "NFL Football"
+                    }
+                },
+                {
+                    "domain": {
+                        "id": "6",
+                        "name": "Sports Event"
+                    },
+                    "entity": {
+                        "id": "1258551958643765249",
+                        "name": "Patriots at Jets"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "Named people in the world like Nelson Mandela",
+                        "id": "10",
+                        "name": "Person"
+                    },
+                    "entity": {
+                        "description": "Sam Darnold",
+                        "id": "898630030514716672",
+                        "name": "Sam Darnold"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "",
+                        "id": "26",
+                        "name": "Sports League"
+                    },
+                    "entity": {
+                        "id": "689566314835259392",
+                        "name": "NFL"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "Sports Event specific to American Football, such as Notre Dame vs. Stanford",
+                        "id": "27",
+                        "name": "American Football Game"
+                    },
+                    "entity": {
+                        "id": "1258551958643765249",
+                        "name": "Patriots at Jets"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "Sports Event specific to NFL Football, such as Buffalo Bills vs. New England Patriots",
+                        "id": "28",
+                        "name": "NFL Football Game"
+                    },
+                    "entity": {
+                        "id": "1258551958643765249",
+                        "name": "Patriots at Jets"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "Real world events. ",
+                        "id": "29",
+                        "name": "Events [Entity Service]"
+                    },
+                    "entity": {
+                        "id": "1258551958643765249",
+                        "name": "Patriots at Jets"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "An athlete in the world, like Serena Williams or Lionel Messi",
+                        "id": "60",
+                        "name": "Athlete"
+                    },
+                    "entity": {
+                        "description": "Sam Darnold",
+                        "id": "898630030514716672",
+                        "name": "Sam Darnold"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A taxonomy of user interests. ",
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy"
+                    },
+                    "entity": {
+                        "id": "689566306014617600",
+                        "name": "American football"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A taxonomy of user interests. ",
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy"
+                    },
+                    "entity": {
+                        "id": "689566314835259392",
+                        "name": "NFL"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A taxonomy of user interests. ",
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy"
+                    },
+                    "entity": {
+                        "description": "Sports",
+                        "id": "847900493514891265",
+                        "name": "Sports"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A taxonomy of user interests. ",
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy"
+                    },
+                    "entity": {
+                        "description": "Sam Darnold",
+                        "id": "898630030514716672",
+                        "name": "Sam Darnold"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A taxonomy of user interests. ",
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy"
+                    },
+                    "entity": {
+                        "id": "1263187885970227200",
+                        "name": "NFL players"
+                    }
+                }
+            ],
+            "conversation_id": "1325980560297259010",
+            "created_at": "2020-11-10T02:01:00.000Z",
+            "edit_history_tweet_ids": [
+                "1325981756571389952"
+            ],
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 85,
+                        "normalized_text": "Sam Darnold",
+                        "probability": 0.9842,
+                        "start": 75,
+                        "type": "Person"
+                    }
+                ]
+            },
+            "id": "1325981756571389952",
+            "in_reply_to_user_id": "165021042",
+            "lang": "en",
+            "public_metrics": {
+                "impression_count": 0,
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "referenced_tweets": [
+                {
+                    "id": "1325981478048632832",
+                    "type": "replied_to"
+                }
+            ],
+            "reply_settings": "everyone",
+            "text": "And even the commentators are throwing shade at... somebody when they say \u201cSam Darnold must be thinking \u2018why can\u2019t I throw to these receivers?\u2019\u201d\n\nYeah, he\u2019s probably gone"
+        },
+        {
+            "author_id": "1140555400548245504",
+            "context_annotations": [
+                {
+                    "domain": {
+                        "description": "Named people in the world like Nelson Mandela",
+                        "id": "10",
+                        "name": "Person"
+                    },
+                    "entity": {
+                        "description": "American cross-genre musician",
+                        "id": "1070731935612203008",
+                        "name": "Jon Batiste"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A musician in the world, like Adele or Bob Dylan",
+                        "id": "54",
+                        "name": "Musician"
+                    },
+                    "entity": {
+                        "description": "American cross-genre musician",
+                        "id": "1070731935612203008",
+                        "name": "Jon Batiste"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A video game like Overwatch",
+                        "id": "71",
+                        "name": "Video Game"
+                    },
+                    "entity": {
+                        "description": " This entity includes all conversation about the game.\n",
+                        "id": "1136984424153722880",
+                        "name": "BTS World"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A taxonomy of user interests. ",
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy"
+                    },
+                    "entity": {
+                        "description": "Gaming",
+                        "id": "847527650667094017",
+                        "name": "Gaming"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A taxonomy of user interests. ",
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy"
+                    },
+                    "entity": {
+                        "id": "1070028159964262400",
+                        "name": "Video games"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A taxonomy of user interests. ",
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy"
+                    },
+                    "entity": {
+                        "description": " This entity includes all conversation about the game.\n",
+                        "id": "1136984424153722880",
+                        "name": "BTS World"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "Named people in the world like Nelson Mandela",
+                        "id": "10",
+                        "name": "Person"
+                    },
+                    "entity": {
+                        "id": "844438182523383808",
+                        "name": "BTS"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A musician in the world, like Adele or Bob Dylan",
+                        "id": "54",
+                        "name": "Musician"
+                    },
+                    "entity": {
+                        "id": "844438182523383808",
+                        "name": "BTS"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A category for a musical style, like Pop, Rock, or Rap",
+                        "id": "55",
+                        "name": "Music Genre"
+                    },
+                    "entity": {
+                        "description": "K-Pop",
+                        "id": "888105153038958593",
+                        "name": "K-pop"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A taxonomy of user interests. ",
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy"
+                    },
+                    "entity": {
+                        "id": "844438182523383808",
+                        "name": "BTS"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A taxonomy of user interests. ",
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy"
+                    },
+                    "entity": {
+                        "description": "Music and radio",
+                        "id": "847524658970636288",
+                        "name": "Music"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A taxonomy of user interests. ",
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy"
+                    },
+                    "entity": {
+                        "description": "K-Pop",
+                        "id": "888105153038958593",
+                        "name": "K-pop"
+                    }
+                }
+            ],
+            "conversation_id": "1325981726766731264",
+            "created_at": "2020-11-10T02:00:53.000Z",
+            "edit_history_tweet_ids": [
+                "1325981726766731264"
+            ],
+            "entities": {
+                "mentions": [
+                    {
+                        "end": 14,
+                        "id": "59839834",
+                        "start": 3,
+                        "username": "JonBatiste"
+                    },
+                    {
+                        "end": 85,
+                        "id": "980749991491682304",
+                        "start": 71,
+                        "username": "BTSW_official"
+                    },
+                    {
+                        "end": 97,
+                        "id": "1409798257",
+                        "start": 86,
+                        "username": "bts_bighit"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "pic.twitter.com/ig1tSmCYjJ",
+                        "end": 121,
+                        "expanded_url": "https://twitter.com/JonBatiste/status/1325574976402055171/video/1",
+                        "media_key": "7_1325574936241590272",
+                        "start": 98,
+                        "url": "https://t.co/ig1tSmCYjJ"
+                    }
+                ]
+            },
+            "id": "1325981726766731264",
+            "lang": "ko",
+            "public_metrics": {
+                "impression_count": 0,
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 20506
+            },
+            "referenced_tweets": [
+                {
+                    "id": "1325574976402055171",
+                    "type": "retweeted"
+                }
+            ],
+            "reply_settings": "everyone",
+            "text": "RT @JonBatiste: \ubc29\ud0c4\uc18c\ub144\ub2e8 BTS \u201cButterfly\u201d with a shade of Claire de Lune \ud83d\udcaf @BTSW_official @bts_bighit https://t.co/ig1tSmCYjJ"
+        },
+        {
+            "author_id": "46816408",
+            "conversation_id": "1325981719326044160",
+            "created_at": "2020-11-10T02:00:52.000Z",
+            "edit_history_tweet_ids": [
+                "1325981719326044160"
+            ],
+            "entities": {
+                "mentions": [
+                    {
+                        "end": 14,
+                        "id": "15751676",
+                        "start": 3,
+                        "username": "MattNegrin"
+                    }
+                ]
+            },
+            "id": "1325981719326044160",
+            "lang": "en",
+            "public_metrics": {
+                "impression_count": 0,
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 848
+            },
+            "referenced_tweets": [
+                {
+                    "id": "1325949308244553728",
+                    "type": "retweeted"
+                }
+            ],
+            "reply_settings": "everyone",
+            "text": "RT @MattNegrin: The press is almost completely spun on this. They will treat everything with a shade of legal \u201cprocess\u201d as just part of the\u2026"
+        },
+        {
+            "author_id": "95986523",
+            "conversation_id": "1325981685297545216",
+            "created_at": "2020-11-10T02:00:43.000Z",
+            "edit_history_tweet_ids": [
+                "1325981685297545216"
+            ],
+            "entities": {
+                "mentions": [
+                    {
+                        "end": 13,
+                        "id": "1095786885685882880",
+                        "start": 3,
+                        "username": "AriTheDon"
+                    }
+                ]
+            },
+            "id": "1325981685297545216",
+            "lang": "en",
+            "public_metrics": {
+                "impression_count": 0,
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 7944
+            },
+            "referenced_tweets": [
+                {
+                    "id": "1325510091660021765",
+                    "type": "retweeted"
+                }
+            ],
+            "reply_settings": "everyone",
+            "text": "RT @AriTheDon: Be happy for people and even if you not don\u2019t throw shade. A good heart takes you a lot further!"
+        },
+        {
+            "author_id": "199909145",
+            "conversation_id": "1325981669388668930",
+            "created_at": "2020-11-10T02:00:40.000Z",
+            "edit_history_tweet_ids": [
+                "1325981669388668930"
+            ],
+            "entities": {
+                "mentions": [
+                    {
+                        "end": 14,
+                        "id": "15751676",
+                        "start": 3,
+                        "username": "MattNegrin"
+                    }
+                ]
+            },
+            "id": "1325981669388668930",
+            "lang": "en",
+            "public_metrics": {
+                "impression_count": 0,
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 848
+            },
+            "referenced_tweets": [
+                {
+                    "id": "1325949308244553728",
+                    "type": "retweeted"
+                }
+            ],
+            "reply_settings": "everyone",
+            "text": "RT @MattNegrin: The press is almost completely spun on this. They will treat everything with a shade of legal \u201cprocess\u201d as just part of the\u2026"
+        },
+        {
+            "author_id": "188180746",
+            "conversation_id": "1325981660236574721",
+            "created_at": "2020-11-10T02:00:38.000Z",
+            "edit_history_tweet_ids": [
+                "1325981660236574721"
+            ],
+            "entities": {
+                "mentions": [
+                    {
+                        "end": 14,
+                        "id": "15751676",
+                        "start": 3,
+                        "username": "MattNegrin"
+                    }
+                ]
+            },
+            "id": "1325981660236574721",
+            "lang": "en",
+            "public_metrics": {
+                "impression_count": 0,
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 848
+            },
+            "referenced_tweets": [
+                {
+                    "id": "1325949308244553728",
+                    "type": "retweeted"
+                }
+            ],
+            "reply_settings": "everyone",
+            "text": "RT @MattNegrin: The press is almost completely spun on this. They will treat everything with a shade of legal \u201cprocess\u201d as just part of the\u2026"
+        },
+        {
+            "author_id": "859431971247804417",
+            "conversation_id": "1325981657967583232",
+            "created_at": "2020-11-10T02:00:37.000Z",
+            "edit_history_tweet_ids": [
+                "1325981657967583232"
+            ],
+            "entities": {
+                "hashtags": [
+                    {
+                        "end": 103,
+                        "start": 88,
+                        "tag": "ShadeAvoidance"
+                    },
+                    {
+                        "end": 123,
+                        "start": 104,
+                        "tag": "Photomorphogenesis"
+                    },
+                    {
+                        "end": 135,
+                        "start": 124,
+                        "tag": "Plasticity"
+                    },
+                    {
+                        "end": 149,
+                        "start": 136,
+                        "tag": "PlantBiology"
+                    },
+                    {
+                        "end": 159,
+                        "start": 150,
+                        "tag": "PlantSci"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 175,
+                        "id": "2653246363",
+                        "start": 160,
+                        "username": "GelderenKasper"
+                    },
+                    {
+                        "end": 189,
+                        "id": "344676077",
+                        "start": 176,
+                        "username": "ronaldpierik"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "buff.ly/316HNXY",
+                        "end": 213,
+                        "expanded_url": "https://buff.ly/316HNXY",
+                        "start": 190,
+                        "url": "https://t.co/ks4jURSpOU"
+                    },
+                    {
+                        "display_url": "pic.twitter.com/GVOFsJMPN6",
+                        "end": 237,
+                        "expanded_url": "https://twitter.com/plantae_org/status/1325981657967583232/photo/1",
+                        "media_key": "3_1325981656721842176",
+                        "start": 214,
+                        "url": "https://t.co/GVOFsJMPN6"
+                    }
+                ]
+            },
+            "id": "1325981657967583232",
+            "lang": "fr",
+            "public_metrics": {
+                "impression_count": 0,
+                "like_count": 27,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 6
+            },
+            "reply_settings": "everyone",
+            "text": "Plant Physiology:  A gas-and-brake mechanism of bHLH proteins modulates shade avoidance #ShadeAvoidance #Photomorphogenesis #Plasticity #PlantBiology #PlantSci @GelderenKasper @ronaldpierik https://t.co/ks4jURSpOU https://t.co/GVOFsJMPN6"
+        },
+        {
+            "author_id": "540914326",
+            "context_annotations": [
+                {
+                    "domain": {
+                        "description": "Top level entities that describe a Brands industry",
+                        "id": "45",
+                        "name": "Brand Vertical"
+                    },
+                    "entity": {
+                        "id": "781974596740190208",
+                        "name": "CPG"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+                        "id": "30",
+                        "name": "Entities [Entity Service]"
+                    },
+                    "entity": {
+                        "id": "781974597222604800",
+                        "name": "Beauty/Hygiene - CPG"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "Brands and Companies",
+                        "id": "47",
+                        "name": "Brand"
+                    },
+                    "entity": {
+                        "id": "10043757304",
+                        "name": "essie"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "Top level interests and hobbies groupings, like Food or Travel",
+                        "id": "65",
+                        "name": "Interests and Hobbies Vertical"
+                    },
+                    "entity": {
+                        "description": "Beauty",
+                        "id": "850395585941086209",
+                        "name": "Beauty"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+                        "id": "30",
+                        "name": "Entities [Entity Service]"
+                    },
+                    "entity": {
+                        "description": "Nail Polish",
+                        "id": "856605935296405504",
+                        "name": "Nails"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "Top level entities that describe a Brands industry",
+                        "id": "45",
+                        "name": "Brand Vertical"
+                    },
+                    "entity": {
+                        "id": "781974596740190208",
+                        "name": "CPG"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+                        "id": "30",
+                        "name": "Entities [Entity Service]"
+                    },
+                    "entity": {
+                        "id": "781974597222604800",
+                        "name": "Beauty/Hygiene - CPG"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "Brands and Companies",
+                        "id": "47",
+                        "name": "Brand"
+                    },
+                    "entity": {
+                        "id": "10043757304",
+                        "name": "essie"
+                    }
+                }
+            ],
+            "conversation_id": "1325981625251983361",
+            "created_at": "2020-11-10T02:00:29.000Z",
+            "edit_history_tweet_ids": [
+                "1325981625251983361"
+            ],
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 47,
+                        "normalized_text": "bonbonnuit",
+                        "probability": 0.446,
+                        "start": 38,
+                        "type": "Other"
+                    },
+                    {
+                        "end": 91,
+                        "normalized_text": "essiewinter2020",
+                        "probability": 0.5858,
+                        "start": 77,
+                        "type": "Person"
+                    }
+                ],
+                "hashtags": [
+                    {
+                        "end": 48,
+                        "start": 37,
+                        "tag": "bonbonnuit"
+                    },
+                    {
+                        "end": 92,
+                        "start": 76,
+                        "tag": "essiewinter2020"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 9,
+                        "id": "105340932",
+                        "start": 3,
+                        "username": "essie"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "pic.twitter.com/b9V5nkU7bb",
+                        "end": 118,
+                        "expanded_url": "https://twitter.com/essie/status/1325901868493643778/photo/1",
+                        "media_key": "3_1325901863527604224",
+                        "start": 95,
+                        "url": "https://t.co/b9V5nkU7bb"
+                    }
+                ]
+            },
+            "id": "1325981625251983361",
+            "lang": "en",
+            "public_metrics": {
+                "impression_count": 0,
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 13
+            },
+            "referenced_tweets": [
+                {
+                    "id": "1325901868493643778",
+                    "type": "retweeted"
+                }
+            ],
+            "reply_settings": "everyone",
+            "text": "RT @essie: cool, shimmery pink shade #bonbonnuit is a thing of fantasy from #essiewinter2020 \u2728 https://t.co/b9V5nkU7bb"
+        },
+        {
+            "author_id": "894716698955206656",
+            "context_annotations": [
+                {
+                    "domain": {
+                        "description": "Top level interests and hobbies groupings, like Food or Travel",
+                        "id": "65",
+                        "name": "Interests and Hobbies Vertical"
+                    },
+                    "entity": {
+                        "description": "Beauty",
+                        "id": "850395585941086209",
+                        "name": "Beauty"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+                        "id": "66",
+                        "name": "Interests and Hobbies Category"
+                    },
+                    "entity": {
+                        "description": "Make-up and Cosmetics",
+                        "id": "855442035314089988",
+                        "name": "Makeup"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+                        "id": "67",
+                        "name": "Interests and Hobbies"
+                    },
+                    "entity": {
+                        "description": "Lipstick",
+                        "id": "855445937707040768",
+                        "name": "Lipstick"
+                    }
+                }
+            ],
+            "conversation_id": "1325981583614963717",
+            "created_at": "2020-11-10T02:00:19.000Z",
+            "edit_history_tweet_ids": [
+                "1325981583614963717"
+            ],
+            "entities": {
+                "urls": [
+                    {
+                        "display_url": "kloojjtrends.com/sizzling-lipst\u2026",
+                        "end": 163,
+                        "expanded_url": "https://www.kloojjtrends.com/sizzling-lipsticks-that-re-sizzling-the-orang-world-right-now-12484/",
+                        "start": 140,
+                        "url": "https://t.co/ZCT4dT13Hp"
+                    },
+                    {
+                        "display_url": "pic.twitter.com/KJRaDmzjFJ",
+                        "end": 187,
+                        "expanded_url": "https://twitter.com/TrendBeautiful/status/1325981583614963717/photo/1",
+                        "media_key": "3_1325981581945659392",
+                        "start": 164,
+                        "url": "https://t.co/KJRaDmzjFJ"
+                    }
+                ]
+            },
+            "id": "1325981583614963717",
+            "lang": "en",
+            "public_metrics": {
+                "impression_count": 0,
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "reply_settings": "everyone",
+            "text": "To help you choose your new shade, we\u2019ve sampled the hottest orange lipsticks that can add more definition to your looks.  Watch a video at https://t.co/ZCT4dT13Hp https://t.co/KJRaDmzjFJ"
+        },
+        {
+            "author_id": "746961619423399936",
+            "conversation_id": "1325981580670738432",
+            "created_at": "2020-11-10T02:00:19.000Z",
+            "edit_history_tweet_ids": [
+                "1325981580670738432"
+            ],
+            "id": "1325981580670738432",
+            "lang": "en",
+            "public_metrics": {
+                "impression_count": 0,
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "reply_settings": "everyone",
+            "text": "Not gonna lie. I love that shade of green of the jets helmet."
+        },
+        {
+            "author_id": "67780629",
+            "conversation_id": "1325981571644612608",
+            "created_at": "2020-11-10T02:00:16.000Z",
+            "edit_history_tweet_ids": [
+                "1325981571644612608"
+            ],
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 28,
+                        "normalized_text": "Blue Ivy",
+                        "probability": 0.5636,
+                        "start": 21,
+                        "type": "Person"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 19,
+                        "id": "1070701929150509057",
+                        "start": 3,
+                        "username": "KennyAlphaOmega"
+                    }
+                ]
+            },
+            "id": "1325981571644612608",
+            "lang": "en",
+            "public_metrics": {
+                "impression_count": 0,
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 178
+            },
+            "referenced_tweets": [
+                {
+                    "id": "1325843622898642946",
+                    "type": "retweeted"
+                }
+            ],
+            "reply_settings": "everyone",
+            "text": "RT @KennyAlphaOmega: Blue Ivy narrating this book is shade cuz you bitches was talking shit about her hair before she could read.... https:\u2026"
+        },
+        {
+            "author_id": "77244409",
+            "conversation_id": "1325981559699238915",
+            "created_at": "2020-11-10T02:00:14.000Z",
+            "edit_history_tweet_ids": [
+                "1325981559699238915"
+            ],
+            "entities": {
+                "mentions": [
+                    {
+                        "end": 14,
+                        "id": "15751676",
+                        "start": 3,
+                        "username": "MattNegrin"
+                    }
+                ]
+            },
+            "id": "1325981559699238915",
+            "lang": "en",
+            "public_metrics": {
+                "impression_count": 0,
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 848
+            },
+            "referenced_tweets": [
+                {
+                    "id": "1325949308244553728",
+                    "type": "retweeted"
+                }
+            ],
+            "reply_settings": "everyone",
+            "text": "RT @MattNegrin: The press is almost completely spun on this. They will treat everything with a shade of legal \u201cprocess\u201d as just part of the\u2026"
+        },
+        {
+            "author_id": "3852275898",
+            "conversation_id": "1325981542863265792",
+            "created_at": "2020-11-10T02:00:10.000Z",
+            "edit_history_tweet_ids": [
+                "1325981542863265792"
+            ],
+            "entities": {
+                "mentions": [
+                    {
+                        "end": 13,
+                        "id": "1095786885685882880",
+                        "start": 3,
+                        "username": "AriTheDon"
+                    }
+                ]
+            },
+            "id": "1325981542863265792",
+            "lang": "en",
+            "public_metrics": {
+                "impression_count": 0,
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 7944
+            },
+            "referenced_tweets": [
+                {
+                    "id": "1325510091660021765",
+                    "type": "retweeted"
+                }
+            ],
+            "reply_settings": "everyone",
+            "text": "RT @AriTheDon: Be happy for people and even if you not don\u2019t throw shade. A good heart takes you a lot further!"
+        },
+        {
+            "author_id": "414451708",
+            "conversation_id": "1325981539763695616",
+            "created_at": "2020-11-10T02:00:09.000Z",
+            "edit_history_tweet_ids": [
+                "1325981539763695616"
+            ],
+            "entities": {
+                "mentions": [
+                    {
+                        "end": 14,
+                        "id": "15751676",
+                        "start": 3,
+                        "username": "MattNegrin"
+                    }
+                ]
+            },
+            "id": "1325981539763695616",
+            "lang": "en",
+            "public_metrics": {
+                "impression_count": 0,
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 848
+            },
+            "referenced_tweets": [
+                {
+                    "id": "1325949308244553728",
+                    "type": "retweeted"
+                }
+            ],
+            "reply_settings": "everyone",
+            "text": "RT @MattNegrin: The press is almost completely spun on this. They will treat everything with a shade of legal \u201cprocess\u201d as just part of the\u2026"
+        },
+        {
+            "author_id": "753322473463091200",
+            "context_annotations": [
+                {
+                    "domain": {
+                        "description": "Franchises which span multiple forms of media like 'Harry Potter'",
+                        "id": "130",
+                        "name": "Multimedia Franchise"
+                    },
+                    "entity": {
+                        "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series, if applicable.\t\t\t",
+                        "id": "986247671663898625",
+                        "name": "Star Wars"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A taxonomy of user interests. ",
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy"
+                    },
+                    "entity": {
+                        "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series, if applicable.\t\t\t",
+                        "id": "986247671663898625",
+                        "name": "Star Wars"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A taxonomy of user interests. ",
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy"
+                    },
+                    "entity": {
+                        "id": "1074757527995277313",
+                        "name": "Entertainment franchises"
+                    }
+                }
+            ],
+            "conversation_id": "1325873394798260224",
+            "created_at": "2020-11-10T01:59:59.000Z",
+            "edit_history_tweet_ids": [
+                "1325981498487476224"
+            ],
+            "entities": {
+                "mentions": [
+                    {
+                        "end": 11,
+                        "id": "52558208",
+                        "start": 0,
+                        "username": "longfang91"
+                    }
+                ]
+            },
+            "id": "1325981498487476224",
+            "in_reply_to_user_id": "52558208",
+            "lang": "en",
+            "public_metrics": {
+                "impression_count": 0,
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "referenced_tweets": [
+                {
+                    "id": "1325873394798260224",
+                    "type": "replied_to"
+                }
+            ],
+            "reply_settings": "everyone",
+            "text": "@longfang91 Ooh very well done, it looks very well maintained with if it's a lightsaber(idk what it is just guessing) i say they would be as that's basically a jedi personality and self expression plus thats just a very nice shade green"
+        },
+        {
+            "author_id": "1918074270",
+            "conversation_id": "1325981472789028866",
+            "created_at": "2020-11-10T01:59:53.000Z",
+            "edit_history_tweet_ids": [
+                "1325981472789028866"
+            ],
+            "entities": {
+                "mentions": [
+                    {
+                        "end": 13,
+                        "id": "1095786885685882880",
+                        "start": 3,
+                        "username": "AriTheDon"
+                    }
+                ]
+            },
+            "id": "1325981472789028866",
+            "lang": "en",
+            "public_metrics": {
+                "impression_count": 0,
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 7944
+            },
+            "referenced_tweets": [
+                {
+                    "id": "1325510091660021765",
+                    "type": "retweeted"
+                }
+            ],
+            "reply_settings": "everyone",
+            "text": "RT @AriTheDon: Be happy for people and even if you not don\u2019t throw shade. A good heart takes you a lot further!"
+        },
+        {
+            "author_id": "1161024469231644674",
+            "conversation_id": "1325859066200154113",
+            "created_at": "2020-11-10T01:59:49.000Z",
+            "edit_history_tweet_ids": [
+                "1325981455042883584"
+            ],
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 32,
+                        "normalized_text": "Joyce",
+                        "probability": 0.7418,
+                        "start": 28,
+                        "type": "Person"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 10,
+                        "id": "14888467",
+                        "start": 0,
+                        "username": "davidgura"
+                    },
+                    {
+                        "end": 27,
+                        "id": "548384458",
+                        "start": 11,
+                        "username": "JoyceWhiteVance"
+                    }
+                ]
+            },
+            "id": "1325981455042883584",
+            "in_reply_to_user_id": "14888467",
+            "lang": "en",
+            "public_metrics": {
+                "impression_count": 0,
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "referenced_tweets": [
+                {
+                    "id": "1325859066200154113",
+                    "type": "replied_to"
+                }
+            ],
+            "reply_settings": "everyone",
+            "text": "@davidgura @JoyceWhiteVance Joyce wins the Shade of the day medal"
+        },
+        {
+            "author_id": "1187884103296634881",
+            "conversation_id": "1325981453419601921",
+            "created_at": "2020-11-10T01:59:48.000Z",
+            "edit_history_tweet_ids": [
+                "1325981453419601921"
+            ],
+            "entities": {
+                "mentions": [
+                    {
+                        "end": 14,
+                        "id": "15751676",
+                        "start": 3,
+                        "username": "MattNegrin"
+                    }
+                ]
+            },
+            "id": "1325981453419601921",
+            "lang": "en",
+            "public_metrics": {
+                "impression_count": 0,
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 848
+            },
+            "referenced_tweets": [
+                {
+                    "id": "1325949308244553728",
+                    "type": "retweeted"
+                }
+            ],
+            "reply_settings": "everyone",
+            "text": "RT @MattNegrin: The press is almost completely spun on this. They will treat everything with a shade of legal \u201cprocess\u201d as just part of the\u2026"
+        },
+        {
+            "author_id": "819157547248562176",
+            "conversation_id": "1325978569323917312",
+            "created_at": "2020-11-10T01:59:40.000Z",
+            "edit_history_tweet_ids": [
+                "1325981418346852353"
+            ],
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 13,
+                        "normalized_text": "NBWB",
+                        "probability": 0.5113,
+                        "start": 10,
+                        "type": "Other"
+                    }
+                ]
+            },
+            "id": "1325981418346852353",
+            "in_reply_to_user_id": "819157547248562176",
+            "lang": "en",
+            "public_metrics": {
+                "impression_count": 0,
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 1,
+                "retweet_count": 0
+            },
+            "referenced_tweets": [
+                {
+                    "id": "1325981286830284800",
+                    "type": "replied_to"
+                }
+            ],
+            "reply_settings": "everyone",
+            "text": "14 wide V NBWB top half in shade, wide V green wall on left."
+        },
+        {
+            "author_id": "1142994133868601344",
+            "conversation_id": "1325981417545854977",
+            "created_at": "2020-11-10T01:59:40.000Z",
+            "edit_history_tweet_ids": [
+                "1325981417545854977"
+            ],
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 125,
+                        "normalized_text": "Bozos",
+                        "probability": 0.3974,
+                        "start": 121,
+                        "type": "Organization"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "pic.twitter.com/7katUxkdSV",
+                        "end": 150,
+                        "expanded_url": "https://twitter.com/PinchiElo/status/1325981417545854977/photo/1",
+                        "media_key": "16_1325981411250200577",
+                        "start": 127,
+                        "url": "https://t.co/7katUxkdSV"
+                    }
+                ]
+            },
+            "id": "1325981417545854977",
+            "lang": "en",
+            "public_metrics": {
+                "impression_count": 0,
+                "like_count": 1,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "reply_settings": "everyone",
+            "text": "Folks be going out of their way to throw shade .....just for those they're throwing shade at not be giving a shitt.....\n\nBozos https://t.co/7katUxkdSV"
+        },
+        {
+            "author_id": "605092991",
+            "conversation_id": "1325981364378771456",
+            "created_at": "2020-11-10T01:59:27.000Z",
+            "edit_history_tweet_ids": [
+                "1325981364378771456"
+            ],
+            "entities": {
+                "mentions": [
+                    {
+                        "end": 13,
+                        "id": "1095786885685882880",
+                        "start": 3,
+                        "username": "AriTheDon"
+                    }
+                ]
+            },
+            "id": "1325981364378771456",
+            "lang": "en",
+            "public_metrics": {
+                "impression_count": 0,
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 7944
+            },
+            "referenced_tweets": [
+                {
+                    "id": "1325510091660021765",
+                    "type": "retweeted"
+                }
+            ],
+            "reply_settings": "everyone",
+            "text": "RT @AriTheDon: Be happy for people and even if you not don\u2019t throw shade. A good heart takes you a lot further!"
+        },
+        {
+            "author_id": "1510301720",
+            "conversation_id": "1325981362801795073",
+            "created_at": "2020-11-10T01:59:27.000Z",
+            "edit_history_tweet_ids": [
+                "1325981362801795073"
+            ],
+            "entities": {
+                "mentions": [
+                    {
+                        "end": 14,
+                        "id": "15751676",
+                        "start": 3,
+                        "username": "MattNegrin"
+                    }
+                ]
+            },
+            "id": "1325981362801795073",
+            "lang": "en",
+            "public_metrics": {
+                "impression_count": 0,
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 848
+            },
+            "referenced_tweets": [
+                {
+                    "id": "1325949308244553728",
+                    "type": "retweeted"
+                }
+            ],
+            "reply_settings": "everyone",
+            "text": "RT @MattNegrin: The press is almost completely spun on this. They will treat everything with a shade of legal \u201cprocess\u201d as just part of the\u2026"
+        },
+        {
+            "author_id": "386913236",
+            "conversation_id": "1325981361782583297",
+            "created_at": "2020-11-10T01:59:26.000Z",
+            "edit_history_tweet_ids": [
+                "1325981361782583297"
+            ],
+            "entities": {
+                "mentions": [
+                    {
+                        "end": 19,
+                        "id": "569605798",
+                        "start": 3,
+                        "username": "ItsRaychellRose"
+                    },
+                    {
+                        "end": 37,
+                        "id": "391827601",
+                        "start": 21,
+                        "username": "briancervantes4"
+                    },
+                    {
+                        "end": 53,
+                        "id": "1152076512822083584",
+                        "start": 38,
+                        "username": "MissionProWres"
+                    }
+                ]
+            },
+            "id": "1325981361782583297",
+            "lang": "en",
+            "public_metrics": {
+                "impression_count": 0,
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 1
+            },
+            "referenced_tweets": [
+                {
+                    "id": "1325870360747782150",
+                    "type": "retweeted"
+                }
+            ],
+            "reply_settings": "everyone",
+            "text": "RT @ItsRaychellRose: @briancervantes4 @MissionProWres Thank you \ud83d\ude0a \n\nI will let the subtle shade slide........ for now. https://t.co/67HoV6r\u2026"
+        },
+        {
+            "author_id": "389251741",
+            "conversation_id": "1325981350357131264",
+            "created_at": "2020-11-10T01:59:24.000Z",
+            "edit_history_tweet_ids": [
+                "1325981350357131264"
+            ],
+            "entities": {
+                "mentions": [
+                    {
+                        "end": 14,
+                        "id": "15751676",
+                        "start": 3,
+                        "username": "MattNegrin"
+                    }
+                ]
+            },
+            "id": "1325981350357131264",
+            "lang": "en",
+            "public_metrics": {
+                "impression_count": 0,
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 848
+            },
+            "referenced_tweets": [
+                {
+                    "id": "1325949308244553728",
+                    "type": "retweeted"
+                }
+            ],
+            "reply_settings": "everyone",
+            "text": "RT @MattNegrin: The press is almost completely spun on this. They will treat everything with a shade of legal \u201cprocess\u201d as just part of the\u2026"
+        },
+        {
+            "author_id": "1012304554434572289",
+            "conversation_id": "1325981349694509056",
+            "created_at": "2020-11-10T01:59:23.000Z",
+            "edit_history_tweet_ids": [
+                "1325981349694509056"
+            ],
+            "id": "1325981349694509056",
+            "lang": "in",
+            "public_metrics": {
+                "impression_count": 0,
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 1,
+                "retweet_count": 0
+            },
+            "reply_settings": "everyone",
+            "text": "nyesel banget anjir salah beli shade lip tint"
+        },
+        {
+            "author_id": "1168326963502518272",
+            "conversation_id": "1325981347723141120",
+            "created_at": "2020-11-10T01:59:23.000Z",
+            "edit_history_tweet_ids": [
+                "1325981347723141120"
+            ],
+            "entities": {
+                "mentions": [
+                    {
+                        "end": 14,
+                        "id": "15751676",
+                        "start": 3,
+                        "username": "MattNegrin"
+                    }
+                ]
+            },
+            "id": "1325981347723141120",
+            "lang": "en",
+            "public_metrics": {
+                "impression_count": 0,
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 848
+            },
+            "referenced_tweets": [
+                {
+                    "id": "1325949308244553728",
+                    "type": "retweeted"
+                }
+            ],
+            "reply_settings": "everyone",
+            "text": "RT @MattNegrin: The press is almost completely spun on this. They will treat everything with a shade of legal \u201cprocess\u201d as just part of the\u2026"
+        },
+        {
+            "author_id": "1288553498695483394",
+            "context_annotations": [
+                {
+                    "domain": {
+                        "description": "Named people in the world like Nelson Mandela",
+                        "id": "10",
+                        "name": "Person"
+                    },
+                    "entity": {
+                        "description": "Candidate for Governor of Georgia, Brian Kemp",
+                        "id": "999041789460860928",
+                        "name": "Brian Kemp"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "Politicians in the world, like Joe Biden",
+                        "id": "35",
+                        "name": "Politician"
+                    },
+                    "entity": {
+                        "description": "Candidate for Governor of Georgia, Brian Kemp",
+                        "id": "999041789460860928",
+                        "name": "Brian Kemp"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A taxonomy of user interests. ",
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy"
+                    },
+                    "entity": {
+                        "description": "Politics",
+                        "id": "847878884917886977",
+                        "name": "Politics"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A taxonomy of user interests. ",
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy"
+                    },
+                    "entity": {
+                        "description": "Candidate for Governor of Georgia, Brian Kemp",
+                        "id": "999041789460860928",
+                        "name": "Brian Kemp"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A taxonomy of user interests. ",
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy"
+                    },
+                    "entity": {
+                        "description": "Politician",
+                        "id": "1070032753834438656",
+                        "name": "Political figures"
+                    }
+                }
+            ],
+            "conversation_id": "1325890553536516097",
+            "created_at": "2020-11-10T01:59:21.000Z",
+            "edit_history_tweet_ids": [
+                "1325981340114669569"
+            ],
+            "entities": {
+                "mentions": [
+                    {
+                        "end": 9,
+                        "id": "713826762111590400",
+                        "start": 0,
+                        "username": "SMTM2016"
+                    },
+                    {
+                        "end": 24,
+                        "id": "1314118623267557377",
+                        "start": 10,
+                        "username": "YumekoXKirari"
+                    },
+                    {
+                        "end": 40,
+                        "id": "1129314669057851392",
+                        "start": 25,
+                        "username": "DragonEmpress4"
+                    },
+                    {
+                        "end": 50,
+                        "id": "935297163524837376",
+                        "start": 41,
+                        "username": "TheInc0g"
+                    },
+                    {
+                        "end": 66,
+                        "id": "2472114564",
+                        "start": 51,
+                        "username": "fluffylynxtaur"
+                    },
+                    {
+                        "end": 77,
+                        "id": "2839408042",
+                        "start": 67,
+                        "username": "Shade_Nox"
+                    },
+                    {
+                        "end": 103,
+                        "id": "171622846",
+                        "start": 91,
+                        "username": "WestleyBill"
+                    },
+                    {
+                        "end": 114,
+                        "id": "179253352",
+                        "start": 104,
+                        "username": "Powie1965"
+                    },
+                    {
+                        "end": 128,
+                        "id": "1128318066",
+                        "start": 115,
+                        "username": "teslaman3025"
+                    },
+                    {
+                        "end": 141,
+                        "id": "47437206",
+                        "start": 129,
+                        "username": "BrianKempGA"
+                    }
+                ]
+            },
+            "id": "1325981340114669569",
+            "in_reply_to_user_id": "713826762111590400",
+            "lang": "en",
+            "public_metrics": {
+                "impression_count": 0,
+                "like_count": 6,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "referenced_tweets": [
+                {
+                    "id": "1325953782476234752",
+                    "type": "replied_to"
+                }
+            ],
+            "reply_settings": "everyone",
+            "text": "@SMTM2016 @YumekoXKirari @DragonEmpress4 @TheInc0g @fluffylynxtaur @Shade_Nox @yourhomedfw @WestleyBill @Powie1965 @teslaman3025 @BrianKempGA Okay so you're a terrorist."
+        },
+        {
+            "author_id": "486322474",
+            "conversation_id": "1325981335375196161",
+            "created_at": "2020-11-10T01:59:20.000Z",
+            "edit_history_tweet_ids": [
+                "1325981335375196161"
+            ],
+            "entities": {
+                "mentions": [
+                    {
+                        "end": 14,
+                        "id": "15751676",
+                        "start": 3,
+                        "username": "MattNegrin"
+                    }
+                ]
+            },
+            "id": "1325981335375196161",
+            "lang": "en",
+            "public_metrics": {
+                "impression_count": 0,
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 848
+            },
+            "referenced_tweets": [
+                {
+                    "id": "1325949308244553728",
+                    "type": "retweeted"
+                }
+            ],
+            "reply_settings": "everyone",
+            "text": "RT @MattNegrin: The press is almost completely spun on this. They will treat everything with a shade of legal \u201cprocess\u201d as just part of the\u2026"
+        },
+        {
+            "author_id": "4263219374",
+            "conversation_id": "1325981325346693120",
+            "created_at": "2020-11-10T01:59:18.000Z",
+            "edit_history_tweet_ids": [
+                "1325981325346693120"
+            ],
+            "entities": {
+                "mentions": [
+                    {
+                        "end": 14,
+                        "id": "15751676",
+                        "start": 3,
+                        "username": "MattNegrin"
+                    }
+                ]
+            },
+            "id": "1325981325346693120",
+            "lang": "en",
+            "public_metrics": {
+                "impression_count": 0,
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 848
+            },
+            "referenced_tweets": [
+                {
+                    "id": "1325949308244553728",
+                    "type": "retweeted"
+                }
+            ],
+            "reply_settings": "everyone",
+            "text": "RT @MattNegrin: The press is almost completely spun on this. They will treat everything with a shade of legal \u201cprocess\u201d as just part of the\u2026"
+        },
+        {
+            "author_id": "3081367818",
+            "conversation_id": "1325981325304590337",
+            "created_at": "2020-11-10T01:59:18.000Z",
+            "edit_history_tweet_ids": [
+                "1325981325304590337"
+            ],
+            "entities": {
+                "urls": [
+                    {
+                        "display_url": "t.co/WDd88vXAn3",
+                        "end": 63,
+                        "expanded_url": "https://t.co/WDd88vXAn3",
+                        "start": 40,
+                        "url": "https://t.co/WDd88vXAn3"
+                    }
+                ]
+            },
+            "id": "1325981325304590337",
+            "lang": "en",
+            "public_metrics": {
+                "impression_count": 0,
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "reply_settings": "everyone",
+            "text": "Cause shade never make anybody less gay https://t.co/WDd88vXAn3"
+        },
+        {
+            "author_id": "1152260073709813761",
+            "conversation_id": "1325980247666397184",
+            "created_at": "2020-11-10T01:59:14.000Z",
+            "edit_history_tweet_ids": [
+                "1325981308640763905"
+            ],
+            "entities": {
+                "mentions": [
+                    {
+                        "end": 8,
+                        "id": "782198313378611200",
+                        "start": 0,
+                        "username": "kenwopp"
+                    }
+                ]
+            },
+            "id": "1325981308640763905",
+            "in_reply_to_user_id": "782198313378611200",
+            "lang": "en",
+            "public_metrics": {
+                "impression_count": 0,
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "referenced_tweets": [
+                {
+                    "id": "1325981210833784833",
+                    "type": "replied_to"
+                }
+            ],
+            "reply_settings": "everyone",
+            "text": "@kenwopp I know , bc nobody ain\u2019t posted it not even the shade room"
+        },
+        {
+            "author_id": "80323",
+            "context_annotations": [
+                {
+                    "domain": {
+                        "description": "Television shows from around the world",
+                        "id": "3",
+                        "name": "TV Shows"
+                    },
+                    "entity": {
+                        "description": "In the Cambridgeshire village of Grantchester in the 1950s, gruff, down-to-earth police inspector Geordie Keating's methodical approach to police work complements the intuitive techniques of local vicar Sidney Chambers, and later the Rev. Will Davenport. Geordie forms an unlikely partnership with both men of the cloth, and as partners they bring different insights into the crimes they start to unravel, forming true friendships as they work together. Village life in Grantchester proves to be much livelier than its sleepy appearance might suggest, with intrigue and gossip swirling in the background of Geordie's investigations.",
+                        "id": "10004508148",
+                        "name": "Masterpiece Mystery! (includes Sherlock)"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "Television shows from around the world",
+                        "id": "3",
+                        "name": "TV Shows"
+                    },
+                    "entity": {
+                        "id": "10027771434",
+                        "name": "Miss Marple"
+                    }
+                }
+            ],
+            "conversation_id": "1325981305184555008",
+            "created_at": "2020-11-10T01:59:13.000Z",
+            "edit_history_tweet_ids": [
+                "1325981305184555008"
+            ],
+            "entities": {
+                "urls": [
+                    {
+                        "display_url": "twitter.com/nyttypos/statu\u2026",
+                        "end": 47,
+                        "expanded_url": "https://twitter.com/nyttypos/status/1325563090876964865",
+                        "start": 24,
+                        "url": "https://t.co/eKt1BXNLvq"
+                    }
+                ]
+            },
+            "id": "1325981305184555008",
+            "lang": "en",
+            "public_metrics": {
+                "impression_count": 0,
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "referenced_tweets": [
+                {
+                    "id": "1325563090876964865",
+                    "type": "quoted"
+                }
+            ],
+            "reply_settings": "everyone",
+            "text": "Oh, the shade. Tee hee. https://t.co/eKt1BXNLvq"
+        },
+        {
+            "author_id": "1072388983",
+            "conversation_id": "1325981304937013248",
+            "created_at": "2020-11-10T01:59:13.000Z",
+            "edit_history_tweet_ids": [
+                "1325981304937013248"
+            ],
+            "entities": {
+                "mentions": [
+                    {
+                        "end": 14,
+                        "id": "15751676",
+                        "start": 3,
+                        "username": "MattNegrin"
+                    }
+                ]
+            },
+            "id": "1325981304937013248",
+            "lang": "en",
+            "public_metrics": {
+                "impression_count": 0,
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 848
+            },
+            "referenced_tweets": [
+                {
+                    "id": "1325949308244553728",
+                    "type": "retweeted"
+                }
+            ],
+            "reply_settings": "everyone",
+            "text": "RT @MattNegrin: The press is almost completely spun on this. They will treat everything with a shade of legal \u201cprocess\u201d as just part of the\u2026"
+        },
+        {
+            "author_id": "372393596",
+            "conversation_id": "1325981297236451330",
+            "created_at": "2020-11-10T01:59:11.000Z",
+            "edit_history_tweet_ids": [
+                "1325981297236451330"
+            ],
+            "entities": {
+                "mentions": [
+                    {
+                        "end": 14,
+                        "id": "15751676",
+                        "start": 3,
+                        "username": "MattNegrin"
+                    }
+                ]
+            },
+            "id": "1325981297236451330",
+            "lang": "en",
+            "public_metrics": {
+                "impression_count": 0,
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 848
+            },
+            "referenced_tweets": [
+                {
+                    "id": "1325949308244553728",
+                    "type": "retweeted"
+                }
+            ],
+            "reply_settings": "everyone",
+            "text": "RT @MattNegrin: The press is almost completely spun on this. They will treat everything with a shade of legal \u201cprocess\u201d as just part of the\u2026"
+        },
+        {
+            "author_id": "70431059",
+            "conversation_id": "1325981289724440579",
+            "created_at": "2020-11-10T01:59:09.000Z",
+            "edit_history_tweet_ids": [
+                "1325981289724440579"
+            ],
+            "entities": {
+                "mentions": [
+                    {
+                        "end": 14,
+                        "id": "15751676",
+                        "start": 3,
+                        "username": "MattNegrin"
+                    }
+                ]
+            },
+            "id": "1325981289724440579",
+            "lang": "en",
+            "public_metrics": {
+                "impression_count": 0,
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 848
+            },
+            "referenced_tweets": [
+                {
+                    "id": "1325949308244553728",
+                    "type": "retweeted"
+                }
+            ],
+            "reply_settings": "everyone",
+            "text": "RT @MattNegrin: The press is almost completely spun on this. They will treat everything with a shade of legal \u201cprocess\u201d as just part of the\u2026"
+        },
+        {
+            "author_id": "2921000477",
+            "conversation_id": "1325981276709531648",
+            "created_at": "2020-11-10T01:59:06.000Z",
+            "edit_history_tweet_ids": [
+                "1325981276709531648"
+            ],
+            "entities": {
+                "mentions": [
+                    {
+                        "end": 14,
+                        "id": "15751676",
+                        "start": 3,
+                        "username": "MattNegrin"
+                    }
+                ]
+            },
+            "id": "1325981276709531648",
+            "lang": "en",
+            "public_metrics": {
+                "impression_count": 0,
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 848
+            },
+            "referenced_tweets": [
+                {
+                    "id": "1325949308244553728",
+                    "type": "retweeted"
+                }
+            ],
+            "reply_settings": "everyone",
+            "text": "RT @MattNegrin: The press is almost completely spun on this. They will treat everything with a shade of legal \u201cprocess\u201d as just part of the\u2026"
+        },
+        {
+            "author_id": "1309064196672413699",
+            "conversation_id": "1325981268228648962",
+            "created_at": "2020-11-10T01:59:04.000Z",
+            "edit_history_tweet_ids": [
+                "1325981268228648962"
+            ],
+            "entities": {
+                "urls": [
+                    {
+                        "display_url": "vogue.co.uk/fashion/articl\u2026",
+                        "end": 95,
+                        "expanded_url": "https://www.vogue.co.uk/fashion/article/ode-to-black",
+                        "start": 72,
+                        "url": "https://t.co/vjFBKwKsKU"
+                    }
+                ]
+            },
+            "id": "1325981268228648962",
+            "lang": "en",
+            "public_metrics": {
+                "impression_count": 0,
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "reply_settings": "everyone",
+            "text": "Pitch Perfect: An Ode To Fashion\u2019s Most Faultless &amp; Seductive Shade https://t.co/vjFBKwKsKU"
+        },
+        {
+            "author_id": "988887666505732097",
+            "conversation_id": "1325981247986921473",
+            "created_at": "2020-11-10T01:58:59.000Z",
+            "edit_history_tweet_ids": [
+                "1325981247986921473"
+            ],
+            "entities": {
+                "mentions": [
+                    {
+                        "end": 14,
+                        "id": "15751676",
+                        "start": 3,
+                        "username": "MattNegrin"
+                    }
+                ]
+            },
+            "id": "1325981247986921473",
+            "lang": "en",
+            "public_metrics": {
+                "impression_count": 0,
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 848
+            },
+            "referenced_tweets": [
+                {
+                    "id": "1325949308244553728",
+                    "type": "retweeted"
+                }
+            ],
+            "reply_settings": "everyone",
+            "text": "RT @MattNegrin: The press is almost completely spun on this. They will treat everything with a shade of legal \u201cprocess\u201d as just part of the\u2026"
+        },
+        {
+            "author_id": "2351917352",
+            "context_annotations": [
+                {
+                    "domain": {
+                        "description": "Television shows from around the world",
+                        "id": "3",
+                        "name": "TV Shows"
+                    },
+                    "entity": {
+                        "description": "Follows several well-to-do women who are part of the exclusive society in Potomac. ",
+                        "id": "10041976558",
+                        "name": "The Real Housewives of Potomac"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A taxonomy of user interests. ",
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy"
+                    },
+                    "entity": {
+                        "id": "1288106805344653314",
+                        "name": "The Real Housewives of Potomac"
+                    }
+                }
+            ],
+            "conversation_id": "1325981242848804865",
+            "created_at": "2020-11-10T01:58:58.000Z",
+            "edit_history_tweet_ids": [
+                "1325981242848804865"
+            ],
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 58,
+                        "normalized_text": "Ashley",
+                        "probability": 0.6483,
+                        "start": 53,
+                        "type": "Other"
+                    },
+                    {
+                        "end": 70,
+                        "normalized_text": "Monique",
+                        "probability": 0.6965,
+                        "start": 64,
+                        "type": "Other"
+                    },
+                    {
+                        "end": 122,
+                        "normalized_text": "Karen",
+                        "probability": 0.7603,
+                        "start": 118,
+                        "type": "Other"
+                    },
+                    {
+                        "end": 183,
+                        "normalized_text": " #rh",
+                        "probability": 0.7972,
+                        "start": 180,
+                        "type": "Other"
+                    },
+                    {
+                        "end": 195,
+                        "normalized_text": " #karenhug",
+                        "probability": 0.5428,
+                        "start": 186,
+                        "type": "Other"
+                    }
+                ],
+                "hashtags": [
+                    {
+                        "end": 186,
+                        "start": 181,
+                        "tag": "rhop"
+                    },
+                    {
+                        "end": 198,
+                        "start": 187,
+                        "tag": "karenhuger"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 11,
+                        "id": "515950616",
+                        "start": 0,
+                        "username": "KARENHUGER"
+                    }
+                ]
+            },
+            "id": "1325981242848804865",
+            "in_reply_to_user_id": "515950616",
+            "lang": "en",
+            "public_metrics": {
+                "impression_count": 0,
+                "like_count": 2,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "reply_settings": "everyone",
+            "text": "@KARENHUGER is a queen for a reason. Everyone except Ashley and Monique try so hard to bring her down and they can\u2019t! Karen is the queen of shade and in the non desperate way \ud83d\udc81\ud83c\udffb\u200d\u2640\ufe0f #rhop #karenhuger"
+        },
+        {
+            "author_id": "1235691269017325568",
+            "conversation_id": "1325968638030082048",
+            "created_at": "2020-11-10T01:58:58.000Z",
+            "edit_history_tweet_ids": [
+                "1325981241552728064"
+            ],
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 58,
+                        "normalized_text": "Violet",
+                        "probability": 0.5417,
+                        "start": 53,
+                        "type": "Other"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "pic.twitter.com/T0XWT3Hcvw",
+                        "end": 180,
+                        "expanded_url": "https://twitter.com/AAMe100/status/1325981241552728064/photo/1",
+                        "media_key": "3_1325981142164496385",
+                        "start": 157,
+                        "url": "https://t.co/T0XWT3Hcvw"
+                    }
+                ]
+            },
+            "id": "1325981241552728064",
+            "in_reply_to_user_id": "1270070128974147585",
+            "lang": "en",
+            "public_metrics": {
+                "impression_count": 0,
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "referenced_tweets": [
+                {
+                    "id": "1325980195220844544",
+                    "type": "replied_to"
+                }
+            ],
+            "reply_settings": "everyone",
+            "text": "@Jjadey_plays2 you dont have to but Like a Red shade Violet or my first fav purple grayish but here some colors you can go by (AND DM ME I HAVE A GOOD SHOW) https://t.co/T0XWT3Hcvw"
+        },
+        {
+            "author_id": "416033242",
+            "conversation_id": "1325981218832310273",
+            "created_at": "2020-11-10T01:58:52.000Z",
+            "edit_history_tweet_ids": [
+                "1325981218832310273"
+            ],
+            "entities": {
+                "mentions": [
+                    {
+                        "end": 16,
+                        "id": "2314377132",
+                        "start": 3,
+                        "username": "ananicoleee_"
+                    }
+                ]
+            },
+            "id": "1325981218832310273",
+            "lang": "en",
+            "public_metrics": {
+                "impression_count": 0,
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 8
+            },
+            "referenced_tweets": [
+                {
+                    "id": "1325940622113583104",
+                    "type": "retweeted"
+                }
+            ],
+            "reply_settings": "everyone",
+            "text": "RT @ananicoleee_: I am allll about support. No shade, no hate. There\u2019s so much room for all of us to succeed \ud83d\ude4c\ud83c\udffc"
+        },
+        {
+            "author_id": "1174209942213054472",
+            "conversation_id": "1325981193297276928",
+            "created_at": "2020-11-10T01:58:46.000Z",
+            "edit_history_tweet_ids": [
+                "1325981193297276928"
+            ],
+            "entities": {
+                "mentions": [
+                    {
+                        "end": 14,
+                        "id": "15751676",
+                        "start": 3,
+                        "username": "MattNegrin"
+                    }
+                ]
+            },
+            "id": "1325981193297276928",
+            "lang": "en",
+            "public_metrics": {
+                "impression_count": 0,
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 848
+            },
+            "referenced_tweets": [
+                {
+                    "id": "1325949308244553728",
+                    "type": "retweeted"
+                }
+            ],
+            "reply_settings": "everyone",
+            "text": "RT @MattNegrin: The press is almost completely spun on this. They will treat everything with a shade of legal \u201cprocess\u201d as just part of the\u2026"
+        },
+        {
+            "author_id": "17430346",
+            "conversation_id": "1325981184682201089",
+            "created_at": "2020-11-10T01:58:44.000Z",
+            "edit_history_tweet_ids": [
+                "1325981184682201089"
+            ],
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 8,
+                        "normalized_text": "Australia",
+                        "probability": 0.9672,
+                        "start": 0,
+                        "type": "Place"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "twitter.com/mmpadellan/sta\u2026",
+                        "end": 59,
+                        "expanded_url": "https://twitter.com/mmpadellan/status/1325883025721339904",
+                        "start": 36,
+                        "url": "https://t.co/DxLvOHwTb4"
+                    }
+                ]
+            },
+            "id": "1325981184682201089",
+            "lang": "en",
+            "public_metrics": {
+                "impression_count": 0,
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "referenced_tweets": [
+                {
+                    "id": "1325883025721339904",
+                    "type": "quoted"
+                }
+            ],
+            "reply_settings": "everyone",
+            "text": "Australia bringing the (nsfw) shade https://t.co/DxLvOHwTb4"
+        },
+        {
+            "author_id": "275639373",
+            "context_annotations": [
+                {
+                    "domain": {
+                        "description": "Named people in the world like Nelson Mandela",
+                        "id": "10",
+                        "name": "Person"
+                    },
+                    "entity": {
+                        "description": "Tucker Carlson",
+                        "id": "1055165655240990720",
+                        "name": "Tucker Carlson"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "Top level entities that describe a Brands industry",
+                        "id": "45",
+                        "name": "Brand Vertical"
+                    },
+                    "entity": {
+                        "id": "781974597310615553",
+                        "name": "Entertainment"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+                        "id": "30",
+                        "name": "Entities [Entity Service]"
+                    },
+                    "entity": {
+                        "id": "781974597105094656",
+                        "name": "TV/Movies Related - Entertainment"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "Brands and Companies",
+                        "id": "47",
+                        "name": "Brand"
+                    },
+                    "entity": {
+                        "description": "Fox News",
+                        "id": "1065657279150665728",
+                        "name": "Fox News"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A journalist like 'Anderson Cooper'",
+                        "id": "94",
+                        "name": "Journalist"
+                    },
+                    "entity": {
+                        "description": "Tucker Carlson",
+                        "id": "1055165655240990720",
+                        "name": "Tucker Carlson"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A taxonomy of user interests. ",
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy"
+                    },
+                    "entity": {
+                        "description": "News",
+                        "id": "1046545033657081857",
+                        "name": "News"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A taxonomy of user interests. ",
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy"
+                    },
+                    "entity": {
+                        "description": "Tucker Carlson",
+                        "id": "1055165655240990720",
+                        "name": "Tucker Carlson"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A taxonomy of user interests. ",
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy"
+                    },
+                    "entity": {
+                        "description": "Fox News",
+                        "id": "1065657279150665728",
+                        "name": "Fox News"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A taxonomy of user interests. ",
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy"
+                    },
+                    "entity": {
+                        "description": "Journalism",
+                        "id": "1074755369530880001",
+                        "name": "Journalists"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A taxonomy of user interests. ",
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy"
+                    },
+                    "entity": {
+                        "id": "1196447117297905665",
+                        "name": "News outlets"
+                    }
+                }
+            ],
+            "conversation_id": "1325981180446044161",
+            "created_at": "2020-11-10T01:58:43.000Z",
+            "edit_history_tweet_ids": [
+                "1325981180446044161"
+            ],
+            "entities": {
+                "mentions": [
+                    {
+                        "end": 19,
+                        "id": "22703645",
+                        "start": 5,
+                        "username": "TuckerCarlson"
+                    },
+                    {
+                        "end": 51,
+                        "id": "223970563",
+                        "start": 40,
+                        "username": "TeamCavuto"
+                    },
+                    {
+                        "end": 70,
+                        "id": "1367531",
+                        "start": 62,
+                        "username": "FoxNews"
+                    }
+                ]
+            },
+            "id": "1325981180446044161",
+            "lang": "en",
+            "public_metrics": {
+                "impression_count": 0,
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 1,
+                "retweet_count": 0
+            },
+            "reply_settings": "everyone",
+            "text": "Wow. @TuckerCarlson threw some shade at @TeamCavuto tonight...@FoxNews"
+        },
+        {
+            "author_id": "1119808455307489280",
+            "conversation_id": "1325981165803642880",
+            "created_at": "2020-11-10T01:58:40.000Z",
+            "edit_history_tweet_ids": [
+                "1325981165803642880"
+            ],
+            "entities": {
+                "mentions": [
+                    {
+                        "end": 15,
+                        "id": "178999981",
+                        "start": 3,
+                        "username": "KassyDillon"
+                    }
+                ]
+            },
+            "id": "1325981165803642880",
+            "lang": "en",
+            "public_metrics": {
+                "impression_count": 0,
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 118
+            },
+            "referenced_tweets": [
+                {
+                    "id": "1325968687182958592",
+                    "type": "retweeted"
+                }
+            ],
+            "reply_settings": "everyone",
+            "text": "RT @KassyDillon: Is he throwing shade at his own network? \ud83d\udc40"
+        },
+        {
+            "author_id": "3068743915",
+            "context_annotations": [
+                {
+                    "domain": {
+                        "description": "Named people in the world like Nelson Mandela",
+                        "id": "10",
+                        "name": "Person"
+                    },
+                    "entity": {
+                        "description": "American musician",
+                        "id": "1070731916788154368",
+                        "name": "Jes Brieden"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A musician in the world, like Adele or Bob Dylan",
+                        "id": "54",
+                        "name": "Musician"
+                    },
+                    "entity": {
+                        "description": "American musician",
+                        "id": "1070731916788154368",
+                        "name": "Jes Brieden"
+                    }
+                }
+            ],
+            "conversation_id": "1325981126188478469",
+            "created_at": "2020-11-10T01:58:30.000Z",
+            "edit_history_tweet_ids": [
+                "1325981126188478469"
+            ],
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 24,
+                        "normalized_text": "UTB418",
+                        "probability": 0.3821,
+                        "start": 19,
+                        "type": "Other"
+                    },
+                    {
+                        "end": 43,
+                        "normalized_text": "Shade",
+                        "probability": 0.5138,
+                        "start": 39,
+                        "type": "Other"
+                    }
+                ],
+                "hashtags": [
+                    {
+                        "end": 25,
+                        "start": 18,
+                        "tag": "UTB418"
+                    },
+                    {
+                        "end": 126,
+                        "start": 111,
+                        "tag": "UnleashTheBeat"
+                    },
+                    {
+                        "end": 137,
+                        "start": 127,
+                        "tag": "Mainstage"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 16,
+                        "id": "17428742",
+                        "start": 3,
+                        "username": "Official_JES"
+                    },
+                    {
+                        "end": 37,
+                        "id": "893084016",
+                        "start": 29,
+                        "username": "Quantor"
+                    },
+                    {
+                        "end": 77,
+                        "id": "94380562",
+                        "start": 61,
+                        "username": "HighContrastRec"
+                    },
+                    {
+                        "end": 110,
+                        "id": "19788525",
+                        "start": 102,
+                        "username": "diradio"
+                    }
+                ],
+                "urls": [
+                    {
+                        "description": "Unleash The Beat is a weekly hour long mix show featuring the hottest upcoming releases in EDM, dance floor classics, JES' new singles, collaborations, remixes and her infamous Taxigirl mashups. Join JES every week for 60 minutes of the most essential ele",
+                        "display_url": "UnleashTheBeat.lnk.to/UTBDIFM",
+                        "end": 101,
+                        "expanded_url": "http://UnleashTheBeat.lnk.to/UTBDIFM",
+                        "images": [
+                            {
+                                "height": 220,
+                                "url": "https://pbs.twimg.com/news_img/1646849330341462016/CUivuw_p?format=jpg&name=orig",
+                                "width": 440
+                            },
+                            {
+                                "height": 150,
+                                "url": "https://pbs.twimg.com/news_img/1646849330341462016/CUivuw_p?format=jpg&name=150x150",
+                                "width": 150
+                            }
+                        ],
+                        "start": 78,
+                        "status": 200,
+                        "title": "Unleash The Beat with JES - DI Radio",
+                        "unwound_url": "https://unleashthebeat.lnk.to/UTBDIFM",
+                        "url": "https://t.co/6GLQd9q2WI"
+                    }
+                ]
+            },
+            "id": "1325981126188478469",
+            "lang": "en",
+            "public_metrics": {
+                "impression_count": 0,
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 3
+            },
+            "referenced_tweets": [
+                {
+                    "id": "1324369665221627912",
+                    "type": "retweeted"
+                }
+            ],
+            "reply_settings": "everyone",
+            "text": "RT @Official_JES: #UTB418 4. @Quantor \u201cShade (Extended Mix)\u201d @HighContrastRec https://t.co/6GLQd9q2WI @diradio #UnleashTheBeat #Mainstage h\u2026"
+        },
+        {
+            "author_id": "4171534396",
+            "conversation_id": "1325981124544356353",
+            "created_at": "2020-11-10T01:58:30.000Z",
+            "edit_history_tweet_ids": [
+                "1325981124544356353"
+            ],
+            "entities": {
+                "mentions": [
+                    {
+                        "end": 14,
+                        "id": "15751676",
+                        "start": 3,
+                        "username": "MattNegrin"
+                    }
+                ]
+            },
+            "id": "1325981124544356353",
+            "lang": "en",
+            "public_metrics": {
+                "impression_count": 0,
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 848
+            },
+            "referenced_tweets": [
+                {
+                    "id": "1325949308244553728",
+                    "type": "retweeted"
+                }
+            ],
+            "reply_settings": "everyone",
+            "text": "RT @MattNegrin: The press is almost completely spun on this. They will treat everything with a shade of legal \u201cprocess\u201d as just part of the\u2026"
+        },
+        {
+            "author_id": "57252878",
+            "conversation_id": "1325976056164212736",
+            "created_at": "2020-11-10T01:58:30.000Z",
+            "edit_history_tweet_ids": [
+                "1325981123961217025"
+            ],
+            "id": "1325981123961217025",
+            "in_reply_to_user_id": "848148994102611969",
+            "lang": "en",
+            "public_metrics": {
+                "impression_count": 0,
+                "like_count": 7,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "referenced_tweets": [
+                {
+                    "id": "1325976056164212736",
+                    "type": "replied_to"
+                }
+            ],
+            "reply_settings": "everyone",
+            "text": "@AngrierWHStaff It's shredding the tenants of our democracy.\nThrowing shade on the integrity of our elections that have been occurring for 244 years. \nThat's the harm."
+        },
+        {
+            "author_id": "1216178931449155592",
+            "conversation_id": "1325981116382109696",
+            "created_at": "2020-11-10T01:58:28.000Z",
+            "edit_history_tweet_ids": [
+                "1325981116382109696"
+            ],
+            "entities": {
+                "mentions": [
+                    {
+                        "end": 14,
+                        "id": "15751676",
+                        "start": 3,
+                        "username": "MattNegrin"
+                    }
+                ]
+            },
+            "id": "1325981116382109696",
+            "lang": "en",
+            "public_metrics": {
+                "impression_count": 0,
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 848
+            },
+            "referenced_tweets": [
+                {
+                    "id": "1325949308244553728",
+                    "type": "retweeted"
+                }
+            ],
+            "reply_settings": "everyone",
+            "text": "RT @MattNegrin: The press is almost completely spun on this. They will treat everything with a shade of legal \u201cprocess\u201d as just part of the\u2026"
+        },
+        {
+            "author_id": "1176123286708772864",
+            "conversation_id": "1325981114285043713",
+            "created_at": "2020-11-10T01:58:27.000Z",
+            "edit_history_tweet_ids": [
+                "1325981114285043713"
+            ],
+            "entities": {
+                "mentions": [
+                    {
+                        "end": 14,
+                        "id": "15751676",
+                        "start": 3,
+                        "username": "MattNegrin"
+                    }
+                ]
+            },
+            "id": "1325981114285043713",
+            "lang": "en",
+            "public_metrics": {
+                "impression_count": 0,
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 848
+            },
+            "referenced_tweets": [
+                {
+                    "id": "1325949308244553728",
+                    "type": "retweeted"
+                }
+            ],
+            "reply_settings": "everyone",
+            "text": "RT @MattNegrin: The press is almost completely spun on this. They will treat everything with a shade of legal \u201cprocess\u201d as just part of the\u2026"
+        },
+        {
+            "author_id": "3302917428",
+            "context_annotations": [
+                {
+                    "domain": {
+                        "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+                        "id": "30",
+                        "name": "Entities [Entity Service]"
+                    },
+                    "entity": {
+                        "id": "781974596752842752",
+                        "name": "Services"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "Brands and Companies",
+                        "id": "47",
+                        "name": "Brand"
+                    },
+                    "entity": {
+                        "id": "10041893684",
+                        "name": "Instagram"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A taxonomy of user interests. ",
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy"
+                    },
+                    "entity": {
+                        "id": "10041893684",
+                        "name": "Instagram"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A taxonomy of user interests. ",
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy"
+                    },
+                    "entity": {
+                        "id": "1196446161223028736",
+                        "name": "Social media"
+                    }
+                }
+            ],
+            "conversation_id": "1325970526179889153",
+            "created_at": "2020-11-10T01:58:25.000Z",
+            "edit_history_tweet_ids": [
+                "1325981103736283138"
+            ],
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 105,
+                        "normalized_text": "IG",
+                        "probability": 0.9661,
+                        "start": 104,
+                        "type": "Other"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 9,
+                        "id": "1053281591668236290",
+                        "start": 0,
+                        "username": "LitMommi"
+                    }
+                ]
+            },
+            "id": "1325981103736283138",
+            "in_reply_to_user_id": "1053281591668236290",
+            "lang": "en",
+            "public_metrics": {
+                "impression_count": 0,
+                "like_count": 1,
+                "quote_count": 0,
+                "reply_count": 1,
+                "retweet_count": 0
+            },
+            "referenced_tweets": [
+                {
+                    "id": "1325980894105047040",
+                    "type": "replied_to"
+                }
+            ],
+            "reply_settings": "everyone",
+            "text": "@LitMommi Yes! Everybody even manager came at her over some bs. Crazy \n\nDid you sees what\u2019s happened on IG? Shade room"
+        },
+        {
+            "author_id": "245502869",
+            "conversation_id": "1324818236257480707",
+            "created_at": "2020-11-10T01:58:23.000Z",
+            "edit_history_tweet_ids": [
+                "1325981095024762880"
+            ],
+            "entities": {
+                "mentions": [
+                    {
+                        "end": 14,
+                        "id": "1284235566918205440",
+                        "start": 0,
+                        "username": "GothamKnights"
+                    }
+                ]
+            },
+            "id": "1325981095024762880",
+            "in_reply_to_user_id": "1284235566918205440",
+            "lang": "en",
+            "public_metrics": {
+                "impression_count": 0,
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "referenced_tweets": [
+                {
+                    "id": "1324818236257480707",
+                    "type": "replied_to"
+                }
+            ],
+            "reply_settings": "everyone",
+            "text": "@GothamKnights I like how y\u2019all included the color code/ the shade type of blue in this image XD"
+        },
+        {
+            "author_id": "3100548100",
+            "conversation_id": "1325981090067210240",
+            "created_at": "2020-11-10T01:58:22.000Z",
+            "edit_history_tweet_ids": [
+                "1325981090067210240"
+            ],
+            "entities": {
+                "mentions": [
+                    {
+                        "end": 14,
+                        "id": "15751676",
+                        "start": 3,
+                        "username": "MattNegrin"
+                    }
+                ]
+            },
+            "id": "1325981090067210240",
+            "lang": "en",
+            "public_metrics": {
+                "impression_count": 0,
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 848
+            },
+            "referenced_tweets": [
+                {
+                    "id": "1325949308244553728",
+                    "type": "retweeted"
+                }
+            ],
+            "reply_settings": "everyone",
+            "text": "RT @MattNegrin: The press is almost completely spun on this. They will treat everything with a shade of legal \u201cprocess\u201d as just part of the\u2026"
+        },
+        {
+            "author_id": "1231982011688128512",
+            "conversation_id": "1325981086229344256",
+            "created_at": "2020-11-10T01:58:21.000Z",
+            "edit_history_tweet_ids": [
+                "1325981086229344256"
+            ],
+            "entities": {
+                "mentions": [
+                    {
+                        "end": 13,
+                        "id": "1095786885685882880",
+                        "start": 3,
+                        "username": "AriTheDon"
+                    }
+                ]
+            },
+            "id": "1325981086229344256",
+            "lang": "en",
+            "public_metrics": {
+                "impression_count": 0,
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 7944
+            },
+            "referenced_tweets": [
+                {
+                    "id": "1325510091660021765",
+                    "type": "retweeted"
+                }
+            ],
+            "reply_settings": "everyone",
+            "text": "RT @AriTheDon: Be happy for people and even if you not don\u2019t throw shade. A good heart takes you a lot further!"
+        },
+        {
+            "author_id": "1250177761370673153",
+            "conversation_id": "1325963605917884417",
+            "created_at": "2020-11-10T01:58:19.000Z",
+            "edit_history_tweet_ids": [
+                "1325981078167973890"
+            ],
+            "entities": {
+                "mentions": [
+                    {
+                        "end": 16,
+                        "id": "1321978712905175041",
+                        "start": 0,
+                        "username": "goblinsaurusrex"
+                    }
+                ]
+            },
+            "id": "1325981078167973890",
+            "in_reply_to_user_id": "1321978712905175041",
+            "lang": "en",
+            "public_metrics": {
+                "impression_count": 0,
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "referenced_tweets": [
+                {
+                    "id": "1325980321464999936",
+                    "type": "replied_to"
+                }
+            ],
+            "reply_settings": "everyone",
+            "text": "@goblinsaurusrex @caislyn22 That particular shade of red in the flames. Truly impressive lmao"
+        },
+        {
+            "author_id": "538697215",
+            "conversation_id": "1325981040163368967",
+            "created_at": "2020-11-10T01:58:10.000Z",
+            "edit_history_tweet_ids": [
+                "1325981040163368967"
+            ],
+            "entities": {
+                "mentions": [
+                    {
+                        "end": 14,
+                        "id": "15751676",
+                        "start": 3,
+                        "username": "MattNegrin"
+                    }
+                ]
+            },
+            "id": "1325981040163368967",
+            "lang": "en",
+            "public_metrics": {
+                "impression_count": 0,
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 848
+            },
+            "referenced_tweets": [
+                {
+                    "id": "1325949308244553728",
+                    "type": "retweeted"
+                }
+            ],
+            "reply_settings": "everyone",
+            "text": "RT @MattNegrin: The press is almost completely spun on this. They will treat everything with a shade of legal \u201cprocess\u201d as just part of the\u2026"
+        },
+        {
+            "author_id": "2804752086",
+            "conversation_id": "1325981039106297856",
+            "created_at": "2020-11-10T01:58:09.000Z",
+            "edit_history_tweet_ids": [
+                "1325981039106297856"
+            ],
+            "entities": {
+                "mentions": [
+                    {
+                        "end": 14,
+                        "id": "15751676",
+                        "start": 3,
+                        "username": "MattNegrin"
+                    }
+                ]
+            },
+            "id": "1325981039106297856",
+            "lang": "en",
+            "public_metrics": {
+                "impression_count": 0,
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 848
+            },
+            "referenced_tweets": [
+                {
+                    "id": "1325949308244553728",
+                    "type": "retweeted"
+                }
+            ],
+            "reply_settings": "everyone",
+            "text": "RT @MattNegrin: The press is almost completely spun on this. They will treat everything with a shade of legal \u201cprocess\u201d as just part of the\u2026"
+        },
+        {
+            "author_id": "221947650",
+            "conversation_id": "1325981026175344640",
+            "created_at": "2020-11-10T01:58:06.000Z",
+            "edit_history_tweet_ids": [
+                "1325981026175344640"
+            ],
+            "entities": {
+                "mentions": [
+                    {
+                        "end": 14,
+                        "id": "15751676",
+                        "start": 3,
+                        "username": "MattNegrin"
+                    }
+                ]
+            },
+            "id": "1325981026175344640",
+            "lang": "en",
+            "public_metrics": {
+                "impression_count": 0,
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 848
+            },
+            "referenced_tweets": [
+                {
+                    "id": "1325949308244553728",
+                    "type": "retweeted"
+                }
+            ],
+            "reply_settings": "everyone",
+            "text": "RT @MattNegrin: The press is almost completely spun on this. They will treat everything with a shade of legal \u201cprocess\u201d as just part of the\u2026"
+        },
+        {
+            "author_id": "553691103",
+            "conversation_id": "1325979929754832896",
+            "created_at": "2020-11-10T01:58:06.000Z",
+            "edit_history_tweet_ids": [
+                "1325981025000972288"
+            ],
+            "entities": {
+                "mentions": [
+                    {
+                        "end": 11,
+                        "id": "420435315",
+                        "start": 0,
+                        "username": "icenine457"
+                    },
+                    {
+                        "end": 38,
+                        "id": "1325181584509726720",
+                        "start": 25,
+                        "username": "TotalSeasons"
+                    }
+                ]
+            },
+            "id": "1325981025000972288",
+            "in_reply_to_user_id": "420435315",
+            "lang": "en",
+            "public_metrics": {
+                "impression_count": 0,
+                "like_count": 6,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "referenced_tweets": [
+                {
+                    "id": "1325980179781529600",
+                    "type": "replied_to"
+                }
+            ],
+            "reply_settings": "everyone",
+            "text": "@icenine457 @meenaharris @TotalSeasons Love the shade they throw also."
+        },
+        {
+            "author_id": "1016361893437624320",
+            "conversation_id": "1325981023868497921",
+            "created_at": "2020-11-10T01:58:06.000Z",
+            "edit_history_tweet_ids": [
+                "1325981023868497921"
+            ],
+            "id": "1325981023868497921",
+            "lang": "en",
+            "public_metrics": {
+                "impression_count": 0,
+                "like_count": 13,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 1
+            },
+            "reply_settings": "everyone",
+            "text": "Black is poetic no matter the shade, this is why black was made. Black is beautiful it is powerful. Black is strong, it is knowledgeable. Black is righteous it is royal! We are black \ud83d\udda4"
+        },
+        {
+            "author_id": "1202434654588096512",
+            "conversation_id": "1325981019892310017",
+            "created_at": "2020-11-10T01:58:05.000Z",
+            "edit_history_tweet_ids": [
+                "1325981019892310017"
+            ],
+            "entities": {
+                "mentions": [
+                    {
+                        "end": 14,
+                        "id": "15751676",
+                        "start": 3,
+                        "username": "MattNegrin"
+                    }
+                ]
+            },
+            "id": "1325981019892310017",
+            "lang": "en",
+            "public_metrics": {
+                "impression_count": 0,
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 848
+            },
+            "referenced_tweets": [
+                {
+                    "id": "1325949308244553728",
+                    "type": "retweeted"
+                }
+            ],
+            "reply_settings": "everyone",
+            "text": "RT @MattNegrin: The press is almost completely spun on this. They will treat everything with a shade of legal \u201cprocess\u201d as just part of the\u2026"
+        },
+        {
+            "author_id": "836452454808039424",
+            "context_annotations": [
+                {
+                    "domain": {
+                        "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+                        "id": "30",
+                        "name": "Entities [Entity Service]"
+                    },
+                    "entity": {
+                        "description": "Generic Food",
+                        "id": "824777229892661248",
+                        "name": "Generic Food"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+                        "id": "30",
+                        "name": "Entities [Entity Service]"
+                    },
+                    "entity": {
+                        "description": "Candy",
+                        "id": "825063794967662592",
+                        "name": "Candy"
+                    }
+                }
+            ],
+            "conversation_id": "1325981003303833600",
+            "created_at": "2020-11-10T01:58:01.000Z",
+            "edit_history_tweet_ids": [
+                "1325981003303833600"
+            ],
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 25,
+                        "normalized_text": "Catratober",
+                        "probability": 0.3767,
+                        "start": 16,
+                        "type": "Other"
+                    }
+                ],
+                "hashtags": [
+                    {
+                        "end": 26,
+                        "start": 15,
+                        "tag": "Catratober"
+                    },
+                    {
+                        "end": 133,
+                        "start": 123,
+                        "tag": "catradora"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 13,
+                        "id": "3017961931",
+                        "start": 3,
+                        "username": "kaifu_ato"
+                    }
+                ]
+            },
+            "id": "1325981003303833600",
+            "lang": "en",
+            "public_metrics": {
+                "impression_count": 0,
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 120
+            },
+            "referenced_tweets": [
+                {
+                    "id": "1325594236557828096",
+                    "type": "retweeted"
+                }
+            ],
+            "reply_settings": "everyone",
+            "text": "RT @kaifu_ato: #Catratober day 29: candy \n\nAlmost there\ud83d\ude2d I\u2019m so done I literally didn\u2019t shade the candy corn bc fuck it\u270c\ufe0f\ud83e\udde1\n#catradora #sher\u2026"
+        },
+        {
+            "author_id": "736946188151201794",
+            "conversation_id": "1325980980503584775",
+            "created_at": "2020-11-10T01:57:55.000Z",
+            "edit_history_tweet_ids": [
+                "1325980980503584775"
+            ],
+            "entities": {
+                "mentions": [
+                    {
+                        "end": 14,
+                        "id": "15751676",
+                        "start": 3,
+                        "username": "MattNegrin"
+                    }
+                ]
+            },
+            "id": "1325980980503584775",
+            "lang": "en",
+            "public_metrics": {
+                "impression_count": 0,
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 848
+            },
+            "referenced_tweets": [
+                {
+                    "id": "1325949308244553728",
+                    "type": "retweeted"
+                }
+            ],
+            "reply_settings": "everyone",
+            "text": "RT @MattNegrin: The press is almost completely spun on this. They will treat everything with a shade of legal \u201cprocess\u201d as just part of the\u2026"
+        },
+        {
+            "author_id": "1127623098801565696",
+            "conversation_id": "1325869399656570881",
+            "created_at": "2020-11-10T01:57:52.000Z",
+            "edit_history_tweet_ids": [
+                "1325980965068562432"
+            ],
+            "entities": {
+                "mentions": [
+                    {
+                        "end": 10,
+                        "id": "573016234",
+                        "start": 0,
+                        "username": "xchanelou"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "pic.twitter.com/fsfOFw190P",
+                        "end": 66,
+                        "expanded_url": "https://twitter.com/lil_samurai_sis/status/1325980965068562432/photo/1",
+                        "media_key": "3_1325980961897652224",
+                        "start": 43,
+                        "url": "https://t.co/fsfOFw190P"
+                    }
+                ]
+            },
+            "id": "1325980965068562432",
+            "in_reply_to_user_id": "573016234",
+            "lang": "en",
+            "public_metrics": {
+                "impression_count": 0,
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "referenced_tweets": [
+                {
+                    "id": "1325869399656570881",
+                    "type": "replied_to"
+                }
+            ],
+            "reply_settings": "everyone",
+            "text": "@xchanelou HES SO FUNNY THE SHADE LMAO PLS https://t.co/fsfOFw190P"
+        },
+        {
+            "author_id": "16725512",
+            "conversation_id": "1325980961121603584",
+            "created_at": "2020-11-10T01:57:51.000Z",
+            "edit_history_tweet_ids": [
+                "1325980961121603584"
+            ],
+            "entities": {
+                "mentions": [
+                    {
+                        "end": 14,
+                        "id": "15751676",
+                        "start": 3,
+                        "username": "MattNegrin"
+                    }
+                ]
+            },
+            "id": "1325980961121603584",
+            "lang": "en",
+            "public_metrics": {
+                "impression_count": 0,
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 848
+            },
+            "referenced_tweets": [
+                {
+                    "id": "1325949308244553728",
+                    "type": "retweeted"
+                }
+            ],
+            "reply_settings": "everyone",
+            "text": "RT @MattNegrin: The press is almost completely spun on this. They will treat everything with a shade of legal \u201cprocess\u201d as just part of the\u2026"
+        },
+        {
+            "author_id": "719572571356733441",
+            "conversation_id": "1325980944063401985",
+            "created_at": "2020-11-10T01:57:47.000Z",
+            "edit_history_tweet_ids": [
+                "1325980944063401985"
+            ],
+            "entities": {
+                "mentions": [
+                    {
+                        "end": 14,
+                        "id": "15751676",
+                        "start": 3,
+                        "username": "MattNegrin"
+                    }
+                ]
+            },
+            "id": "1325980944063401985",
+            "lang": "en",
+            "public_metrics": {
+                "impression_count": 0,
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 848
+            },
+            "referenced_tweets": [
+                {
+                    "id": "1325949308244553728",
+                    "type": "retweeted"
+                }
+            ],
+            "reply_settings": "everyone",
+            "text": "RT @MattNegrin: The press is almost completely spun on this. They will treat everything with a shade of legal \u201cprocess\u201d as just part of the\u2026"
+        },
+        {
+            "author_id": "1650953730",
+            "conversation_id": "1325980921879617537",
+            "created_at": "2020-11-10T01:57:41.000Z",
+            "edit_history_tweet_ids": [
+                "1325980921879617537"
+            ],
+            "entities": {
+                "urls": [
+                    {
+                        "display_url": "twitter.com/thanksdannyono\u2026",
+                        "end": 100,
+                        "expanded_url": "https://twitter.com/thanksdannyono/status/1325969248347414528",
+                        "start": 77,
+                        "url": "https://t.co/dpvUsxhLKe"
+                    }
+                ]
+            },
+            "id": "1325980921879617537",
+            "lang": "en",
+            "public_metrics": {
+                "impression_count": 0,
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 1,
+                "retweet_count": 0
+            },
+            "referenced_tweets": [
+                {
+                    "id": "1325969248347414528",
+                    "type": "quoted"
+                }
+            ],
+            "reply_settings": "everyone",
+            "text": "Every kind of liberal socialist is fading into an irrelavant shade of beige. https://t.co/dpvUsxhLKe"
+        },
+        {
+            "author_id": "3402101379",
+            "conversation_id": "1325980644590186497",
+            "created_at": "2020-11-10T01:57:41.000Z",
+            "edit_history_tweet_ids": [
+                "1325980920353083393"
+            ],
+            "id": "1325980920353083393",
+            "in_reply_to_user_id": "1282486268191019011",
+            "lang": "en",
+            "public_metrics": {
+                "impression_count": 0,
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 1,
+                "retweet_count": 0
+            },
+            "referenced_tweets": [
+                {
+                    "id": "1325980644590186497",
+                    "type": "replied_to"
+                }
+            ],
+            "reply_settings": "everyone",
+            "text": "@saniahjorree \ud83d\ude2d Cause why tf shade room ain posted it."
+        },
+        {
+            "author_id": "2657637391",
+            "conversation_id": "1325980909665968130",
+            "created_at": "2020-11-10T01:57:39.000Z",
+            "edit_history_tweet_ids": [
+                "1325980909665968130"
+            ],
+            "entities": {
+                "urls": [
+                    {
+                        "display_url": "pic.twitter.com/hQcCTNNOse",
+                        "end": 57,
+                        "expanded_url": "https://twitter.com/smithlashana01/status/1325980909665968130/photo/1",
+                        "media_key": "3_1325980906855821312",
+                        "start": 34,
+                        "url": "https://t.co/hQcCTNNOse"
+                    }
+                ]
+            },
+            "id": "1325980909665968130",
+            "lang": "en",
+            "public_metrics": {
+                "impression_count": 0,
+                "like_count": 1,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "reply_settings": "everyone",
+            "text": "people throw shade on what shines https://t.co/hQcCTNNOse"
+        },
+        {
+            "author_id": "387056851",
+            "conversation_id": "1325980909523374081",
+            "created_at": "2020-11-10T01:57:39.000Z",
+            "edit_history_tweet_ids": [
+                "1325980909523374081"
+            ],
+            "entities": {
+                "mentions": [
+                    {
+                        "end": 14,
+                        "id": "15751676",
+                        "start": 3,
+                        "username": "MattNegrin"
+                    }
+                ]
+            },
+            "id": "1325980909523374081",
+            "lang": "en",
+            "public_metrics": {
+                "impression_count": 0,
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 848
+            },
+            "referenced_tweets": [
+                {
+                    "id": "1325949308244553728",
+                    "type": "retweeted"
+                }
+            ],
+            "reply_settings": "everyone",
+            "text": "RT @MattNegrin: The press is almost completely spun on this. They will treat everything with a shade of legal \u201cprocess\u201d as just part of the\u2026"
+        },
+        {
+            "author_id": "2345668615",
+            "context_annotations": [
+                {
+                    "domain": {
+                        "description": "Brands and Companies",
+                        "id": "47",
+                        "name": "Brand"
+                    },
+                    "entity": {
+                        "id": "1138063030732828672",
+                        "name": "Breitbart News"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+                        "id": "30",
+                        "name": "Entities [Entity Service]"
+                    },
+                    "entity": {
+                        "description": "Generic Food",
+                        "id": "824777229892661248",
+                        "name": "Generic Food"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+                        "id": "30",
+                        "name": "Entities [Entity Service]"
+                    },
+                    "entity": {
+                        "description": "Brand",
+                        "id": "825054267954208768",
+                        "name": "Bread"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "News Categories like Entertainment or Technology",
+                        "id": "69",
+                        "name": "News Vertical"
+                    },
+                    "entity": {
+                        "description": "Political News",
+                        "id": "840159122012102656",
+                        "name": "Political News"
+                    }
+                }
+            ],
+            "conversation_id": "1325971372691124228",
+            "created_at": "2020-11-10T01:57:38.000Z",
+            "edit_history_tweet_ids": [
+                "1325980908000833536"
+            ],
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 27,
+                        "normalized_text": "Cavuto",
+                        "probability": 0.5553,
+                        "start": 22,
+                        "type": "Person"
+                    },
+                    {
+                        "end": 148,
+                        "normalized_text": "Steele Dossier",
+                        "probability": 0.8354,
+                        "start": 135,
+                        "type": "Other"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 14,
+                        "id": "457984599",
+                        "start": 0,
+                        "username": "BreitbartNews"
+                    }
+                ]
+            },
+            "id": "1325980908000833536",
+            "in_reply_to_user_id": "457984599",
+            "lang": "en",
+            "public_metrics": {
+                "impression_count": 0,
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "referenced_tweets": [
+                {
+                    "id": "1325971372691124228",
+                    "type": "replied_to"
+                }
+            ],
+            "reply_settings": "everyone",
+            "text": "@BreitbartNews I like Cavuto, but he has forgotten who butters his bread.  His \"pure\" intervention also included throwing shade on the Steele Dossier?  I don't remember that happening."
+        },
+        {
+            "author_id": "17924753",
+            "context_annotations": [
+                {
+                    "domain": {
+                        "description": "Named people in the world like Nelson Mandela",
+                        "id": "10",
+                        "name": "Person"
+                    },
+                    "entity": {
+                        "description": "US Representative from New York Alexandria Ocasio-Cortez",
+                        "id": "1011963575089262593",
+                        "name": "Alexandria Ocasio-Cortez"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "Politicians in the world, like Joe Biden",
+                        "id": "35",
+                        "name": "Politician"
+                    },
+                    "entity": {
+                        "description": "US Representative from New York Alexandria Ocasio-Cortez",
+                        "id": "1011963575089262593",
+                        "name": "Alexandria Ocasio-Cortez"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A taxonomy of user interests. ",
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy"
+                    },
+                    "entity": {
+                        "description": "Politics",
+                        "id": "847878884917886977",
+                        "name": "Politics"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A taxonomy of user interests. ",
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy"
+                    },
+                    "entity": {
+                        "description": "US Representative from New York Alexandria Ocasio-Cortez",
+                        "id": "1011963575089262593",
+                        "name": "Alexandria Ocasio-Cortez"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A taxonomy of user interests. ",
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy"
+                    },
+                    "entity": {
+                        "description": "Politician",
+                        "id": "1070032753834438656",
+                        "name": "Political figures"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "Named people in the world like Nelson Mandela",
+                        "id": "10",
+                        "name": "Person"
+                    },
+                    "entity": {
+                        "description": "US President Joe Biden",
+                        "id": "10040395078",
+                        "name": "Joe Biden"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "Politicians in the world, like Joe Biden",
+                        "id": "35",
+                        "name": "Politician"
+                    },
+                    "entity": {
+                        "description": "US President Joe Biden",
+                        "id": "10040395078",
+                        "name": "Joe Biden"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A taxonomy of user interests. ",
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy"
+                    },
+                    "entity": {
+                        "description": "US President Joe Biden",
+                        "id": "10040395078",
+                        "name": "Joe Biden"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A taxonomy of user interests. ",
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy"
+                    },
+                    "entity": {
+                        "description": "Politics",
+                        "id": "847878884917886977",
+                        "name": "Politics"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A taxonomy of user interests. ",
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy"
+                    },
+                    "entity": {
+                        "description": "Politician",
+                        "id": "1070032753834438656",
+                        "name": "Political figures"
+                    }
+                }
+            ],
+            "conversation_id": "1325911678068862976",
+            "created_at": "2020-11-10T01:57:34.000Z",
+            "edit_history_tweet_ids": [
+                "1325980891219308544"
+            ],
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 220,
+                        "normalized_text": "Joe",
+                        "probability": 0.8357,
+                        "start": 218,
+                        "type": "Person"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 12,
+                        "id": "811514954159443968",
+                        "start": 0,
+                        "username": "benigma2017"
+                    },
+                    {
+                        "end": 29,
+                        "id": "138203134",
+                        "start": 25,
+                        "username": "AOC"
+                    },
+                    {
+                        "end": 39,
+                        "id": "939091",
+                        "start": 30,
+                        "username": "JoeBiden"
+                    }
+                ]
+            },
+            "id": "1325980891219308544",
+            "in_reply_to_user_id": "811514954159443968",
+            "lang": "en",
+            "public_metrics": {
+                "impression_count": 0,
+                "like_count": 1,
+                "quote_count": 0,
+                "reply_count": 1,
+                "retweet_count": 0
+            },
+            "referenced_tweets": [
+                {
+                    "id": "1325979151468212226",
+                    "type": "replied_to"
+                }
+            ],
+            "reply_settings": "everyone",
+            "text": "@benigma2017 @eyemsimone @AOC @JoeBiden I wasn\u2019t being that literal but you are a significant and respected voice. I think your shade stings more than you imagine. \n\nBut honestly I can\u2019t see through the fog of it. Had Joe lost and had AOC been perceived as a factor would that be better for us? \nI truly don\u2019t know."
+        },
+        {
+            "author_id": "1874836183",
+            "conversation_id": "1325980878116327424",
+            "created_at": "2020-11-10T01:57:31.000Z",
+            "edit_history_tweet_ids": [
+                "1325980878116327424"
+            ],
+            "entities": {
+                "mentions": [
+                    {
+                        "end": 14,
+                        "id": "15751676",
+                        "start": 3,
+                        "username": "MattNegrin"
+                    }
+                ]
+            },
+            "id": "1325980878116327424",
+            "lang": "en",
+            "public_metrics": {
+                "impression_count": 0,
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 848
+            },
+            "referenced_tweets": [
+                {
+                    "id": "1325949308244553728",
+                    "type": "retweeted"
+                }
+            ],
+            "reply_settings": "everyone",
+            "text": "RT @MattNegrin: The press is almost completely spun on this. They will treat everything with a shade of legal \u201cprocess\u201d as just part of the\u2026"
+        },
+        {
+            "author_id": "876641584804057088",
+            "conversation_id": "1325980875096424449",
+            "created_at": "2020-11-10T01:57:30.000Z",
+            "edit_history_tweet_ids": [
+                "1325980875096424449"
+            ],
+            "entities": {
+                "mentions": [
+                    {
+                        "end": 14,
+                        "id": "15751676",
+                        "start": 3,
+                        "username": "MattNegrin"
+                    }
+                ]
+            },
+            "id": "1325980875096424449",
+            "lang": "en",
+            "public_metrics": {
+                "impression_count": 0,
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 848
+            },
+            "referenced_tweets": [
+                {
+                    "id": "1325949308244553728",
+                    "type": "retweeted"
+                }
+            ],
+            "reply_settings": "everyone",
+            "text": "RT @MattNegrin: The press is almost completely spun on this. They will treat everything with a shade of legal \u201cprocess\u201d as just part of the\u2026"
+        },
+        {
+            "author_id": "827739247276810242",
+            "conversation_id": "1325980866204618755",
+            "created_at": "2020-11-10T01:57:28.000Z",
+            "edit_history_tweet_ids": [
+                "1325980866204618755"
+            ],
+            "entities": {
+                "mentions": [
+                    {
+                        "end": 14,
+                        "id": "15751676",
+                        "start": 3,
+                        "username": "MattNegrin"
+                    }
+                ]
+            },
+            "id": "1325980866204618755",
+            "lang": "en",
+            "public_metrics": {
+                "impression_count": 0,
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 848
+            },
+            "referenced_tweets": [
+                {
+                    "id": "1325949308244553728",
+                    "type": "retweeted"
+                }
+            ],
+            "reply_settings": "everyone",
+            "text": "RT @MattNegrin: The press is almost completely spun on this. They will treat everything with a shade of legal \u201cprocess\u201d as just part of the\u2026"
+        },
+        {
+            "author_id": "899227563821719552",
+            "context_annotations": [
+                {
+                    "domain": {
+                        "description": "Named people in the world like Nelson Mandela",
+                        "id": "10",
+                        "name": "Person"
+                    },
+                    "entity": {
+                        "description": "US Senator Elizabeth Warren (MA)",
+                        "id": "10045102759",
+                        "name": "Elizabeth Warren"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "Politicians in the world, like Joe Biden",
+                        "id": "35",
+                        "name": "Politician"
+                    },
+                    "entity": {
+                        "description": "US Senator Elizabeth Warren (MA)",
+                        "id": "10045102759",
+                        "name": "Elizabeth Warren"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A taxonomy of user interests. ",
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy"
+                    },
+                    "entity": {
+                        "description": "US Senator Elizabeth Warren (MA)",
+                        "id": "10045102759",
+                        "name": "Elizabeth Warren"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A taxonomy of user interests. ",
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy"
+                    },
+                    "entity": {
+                        "description": "Politics",
+                        "id": "847878884917886977",
+                        "name": "Politics"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A taxonomy of user interests. ",
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy"
+                    },
+                    "entity": {
+                        "description": "Politician",
+                        "id": "1070032753834438656",
+                        "name": "Political figures"
+                    }
+                }
+            ],
+            "conversation_id": "1325873050185830411",
+            "created_at": "2020-11-10T01:57:25.000Z",
+            "edit_history_tweet_ids": [
+                "1325980853109841920"
+            ],
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 79,
+                        "normalized_text": "Orangutan",
+                        "probability": 0.5907,
+                        "start": 71,
+                        "type": "Other"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 8,
+                        "id": "357606935",
+                        "start": 0,
+                        "username": "ewarren"
+                    }
+                ]
+            },
+            "id": "1325980853109841920",
+            "in_reply_to_user_id": "357606935",
+            "lang": "en",
+            "public_metrics": {
+                "impression_count": 0,
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "referenced_tweets": [
+                {
+                    "id": "1325873050185830411",
+                    "type": "replied_to"
+                }
+            ],
+            "reply_settings": "everyone",
+            "text": "@ewarren We need to get his favorite shade of foundation discontinued. Orangutan."
+        },
+        {
+            "author_id": "1315636810337271808",
+            "conversation_id": "1325980848718372864",
+            "created_at": "2020-11-10T01:57:24.000Z",
+            "edit_history_tweet_ids": [
+                "1325980848718372864"
+            ],
+            "entities": {
+                "mentions": [
+                    {
+                        "end": 14,
+                        "id": "15751676",
+                        "start": 3,
+                        "username": "MattNegrin"
+                    }
+                ]
+            },
+            "id": "1325980848718372864",
+            "lang": "en",
+            "public_metrics": {
+                "impression_count": 0,
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 848
+            },
+            "referenced_tweets": [
+                {
+                    "id": "1325949308244553728",
+                    "type": "retweeted"
+                }
+            ],
+            "reply_settings": "everyone",
+            "text": "RT @MattNegrin: The press is almost completely spun on this. They will treat everything with a shade of legal \u201cprocess\u201d as just part of the\u2026"
+        },
+        {
+            "author_id": "1257797035807223813",
+            "context_annotations": [
+                {
+                    "domain": {
+                        "description": "Named people in the world like Nelson Mandela",
+                        "id": "10",
+                        "name": "Person"
+                    },
+                    "entity": {
+                        "description": "US Senator Kamala Harris (CA)",
+                        "id": "875006493984149509",
+                        "name": "Kamala Harris"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "Named people in the world like Nelson Mandela",
+                        "id": "10",
+                        "name": "Person"
+                    },
+                    "entity": {
+                        "description": "Candidate for Governor of California Gavin Newsom",
+                        "id": "999344319885524992",
+                        "name": "Gavin Newsom"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "Politicians in the world, like Joe Biden",
+                        "id": "35",
+                        "name": "Politician"
+                    },
+                    "entity": {
+                        "description": "US Senator Kamala Harris (CA)",
+                        "id": "875006493984149509",
+                        "name": "Kamala Harris"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "Politicians in the world, like Joe Biden",
+                        "id": "35",
+                        "name": "Politician"
+                    },
+                    "entity": {
+                        "description": "Candidate for Governor of California Gavin Newsom",
+                        "id": "999344319885524992",
+                        "name": "Gavin Newsom"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A section of a government, like The Supreme Court",
+                        "id": "88",
+                        "name": "Political Body"
+                    },
+                    "entity": {
+                        "description": "United States Congress",
+                        "id": "961705302700654593",
+                        "name": "United States Congress"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A taxonomy of user interests. ",
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy"
+                    },
+                    "entity": {
+                        "description": "Politics",
+                        "id": "847878884917886977",
+                        "name": "Politics"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A taxonomy of user interests. ",
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy"
+                    },
+                    "entity": {
+                        "description": "US Senator Kamala Harris (CA)",
+                        "id": "875006493984149509",
+                        "name": "Kamala Harris"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A taxonomy of user interests. ",
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy"
+                    },
+                    "entity": {
+                        "description": "United States Congress",
+                        "id": "961705302700654593",
+                        "name": "United States Congress"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A taxonomy of user interests. ",
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy"
+                    },
+                    "entity": {
+                        "description": "Candidate for Governor of California Gavin Newsom",
+                        "id": "999344319885524992",
+                        "name": "Gavin Newsom"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A taxonomy of user interests. ",
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy"
+                    },
+                    "entity": {
+                        "description": "Political Body",
+                        "id": "1068583660914266113",
+                        "name": "Government institutions"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A taxonomy of user interests. ",
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy"
+                    },
+                    "entity": {
+                        "description": "Politician",
+                        "id": "1070032753834438656",
+                        "name": "Political figures"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A section of a government, like The Supreme Court",
+                        "id": "88",
+                        "name": "Political Body"
+                    },
+                    "entity": {
+                        "description": "United States Senate",
+                        "id": "877326946253684737",
+                        "name": "United States Senate"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A section of a government, like The Supreme Court",
+                        "id": "88",
+                        "name": "Political Body"
+                    },
+                    "entity": {
+                        "description": "United States Congress",
+                        "id": "961705302700654593",
+                        "name": "United States Congress"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A taxonomy of user interests. ",
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy"
+                    },
+                    "entity": {
+                        "description": "Politics",
+                        "id": "847878884917886977",
+                        "name": "Politics"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A taxonomy of user interests. ",
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy"
+                    },
+                    "entity": {
+                        "description": "United States Senate",
+                        "id": "877326946253684737",
+                        "name": "United States Senate"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A taxonomy of user interests. ",
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy"
+                    },
+                    "entity": {
+                        "description": "Political Body",
+                        "id": "1068583660914266113",
+                        "name": "Government institutions"
+                    }
+                }
+            ],
+            "conversation_id": "1325980842745716737",
+            "created_at": "2020-11-10T01:57:23.000Z",
+            "edit_history_tweet_ids": [
+                "1325980842745716737"
+            ],
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 25,
+                        "normalized_text": "California",
+                        "probability": 0.8855,
+                        "start": 16,
+                        "type": "Place"
+                    },
+                    {
+                        "end": 44,
+                        "normalized_text": "Gavin Newsom",
+                        "probability": 0.9768,
+                        "start": 33,
+                        "type": "Person"
+                    },
+                    {
+                        "end": 204,
+                        "normalized_text": "Kamala Harris",
+                        "probability": 0.9659,
+                        "start": 192,
+                        "type": "Person"
+                    },
+                    {
+                        "end": 261,
+                        "normalized_text": "California",
+                        "probability": 0.9675,
+                        "start": 252,
+                        "type": "Place"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "pic.twitter.com/LK6tuufxmT",
+                        "end": 298,
+                        "expanded_url": "https://twitter.com/MzzConservative/status/1325980842745716737/photo/1",
+                        "media_key": "16_1325980837142130688",
+                        "start": 275,
+                        "url": "https://t.co/LK6tuufxmT"
+                    },
+                    {
+                        "display_url": "twitter.com/jaketapper/sta\u2026",
+                        "end": 322,
+                        "expanded_url": "https://twitter.com/jaketapper/status/1325979365415456768",
+                        "start": 299,
+                        "url": "https://t.co/eAUzcR0PWb"
+                    }
+                ]
+            },
+            "id": "1325980842745716737",
+            "lang": "en",
+            "public_metrics": {
+                "impression_count": 0,
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "referenced_tweets": [
+                {
+                    "id": "1325979365415456768",
+                    "type": "quoted"
+                }
+            ],
+            "reply_settings": "everyone",
+            "text": "As a native So. California lady, Gavin Newsom\u2019s only pick should be which shade his prison jumpsuit should be.  And NO ELECTORS HAVE CERTIFIED THEIR STATES, so, according TO THE CONSTITUTION, Kamala Harris is a NOTHING-elect, NOTHING MORE. Stay out of California\u2019s business. https://t.co/LK6tuufxmT https://t.co/eAUzcR0PWb"
+        },
+        {
+            "author_id": "778717097731829760",
+            "conversation_id": "1325980808683859973",
+            "created_at": "2020-11-10T01:57:14.000Z",
+            "edit_history_tweet_ids": [
+                "1325980808683859973"
+            ],
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 25,
+                        "normalized_text": "Money Trees",
+                        "probability": 0.9257,
+                        "start": 15,
+                        "type": "Other"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 13,
+                        "id": "2290803002",
+                        "start": 3,
+                        "username": "nickwnyc_"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "pic.twitter.com/KyVR7PvyS0",
+                        "end": 82,
+                        "expanded_url": "https://twitter.com/nickwnyc_/status/1325957758802407424/photo/1",
+                        "media_key": "3_1325957751399395328",
+                        "start": 59,
+                        "url": "https://t.co/KyVR7PvyS0"
+                    },
+                    {
+                        "display_url": "pic.twitter.com/KyVR7PvyS0",
+                        "end": 82,
+                        "expanded_url": "https://twitter.com/nickwnyc_/status/1325957758802407424/photo/1",
+                        "media_key": "3_1325957751399477249",
+                        "start": 59,
+                        "url": "https://t.co/KyVR7PvyS0"
+                    },
+                    {
+                        "display_url": "pic.twitter.com/KyVR7PvyS0",
+                        "end": 82,
+                        "expanded_url": "https://twitter.com/nickwnyc_/status/1325957758802407424/photo/1",
+                        "media_key": "3_1325957752322220032",
+                        "start": 59,
+                        "url": "https://t.co/KyVR7PvyS0"
+                    },
+                    {
+                        "display_url": "pic.twitter.com/KyVR7PvyS0",
+                        "end": 82,
+                        "expanded_url": "https://twitter.com/nickwnyc_/status/1325957758802407424/photo/1",
+                        "media_key": "3_1325957753026846720",
+                        "start": 59,
+                        "url": "https://t.co/KyVR7PvyS0"
+                    }
+                ]
+            },
+            "id": "1325980808683859973",
+            "lang": "en",
+            "public_metrics": {
+                "impression_count": 0,
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 156
+            },
+            "referenced_tweets": [
+                {
+                    "id": "1325957758802407424",
+                    "type": "retweeted"
+                }
+            ],
+            "reply_settings": "everyone",
+            "text": "RT @nickwnyc_: Money Trees is the perfect place for shade. https://t.co/KyVR7PvyS0"
+        },
+        {
+            "author_id": "27493883",
+            "context_annotations": [
+                {
+                    "domain": {
+                        "description": "Named people in the world like Nelson Mandela",
+                        "id": "10",
+                        "name": "Person"
+                    },
+                    "entity": {
+                        "id": "1138106947234779137",
+                        "name": "Jon Cooper"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "Politicians in the world, like Joe Biden",
+                        "id": "35",
+                        "name": "Politician"
+                    },
+                    "entity": {
+                        "id": "1138106947234779137",
+                        "name": "Jon Cooper"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A taxonomy of user interests. ",
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy"
+                    },
+                    "entity": {
+                        "description": "Politics",
+                        "id": "847878884917886977",
+                        "name": "Politics"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A taxonomy of user interests. ",
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy"
+                    },
+                    "entity": {
+                        "description": "Politician",
+                        "id": "1070032753834438656",
+                        "name": "Political figures"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A taxonomy of user interests. ",
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy"
+                    },
+                    "entity": {
+                        "id": "1138106947234779137",
+                        "name": "Jon Cooper"
+                    }
+                }
+            ],
+            "conversation_id": "1325980802119835650",
+            "created_at": "2020-11-10T01:57:13.000Z",
+            "edit_history_tweet_ids": [
+                "1325980802119835650"
+            ],
+            "entities": {
+                "mentions": [
+                    {
+                        "end": 14,
+                        "id": "15751676",
+                        "start": 3,
+                        "username": "MattNegrin"
+                    }
+                ]
+            },
+            "id": "1325980802119835650",
+            "lang": "en",
+            "public_metrics": {
+                "impression_count": 0,
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 848
+            },
+            "referenced_tweets": [
+                {
+                    "id": "1325949308244553728",
+                    "type": "retweeted"
+                }
+            ],
+            "reply_settings": "everyone",
+            "text": "RT @MattNegrin: The press is almost completely spun on this. They will treat everything with a shade of legal \u201cprocess\u201d as just part of the\u2026"
+        },
+        {
+            "author_id": "147586984",
+            "conversation_id": "1325980775175622663",
+            "created_at": "2020-11-10T01:57:06.000Z",
+            "edit_history_tweet_ids": [
+                "1325980775175622663"
+            ],
+            "entities": {
+                "mentions": [
+                    {
+                        "end": 14,
+                        "id": "15751676",
+                        "start": 3,
+                        "username": "MattNegrin"
+                    }
+                ]
+            },
+            "id": "1325980775175622663",
+            "lang": "en",
+            "public_metrics": {
+                "impression_count": 0,
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 848
+            },
+            "referenced_tweets": [
+                {
+                    "id": "1325949308244553728",
+                    "type": "retweeted"
+                }
+            ],
+            "reply_settings": "everyone",
+            "text": "RT @MattNegrin: The press is almost completely spun on this. They will treat everything with a shade of legal \u201cprocess\u201d as just part of the\u2026"
+        },
+        {
+            "author_id": "3453561258",
+            "context_annotations": [
+                {
+                    "domain": {
+                        "description": "Brands and Companies",
+                        "id": "47",
+                        "name": "Brand"
+                    },
+                    "entity": {
+                        "id": "1177555911671308288",
+                        "name": "Wardah Cosmetics"
+                    }
+                }
+            ],
+            "conversation_id": "1325980280897761280",
+            "created_at": "2020-11-10T01:57:04.000Z",
+            "edit_history_tweet_ids": [
+                "1325980763880259584"
+            ],
+            "entities": {
+                "mentions": [
+                    {
+                        "end": 8,
+                        "id": "1601505026",
+                        "start": 0,
+                        "username": "your2rl"
+                    }
+                ]
+            },
+            "id": "1325980763880259584",
+            "in_reply_to_user_id": "1601505026",
+            "lang": "in",
+            "public_metrics": {
+                "impression_count": 0,
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "referenced_tweets": [
+                {
+                    "id": "1325980280897761280",
+                    "type": "replied_to"
+                }
+            ],
+            "reply_settings": "everyone",
+            "text": "@your2rl wardah shade 1 yg paling tua"
+        },
+        {
+            "author_id": "41530317",
+            "conversation_id": "1325980751716880387",
+            "created_at": "2020-11-10T01:57:01.000Z",
+            "edit_history_tweet_ids": [
+                "1325980751716880387"
+            ],
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 60,
+                        "normalized_text": "DragRaceHolland",
+                        "probability": 0.9639,
+                        "start": 46,
+                        "type": "Other"
+                    },
+                    {
+                        "end": 88,
+                        "normalized_text": "Shade",
+                        "probability": 0.3571,
+                        "start": 84,
+                        "type": "Other"
+                    }
+                ],
+                "hashtags": [
+                    {
+                        "end": 61,
+                        "start": 45,
+                        "tag": "DragRaceHolland"
+                    }
+                ]
+            },
+            "id": "1325980751716880387",
+            "lang": "es",
+            "public_metrics": {
+                "impression_count": 0,
+                "like_count": 1,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "reply_settings": "everyone",
+            "text": "Realmente no me molesta que ella haya ganado #DragRaceHolland! Es sequisima y tanto Shade que he le\u00eddo sobre ella"
+        },
+        {
+            "author_id": "43293083",
+            "context_annotations": [
+                {
+                    "domain": {
+                        "description": "Top level entities that describe a Brands industry",
+                        "id": "45",
+                        "name": "Brand Vertical"
+                    },
+                    "entity": {
+                        "id": "781974597310615553",
+                        "name": "Entertainment"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+                        "id": "30",
+                        "name": "Entities [Entity Service]"
+                    },
+                    "entity": {
+                        "id": "781974597105094656",
+                        "name": "TV/Movies Related - Entertainment"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "Brands and Companies",
+                        "id": "47",
+                        "name": "Brand"
+                    },
+                    "entity": {
+                        "description": "BBC",
+                        "id": "1065659570578612224",
+                        "name": "BBC"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A taxonomy of user interests. ",
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy"
+                    },
+                    "entity": {
+                        "description": "News",
+                        "id": "1046545033657081857",
+                        "name": "News"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A taxonomy of user interests. ",
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy"
+                    },
+                    "entity": {
+                        "description": "BBC",
+                        "id": "1065659570578612224",
+                        "name": "BBC"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A taxonomy of user interests. ",
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy"
+                    },
+                    "entity": {
+                        "id": "1196447117297905665",
+                        "name": "News outlets"
+                    }
+                }
+            ],
+            "conversation_id": "1325980732536233986",
+            "created_at": "2020-11-10T01:56:56.000Z",
+            "edit_history_tweet_ids": [
+                "1325980732536233986"
+            ],
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 77,
+                        "normalized_text": "BBC",
+                        "probability": 0.9371,
+                        "start": 75,
+                        "type": "Organization"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 13,
+                        "id": "21822169",
+                        "start": 3,
+                        "username": "emilybest"
+                    }
+                ]
+            },
+            "id": "1325980732536233986",
+            "lang": "en",
+            "public_metrics": {
+                "impression_count": 0,
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 26
+            },
+            "referenced_tweets": [
+                {
+                    "id": "1325947912166273027",
+                    "type": "retweeted"
+                }
+            ],
+            "reply_settings": "everyone",
+            "text": "RT @emilybest: This is the kind of high brow shade you can expect from the BBC and I am here for it."
+        },
+        {
+            "author_id": "42494292",
+            "conversation_id": "1325980730262949891",
+            "created_at": "2020-11-10T01:56:56.000Z",
+            "edit_history_tweet_ids": [
+                "1325980730262949891"
+            ],
+            "entities": {
+                "mentions": [
+                    {
+                        "end": 14,
+                        "id": "15751676",
+                        "start": 3,
+                        "username": "MattNegrin"
+                    }
+                ]
+            },
+            "id": "1325980730262949891",
+            "lang": "en",
+            "public_metrics": {
+                "impression_count": 0,
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 848
+            },
+            "referenced_tweets": [
+                {
+                    "id": "1325949308244553728",
+                    "type": "retweeted"
+                }
+            ],
+            "reply_settings": "everyone",
+            "text": "RT @MattNegrin: The press is almost completely spun on this. They will treat everything with a shade of legal \u201cprocess\u201d as just part of the\u2026"
+        },
+        {
+            "author_id": "26029878",
+            "conversation_id": "1325980688890417152",
+            "created_at": "2020-11-10T01:56:46.000Z",
+            "edit_history_tweet_ids": [
+                "1325980688890417152"
+            ],
+            "entities": {
+                "mentions": [
+                    {
+                        "end": 14,
+                        "id": "15751676",
+                        "start": 3,
+                        "username": "MattNegrin"
+                    }
+                ]
+            },
+            "id": "1325980688890417152",
+            "lang": "en",
+            "public_metrics": {
+                "impression_count": 0,
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 848
+            },
+            "referenced_tweets": [
+                {
+                    "id": "1325949308244553728",
+                    "type": "retweeted"
+                }
+            ],
+            "reply_settings": "everyone",
+            "text": "RT @MattNegrin: The press is almost completely spun on this. They will treat everything with a shade of legal \u201cprocess\u201d as just part of the\u2026"
+        },
+        {
+            "author_id": "1158935544635637760",
+            "conversation_id": "1325980621408100352",
+            "created_at": "2020-11-10T01:56:30.000Z",
+            "edit_history_tweet_ids": [
+                "1325980621408100352"
+            ],
+            "entities": {
+                "mentions": [
+                    {
+                        "end": 14,
+                        "id": "15751676",
+                        "start": 3,
+                        "username": "MattNegrin"
+                    }
+                ]
+            },
+            "id": "1325980621408100352",
+            "lang": "en",
+            "public_metrics": {
+                "impression_count": 0,
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 848
+            },
+            "referenced_tweets": [
+                {
+                    "id": "1325949308244553728",
+                    "type": "retweeted"
+                }
+            ],
+            "reply_settings": "everyone",
+            "text": "RT @MattNegrin: The press is almost completely spun on this. They will treat everything with a shade of legal \u201cprocess\u201d as just part of the\u2026"
+        },
+        {
+            "author_id": "3104471672",
+            "conversation_id": "1325567493201649664",
+            "created_at": "2020-11-10T01:56:21.000Z",
+            "edit_history_tweet_ids": [
+                "1325980585446223873"
+            ],
+            "entities": {
+                "mentions": [
+                    {
+                        "end": 7,
+                        "id": "21619519",
+                        "start": 0,
+                        "username": "JoeNBC"
+                    }
+                ]
+            },
+            "id": "1325980585446223873",
+            "in_reply_to_user_id": "21619519",
+            "lang": "en",
+            "public_metrics": {
+                "impression_count": 0,
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "referenced_tweets": [
+                {
+                    "id": "1325567493201649664",
+                    "type": "replied_to"
+                }
+            ],
+            "reply_settings": "everyone",
+            "text": "@JoeNBC It's also border security. It is a total myth that some Texans don't want border security because of their skin shade, and very racist."
+        },
+        {
+            "author_id": "823362062214688769",
+            "conversation_id": "1325980573022769152",
+            "created_at": "2020-11-10T01:56:18.000Z",
+            "edit_history_tweet_ids": [
+                "1325980573022769152"
+            ],
+            "entities": {
+                "mentions": [
+                    {
+                        "end": 14,
+                        "id": "15751676",
+                        "start": 3,
+                        "username": "MattNegrin"
+                    }
+                ]
+            },
+            "id": "1325980573022769152",
+            "lang": "en",
+            "public_metrics": {
+                "impression_count": 0,
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 848
+            },
+            "referenced_tweets": [
+                {
+                    "id": "1325949308244553728",
+                    "type": "retweeted"
+                }
+            ],
+            "reply_settings": "everyone",
+            "text": "RT @MattNegrin: The press is almost completely spun on this. They will treat everything with a shade of legal \u201cprocess\u201d as just part of the\u2026"
+        },
+        {
+            "author_id": "1194119755839524865",
+            "conversation_id": "1325957127647719427",
+            "created_at": "2020-11-10T01:56:11.000Z",
+            "edit_history_tweet_ids": [
+                "1325980540600807426"
+            ],
+            "entities": {
+                "mentions": [
+                    {
+                        "end": 22,
+                        "id": "976686302",
+                        "start": 10,
+                        "username": "Slappy202TV"
+                    },
+                    {
+                        "end": 34,
+                        "id": "2511145872",
+                        "start": 23,
+                        "username": "IAmTacoGod"
+                    },
+                    {
+                        "end": 41,
+                        "id": "1392155857",
+                        "start": 35,
+                        "username": "TNZNs"
+                    }
+                ]
+            },
+            "id": "1325980540600807426",
+            "in_reply_to_user_id": "796375985432174592",
+            "lang": "en",
+            "public_metrics": {
+                "impression_count": 0,
+                "like_count": 2,
+                "quote_count": 0,
+                "reply_count": 1,
+                "retweet_count": 0
+            },
+            "referenced_tweets": [
+                {
+                    "id": "1325967831008227328",
+                    "type": "replied_to"
+                }
+            ],
+            "reply_settings": "everyone",
+            "text": "@Da_Olaf_ @Slappy202TV @IAmTacoGod @TNZNs The shade \ud83d\ude02"
+        },
+        {
+            "author_id": "824450140131975168",
+            "conversation_id": "1325980535286456320",
+            "created_at": "2020-11-10T01:56:09.000Z",
+            "edit_history_tweet_ids": [
+                "1325980535286456320"
+            ],
+            "entities": {
+                "mentions": [
+                    {
+                        "end": 14,
+                        "id": "15751676",
+                        "start": 3,
+                        "username": "MattNegrin"
+                    }
+                ]
+            },
+            "id": "1325980535286456320",
+            "lang": "en",
+            "public_metrics": {
+                "impression_count": 0,
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 848
+            },
+            "referenced_tweets": [
+                {
+                    "id": "1325949308244553728",
+                    "type": "retweeted"
+                }
+            ],
+            "reply_settings": "everyone",
+            "text": "RT @MattNegrin: The press is almost completely spun on this. They will treat everything with a shade of legal \u201cprocess\u201d as just part of the\u2026"
+        }
+    ],
+    "meta": {
+        "newest_id": "1325981785734344704",
+        "next_token": "b26v89c19zqg8o3fosbu94l6wmp1pw0yix3w6ofw40cjh",
+        "oldest_id": "1325980535286456320",
+        "result_count": 92
+    }
+}

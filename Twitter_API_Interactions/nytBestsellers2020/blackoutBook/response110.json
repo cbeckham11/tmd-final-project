@@ -1,0 +1,86 @@
+{
+    "data": [
+        {
+            "author_id": "349340229",
+            "context_annotations": [
+                {
+                    "domain": {
+                        "description": "Television shows from around the world",
+                        "id": "3",
+                        "name": "TV Shows"
+                    },
+                    "entity": {
+                        "description": "Fique por dentro da nova temporada de #AFazenda aqui!",
+                        "id": "10028586183",
+                        "name": "A Fazenda 14"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A taxonomy of user interests. ",
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy"
+                    },
+                    "entity": {
+                        "id": "1300877051285483520",
+                        "name": "A Fazenda"
+                    }
+                }
+            ],
+            "conversation_id": "1327291050742964225",
+            "created_at": "2020-11-13T16:43:41.000Z",
+            "edit_history_tweet_ids": [
+                "1327291050742964225"
+            ],
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 93,
+                        "normalized_text": "blackout",
+                        "probability": 0.8331,
+                        "start": 86,
+                        "type": "Other"
+                    },
+                    {
+                        "end": 166,
+                        "normalized_text": "Raissers",
+                        "probability": 0.7336,
+                        "start": 159,
+                        "type": "Other"
+                    },
+                    {
+                        "end": 270,
+                        "normalized_text": "AFazenda12",
+                        "probability": 0.9489,
+                        "start": 261,
+                        "type": "Other"
+                    }
+                ],
+                "hashtags": [
+                    {
+                        "end": 271,
+                        "start": 260,
+                        "tag": "AFazenda12"
+                    }
+                ]
+            },
+            "id": "1327291050742964225",
+            "lang": "pt",
+            "public_metrics": {
+                "impression_count": 0,
+                "like_count": 6,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "reply_settings": "everyone",
+            "text": "Feliz pela nossa conquista, mas na  pr\u00f3xima ro\u00e7a espero que a @secretscamilaq  fa\u00e7a o blackout, ponha a r\u00e1dio pra tocar de madrugada. A\u00ed eu duvido que vai ter Raissers na tml. A \u00fanica coisa que precisamos melhor \u00e9 esvaziar a tml e deixar o pessimismo de lado. #AFazenda12"
+        }
+    ],
+    "meta": {
+        "newest_id": "1327291050742964225",
+        "next_token": "b26v89c19zqg8o3fosbv30wajbwbcqtp7mivsjixcapod",
+        "oldest_id": "1327291050742964225",
+        "result_count": 1
+    }
+}

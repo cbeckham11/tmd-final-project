@@ -1,0 +1,2849 @@
+{
+    "data": [
+        {
+            "author_id": "1316208392013307905",
+            "context_annotations": [
+                {
+                    "domain": {
+                        "description": "Real world events. ",
+                        "id": "29",
+                        "name": "Events [Entity Service]"
+                    },
+                    "entity": {
+                        "description": "2020 US Presidential Election",
+                        "id": "1029453725360775168",
+                        "name": "2020 US Presidential Election"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A taxonomy of user interests. ",
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy"
+                    },
+                    "entity": {
+                        "description": "2020 US Presidential Election",
+                        "id": "1029453725360775168",
+                        "name": "2020 US Presidential Election"
+                    }
+                }
+            ],
+            "conversation_id": "1324116392388501511",
+            "created_at": "2020-11-04T22:28:43.000Z",
+            "edit_history_tweet_ids": [
+                "1324116392388501511"
+            ],
+            "entities": {
+                "mentions": [
+                    {
+                        "end": 19,
+                        "id": "1257333586052689922",
+                        "start": 3,
+                        "username": "LiberalHivemind"
+                    }
+                ]
+            },
+            "id": "1324116392388501511",
+            "lang": "en",
+            "public_metrics": {
+                "impression_count": 0,
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 54
+            },
+            "referenced_tweets": [
+                {
+                    "id": "1324115101599879168",
+                    "type": "retweeted"
+                }
+            ],
+            "reply_settings": "everyone",
+            "text": "RT @LiberalHivemind: Mail in ballots were a disaster from the start.\n\nI wonder how many ballot harvesting operations lead to the massive de\u2026"
+        },
+        {
+            "author_id": "15701061",
+            "conversation_id": "1324116347043938309",
+            "created_at": "2020-11-04T22:28:32.000Z",
+            "edit_history_tweet_ids": [
+                "1324116347043938309"
+            ],
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 192,
+                        "normalized_text": "Arizona",
+                        "probability": 0.9518,
+                        "start": 186,
+                        "type": "Place"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "TheAmericanReport.org",
+                        "end": 78,
+                        "expanded_url": "http://TheAmericanReport.org",
+                        "start": 55,
+                        "url": "https://t.co/VpZKBtwE76"
+                    },
+                    {
+                        "display_url": "twitter.com/DavidJHarrisJr\u2026",
+                        "end": 315,
+                        "expanded_url": "https://twitter.com/DavidJHarrisJr/status/1324112377193922564",
+                        "start": 292,
+                        "url": "https://t.co/wBQQp3zZ1e"
+                    }
+                ]
+            },
+            "id": "1324116347043938309",
+            "lang": "en",
+            "public_metrics": {
+                "impression_count": 0,
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "referenced_tweets": [
+                {
+                    "id": "1324112377193922564",
+                    "type": "quoted"
+                }
+            ],
+            "reply_settings": "everyone",
+            "text": "V/Fraud. FACT. Please read THE HAMMER AND SCORECARD at https://t.co/VpZKBtwE76. Between \ud83d\udd28 &amp; SCORECARD &amp; blatant voter fraud (ballot harvesting) &amp; I hear abt sharpies used in Arizona that were not seen by counting machines. My whole life-politics. I read/know as much as possible. https://t.co/wBQQp3zZ1e"
+        },
+        {
+            "author_id": "1307518156928217089",
+            "context_annotations": [
+                {
+                    "domain": {
+                        "description": "Named people in the world like Nelson Mandela",
+                        "id": "10",
+                        "name": "Person"
+                    },
+                    "entity": {
+                        "description": "US Representative from New York Alexandria Ocasio-Cortez",
+                        "id": "1011963575089262593",
+                        "name": "Alexandria Ocasio-Cortez"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "Named people in the world like Nelson Mandela",
+                        "id": "10",
+                        "name": "Person"
+                    },
+                    "entity": {
+                        "description": "Rashida Tlaib, member of the US Congress",
+                        "id": "1027163464077213696",
+                        "name": "Rashida Tlaib"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "Named people in the world like Nelson Mandela",
+                        "id": "10",
+                        "name": "Person"
+                    },
+                    "entity": {
+                        "description": "US Representative from Minnesota, Ilhan Omar (MN-5)",
+                        "id": "1038189347558682624",
+                        "name": "Ilhan Omar"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "Politicians in the world, like Joe Biden",
+                        "id": "35",
+                        "name": "Politician"
+                    },
+                    "entity": {
+                        "description": "US Representative from New York Alexandria Ocasio-Cortez",
+                        "id": "1011963575089262593",
+                        "name": "Alexandria Ocasio-Cortez"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "Politicians in the world, like Joe Biden",
+                        "id": "35",
+                        "name": "Politician"
+                    },
+                    "entity": {
+                        "description": "Rashida Tlaib, member of the US Congress",
+                        "id": "1027163464077213696",
+                        "name": "Rashida Tlaib"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "Politicians in the world, like Joe Biden",
+                        "id": "35",
+                        "name": "Politician"
+                    },
+                    "entity": {
+                        "description": "US Representative from Minnesota, Ilhan Omar (MN-5)",
+                        "id": "1038189347558682624",
+                        "name": "Ilhan Omar"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A taxonomy of user interests. ",
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy"
+                    },
+                    "entity": {
+                        "description": "Politics",
+                        "id": "847878884917886977",
+                        "name": "Politics"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A taxonomy of user interests. ",
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy"
+                    },
+                    "entity": {
+                        "description": "US Representative from New York Alexandria Ocasio-Cortez",
+                        "id": "1011963575089262593",
+                        "name": "Alexandria Ocasio-Cortez"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A taxonomy of user interests. ",
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy"
+                    },
+                    "entity": {
+                        "description": "Rashida Tlaib, member of the US Congress",
+                        "id": "1027163464077213696",
+                        "name": "Rashida Tlaib"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A taxonomy of user interests. ",
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy"
+                    },
+                    "entity": {
+                        "description": "US Representative from Minnesota, Ilhan Omar (MN-5)",
+                        "id": "1038189347558682624",
+                        "name": "Ilhan Omar"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A taxonomy of user interests. ",
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy"
+                    },
+                    "entity": {
+                        "description": "Politician",
+                        "id": "1070032753834438656",
+                        "name": "Political figures"
+                    }
+                }
+            ],
+            "conversation_id": "1324111571119984640",
+            "created_at": "2020-11-04T22:28:25.000Z",
+            "edit_history_tweet_ids": [
+                "1324116318501638146"
+            ],
+            "entities": {
+                "mentions": [
+                    {
+                        "end": 4,
+                        "id": "138203134",
+                        "start": 0,
+                        "username": "AOC"
+                    },
+                    {
+                        "end": 13,
+                        "id": "783792992",
+                        "start": 5,
+                        "username": "IlhanMN"
+                    },
+                    {
+                        "end": 27,
+                        "id": "435331179",
+                        "start": 14,
+                        "username": "RashidaTlaib"
+                    }
+                ]
+            },
+            "id": "1324116318501638146",
+            "in_reply_to_user_id": "138203134",
+            "lang": "en",
+            "public_metrics": {
+                "impression_count": 0,
+                "like_count": 1,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "referenced_tweets": [
+                {
+                    "id": "1324111571119984640",
+                    "type": "replied_to"
+                }
+            ],
+            "reply_settings": "everyone",
+            "text": "@AOC @IlhanMN @RashidaTlaib No, That\u2019s called ballot harvesting"
+        },
+        {
+            "author_id": "1273776156450402305",
+            "context_annotations": [
+                {
+                    "domain": {
+                        "description": "Real world events. ",
+                        "id": "29",
+                        "name": "Events [Entity Service]"
+                    },
+                    "entity": {
+                        "description": "2020 US Presidential Election",
+                        "id": "1029453725360775168",
+                        "name": "2020 US Presidential Election"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A taxonomy of user interests. ",
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy"
+                    },
+                    "entity": {
+                        "description": "2020 US Presidential Election",
+                        "id": "1029453725360775168",
+                        "name": "2020 US Presidential Election"
+                    }
+                }
+            ],
+            "conversation_id": "1324116317155241985",
+            "created_at": "2020-11-04T22:28:25.000Z",
+            "edit_history_tweet_ids": [
+                "1324116317155241985"
+            ],
+            "entities": {
+                "mentions": [
+                    {
+                        "end": 19,
+                        "id": "1257333586052689922",
+                        "start": 3,
+                        "username": "LiberalHivemind"
+                    }
+                ]
+            },
+            "id": "1324116317155241985",
+            "lang": "en",
+            "public_metrics": {
+                "impression_count": 0,
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 54
+            },
+            "referenced_tweets": [
+                {
+                    "id": "1324115101599879168",
+                    "type": "retweeted"
+                }
+            ],
+            "reply_settings": "everyone",
+            "text": "RT @LiberalHivemind: Mail in ballots were a disaster from the start.\n\nI wonder how many ballot harvesting operations lead to the massive de\u2026"
+        },
+        {
+            "author_id": "1072985923837718529",
+            "conversation_id": "1324116278819389440",
+            "created_at": "2020-11-04T22:28:16.000Z",
+            "edit_history_tweet_ids": [
+                "1324116278819389440"
+            ],
+            "entities": {
+                "mentions": [
+                    {
+                        "end": 14,
+                        "id": "10292132",
+                        "start": 3,
+                        "username": "joelpollak"
+                    }
+                ]
+            },
+            "id": "1324116278819389440",
+            "lang": "en",
+            "public_metrics": {
+                "impression_count": 0,
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 1472
+            },
+            "referenced_tweets": [
+                {
+                    "id": "1324023436448915457",
+                    "type": "retweeted"
+                }
+            ],
+            "reply_settings": "everyone",
+            "text": "RT @joelpollak: The Democrat lawyer who filed many of the lawsuits to change voting procedures in battleground states is the same guy who p\u2026"
+        },
+        {
+            "author_id": "1270631077275742208",
+            "context_annotations": [
+                {
+                    "domain": {
+                        "description": "Real world events. ",
+                        "id": "29",
+                        "name": "Events [Entity Service]"
+                    },
+                    "entity": {
+                        "description": "2020 US Presidential Election",
+                        "id": "1029453725360775168",
+                        "name": "2020 US Presidential Election"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A taxonomy of user interests. ",
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy"
+                    },
+                    "entity": {
+                        "description": "2020 US Presidential Election",
+                        "id": "1029453725360775168",
+                        "name": "2020 US Presidential Election"
+                    }
+                }
+            ],
+            "conversation_id": "1324116264122503176",
+            "created_at": "2020-11-04T22:28:12.000Z",
+            "edit_history_tweet_ids": [
+                "1324116264122503176"
+            ],
+            "entities": {
+                "mentions": [
+                    {
+                        "end": 19,
+                        "id": "1257333586052689922",
+                        "start": 3,
+                        "username": "LiberalHivemind"
+                    }
+                ]
+            },
+            "id": "1324116264122503176",
+            "lang": "en",
+            "public_metrics": {
+                "impression_count": 0,
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 54
+            },
+            "referenced_tweets": [
+                {
+                    "id": "1324115101599879168",
+                    "type": "retweeted"
+                }
+            ],
+            "reply_settings": "everyone",
+            "text": "RT @LiberalHivemind: Mail in ballots were a disaster from the start.\n\nI wonder how many ballot harvesting operations lead to the massive de\u2026"
+        },
+        {
+            "author_id": "3342203952",
+            "context_annotations": [
+                {
+                    "domain": {
+                        "description": "Real world events. ",
+                        "id": "29",
+                        "name": "Events [Entity Service]"
+                    },
+                    "entity": {
+                        "description": "2020 US Presidential Election",
+                        "id": "1029453725360775168",
+                        "name": "2020 US Presidential Election"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A taxonomy of user interests. ",
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy"
+                    },
+                    "entity": {
+                        "description": "2020 US Presidential Election",
+                        "id": "1029453725360775168",
+                        "name": "2020 US Presidential Election"
+                    }
+                }
+            ],
+            "conversation_id": "1324116264051044352",
+            "created_at": "2020-11-04T22:28:12.000Z",
+            "edit_history_tweet_ids": [
+                "1324116264051044352"
+            ],
+            "entities": {
+                "mentions": [
+                    {
+                        "end": 19,
+                        "id": "1257333586052689922",
+                        "start": 3,
+                        "username": "LiberalHivemind"
+                    }
+                ]
+            },
+            "id": "1324116264051044352",
+            "lang": "en",
+            "public_metrics": {
+                "impression_count": 0,
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 54
+            },
+            "referenced_tweets": [
+                {
+                    "id": "1324115101599879168",
+                    "type": "retweeted"
+                }
+            ],
+            "reply_settings": "everyone",
+            "text": "RT @LiberalHivemind: Mail in ballots were a disaster from the start.\n\nI wonder how many ballot harvesting operations lead to the massive de\u2026"
+        },
+        {
+            "author_id": "1313833840507527170",
+            "conversation_id": "1324116181796724741",
+            "created_at": "2020-11-04T22:27:53.000Z",
+            "edit_history_tweet_ids": [
+                "1324116181796724741"
+            ],
+            "entities": {
+                "mentions": [
+                    {
+                        "end": 14,
+                        "id": "10292132",
+                        "start": 3,
+                        "username": "joelpollak"
+                    }
+                ]
+            },
+            "id": "1324116181796724741",
+            "lang": "en",
+            "public_metrics": {
+                "impression_count": 0,
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 1472
+            },
+            "referenced_tweets": [
+                {
+                    "id": "1324023436448915457",
+                    "type": "retweeted"
+                }
+            ],
+            "reply_settings": "everyone",
+            "text": "RT @joelpollak: The Democrat lawyer who filed many of the lawsuits to change voting procedures in battleground states is the same guy who p\u2026"
+        },
+        {
+            "author_id": "82631570",
+            "conversation_id": "1324093784452403202",
+            "created_at": "2020-11-04T22:27:37.000Z",
+            "edit_history_tweet_ids": [
+                "1324116114109042688"
+            ],
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 120,
+                        "normalized_text": "Milwaukee",
+                        "probability": 0.9814,
+                        "start": 112,
+                        "type": "Place"
+                    },
+                    {
+                        "end": 132,
+                        "normalized_text": "Detroit",
+                        "probability": 0.9785,
+                        "start": 126,
+                        "type": "Place"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 13,
+                        "id": "378317169",
+                        "start": 0,
+                        "username": "BomberWickey"
+                    },
+                    {
+                        "end": 30,
+                        "id": "2303751216",
+                        "start": 14,
+                        "username": "FiveThirtyEight"
+                    }
+                ]
+            },
+            "id": "1324116114109042688",
+            "in_reply_to_user_id": "378317169",
+            "lang": "en",
+            "public_metrics": {
+                "impression_count": 0,
+                "like_count": 2,
+                "quote_count": 0,
+                "reply_count": 1,
+                "retweet_count": 0
+            },
+            "referenced_tweets": [
+                {
+                    "id": "1324111768277393409",
+                    "type": "replied_to"
+                }
+            ],
+            "reply_settings": "everyone",
+            "text": "@BomberWickey @FiveThirtyEight Looks like some ballot harvesting to me!  Same thing appears to have happened in Milwaukee and Detroit."
+        },
+        {
+            "author_id": "818722908",
+            "context_annotations": [
+                {
+                    "domain": {
+                        "description": "Named people in the world like Nelson Mandela",
+                        "id": "10",
+                        "name": "Person"
+                    },
+                    "entity": {
+                        "description": "Jack Posobiec",
+                        "id": "1059669906201862144",
+                        "name": "Jack Posobiec"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A taxonomy of user interests. ",
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy"
+                    },
+                    "entity": {
+                        "description": "Politics",
+                        "id": "847878884917886977",
+                        "name": "Politics"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A taxonomy of user interests. ",
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy"
+                    },
+                    "entity": {
+                        "description": "Jack Posobiec",
+                        "id": "1059669906201862144",
+                        "name": "Jack Posobiec"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A taxonomy of user interests. ",
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy"
+                    },
+                    "entity": {
+                        "description": "Politician",
+                        "id": "1070032753834438656",
+                        "name": "Political figures"
+                    }
+                }
+            ],
+            "conversation_id": "1324116059247517700",
+            "created_at": "2020-11-04T22:27:24.000Z",
+            "edit_history_tweet_ids": [
+                "1324116059247517700"
+            ],
+            "entities": {
+                "mentions": [
+                    {
+                        "end": 18,
+                        "id": "21370037",
+                        "start": 3,
+                        "username": "tri_terebellum"
+                    },
+                    {
+                        "end": 33,
+                        "id": "592730371",
+                        "start": 20,
+                        "username": "JackPosobiec"
+                    }
+                ]
+            },
+            "id": "1324116059247517700",
+            "lang": "en",
+            "public_metrics": {
+                "impression_count": 0,
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 23
+            },
+            "referenced_tweets": [
+                {
+                    "id": "1324078050410192896",
+                    "type": "retweeted"
+                }
+            ],
+            "reply_settings": "everyone",
+            "text": "RT @tri_terebellum: @JackPosobiec Smells a bit like ballot harvesting"
+        },
+        {
+            "author_id": "1140093638640394240",
+            "conversation_id": "1324116044907188224",
+            "created_at": "2020-11-04T22:27:20.000Z",
+            "edit_history_tweet_ids": [
+                "1324116044907188224"
+            ],
+            "entities": {
+                "mentions": [
+                    {
+                        "end": 9,
+                        "id": "27522964",
+                        "start": 3,
+                        "username": "vdare"
+                    }
+                ]
+            },
+            "id": "1324116044907188224",
+            "lang": "en",
+            "public_metrics": {
+                "impression_count": 0,
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 118
+            },
+            "referenced_tweets": [
+                {
+                    "id": "1324111105329930246",
+                    "type": "retweeted"
+                }
+            ],
+            "reply_settings": "everyone",
+            "text": "RT @vdare: She warned us: 'If, as it plainly appears, private big tech and left-wing philanthropic funding is being used to rig the electio\u2026"
+        },
+        {
+            "author_id": "936814213774954496",
+            "context_annotations": [
+                {
+                    "domain": {
+                        "description": "Named people in the world like Nelson Mandela",
+                        "id": "10",
+                        "name": "Person"
+                    },
+                    "entity": {
+                        "description": "45th US President, Donald Trump",
+                        "id": "799022225751871488",
+                        "name": "Donald Trump"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "Real world events. ",
+                        "id": "29",
+                        "name": "Events [Entity Service]"
+                    },
+                    "entity": {
+                        "description": "2020 US Presidential Election",
+                        "id": "1029453725360775168",
+                        "name": "2020 US Presidential Election"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "Politicians in the world, like Joe Biden",
+                        "id": "35",
+                        "name": "Politician"
+                    },
+                    "entity": {
+                        "description": "45th US President, Donald Trump",
+                        "id": "799022225751871488",
+                        "name": "Donald Trump"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "Ongoing News Stories like 'Brexit'",
+                        "id": "123",
+                        "name": "Ongoing News Story"
+                    },
+                    "entity": {
+                        "id": "1220701888179359745",
+                        "name": "COVID-19"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A taxonomy of user interests. ",
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy"
+                    },
+                    "entity": {
+                        "description": "45th US President, Donald Trump",
+                        "id": "799022225751871488",
+                        "name": "Donald Trump"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A taxonomy of user interests. ",
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy"
+                    },
+                    "entity": {
+                        "description": "Politics",
+                        "id": "847878884917886977",
+                        "name": "Politics"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A taxonomy of user interests. ",
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy"
+                    },
+                    "entity": {
+                        "description": "2020 US Presidential Election",
+                        "id": "1029453725360775168",
+                        "name": "2020 US Presidential Election"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A taxonomy of user interests. ",
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy"
+                    },
+                    "entity": {
+                        "description": "Politician",
+                        "id": "1070032753834438656",
+                        "name": "Political figures"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A taxonomy of user interests. ",
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy"
+                    },
+                    "entity": {
+                        "id": "1220701888179359745",
+                        "name": "COVID-19"
+                    }
+                }
+            ],
+            "conversation_id": "1324108200141082624",
+            "created_at": "2020-11-04T22:27:12.000Z",
+            "edit_history_tweet_ids": [
+                "1324116012002926594"
+            ],
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 38,
+                        "normalized_text": "COVID",
+                        "probability": 0.8953,
+                        "start": 34,
+                        "type": "Other"
+                    },
+                    {
+                        "end": 48,
+                        "normalized_text": "Trump",
+                        "probability": 0.9703,
+                        "start": 44,
+                        "type": "Person"
+                    }
+                ],
+                "hashtags": [
+                    {
+                        "end": 182,
+                        "start": 169,
+                        "tag": "OrangeManBad"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 9,
+                        "id": "871065311851806720",
+                        "start": 0,
+                        "username": "Hankvalj"
+                    },
+                    {
+                        "end": 26,
+                        "id": "25073877",
+                        "start": 10,
+                        "username": "realDonaldTrump"
+                    }
+                ]
+            },
+            "id": "1324116012002926594",
+            "in_reply_to_user_id": "871065311851806720",
+            "lang": "en",
+            "public_metrics": {
+                "impression_count": 0,
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "referenced_tweets": [
+                {
+                    "id": "1324110233086603265",
+                    "type": "replied_to"
+                }
+            ],
+            "reply_settings": "everyone",
+            "text": "@Hankvalj @realDonaldTrump So \n1. COVID \n2. Trump is a racist\n3. Lockdowns\n4. Ballot Harvesting, delays counts, mail fraud\n5. Adding more judges to SC\n6. Not there yet\n\n#OrangeManBad"
+        },
+        {
+            "author_id": "1321499536855126016",
+            "context_annotations": [
+                {
+                    "domain": {
+                        "description": "Real world events. ",
+                        "id": "29",
+                        "name": "Events [Entity Service]"
+                    },
+                    "entity": {
+                        "description": "2020 US Presidential Election",
+                        "id": "1029453725360775168",
+                        "name": "2020 US Presidential Election"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A taxonomy of user interests. ",
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy"
+                    },
+                    "entity": {
+                        "description": "2020 US Presidential Election",
+                        "id": "1029453725360775168",
+                        "name": "2020 US Presidential Election"
+                    }
+                }
+            ],
+            "conversation_id": "1324115987222900736",
+            "created_at": "2020-11-04T22:27:06.000Z",
+            "edit_history_tweet_ids": [
+                "1324115987222900736"
+            ],
+            "entities": {
+                "mentions": [
+                    {
+                        "end": 19,
+                        "id": "1257333586052689922",
+                        "start": 3,
+                        "username": "LiberalHivemind"
+                    }
+                ]
+            },
+            "id": "1324115987222900736",
+            "lang": "en",
+            "public_metrics": {
+                "impression_count": 0,
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 54
+            },
+            "referenced_tweets": [
+                {
+                    "id": "1324115101599879168",
+                    "type": "retweeted"
+                }
+            ],
+            "reply_settings": "everyone",
+            "text": "RT @LiberalHivemind: Mail in ballots were a disaster from the start.\n\nI wonder how many ballot harvesting operations lead to the massive de\u2026"
+        },
+        {
+            "author_id": "196979357",
+            "conversation_id": "1324115958538055682",
+            "created_at": "2020-11-04T22:27:00.000Z",
+            "edit_history_tweet_ids": [
+                "1324115958538055682"
+            ],
+            "entities": {
+                "mentions": [
+                    {
+                        "end": 9,
+                        "id": "27522964",
+                        "start": 3,
+                        "username": "vdare"
+                    }
+                ]
+            },
+            "id": "1324115958538055682",
+            "lang": "en",
+            "public_metrics": {
+                "impression_count": 0,
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 118
+            },
+            "referenced_tweets": [
+                {
+                    "id": "1324111105329930246",
+                    "type": "retweeted"
+                }
+            ],
+            "reply_settings": "everyone",
+            "text": "RT @vdare: She warned us: 'If, as it plainly appears, private big tech and left-wing philanthropic funding is being used to rig the electio\u2026"
+        },
+        {
+            "author_id": "2226076832",
+            "conversation_id": "1324115948970799104",
+            "created_at": "2020-11-04T22:26:57.000Z",
+            "edit_history_tweet_ids": [
+                "1324115948970799104"
+            ],
+            "entities": {
+                "mentions": [
+                    {
+                        "end": 9,
+                        "id": "27522964",
+                        "start": 3,
+                        "username": "vdare"
+                    }
+                ]
+            },
+            "id": "1324115948970799104",
+            "lang": "en",
+            "public_metrics": {
+                "impression_count": 0,
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 118
+            },
+            "referenced_tweets": [
+                {
+                    "id": "1324111105329930246",
+                    "type": "retweeted"
+                }
+            ],
+            "reply_settings": "everyone",
+            "text": "RT @vdare: She warned us: 'If, as it plainly appears, private big tech and left-wing philanthropic funding is being used to rig the electio\u2026"
+        },
+        {
+            "author_id": "1317266610504101888",
+            "context_annotations": [
+                {
+                    "domain": {
+                        "description": "Named people in the world like Nelson Mandela",
+                        "id": "10",
+                        "name": "Person"
+                    },
+                    "entity": {
+                        "description": "45th US President, Donald Trump",
+                        "id": "799022225751871488",
+                        "name": "Donald Trump"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "Real world events. ",
+                        "id": "29",
+                        "name": "Events [Entity Service]"
+                    },
+                    "entity": {
+                        "description": "2020 US Presidential Election",
+                        "id": "1029453725360775168",
+                        "name": "2020 US Presidential Election"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "Politicians in the world, like Joe Biden",
+                        "id": "35",
+                        "name": "Politician"
+                    },
+                    "entity": {
+                        "description": "45th US President, Donald Trump",
+                        "id": "799022225751871488",
+                        "name": "Donald Trump"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A taxonomy of user interests. ",
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy"
+                    },
+                    "entity": {
+                        "description": "45th US President, Donald Trump",
+                        "id": "799022225751871488",
+                        "name": "Donald Trump"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A taxonomy of user interests. ",
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy"
+                    },
+                    "entity": {
+                        "description": "Politics",
+                        "id": "847878884917886977",
+                        "name": "Politics"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A taxonomy of user interests. ",
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy"
+                    },
+                    "entity": {
+                        "description": "2020 US Presidential Election",
+                        "id": "1029453725360775168",
+                        "name": "2020 US Presidential Election"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A taxonomy of user interests. ",
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy"
+                    },
+                    "entity": {
+                        "description": "Politician",
+                        "id": "1070032753834438656",
+                        "name": "Political figures"
+                    }
+                }
+            ],
+            "conversation_id": "1324115936333324289",
+            "created_at": "2020-11-04T22:26:54.000Z",
+            "edit_history_tweet_ids": [
+                "1324115936333324289"
+            ],
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 13,
+                        "normalized_text": "Demoncrats",
+                        "probability": 0.422,
+                        "start": 4,
+                        "type": "Organization"
+                    },
+                    {
+                        "end": 44,
+                        "normalized_text": "Trump",
+                        "probability": 0.9798,
+                        "start": 40,
+                        "type": "Person"
+                    },
+                    {
+                        "end": 279,
+                        "normalized_text": "ElectionResults2020",
+                        "probability": 0.5779,
+                        "start": 261,
+                        "type": "Other"
+                    }
+                ],
+                "hashtags": [
+                    {
+                        "end": 280,
+                        "start": 260,
+                        "tag": "ElectionResults2020"
+                    }
+                ]
+            },
+            "id": "1324115936333324289",
+            "lang": "en",
+            "public_metrics": {
+                "impression_count": 0,
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "reply_settings": "everyone",
+            "text": "The Demoncrats will think they have won Trump will not concede due to the fraud committed on the Am. People! Ballot harvesting should be illegal and any votes that come in after polls close should Not be counted. We need to be better our system is third world #ElectionResults2020"
+        },
+        {
+            "author_id": "740931411549388800",
+            "context_annotations": [
+                {
+                    "domain": {
+                        "description": "Real world events. ",
+                        "id": "29",
+                        "name": "Events [Entity Service]"
+                    },
+                    "entity": {
+                        "description": "2020 US Presidential Election",
+                        "id": "1029453725360775168",
+                        "name": "2020 US Presidential Election"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A taxonomy of user interests. ",
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy"
+                    },
+                    "entity": {
+                        "description": "2020 US Presidential Election",
+                        "id": "1029453725360775168",
+                        "name": "2020 US Presidential Election"
+                    }
+                }
+            ],
+            "conversation_id": "1324115932160118784",
+            "created_at": "2020-11-04T22:26:53.000Z",
+            "edit_history_tweet_ids": [
+                "1324115932160118784"
+            ],
+            "entities": {
+                "mentions": [
+                    {
+                        "end": 19,
+                        "id": "1257333586052689922",
+                        "start": 3,
+                        "username": "LiberalHivemind"
+                    }
+                ]
+            },
+            "id": "1324115932160118784",
+            "lang": "en",
+            "public_metrics": {
+                "impression_count": 0,
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 54
+            },
+            "referenced_tweets": [
+                {
+                    "id": "1324115101599879168",
+                    "type": "retweeted"
+                }
+            ],
+            "reply_settings": "everyone",
+            "text": "RT @LiberalHivemind: Mail in ballots were a disaster from the start.\n\nI wonder how many ballot harvesting operations lead to the massive de\u2026"
+        },
+        {
+            "author_id": "1291669550216314880",
+            "conversation_id": "1324115930226384896",
+            "created_at": "2020-11-04T22:26:53.000Z",
+            "edit_history_tweet_ids": [
+                "1324115930226384896"
+            ],
+            "entities": {
+                "mentions": [
+                    {
+                        "end": 17,
+                        "id": "1191741990607761415",
+                        "start": 3,
+                        "username": "brennanhuff81"
+                    },
+                    {
+                        "end": 33,
+                        "id": "1259714432",
+                        "start": 19,
+                        "username": "kimKBaltimore"
+                    },
+                    {
+                        "end": 49,
+                        "id": "1191327658124165123",
+                        "start": 34,
+                        "username": "Mfume4Congress"
+                    }
+                ]
+            },
+            "id": "1324115930226384896",
+            "lang": "en",
+            "public_metrics": {
+                "impression_count": 0,
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 2
+            },
+            "referenced_tweets": [
+                {
+                    "id": "1323950832384049152",
+                    "type": "retweeted"
+                }
+            ],
+            "reply_settings": "everyone",
+            "text": "RT @brennanhuff81: @kimKBaltimore @Mfume4Congress I would have your lawyers investigate these results. The man barely campaigned and did no\u2026"
+        },
+        {
+            "author_id": "875037780337975297",
+            "conversation_id": "1324115879253188609",
+            "created_at": "2020-11-04T22:26:41.000Z",
+            "edit_history_tweet_ids": [
+                "1324115879253188609"
+            ],
+            "entities": {
+                "mentions": [
+                    {
+                        "end": 9,
+                        "id": "27522964",
+                        "start": 3,
+                        "username": "vdare"
+                    }
+                ]
+            },
+            "id": "1324115879253188609",
+            "lang": "en",
+            "public_metrics": {
+                "impression_count": 0,
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 118
+            },
+            "referenced_tweets": [
+                {
+                    "id": "1324111105329930246",
+                    "type": "retweeted"
+                }
+            ],
+            "reply_settings": "everyone",
+            "text": "RT @vdare: She warned us: 'If, as it plainly appears, private big tech and left-wing philanthropic funding is being used to rig the electio\u2026"
+        },
+        {
+            "author_id": "69445229",
+            "context_annotations": [
+                {
+                    "domain": {
+                        "description": "Real world events. ",
+                        "id": "29",
+                        "name": "Events [Entity Service]"
+                    },
+                    "entity": {
+                        "description": "2020 US Presidential Election",
+                        "id": "1029453725360775168",
+                        "name": "2020 US Presidential Election"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A taxonomy of user interests. ",
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy"
+                    },
+                    "entity": {
+                        "description": "2020 US Presidential Election",
+                        "id": "1029453725360775168",
+                        "name": "2020 US Presidential Election"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+                        "id": "30",
+                        "name": "Entities [Entity Service]"
+                    },
+                    "entity": {
+                        "id": "781974596752842752",
+                        "name": "Services"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "Brands and Companies",
+                        "id": "47",
+                        "name": "Brand"
+                    },
+                    "entity": {
+                        "id": "10026467878",
+                        "name": "United States Postal Service"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A section of a government, like The Supreme Court",
+                        "id": "88",
+                        "name": "Political Body"
+                    },
+                    "entity": {
+                        "id": "10026467878",
+                        "name": "United States Postal Service"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A taxonomy of user interests. ",
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy"
+                    },
+                    "entity": {
+                        "id": "10026467878",
+                        "name": "United States Postal Service"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A taxonomy of user interests. ",
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy"
+                    },
+                    "entity": {
+                        "description": "Politics",
+                        "id": "847878884917886977",
+                        "name": "Politics"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A taxonomy of user interests. ",
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy"
+                    },
+                    "entity": {
+                        "description": "Political Body",
+                        "id": "1068583660914266113",
+                        "name": "Government institutions"
+                    }
+                }
+            ],
+            "conversation_id": "1324113119484981257",
+            "created_at": "2020-11-04T22:26:39.000Z",
+            "edit_history_tweet_ids": [
+                "1324115873678848000"
+            ],
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 77,
+                        "normalized_text": "USPS",
+                        "probability": 0.5651,
+                        "start": 74,
+                        "type": "Organization"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 15,
+                        "id": "1216789842",
+                        "start": 0,
+                        "username": "DearAuntCrabby"
+                    }
+                ]
+            },
+            "id": "1324115873678848000",
+            "in_reply_to_user_id": "1216789842",
+            "lang": "en",
+            "public_metrics": {
+                "impression_count": 0,
+                "like_count": 6,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "referenced_tweets": [
+                {
+                    "id": "1324113119484981257",
+                    "type": "replied_to"
+                }
+            ],
+            "reply_settings": "everyone",
+            "text": "@DearAuntCrabby The was definitely some ballot harvesting going on at the USPS"
+        },
+        {
+            "author_id": "1279978980385402882",
+            "context_annotations": [
+                {
+                    "domain": {
+                        "description": "Named people in the world like Nelson Mandela",
+                        "id": "10",
+                        "name": "Person"
+                    },
+                    "entity": {
+                        "description": "45th US President, Donald Trump",
+                        "id": "799022225751871488",
+                        "name": "Donald Trump"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "Named people in the world like Nelson Mandela",
+                        "id": "10",
+                        "name": "Person"
+                    },
+                    "entity": {
+                        "description": "Sean Hannity",
+                        "id": "950395459817766914",
+                        "name": "Sean Hannity"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "Named people in the world like Nelson Mandela",
+                        "id": "10",
+                        "name": "Person"
+                    },
+                    "entity": {
+                        "description": "Dan Bongino",
+                        "id": "1060278893905534977",
+                        "name": "Dan Bongino"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "Named people in the world like Nelson Mandela",
+                        "id": "10",
+                        "name": "Person"
+                    },
+                    "entity": {
+                        "description": "Political Commentator and Analyst ",
+                        "id": "1138070898013982721",
+                        "name": "Ryan Fournier"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "Real world events. ",
+                        "id": "29",
+                        "name": "Events [Entity Service]"
+                    },
+                    "entity": {
+                        "description": "2020 US Presidential Election",
+                        "id": "1029453725360775168",
+                        "name": "2020 US Presidential Election"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "Politicians in the world, like Joe Biden",
+                        "id": "35",
+                        "name": "Politician"
+                    },
+                    "entity": {
+                        "description": "45th US President, Donald Trump",
+                        "id": "799022225751871488",
+                        "name": "Donald Trump"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "Politicians in the world, like Joe Biden",
+                        "id": "35",
+                        "name": "Politician"
+                    },
+                    "entity": {
+                        "description": "Political Commentator and Analyst ",
+                        "id": "1138070898013982721",
+                        "name": "Ryan Fournier"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A journalist like 'Anderson Cooper'",
+                        "id": "94",
+                        "name": "Journalist"
+                    },
+                    "entity": {
+                        "description": "Sean Hannity",
+                        "id": "950395459817766914",
+                        "name": "Sean Hannity"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A journalist like 'Anderson Cooper'",
+                        "id": "94",
+                        "name": "Journalist"
+                    },
+                    "entity": {
+                        "description": "Dan Bongino",
+                        "id": "1060278893905534977",
+                        "name": "Dan Bongino"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A taxonomy of user interests. ",
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy"
+                    },
+                    "entity": {
+                        "description": "45th US President, Donald Trump",
+                        "id": "799022225751871488",
+                        "name": "Donald Trump"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A taxonomy of user interests. ",
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy"
+                    },
+                    "entity": {
+                        "description": "Politics",
+                        "id": "847878884917886977",
+                        "name": "Politics"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A taxonomy of user interests. ",
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy"
+                    },
+                    "entity": {
+                        "description": "Sean Hannity",
+                        "id": "950395459817766914",
+                        "name": "Sean Hannity"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A taxonomy of user interests. ",
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy"
+                    },
+                    "entity": {
+                        "description": "2020 US Presidential Election",
+                        "id": "1029453725360775168",
+                        "name": "2020 US Presidential Election"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A taxonomy of user interests. ",
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy"
+                    },
+                    "entity": {
+                        "description": "News",
+                        "id": "1046545033657081857",
+                        "name": "News"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A taxonomy of user interests. ",
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy"
+                    },
+                    "entity": {
+                        "description": "Dan Bongino",
+                        "id": "1060278893905534977",
+                        "name": "Dan Bongino"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A taxonomy of user interests. ",
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy"
+                    },
+                    "entity": {
+                        "description": "Politician",
+                        "id": "1070032753834438656",
+                        "name": "Political figures"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A taxonomy of user interests. ",
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy"
+                    },
+                    "entity": {
+                        "description": "Journalism",
+                        "id": "1074755369530880001",
+                        "name": "Journalists"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A taxonomy of user interests. ",
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy"
+                    },
+                    "entity": {
+                        "description": "Political Commentator and Analyst ",
+                        "id": "1138070898013982721",
+                        "name": "Ryan Fournier"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "Named people in the world like Nelson Mandela",
+                        "id": "10",
+                        "name": "Person"
+                    },
+                    "entity": {
+                        "description": "US Vice President Mike Pence",
+                        "id": "10045247245",
+                        "name": "Mike Pence"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "Named people in the world like Nelson Mandela",
+                        "id": "10",
+                        "name": "Person"
+                    },
+                    "entity": {
+                        "description": "Former US First Lady Melania Trump",
+                        "id": "866713693324574720",
+                        "name": "Melania Trump"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "Named people in the world like Nelson Mandela",
+                        "id": "10",
+                        "name": "Person"
+                    },
+                    "entity": {
+                        "description": "Donald Trump Jr.",
+                        "id": "884781076484202496",
+                        "name": "Donald Trump Jr."
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "Named people in the world like Nelson Mandela",
+                        "id": "10",
+                        "name": "Person"
+                    },
+                    "entity": {
+                        "description": "American businessman, Donald Trump's son",
+                        "id": "897487393250344961",
+                        "name": "Eric Trump"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "Politicians in the world, like Joe Biden",
+                        "id": "35",
+                        "name": "Politician"
+                    },
+                    "entity": {
+                        "description": "US Vice President Mike Pence",
+                        "id": "10045247245",
+                        "name": "Mike Pence"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A taxonomy of user interests. ",
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy"
+                    },
+                    "entity": {
+                        "description": "US Vice President Mike Pence",
+                        "id": "10045247245",
+                        "name": "Mike Pence"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A taxonomy of user interests. ",
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy"
+                    },
+                    "entity": {
+                        "description": "Politics",
+                        "id": "847878884917886977",
+                        "name": "Politics"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A taxonomy of user interests. ",
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy"
+                    },
+                    "entity": {
+                        "description": "Former US First Lady Melania Trump",
+                        "id": "866713693324574720",
+                        "name": "Melania Trump"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A taxonomy of user interests. ",
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy"
+                    },
+                    "entity": {
+                        "description": "Donald Trump Jr.",
+                        "id": "884781076484202496",
+                        "name": "Donald Trump Jr."
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A taxonomy of user interests. ",
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy"
+                    },
+                    "entity": {
+                        "description": "American businessman, Donald Trump's son",
+                        "id": "897487393250344961",
+                        "name": "Eric Trump"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A taxonomy of user interests. ",
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy"
+                    },
+                    "entity": {
+                        "description": "Politician",
+                        "id": "1070032753834438656",
+                        "name": "Political figures"
+                    }
+                }
+            ],
+            "conversation_id": "1324115835842166784",
+            "created_at": "2020-11-04T22:26:30.000Z",
+            "edit_history_tweet_ids": [
+                "1324115835842166784"
+            ],
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 5,
+                        "normalized_text": "Ballot",
+                        "probability": 0.4888,
+                        "start": 0,
+                        "type": "Other"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 131,
+                        "id": "1212806053907185664",
+                        "start": 117,
+                        "username": "TheLeoTerrell"
+                    },
+                    {
+                        "end": 141,
+                        "id": "232901331",
+                        "start": 132,
+                        "username": "dbongino"
+                    },
+                    {
+                        "end": 158,
+                        "id": "259001548",
+                        "start": 142,
+                        "username": "kayleighmcenany"
+                    },
+                    {
+                        "end": 169,
+                        "id": "39349894",
+                        "start": 159,
+                        "username": "EricTrump"
+                    },
+                    {
+                        "end": 174,
+                        "id": "11134252",
+                        "start": 170,
+                        "username": "GOP"
+                    },
+                    {
+                        "end": 189,
+                        "id": "166751745",
+                        "start": 175,
+                        "username": "RyanAFournier"
+                    },
+                    {
+                        "end": 205,
+                        "id": "39344374",
+                        "start": 190,
+                        "username": "DonaldJTrumpJr"
+                    },
+                    {
+                        "end": 217,
+                        "id": "22203756",
+                        "start": 206,
+                        "username": "Mike_Pence"
+                    },
+                    {
+                        "end": 230,
+                        "id": "41634520",
+                        "start": 218,
+                        "username": "seanhannity"
+                    },
+                    {
+                        "end": 237,
+                        "id": "1349149096909668363",
+                        "start": 231,
+                        "username": "POTUS"
+                    },
+                    {
+                        "end": 245,
+                        "id": "1349154719386775552",
+                        "start": 238,
+                        "username": "FLOTUS"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "video.twimg.com/ext_tw_video/1\u2026",
+                        "end": 269,
+                        "expanded_url": "https://video.twimg.com/ext_tw_video/1324102317239640065/pu/vid/838x460/bd3S0c1gSAqqyf7J.mp4?tag=10",
+                        "start": 246,
+                        "url": "https://t.co/yfJjVP2H2e"
+                    }
+                ]
+            },
+            "id": "1324115835842166784",
+            "lang": "en",
+            "public_metrics": {
+                "impression_count": 0,
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "reply_settings": "everyone",
+            "text": "Ballot harvesting tossing ballots out they dont like got it saved in multiple locations. Find original for location.\n@TheLeoTerrell\n@dbongino\n@kayleighmcenany\n@EricTrump\n@GOP\n@RyanAFournier\n@DonaldJTrumpJr\n@Mike_Pence\n@seanhannity\n@POTUS\n@FLOTUS\nhttps://t.co/yfJjVP2H2e"
+        },
+        {
+            "author_id": "3405947337",
+            "context_annotations": [
+                {
+                    "domain": {
+                        "description": "Real world events. ",
+                        "id": "29",
+                        "name": "Events [Entity Service]"
+                    },
+                    "entity": {
+                        "description": "2020 US Presidential Election",
+                        "id": "1029453725360775168",
+                        "name": "2020 US Presidential Election"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A taxonomy of user interests. ",
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy"
+                    },
+                    "entity": {
+                        "description": "2020 US Presidential Election",
+                        "id": "1029453725360775168",
+                        "name": "2020 US Presidential Election"
+                    }
+                }
+            ],
+            "conversation_id": "1324115806142128129",
+            "created_at": "2020-11-04T22:26:23.000Z",
+            "edit_history_tweet_ids": [
+                "1324115806142128129"
+            ],
+            "entities": {
+                "mentions": [
+                    {
+                        "end": 19,
+                        "id": "1257333586052689922",
+                        "start": 3,
+                        "username": "LiberalHivemind"
+                    }
+                ]
+            },
+            "id": "1324115806142128129",
+            "lang": "en",
+            "public_metrics": {
+                "impression_count": 0,
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 54
+            },
+            "referenced_tweets": [
+                {
+                    "id": "1324115101599879168",
+                    "type": "retweeted"
+                }
+            ],
+            "reply_settings": "everyone",
+            "text": "RT @LiberalHivemind: Mail in ballots were a disaster from the start.\n\nI wonder how many ballot harvesting operations lead to the massive de\u2026"
+        },
+        {
+            "author_id": "315975492",
+            "conversation_id": "1324115786038972421",
+            "created_at": "2020-11-04T22:26:18.000Z",
+            "edit_history_tweet_ids": [
+                "1324115786038972421"
+            ],
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 116,
+                        "normalized_text": "Wisconsin",
+                        "probability": 0.8848,
+                        "start": 108,
+                        "type": "Place"
+                    },
+                    {
+                        "end": 138,
+                        "normalized_text": "Milwauke",
+                        "probability": 0.3281,
+                        "start": 131,
+                        "type": "Place"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 19,
+                        "id": "397526755",
+                        "start": 3,
+                        "username": "aaronjcarpenter"
+                    }
+                ]
+            },
+            "id": "1324115786038972421",
+            "lang": "en",
+            "public_metrics": {
+                "impression_count": 0,
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 45
+            },
+            "referenced_tweets": [
+                {
+                    "id": "1324113249936265216",
+                    "type": "retweeted"
+                }
+            ],
+            "reply_settings": "everyone",
+            "text": "RT @aaronjcarpenter: The only evidence of Ballot Harvesting / Voter Fraud I see THUS FAR is in the State of Wisconsin, where SEVEN Milwauke\u2026"
+        },
+        {
+            "author_id": "1093520315836231680",
+            "context_annotations": [
+                {
+                    "domain": {
+                        "description": "Real world events. ",
+                        "id": "29",
+                        "name": "Events [Entity Service]"
+                    },
+                    "entity": {
+                        "description": "2020 US Presidential Election",
+                        "id": "1029453725360775168",
+                        "name": "2020 US Presidential Election"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A taxonomy of user interests. ",
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy"
+                    },
+                    "entity": {
+                        "description": "US National News",
+                        "id": "1003932601839579136",
+                        "name": "US national news"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A taxonomy of user interests. ",
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy"
+                    },
+                    "entity": {
+                        "description": "2020 US Presidential Election",
+                        "id": "1029453725360775168",
+                        "name": "2020 US Presidential Election"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A taxonomy of user interests. ",
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy"
+                    },
+                    "entity": {
+                        "description": "News",
+                        "id": "1046545033657081857",
+                        "name": "News"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A taxonomy of user interests. ",
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy"
+                    },
+                    "entity": {
+                        "id": "1286379401228124160",
+                        "name": "Americas"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "Named people in the world like Nelson Mandela",
+                        "id": "10",
+                        "name": "Person"
+                    },
+                    "entity": {
+                        "description": "US Senator Ted Cruz (TX)\n",
+                        "id": "10037721448",
+                        "name": "Ted Cruz"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "Politicians in the world, like Joe Biden",
+                        "id": "35",
+                        "name": "Politician"
+                    },
+                    "entity": {
+                        "description": "US Senator Ted Cruz (TX)\n",
+                        "id": "10037721448",
+                        "name": "Ted Cruz"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A taxonomy of user interests. ",
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy"
+                    },
+                    "entity": {
+                        "description": "US Senator Ted Cruz (TX)\n",
+                        "id": "10037721448",
+                        "name": "Ted Cruz"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A taxonomy of user interests. ",
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy"
+                    },
+                    "entity": {
+                        "description": "Politics",
+                        "id": "847878884917886977",
+                        "name": "Politics"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A taxonomy of user interests. ",
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy"
+                    },
+                    "entity": {
+                        "description": "Politician",
+                        "id": "1070032753834438656",
+                        "name": "Political figures"
+                    }
+                }
+            ],
+            "conversation_id": "1323958809858113536",
+            "created_at": "2020-11-04T22:26:08.000Z",
+            "edit_history_tweet_ids": [
+                "1324115741512257536"
+            ],
+            "entities": {
+                "mentions": [
+                    {
+                        "end": 13,
+                        "id": "1309985722116583424",
+                        "start": 0,
+                        "username": "HaroldWren11"
+                    },
+                    {
+                        "end": 28,
+                        "id": "75081190",
+                        "start": 14,
+                        "username": "youlivethrice"
+                    },
+                    {
+                        "end": 44,
+                        "id": "73181712",
+                        "start": 29,
+                        "username": "TheJusticeDept"
+                    },
+                    {
+                        "end": 49,
+                        "id": "11134252",
+                        "start": 45,
+                        "username": "GOP"
+                    },
+                    {
+                        "end": 61,
+                        "id": "1074480192",
+                        "start": 50,
+                        "username": "SenTedCruz"
+                    },
+                    {
+                        "end": 73,
+                        "id": "54412900",
+                        "start": 62,
+                        "username": "DevinNunes"
+                    }
+                ]
+            },
+            "id": "1324115741512257536",
+            "in_reply_to_user_id": "1309985722116583424",
+            "lang": "en",
+            "public_metrics": {
+                "impression_count": 0,
+                "like_count": 1,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "referenced_tweets": [
+                {
+                    "id": "1323958809858113536",
+                    "type": "replied_to"
+                }
+            ],
+            "reply_settings": "everyone",
+            "text": "@HaroldWren11 @youlivethrice @TheJusticeDept @GOP @SenTedCruz @DevinNunes \nYou all need to step in NOW and put a stop to this Illegal Ballot Harvesting by the Democrats to steal an American Presidential Election."
+        },
+        {
+            "author_id": "22657288",
+            "conversation_id": "1324115741197611008",
+            "created_at": "2020-11-04T22:26:08.000Z",
+            "edit_history_tweet_ids": [
+                "1324115741197611008"
+            ],
+            "entities": {
+                "mentions": [
+                    {
+                        "end": 19,
+                        "id": "7595102",
+                        "start": 3,
+                        "username": "wretchardthecat"
+                    }
+                ]
+            },
+            "id": "1324115741197611008",
+            "lang": "en",
+            "public_metrics": {
+                "impression_count": 0,
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 3
+            },
+            "referenced_tweets": [
+                {
+                    "id": "1324071144152952832",
+                    "type": "retweeted"
+                }
+            ],
+            "reply_settings": "everyone",
+            "text": "RT @wretchardthecat: But like the tragedy a century ago the momentum toward disaster may be too great to stop. The machinery of ballot harv\u2026"
+        },
+        {
+            "author_id": "387858586",
+            "context_annotations": [
+                {
+                    "domain": {
+                        "description": "Named people in the world like Nelson Mandela",
+                        "id": "10",
+                        "name": "Person"
+                    },
+                    "entity": {
+                        "description": "45th US President, Donald Trump",
+                        "id": "799022225751871488",
+                        "name": "Donald Trump"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "Real world events. ",
+                        "id": "29",
+                        "name": "Events [Entity Service]"
+                    },
+                    "entity": {
+                        "description": "2020 US Presidential Election",
+                        "id": "1029453725360775168",
+                        "name": "2020 US Presidential Election"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "Politicians in the world, like Joe Biden",
+                        "id": "35",
+                        "name": "Politician"
+                    },
+                    "entity": {
+                        "description": "45th US President, Donald Trump",
+                        "id": "799022225751871488",
+                        "name": "Donald Trump"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A taxonomy of user interests. ",
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy"
+                    },
+                    "entity": {
+                        "description": "45th US President, Donald Trump",
+                        "id": "799022225751871488",
+                        "name": "Donald Trump"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A taxonomy of user interests. ",
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy"
+                    },
+                    "entity": {
+                        "description": "Politics",
+                        "id": "847878884917886977",
+                        "name": "Politics"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A taxonomy of user interests. ",
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy"
+                    },
+                    "entity": {
+                        "description": "2020 US Presidential Election",
+                        "id": "1029453725360775168",
+                        "name": "2020 US Presidential Election"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A taxonomy of user interests. ",
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy"
+                    },
+                    "entity": {
+                        "description": "Politician",
+                        "id": "1070032753834438656",
+                        "name": "Political figures"
+                    }
+                }
+            ],
+            "conversation_id": "1324115711590047748",
+            "created_at": "2020-11-04T22:26:01.000Z",
+            "edit_history_tweet_ids": [
+                "1324115711590047748"
+            ],
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 32,
+                        "normalized_text": "Trump",
+                        "probability": 0.9565,
+                        "start": 28,
+                        "type": "Person"
+                    },
+                    {
+                        "end": 50,
+                        "normalized_text": "Pennsylvania",
+                        "probability": 0.9546,
+                        "start": 39,
+                        "type": "Place"
+                    },
+                    {
+                        "end": 62,
+                        "normalized_text": "Arizona",
+                        "probability": 0.943,
+                        "start": 56,
+                        "type": "Place"
+                    },
+                    {
+                        "end": 82,
+                        "normalized_text": "Trump",
+                        "probability": 0.3858,
+                        "start": 78,
+                        "type": "Other"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 19,
+                        "id": "397526755",
+                        "start": 3,
+                        "username": "aaronjcarpenter"
+                    }
+                ]
+            },
+            "id": "1324115711590047748",
+            "lang": "en",
+            "public_metrics": {
+                "impression_count": 0,
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 35
+            },
+            "referenced_tweets": [
+                {
+                    "id": "1324111743031926791",
+                    "type": "retweeted"
+                }
+            ],
+            "reply_settings": "everyone",
+            "text": "RT @aaronjcarpenter: Unless Trump wins Pennsylvania and Arizona outright, the Trump Legal Team must prove Voter Fraud and Ballot Harvesting\u2026"
+        },
+        {
+            "author_id": "44073404",
+            "context_annotations": [
+                {
+                    "domain": {
+                        "description": "Real world events. ",
+                        "id": "29",
+                        "name": "Events [Entity Service]"
+                    },
+                    "entity": {
+                        "description": "2020 US Presidential Election",
+                        "id": "1029453725360775168",
+                        "name": "2020 US Presidential Election"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A taxonomy of user interests. ",
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy"
+                    },
+                    "entity": {
+                        "description": "2020 US Presidential Election",
+                        "id": "1029453725360775168",
+                        "name": "2020 US Presidential Election"
+                    }
+                }
+            ],
+            "conversation_id": "1324115711556378624",
+            "created_at": "2020-11-04T22:26:01.000Z",
+            "edit_history_tweet_ids": [
+                "1324115711556378624"
+            ],
+            "entities": {
+                "mentions": [
+                    {
+                        "end": 19,
+                        "id": "1257333586052689922",
+                        "start": 3,
+                        "username": "LiberalHivemind"
+                    }
+                ]
+            },
+            "id": "1324115711556378624",
+            "lang": "en",
+            "public_metrics": {
+                "impression_count": 0,
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 54
+            },
+            "referenced_tweets": [
+                {
+                    "id": "1324115101599879168",
+                    "type": "retweeted"
+                }
+            ],
+            "reply_settings": "everyone",
+            "text": "RT @LiberalHivemind: Mail in ballots were a disaster from the start.\n\nI wonder how many ballot harvesting operations lead to the massive de\u2026"
+        },
+        {
+            "author_id": "124590278",
+            "conversation_id": "1324115680061435904",
+            "created_at": "2020-11-04T22:25:53.000Z",
+            "edit_history_tweet_ids": [
+                "1324115680061435904"
+            ],
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 116,
+                        "normalized_text": "Wisconsin",
+                        "probability": 0.8848,
+                        "start": 108,
+                        "type": "Place"
+                    },
+                    {
+                        "end": 138,
+                        "normalized_text": "Milwauke",
+                        "probability": 0.3281,
+                        "start": 131,
+                        "type": "Place"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 19,
+                        "id": "397526755",
+                        "start": 3,
+                        "username": "aaronjcarpenter"
+                    }
+                ]
+            },
+            "id": "1324115680061435904",
+            "lang": "en",
+            "public_metrics": {
+                "impression_count": 0,
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 45
+            },
+            "referenced_tweets": [
+                {
+                    "id": "1324113249936265216",
+                    "type": "retweeted"
+                }
+            ],
+            "reply_settings": "everyone",
+            "text": "RT @aaronjcarpenter: The only evidence of Ballot Harvesting / Voter Fraud I see THUS FAR is in the State of Wisconsin, where SEVEN Milwauke\u2026"
+        },
+        {
+            "author_id": "450898399",
+            "conversation_id": "1324115673623220224",
+            "created_at": "2020-11-04T22:25:52.000Z",
+            "edit_history_tweet_ids": [
+                "1324115673623220224"
+            ],
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 116,
+                        "normalized_text": "Wisconsin",
+                        "probability": 0.8848,
+                        "start": 108,
+                        "type": "Place"
+                    },
+                    {
+                        "end": 138,
+                        "normalized_text": "Milwauke",
+                        "probability": 0.3281,
+                        "start": 131,
+                        "type": "Place"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 19,
+                        "id": "397526755",
+                        "start": 3,
+                        "username": "aaronjcarpenter"
+                    }
+                ]
+            },
+            "id": "1324115673623220224",
+            "lang": "en",
+            "public_metrics": {
+                "impression_count": 0,
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 45
+            },
+            "referenced_tweets": [
+                {
+                    "id": "1324113249936265216",
+                    "type": "retweeted"
+                }
+            ],
+            "reply_settings": "everyone",
+            "text": "RT @aaronjcarpenter: The only evidence of Ballot Harvesting / Voter Fraud I see THUS FAR is in the State of Wisconsin, where SEVEN Milwauke\u2026"
+        },
+        {
+            "author_id": "247079756",
+            "conversation_id": "1324113706184265737",
+            "created_at": "2020-11-04T22:25:35.000Z",
+            "edit_history_tweet_ids": [
+                "1324115603972567040"
+            ],
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 192,
+                        "normalized_text": "ballot harvesting",
+                        "probability": 0.5809,
+                        "start": 176,
+                        "type": "Other"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 14,
+                        "id": "1240475490068115456",
+                        "start": 0,
+                        "username": "laistaliberti"
+                    },
+                    {
+                        "end": 132,
+                        "id": "850036892",
+                        "start": 116,
+                        "username": "Project_Veritas"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "twitter.com/benshapiro/sta\u2026",
+                        "end": 38,
+                        "expanded_url": "https://twitter.com/benshapiro/status/1324094532795854848?s=19",
+                        "start": 15,
+                        "url": "https://t.co/ZO1gy9Wobt"
+                    }
+                ]
+            },
+            "id": "1324115603972567040",
+            "in_reply_to_user_id": "1240475490068115456",
+            "lang": "pt",
+            "public_metrics": {
+                "impression_count": 0,
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "referenced_tweets": [
+                {
+                    "id": "1324094532795854848",
+                    "type": "quoted"
+                },
+                {
+                    "id": "1324113706184265737",
+                    "type": "replied_to"
+                }
+            ],
+            "reply_settings": "everyone",
+            "text": "@laistaliberti https://t.co/ZO1gy9Wobt\n\nSao coisas MUITO suspeitas acontecendo. Tambem tem as varias reportagens do @Project_Veritas mostrando compra de votos e o q chamam de \"ballot harvesting\"\nMuita sujeira"
+        },
+        {
+            "author_id": "895485884098916352",
+            "conversation_id": "1324115597676941328",
+            "created_at": "2020-11-04T22:25:34.000Z",
+            "edit_history_tweet_ids": [
+                "1324115597676941328"
+            ],
+            "id": "1324115597676941328",
+            "lang": "en",
+            "public_metrics": {
+                "impression_count": 0,
+                "like_count": 2,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 1
+            },
+            "reply_settings": "everyone",
+            "text": "Has there been anyone in the media that has pushed back on how corrupt our elections are? No ID, no chain of custody, no signature match, ballot harvesting, counting votes without observers, stopping the vote counts, no oversight...."
+        },
+        {
+            "author_id": "835670628",
+            "conversation_id": "1324115592345866240",
+            "created_at": "2020-11-04T22:25:32.000Z",
+            "edit_history_tweet_ids": [
+                "1324115592345866240"
+            ],
+            "entities": {
+                "mentions": [
+                    {
+                        "end": 9,
+                        "id": "27522964",
+                        "start": 3,
+                        "username": "vdare"
+                    }
+                ]
+            },
+            "id": "1324115592345866240",
+            "lang": "en",
+            "public_metrics": {
+                "impression_count": 0,
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 118
+            },
+            "referenced_tweets": [
+                {
+                    "id": "1324111105329930246",
+                    "type": "retweeted"
+                }
+            ],
+            "reply_settings": "everyone",
+            "text": "RT @vdare: She warned us: 'If, as it plainly appears, private big tech and left-wing philanthropic funding is being used to rig the electio\u2026"
+        },
+        {
+            "author_id": "1276930596133056514",
+            "context_annotations": [
+                {
+                    "domain": {
+                        "description": "Real world events. ",
+                        "id": "29",
+                        "name": "Events [Entity Service]"
+                    },
+                    "entity": {
+                        "description": "2020 US Presidential Election",
+                        "id": "1029453725360775168",
+                        "name": "2020 US Presidential Election"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A taxonomy of user interests. ",
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy"
+                    },
+                    "entity": {
+                        "description": "2020 US Presidential Election",
+                        "id": "1029453725360775168",
+                        "name": "2020 US Presidential Election"
+                    }
+                }
+            ],
+            "conversation_id": "1324115591414845441",
+            "created_at": "2020-11-04T22:25:32.000Z",
+            "edit_history_tweet_ids": [
+                "1324115591414845441"
+            ],
+            "entities": {
+                "mentions": [
+                    {
+                        "end": 19,
+                        "id": "1257333586052689922",
+                        "start": 3,
+                        "username": "LiberalHivemind"
+                    }
+                ]
+            },
+            "id": "1324115591414845441",
+            "lang": "en",
+            "public_metrics": {
+                "impression_count": 0,
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 54
+            },
+            "referenced_tweets": [
+                {
+                    "id": "1324115101599879168",
+                    "type": "retweeted"
+                }
+            ],
+            "reply_settings": "everyone",
+            "text": "RT @LiberalHivemind: Mail in ballots were a disaster from the start.\n\nI wonder how many ballot harvesting operations lead to the massive de\u2026"
+        },
+        {
+            "author_id": "416457576",
+            "conversation_id": "1324115579444318208",
+            "created_at": "2020-11-04T22:25:29.000Z",
+            "edit_history_tweet_ids": [
+                "1324115579444318208"
+            ],
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 13,
+                        "normalized_text": "Omar",
+                        "probability": 0.8398,
+                        "start": 10,
+                        "type": "Person"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "twitter.com/TieDaytrader/s\u2026",
+                        "end": 227,
+                        "expanded_url": "https://twitter.com/TieDaytrader/status/1324112024012525568",
+                        "start": 204,
+                        "url": "https://t.co/fj5k72tPtl"
+                    }
+                ]
+            },
+            "id": "1324115579444318208",
+            "lang": "en",
+            "public_metrics": {
+                "impression_count": 0,
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "reply_settings": "everyone",
+            "text": "They have Omar\u2019s campaign on video showing ballot harvesting and fraud and no one did a thing. Why should this be any different. It\u2019s a sad statement on our Country. And I\u2019m pissed off as hell about it!! https://t.co/fj5k72tPtl"
+        },
+        {
+            "author_id": "970960861618618370",
+            "context_annotations": [
+                {
+                    "domain": {
+                        "description": "Real world events. ",
+                        "id": "29",
+                        "name": "Events [Entity Service]"
+                    },
+                    "entity": {
+                        "description": "2020 US Presidential Election",
+                        "id": "1029453725360775168",
+                        "name": "2020 US Presidential Election"
+                    }
+                },
+                {
+                    "domain": {
+                        "description": "A taxonomy of user interests. ",
+                        "id": "131",
+                        "name": "Unified Twitter Taxonomy"
+                    },
+                    "entity": {
+                        "description": "2020 US Presidential Election",
+                        "id": "1029453725360775168",
+                        "name": "2020 US Presidential Election"
+                    }
+                }
+            ],
+            "conversation_id": "1324115559542267905",
+            "created_at": "2020-11-04T22:25:24.000Z",
+            "edit_history_tweet_ids": [
+                "1324115559542267905"
+            ],
+            "entities": {
+                "mentions": [
+                    {
+                        "end": 19,
+                        "id": "1257333586052689922",
+                        "start": 3,
+                        "username": "LiberalHivemind"
+                    }
+                ]
+            },
+            "id": "1324115559542267905",
+            "lang": "en",
+            "public_metrics": {
+                "impression_count": 0,
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 54
+            },
+            "referenced_tweets": [
+                {
+                    "id": "1324115101599879168",
+                    "type": "retweeted"
+                }
+            ],
+            "reply_settings": "everyone",
+            "text": "RT @LiberalHivemind: Mail in ballots were a disaster from the start.\n\nI wonder how many ballot harvesting operations lead to the massive de\u2026"
+        }
+    ],
+    "meta": {
+        "newest_id": "1324116392388501511",
+        "next_token": "b26v89c19zqg8o3fosbtthvchii0e95oxjh0rfpxj14sd",
+        "oldest_id": "1324115559542267905",
+        "result_count": 35
+    }
+}
