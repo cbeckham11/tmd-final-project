@@ -37,26 +37,22 @@ def connect_to_endpoint(url):
 
 
 def main():
-    authors = open("authors.txt", "r")
+    authors = open("author_chunks.txt", "r")
     data = authors.read()
     data_into_list = data.split('\n')
 
     for i, user_id in enumerate(data_into_list):
-        if i > 2010:
-            print(i)
-            print('userid', user_id)
-            url = create_url(user_id)
-            print('url', url)
+        url = create_url(user_id)
 
-            json_response = connect_to_endpoint(url)
-            json_object = json.dumps(json_response, indent=4, sort_keys=True)
+        json_response = connect_to_endpoint(url)
+        json_object = json.dumps(json_response, indent=4, sort_keys=True)
 
-            filename = f"response_user{i}.json"
-            with open(filename, "w") as outfile:
-                outfile.write(json_object)
+        filename = f"response_user{i}.json"
+        with open(filename, "w") as outfile:
+            outfile.write(json_object)
 
-            print(f'{i}/{len(data_into_list)}')
-            time.sleep(3.1)
+        print(f'{i}/{len(data_into_list)}')
+        time.sleep(3)
 
     authors.close()
 
